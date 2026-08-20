@@ -1,0 +1,46 @@
+{
+  "name": "Guiso de Conejo",
+  "icon": "minecraft:rabbit_stew",
+  "category": "patchouli:sopas_y_guisos",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Guiso de Conejo",
+      "m1": "ggg:textures/gui/entries/food_full.png",
+      "o1": "ggg:textures/gui/entries/sat_100.png",
+      "m2": "ggg:textures/gui/entries/food_full.png",
+      "o2": "ggg:textures/gui/entries/sat_100.png",
+      "m3": "ggg:textures/gui/entries/food_full.png",
+      "o3": "ggg:textures/gui/entries/sat_100.png",
+      "m4": "ggg:textures/gui/entries/food_full.png",
+      "o4": "ggg:textures/gui/entries/sat_100.png",
+      "m5": "ggg:textures/gui/entries/food_full.png",
+      "o5": "ggg:textures/gui/entries/sat_100.png",
+      "m6": "ggg:textures/gui/entries/food_full.png",
+      "o6": "ggg:textures/gui/entries/sat_100.png",
+      "m7": "ggg:textures/gui/entries/food_full.png",
+      "o7": "ggg:textures/gui/entries/sat_100.png",
+      "m8": "ggg:textures/gui/entries/blank_icon.png",
+      "o8": "ggg:textures/gui/entries/sat_100.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/sat_100.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/sat_100.png",
+      "effect_icon": "ggg:textures/gui/entries/comfort.png",
+      "effect_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (5 min)$(/t)",
+      "description": "$(l)Este me costó cazarlo más de lo que te va a costar a vos leer la receta. Un poco de respeto, pibe.$()"
+    },
+    {
+      "type": "patchouli:cooking_pot_recipe",
+      "item1": "tag:c:crops/potato",
+      "item2": "minecraft:rabbit",
+      "item3": "tag:c:crops/carrot",
+      "item4": "minecraft:air",
+      "item5": "minecraft:air",
+      "item6": "minecraft:air",
+      "container": "minecraft:bowl",
+      "result": "minecraft:rabbit_stew"
+    }
+  ]
+}

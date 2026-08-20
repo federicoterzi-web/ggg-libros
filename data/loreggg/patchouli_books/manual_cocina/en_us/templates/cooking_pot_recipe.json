@@ -1,0 +1,29 @@
+{
+  "components": [
+    { "type": "patchouli:image", "image": "ggg:textures/gui/entries/slot_frame.png", "x": 8, "y": 13, "width": 20, "height": 20, "texture_width": 20, "texture_height": 20 },
+    { "type": "patchouli:item", "item": "#item1", "x": 10, "y": 15 },
+
+    { "type": "patchouli:image", "image": "ggg:textures/gui/entries/slot_frame.png", "x": 28, "y": 13, "width": 20, "height": 20, "texture_width": 20, "texture_height": 20 },
+    { "type": "patchouli:item", "item": "#item2", "x": 30, "y": 15 },
+
+    { "type": "patchouli:image", "image": "ggg:textures/gui/entries/slot_frame.png", "x": 48, "y": 13, "width": 20, "height": 20, "texture_width": 20, "texture_height": 20 },
+    { "type": "patchouli:item", "item": "#item3", "x": 50, "y": 15 },
+
+    { "type": "patchouli:image", "image": "ggg:textures/gui/entries/slot_frame.png", "x": 8, "y": 33, "width": 20, "height": 20, "texture_width": 20, "texture_height": 20 },
+    { "type": "patchouli:item", "item": "#item4", "x": 10, "y": 35 },
+
+    { "type": "patchouli:image", "image": "ggg:textures/gui/entries/slot_frame.png", "x": 28, "y": 33, "width": 20, "height": 20, "texture_width": 20, "texture_height": 20 },
+    { "type": "patchouli:item", "item": "#item5", "x": 30, "y": 35 },
+
+    { "type": "patchouli:image", "image": "ggg:textures/gui/entries/slot_frame.png", "x": 48, "y": 33, "width": 20, "height": 20, "texture_width": 20, "texture_height": 20 },
+    { "type": "patchouli:item", "item": "#item6", "x": 50, "y": 35 },
+
+    { "type": "patchouli:text", "text": "$(bold)$(t:No se consume junto a los ingredientes. Va en la ranura del plato/tazón.)Contenedor:$(/t)$()", "x": 0, "y": 58 },
+    { "type": "patchouli:image", "image": "ggg:textures/gui/entries/slot_frame.png", "x": 8, "y": 68, "width": 20, "height": 20, "texture_width": 20, "texture_height": 20 },
+    { "type": "patchouli:item", "item": "#container", "x": 10, "y": 70, "link_recipe": false },
+
+    { "type": "patchouli:text", "text": "$(bold)Resultado:$()", "x": 0, "y": 92 },
+    { "type": "patchouli:image", "image": "ggg:textures/gui/entries/slot_frame.png", "x": 8, "y": 103, "width": 20, "height": 20, "texture_width": 20, "texture_height": 20 },
+    { "type": "patchouli:item", "item": "#result", "x": 10, "y": 105, "link_recipe": false }
+  ]
+}

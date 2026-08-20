@@ -1,0 +1,17 @@
+{
+  "name": "Leche Embotellada",
+  "icon": "farmersdelight:milk_bottle",
+  "category": "patchouli:bases_y_preparados",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Leche Embotellada",
+      "text": "$(l)Porque cargar un balde de leche a todos lados es medio incómodo.$()$(br)$(br)Con un balde de leche y 4 botellas de vidrio, te salen 4 botellitas — mucho más prácticas para las recetas que piden leche en cantidades chicas."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:milk_bottle"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Chocolate Caliente",
+  "icon": "farmersdelight:hot_cocoa",
+  "category": "patchouli:bebidas_y_postres",
+  "sortnum": 301,
+  "pages": [
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Chocolate Caliente",
+      "m1": "ggg:textures/gui/entries/blank_icon.png",
+      "o1": "ggg:textures/gui/entries/blank_icon.png",
+      "m2": "ggg:textures/gui/entries/blank_icon.png",
+      "o2": "ggg:textures/gui/entries/blank_icon.png",
+      "m3": "ggg:textures/gui/entries/blank_icon.png",
+      "o3": "ggg:textures/gui/entries/blank_icon.png",
+      "m4": "ggg:textures/gui/entries/blank_icon.png",
+      "o4": "ggg:textures/gui/entries/blank_icon.png",
+      "m5": "ggg:textures/gui/entries/blank_icon.png",
+      "o5": "ggg:textures/gui/entries/blank_icon.png",
+      "m6": "ggg:textures/gui/entries/blank_icon.png",
+      "o6": "ggg:textures/gui/entries/blank_icon.png",
+      "m7": "ggg:textures/gui/entries/blank_icon.png",
+      "o7": "ggg:textures/gui/entries/blank_icon.png",
+      "m8": "ggg:textures/gui/entries/blank_icon.png",
+      "o8": "ggg:textures/gui/entries/blank_icon.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/blank_icon.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/blank_icon.png",
+      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
+      "effect_text": "$(t:Puede curarte algunos efectos negativos, según cuáles tengas encima.)Efecto especial$(/t)",
+      "description": "$(l)Doble cacao, como a mí me gusta, no como esas porquerías aguadas que tomás vos. Este no llena la panza pero te puede sacar un mal momento de encima, así que dejate de hacerte el vivo y tomalo.$()"
+    },
+    {
+      "type": "patchouli:cooking_pot_recipe",
+      "item1": "tag:c:drinks/milk",
+      "item2": "minecraft:sugar",
+      "item3": "minecraft:cocoa_beans",
+      "item4": "minecraft:cocoa_beans",
+      "item5": "minecraft:air",
+      "item6": "minecraft:air",
+      "container": "minecraft:bowl",
+      "result": "farmersdelight:hot_cocoa"
+    }
+  ]
+}

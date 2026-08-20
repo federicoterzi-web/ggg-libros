@@ -1,0 +1,35 @@
+{
+  "name": "Sistema de Comida",
+  "icon": "minecraft:cooked_beef",
+  "category": "patchouli:como_funciona",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:concept_page_dual",
+      "a_title": "Hambre",
+      "a_icon": "ggg:textures/gui/entries/food_full_18.png",
+      "a_body": "La barra de siempre. Cada jamoncito son 2 puntos.",
+      "b_title": "Saturación",
+      "b_icon": "ggg:textures/gui/entries/sat_combo_100_18.png",
+      "b_body": "Reserva escondida. Mientras haya, el hambre visible no baja."
+    },
+    {
+      "type": "patchouli:concept_page_dual",
+      "a_title": "Efecto: Comfort",
+      "a_icon": "ggg:textures/gui/entries/comfort.png",
+      "a_body": "Regeneración natural, sin importar el hambre.",
+      "b_title": "Efecto: Nourishment",
+      "b_icon": "ggg:textures/gui/entries/nourishment.png",
+      "b_body": "No perdés hambre con el tiempo."
+    },
+    {
+      "type": "patchouli:concept_page_dual",
+      "a_title": "Efecto: Absorción",
+      "a_icon": "ggg:textures/gui/entries/absorption.png",
+      "a_body": "Corazones extra temporales, además de tu vida normal.",
+      "b_title": "Chocolate Caliente",
+      "b_icon": "minecraft:textures/item/milk_bucket.png",
+      "b_body": "Cura un efecto negativo al azar, elegido entre los que tengas encima."
+    }
+  ]
+}

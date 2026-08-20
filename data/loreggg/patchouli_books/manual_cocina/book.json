@@ -1,0 +1,10 @@
+{
+  "name": "Manual de Cocina GGG",
+  "landing_text": "$(d)$(l)Che, pibe/piba.$()$(br)$(br)Soy tu abuela, y como ya no voy a estar para cocinarte, te dejo esto de herencia. A ver si con esto aprendés algo, porque solo no vas a durar mucho.$(br)$(br)Prestá atención esta vez.",
+  "version": 1,
+  "creative_tab": "minecraft:tools_and_utilities",
+  "model": "ggg:manual_cocina",
+  "use_resource_pack": false,
+  "show_progress": false,
+  "header_color": "AA1E1E"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Manual del Cuidador de Sniffers",
+  "version": 1,
+"subtitle": "§lEdición Dragon Mall§r\n\n&o",
+  "landing_text": "El mejor amigo del pescador no vive en el agua... vive sobre el musgo.\n\nUn folleto rápido con todo lo necesario para iniciar y automatizar tu criadero de tesoros.",
+  "pamphlet": true,
+  "model": "ggg:sniffer",
+  "use_resource_pack_fonts": true
+}

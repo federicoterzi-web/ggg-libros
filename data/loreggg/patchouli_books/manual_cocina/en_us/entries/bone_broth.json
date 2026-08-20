@@ -1,0 +1,46 @@
+{
+  "name": "Caldo de Huesos",
+  "icon": "farmersdelight:bone_broth",
+  "category": "patchouli:sopas_y_guisos",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Caldo de Huesos",
+      "m1": "ggg:textures/gui/entries/food_full.png",
+      "o1": "ggg:textures/gui/entries/sat_100.png",
+      "m2": "ggg:textures/gui/entries/food_full.png",
+      "o2": "ggg:textures/gui/entries/sat_100.png",
+      "m3": "ggg:textures/gui/entries/food_full.png",
+      "o3": "ggg:textures/gui/entries/sat_100.png",
+      "m4": "ggg:textures/gui/entries/food_full.png",
+      "o4": "ggg:textures/gui/entries/sat_100.png",
+      "m5": "ggg:textures/gui/entries/blank_icon.png",
+      "o5": "ggg:textures/gui/entries/sat_100.png",
+      "m6": "ggg:textures/gui/entries/blank_icon.png",
+      "o6": "ggg:textures/gui/entries/sat_75.png",
+      "m7": "ggg:textures/gui/entries/blank_icon.png",
+      "o7": "ggg:textures/gui/entries/blank_icon.png",
+      "m8": "ggg:textures/gui/entries/blank_icon.png",
+      "o8": "ggg:textures/gui/entries/blank_icon.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/blank_icon.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/blank_icon.png",
+      "effect_icon": "ggg:textures/gui/entries/comfort.png",
+      "effect_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (1 min)$(/t)",
+      "description": "$(l)Con los huesos que te sobran de andar matando esqueletos. No se tira nada acá, y menos con la guita que no tenés.$()"
+    },
+    {
+      "type": "patchouli:cooking_pot_recipe",
+      "item1": "tag:c:bones",
+      "item2": "minecraft:air",
+      "item3": "minecraft:air",
+      "item4": "minecraft:air",
+      "item5": "minecraft:air",
+      "item6": "minecraft:air",
+      "container": "minecraft:bowl",
+      "result": "farmersdelight:bone_broth"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "El Inicio del Mundo",
+  "icon": "minecraft:clock",
+  "category": "patchouli:el_inicio_del_mundo",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "El Gran Extensible",
+      "text": "En el principio, el Primer Mundo cayó, y el pueblo andaba con los chunks al aire, perdidos y sin rumbo.$(br2)Pero entonces llegó el $(6)Gran Extensible$(). Fueron 40 días y 40 noches donde el stream se mantuvo firme, parado y sin intenciones de bajar."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "El Nuevo GGG",
+      "text": "Rozsier aguantó todo ese tiempo dándonos de comer a la vista. La comunidad entera se agarró fuerte de esa transmisión.$(br2)Mientras Rozsier lo mantenía arriba, el pueblo se reunía. Así, en el calor de esos 40 días... $(l)nació el Nuevo GGG$(). Un lugar fértil donde sembrar nuestra fe, levantar nuestras torres bien alto y prepararnos para la llegada de la $(6)Santa Trinidad$()."
+    }
+  ]
+}

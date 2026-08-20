@@ -1,0 +1,39 @@
+{
+  "name": "Pollo Asado",
+  "icon": "farmersdelight:roast_chicken_block",
+  "category": "patchouli:festines",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Pollo Asado",
+      "m1": "ggg:textures/gui/entries/food_full.png",
+      "o1": "ggg:textures/gui/entries/sat_100.png",
+      "m2": "ggg:textures/gui/entries/food_full.png",
+      "o2": "ggg:textures/gui/entries/sat_100.png",
+      "m3": "ggg:textures/gui/entries/food_full.png",
+      "o3": "ggg:textures/gui/entries/sat_100.png",
+      "m4": "ggg:textures/gui/entries/food_full.png",
+      "o4": "ggg:textures/gui/entries/sat_100.png",
+      "m5": "ggg:textures/gui/entries/food_full.png",
+      "o5": "ggg:textures/gui/entries/sat_100.png",
+      "m6": "ggg:textures/gui/entries/food_full.png",
+      "o6": "ggg:textures/gui/entries/sat_100.png",
+      "m7": "ggg:textures/gui/entries/food_full.png",
+      "o7": "ggg:textures/gui/entries/sat_100.png",
+      "m8": "ggg:textures/gui/entries/blank_icon.png",
+      "o8": "ggg:textures/gui/entries/sat_100.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/sat_100.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/sat_100.png",
+      "effect_icon": "ggg:textures/gui/entries/nourishment.png",
+      "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (5 min)$(/t)",
+      "description": "$(l)El plato de las fiestas de verdad. Si no sabés armar esto para Navidad, no sé qué estabas haciendo todos estos años. $(6)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)4 porciones$() antes de acabarse.$()"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:roast_chicken_block"
+    }
+  ]
+}

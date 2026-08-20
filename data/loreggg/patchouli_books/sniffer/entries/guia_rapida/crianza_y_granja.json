@@ -1,0 +1,18 @@
+{
+  "name": "Crianza y Granja",
+  "icon": "minecraft:moss_block",
+  "category": "patchouli:guia_rapida",  
+"sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Incubación y Cría",
+      "text": "• Colocá los huevos sobre §bmusgo§0 para que eclosionen el doble de rápido.\n• Alimentalos con §4Semillas de Anflorcha§0 para reproducirlos."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Paso a Paso",
+      "text": "1. Armá un recinto cerrado.\n2. Poné musgo y los huevos.\n3. Alimentá a los adultos para obtener más huevos.\n4. Repetí hasta formar tu horda."
+    }
+  ]
+}

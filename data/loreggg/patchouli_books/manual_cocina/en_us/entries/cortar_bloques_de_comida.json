@@ -1,0 +1,21 @@
+{
+  "name": "Bloques de Comida",
+  "icon": "minecraft:cake",
+  "category": "patchouli:secretos_tabla_de_picar",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Bloques de Comida",
+      "text": "$(l)Repartir sin ensuciar todo.$()$(br)$(br)Los pasteles y tortas colocados como bloque se pueden cortar en $(bold)porciones individuales$() con un cuchillo. Ojo: no rinde más comida que morder el bloque directo — la diferencia real es que las porciones son $(bold)portátiles$() (las llevás en el inventario) y de yapa te dan $(6)Velocidad por 20 segundos$(), algo que morder el bloque no te da."
+    },
+    {
+      "type": "patchouli:cutting_board_recipe",
+      "title": "Torta",
+      "input": "minecraft:cake",
+      "output1": "farmersdelight:cake_slice",
+      "output2": "minecraft:air",
+      "tool_item": "tag:c:tools/knife"
+    }
+  ]
+}

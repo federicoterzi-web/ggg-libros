@@ -1,0 +1,19 @@
+{
+  "name": "Rozsier",
+  "icon": "minecraft:player_head[profile='Rozsier']",
+  "category": "patchouli:la_trinidad_otraniana",
+"sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:player_head[profile='Rozsier']",
+      "title": "El Sol de Otrania",
+      "text": "Tres son las columnas que sostienen este servidor, y tres son los que nos acomodan cuando el lag nos pone en cuatro... puntos de conexión.$(br2)El primero es $(d)Rozsier$(), el Dios Principal, el Sol."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "El Quinto Día",
+      "text": "Aquel que en el $(d)Quinto Día$() bajó en faldita para enseñarnos que la luz entra mejor cuando uno se abre al mundo.$(br2)Él es el reunidor. Cuando la moral del servidor se encoge, Rozsier aparece en su forma divina de $(l)Femboy$() para levantarle el ánimo a cualquiera."
+    }
+  ]
+}

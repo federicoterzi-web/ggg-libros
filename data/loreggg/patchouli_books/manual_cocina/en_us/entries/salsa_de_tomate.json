@@ -1,0 +1,20 @@
+{
+  "name": "Salsa de Tomate",
+  "icon": "farmersdelight:tomato_sauce",
+  "category": "patchouli:bases_y_preparados",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Salsa de Tomate",
+      "text": "$(l)La base de medio recetario.$()$(br)$(br)No hay pasta, sándwich de albóndigas ni pizza que se salve de necesitar un frasco de esto. Cocinala una vez, guardala, y ahorrate el lío de hacerla cada vez que quieras comer decente.$(br)$(br)Se hace en la $(bold)Olla de Cocina$()."
+    },
+    {
+      "type": "patchouli:cooking_pot_recipe",
+      "item1": "tag:c:crops/tomato",
+      "item2": "tag:c:crops/tomato",
+      "container": "minecraft:bowl",
+      "result": "farmersdelight:tomato_sauce"
+    }
+  ]
+}

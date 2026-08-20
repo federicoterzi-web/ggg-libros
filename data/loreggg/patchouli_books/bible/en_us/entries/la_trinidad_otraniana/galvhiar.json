@@ -1,0 +1,19 @@
+{
+  "name": "Galvhiar",
+  "icon": "minecraft:player_head[profile='Galvhiar']",
+  "category": "patchouli:la_trinidad_otraniana",
+"sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:player_head[profile='Galvhiar']",
+      "title": "La H Muda",
+      "text": "El segundo es $(4)Galvhiar$(), el Arquitecto de la H muda. Silenciosa, pero que se te queda grabada adentro.$(br2)Él trazó los pentagramas de redstone con pura maestría y sudor."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "El Protector",
+      "text": "Galvhiar es quien te protege las espaldas. Se asegura de que nadie te entre por sorpresa a robarte los cofres.$(br2)Él nos dio un techo y nos puso los límites en los territorios sagrados."
+    }
+  ]
+}

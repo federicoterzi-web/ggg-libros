@@ -1,0 +1,46 @@
+{
+  "name": "Guiso de Bacalao al Horno",
+  "icon": "farmersdelight:baked_cod_stew",
+  "category": "patchouli:sopas_y_guisos",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Guiso de Bacalao al Horno",
+      "m1": "ggg:textures/gui/entries/food_full.png",
+      "o1": "ggg:textures/gui/entries/sat_100.png",
+      "m2": "ggg:textures/gui/entries/food_full.png",
+      "o2": "ggg:textures/gui/entries/sat_100.png",
+      "m3": "ggg:textures/gui/entries/food_full.png",
+      "o3": "ggg:textures/gui/entries/sat_100.png",
+      "m4": "ggg:textures/gui/entries/food_full.png",
+      "o4": "ggg:textures/gui/entries/sat_100.png",
+      "m5": "ggg:textures/gui/entries/food_full.png",
+      "o5": "ggg:textures/gui/entries/sat_100.png",
+      "m6": "ggg:textures/gui/entries/food_full.png",
+      "o6": "ggg:textures/gui/entries/sat_100.png",
+      "m7": "ggg:textures/gui/entries/food_full.png",
+      "o7": "ggg:textures/gui/entries/sat_100.png",
+      "m8": "ggg:textures/gui/entries/blank_icon.png",
+      "o8": "ggg:textures/gui/entries/sat_100.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/sat_100.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/sat_100.png",
+      "effect_icon": "ggg:textures/gui/entries/comfort.png",
+      "effect_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (5 min)$(/t)",
+      "description": "$(l)Pescado, papa, huevo y tomate — a mí también me daba fiaca al principio, pero llevalo al horno y vas a entender por qué tu abuelo aguantaba mis inventos en la cocina.$()"
+    },
+    {
+      "type": "patchouli:cooking_pot_recipe",
+      "item1": "tag:c:foods/raw_cod",
+      "item2": "tag:c:crops/potato",
+      "item3": "tag:c:eggs",
+      "item4": "tag:c:crops/tomato",
+      "item5": "minecraft:air",
+      "item6": "minecraft:air",
+      "container": "minecraft:bowl",
+      "result": "farmersdelight:baked_cod_stew"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Automatización",
+  "icon": "minecraft:minecart_with_hopper",
+  "category": "patchouli:guia_rapida",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Recolección",
+      "text": "Construí el piso del criadero sobre un sistema subterráneo:\n\n• Vías\n• Vagoneta con tolva\n• Cofre conectado"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Resultado",
+      "text": "La vagoneta recogerá automáticamente todo lo que desentierren y lo mandará al cofre.\n\n§8Consejo del Dragon Mall:§0 Un buen pescador siempre tiene su granja lista."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Recuperar Materiales",
+  "icon": "minecraft:saddle",
+  "category": "patchouli:secretos_tabla_de_picar",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Recuperar Materiales",
+      "text": "$(l)Más ejemplos de desarmado (ver también: Cómo Funciona → Salvaging).$()$(br)$(br)Objetos crafteados de cuero, como una montura, se pueden desarmar en la Tabla de Picar — a veces con probabilidad de un extra, no siempre garantizado."
+    },
+    {
+      "type": "patchouli:cutting_board_recipe",
+      "title": "Montura (Saddle)",
+      "input": "minecraft:saddle",
+      "output1": "minecraft:leather",
+      "output2": "minecraft:iron_nugget",
+      "tool_item": "minecraft:shears"
+    }
+  ]
+}

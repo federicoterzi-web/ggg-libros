@@ -1,0 +1,46 @@
+{
+  "name": "Sopa de Vegetales",
+  "icon": "farmersdelight:vegetable_soup",
+  "category": "patchouli:sopas_y_guisos",
+  "sortnum": 11,
+  "pages": [
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Sopa de Vegetales",
+      "m1": "ggg:textures/gui/entries/food_full.png",
+      "o1": "ggg:textures/gui/entries/sat_100.png",
+      "m2": "ggg:textures/gui/entries/food_full.png",
+      "o2": "ggg:textures/gui/entries/sat_100.png",
+      "m3": "ggg:textures/gui/entries/food_full.png",
+      "o3": "ggg:textures/gui/entries/sat_100.png",
+      "m4": "ggg:textures/gui/entries/food_full.png",
+      "o4": "ggg:textures/gui/entries/sat_100.png",
+      "m5": "ggg:textures/gui/entries/food_full.png",
+      "o5": "ggg:textures/gui/entries/sat_100.png",
+      "m6": "ggg:textures/gui/entries/food_full.png",
+      "o6": "ggg:textures/gui/entries/sat_100.png",
+      "m7": "ggg:textures/gui/entries/blank_icon.png",
+      "o7": "ggg:textures/gui/entries/sat_100.png",
+      "m8": "ggg:textures/gui/entries/blank_icon.png",
+      "o8": "ggg:textures/gui/entries/sat_100.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/sat_100.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/sat_75.png",
+      "effect_icon": "ggg:textures/gui/entries/comfort.png",
+      "effect_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (3 min)$(/t)",
+      "description": "$(l)Cuando no tenés ni idea qué cocinar, hacés esto. Lo que yo hacía todos los martes de mi vida, ni te creas que es alta ciencia.$()"
+    },
+    {
+      "type": "patchouli:cooking_pot_recipe",
+      "item1": "tag:c:crops/carrot",
+      "item2": "tag:c:crops/potato",
+      "item3": "tag:c:crops/beetroot",
+      "item4": "tag:c:foods/leafy_green",
+      "item5": "minecraft:air",
+      "item6": "minecraft:air",
+      "container": "minecraft:bowl",
+      "result": "farmersdelight:vegetable_soup"
+    }
+  ]
+}

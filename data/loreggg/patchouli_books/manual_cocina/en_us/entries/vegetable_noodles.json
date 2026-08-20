@@ -1,0 +1,46 @@
+{
+  "name": "Fideos con Vegetales",
+  "icon": "farmersdelight:vegetable_noodles",
+  "category": "patchouli:pastas",
+  "sortnum": 104,
+  "pages": [
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Fideos con Vegetales",
+      "m1": "ggg:textures/gui/entries/food_full.png",
+      "o1": "ggg:textures/gui/entries/sat_100.png",
+      "m2": "ggg:textures/gui/entries/food_full.png",
+      "o2": "ggg:textures/gui/entries/sat_100.png",
+      "m3": "ggg:textures/gui/entries/food_full.png",
+      "o3": "ggg:textures/gui/entries/sat_100.png",
+      "m4": "ggg:textures/gui/entries/food_full.png",
+      "o4": "ggg:textures/gui/entries/sat_100.png",
+      "m5": "ggg:textures/gui/entries/food_full.png",
+      "o5": "ggg:textures/gui/entries/sat_100.png",
+      "m6": "ggg:textures/gui/entries/food_full.png",
+      "o6": "ggg:textures/gui/entries/sat_100.png",
+      "m7": "ggg:textures/gui/entries/food_full.png",
+      "o7": "ggg:textures/gui/entries/sat_100.png",
+      "m8": "ggg:textures/gui/entries/blank_icon.png",
+      "o8": "ggg:textures/gui/entries/sat_100.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/sat_100.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/sat_100.png",
+      "effect_icon": "ggg:textures/gui/entries/nourishment.png",
+      "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (5 min)$(/t)",
+      "description": "$(l)Para cuando tu amigo raro dice que no come carne. Yo no entiendo esa moda pero bueno, ahí tenés algo para que no se queje en tu mesa.$()"
+    },
+    {
+      "type": "patchouli:cooking_pot_recipe",
+      "item1": "tag:c:crops/carrot",
+      "item2": "tag:c:mushrooms",
+      "item3": "tag:c:foods/pasta",
+      "item4": "tag:c:foods/leafy_green",
+      "item5": "tag:c:foods/vegetable",
+      "item6": "minecraft:air",
+      "container": "minecraft:bowl",
+      "result": "farmersdelight:vegetable_noodles"
+    }
+  ]
+}

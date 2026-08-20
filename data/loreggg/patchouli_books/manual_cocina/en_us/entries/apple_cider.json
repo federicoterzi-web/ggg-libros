@@ -1,0 +1,46 @@
+{
+  "name": "Sidra de Manzana",
+  "icon": "farmersdelight:apple_cider",
+  "category": "patchouli:bebidas_y_postres",
+  "sortnum": 300,
+  "pages": [
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Sidra de Manzana",
+      "m1": "ggg:textures/gui/entries/blank_icon.png",
+      "o1": "ggg:textures/gui/entries/blank_icon.png",
+      "m2": "ggg:textures/gui/entries/blank_icon.png",
+      "o2": "ggg:textures/gui/entries/blank_icon.png",
+      "m3": "ggg:textures/gui/entries/blank_icon.png",
+      "o3": "ggg:textures/gui/entries/blank_icon.png",
+      "m4": "ggg:textures/gui/entries/blank_icon.png",
+      "o4": "ggg:textures/gui/entries/blank_icon.png",
+      "m5": "ggg:textures/gui/entries/blank_icon.png",
+      "o5": "ggg:textures/gui/entries/blank_icon.png",
+      "m6": "ggg:textures/gui/entries/blank_icon.png",
+      "o6": "ggg:textures/gui/entries/blank_icon.png",
+      "m7": "ggg:textures/gui/entries/blank_icon.png",
+      "o7": "ggg:textures/gui/entries/blank_icon.png",
+      "m8": "ggg:textures/gui/entries/blank_icon.png",
+      "o8": "ggg:textures/gui/entries/blank_icon.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/blank_icon.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/blank_icon.png",
+      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
+      "effect_text": "$(t:Te da un poco de armadura extra temporal, sin llenar el hambre.)+ Absorción (1 min)$(/t)",
+      "description": "$(l)No llena nada, pero te da un empujoncito. Es más para el gusto que para el hambre, como vos con los estudios.$()"
+    },
+    {
+      "type": "patchouli:cooking_pot_recipe",
+      "item1": "minecraft:apple",
+      "item2": "minecraft:apple",
+      "item3": "minecraft:sugar",
+      "item4": "minecraft:air",
+      "item5": "minecraft:air",
+      "item6": "minecraft:air",
+      "container": "minecraft:bowl",
+      "result": "farmersdelight:apple_cider"
+    }
+  ]
+}

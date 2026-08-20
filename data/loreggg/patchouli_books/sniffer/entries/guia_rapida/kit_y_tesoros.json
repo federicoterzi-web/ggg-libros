@@ -1,0 +1,16 @@
+{
+  "name": "Kit y Tesoros",
+  "icon": "minecraft:sniffer_egg",
+  "category": "patchouli:guia_rapida",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "§l¿Qué incluye este kit?§0\n\n* 2 Huevos de Sniffer\n* 2 Bloques de Musgo\n* 32 Semillas de Anflorcha\n\nTodo lo necesario para arrancar tu criadero."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "§l¿Cómo funcionan?§0\n\nLos sniffers buscan objetos antiguos.\n\nEncuentran §4Semillas de Anflorcha§0 y la valiosa §4Vaina de Odre§0, muy apreciada por pescadores porque otorga §2+2 de Suerte en la Pesca§0."
+    }
+  ]
+}

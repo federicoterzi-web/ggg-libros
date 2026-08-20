@@ -1,0 +1,21 @@
+{
+  "name": "Curiosidades",
+  "icon": "minecraft:dandelion",
+  "category": "patchouli:secretos_tabla_de_picar",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Curiosidades",
+      "text": "$(l)La Tabla de Picar como atajo de tintes.$()$(br)$(br)Casi todas las flores del juego se pueden cortar directo en tinte — sin horno ni mesa de crafteo. Y no es solo más rápido: $(bold)rinde el doble$() (2 tintes por flor, contra 1 que te da craftearla normal)."
+    },
+    {
+      "type": "patchouli:cutting_board_recipe",
+      "title": "Diente de León",
+      "input": "minecraft:dandelion",
+      "output1": "minecraft:yellow_dye",
+      "output2": "minecraft:air",
+      "tool_item": "tag:c:tools/knife"
+    }
+  ]
+}
