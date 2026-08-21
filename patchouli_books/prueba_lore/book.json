@@ -1,0 +1,10 @@
+{
+  "name": "Prueba de Lore",
+  "landing_text": "Libro de prueba para testear custom_book_item.",
+  "version": 1,
+  "creative_tab": "minecraft:tools_and_utilities",
+  "model": "minecraft:item/written_book",
+  "custom_book_item": "minecraft:written_book[minecraft:lore=['{\"text\":\"Herencia de tu abuela.\",\"italic\":true,\"color\":\"gray\"}','{\"text\":\"Prestá atención.\",\"italic\":true,\"color\":\"gray\"}']]",
+  "use_resource_pack": false,
+  "show_progress": false
+}
