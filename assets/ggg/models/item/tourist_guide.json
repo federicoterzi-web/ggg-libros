@@ -9,7 +9,7 @@
 		"5": "ggg:item/marcapaginas_azul_largo",
 		"9": "ggg:item/tapa_frontal",
 		"10": "ggg:item/tapa_trasera_trans",
-		"11": "Downloads/paginas_cuadrada_expandida",
+		"11": "ggg:item/paginas_cuadrada_expandida",
 		"particle": "ggg:item/cierre_gema"
 	},
 	"elements": [
