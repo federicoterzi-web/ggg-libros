@@ -7,7 +7,7 @@
     {
       "type": "patchouli:text",
       "title": "Masa de Trigo",
-      "text": "$(l)La base de todo lo horneado.$()$(br)$(br)Con esto arrancás pan, tartas, y sobre todo la $(bold)Masa de Pasta$() (cortándola con un cuchillo). Hay dos formas de conseguirla — te muestro las dos. $(6)Ojo si la comés cruda:$() tiene 30% de chance de darte el efecto Hambre por 30 segundos — mejor usarla como ingrediente, no como snack."
+      "text": "$(l)La base de todo lo horneado.$()$(br)$(br)Con esto arrancás pan, tartas, y sobre todo la $(bold)Masa de Pasta$() (cortándola con un cuchillo). Hay dos formas de conseguirla — te muestro las dos."
     },
     {
       "type": "patchouli:crafting",

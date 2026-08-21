@@ -12,15 +12,6 @@
     {
       "type": "patchouli:crafting",
       "recipe": "farmersdelight:milk_bottle"
-    },
-    {
-      "type": "patchouli:text",
-      "title": "El camino inverso",
-      "text": "$(l)Si te arrepentiste de embotellarla...$()$(br)$(br)4 Botellas de Leche + 1 balde vacío = 1 balde de leche lleno de vuelta. Por si te quedaste corto de baldes."
-    },
-    {
-      "type": "patchouli:crafting",
-      "recipe": "farmersdelight:milk_bucket_from_bottles"
     }
   ]
 }

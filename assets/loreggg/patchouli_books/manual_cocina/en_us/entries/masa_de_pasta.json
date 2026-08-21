@@ -7,7 +7,7 @@
     {
       "type": "patchouli:text",
       "title": "Masa de Pasta",
-      "text": "$(l)Un cuchillazo y listo.$()$(br)$(br)Cualquier masa de trigo (sea cual sea su origen) se corta en Masa de Pasta con solo pasarle el cuchillo por encima, en la $(bold)Tabla de Picar$(). Es el paso previo a cualquier plato de fideos. $(6)Ojo si la comés cruda:$() tiene 30% de chance de darte el efecto Hambre por 30 segundos — mejor usarla como ingrediente, no como snack."
+      "text": "$(l)Un cuchillazo y listo.$()$(br)$(br)Cualquier masa de trigo (sea cual sea su origen) se corta en Masa de Pasta con solo pasarle el cuchillo por encima, en la $(bold)Tabla de Picar$(). Es el paso previo a cualquier plato de fideos."
     },
     {
       "type": "patchouli:cutting_board_recipe",
