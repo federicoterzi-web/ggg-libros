@@ -4,13 +4,13 @@
 	"parent": "minecraft:block/block",
 	"texture_size": [1254, 1254],
 	"textures": {
-		"1": "ggg:item/cierre_gema",
-		"3": "ggg:item/lomo",
-		"5": "ggg:item/marcapaginas_azul_largo",
-		"9": "ggg:item/tapa_frontal",
-		"10": "ggg:item/tapa_trasera_trans",
-		"11": "ggg:item/paginas_cuadrada_expandida",
-		"particle": "ggg:item/cierre_gema"
+		"1": "ggg:item/guia_turistica/cierre_gema",
+		"3": "ggg:item/guia_turistica/lomo",
+		"5": "ggg:item/guia_turistica/marcapaginas_azul_largo",
+		"9": "ggg:item/guia_turistica/tapa_frontal",
+		"10": "ggg:item/guia_turistica/tapa_trasera_trans",
+		"11": "ggg:item/guia_turistica/paginas_cuadrada_expandida",
+		"particle": "ggg:item/guia_turistica/cierre_gema"
 	},
 	"elements": [
 		{

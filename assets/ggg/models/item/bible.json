@@ -7,7 +7,6 @@
 		"9": "ggg:item/bible/01_tapa_libro_frontal_64x64_normal",
 		"10": "ggg:item/bible/02_tapa_libro_trasera_64x64_normal",
 		"17": "ggg:item/bible/04_lomo_libro_central_64x64_normal",
-		"19": "ggg:item/bible/06_gema_amuleto_64x64_normal",
 		"20": "ggg:item/bible/07_correa_oscura_64x64_normal",
 		"22": "ggg:item/bible/09_libro_paginas_madera_64x64_normal",
 		"23": "ggg:item/bible/10_cinta_marcapaginas_magenta_64x64_normal",
@@ -35,7 +34,7 @@
 			"faces": {
 				"north": {"uv": [14.5, 0.875, 1.76665, 15.22109], "texture": "#10"},
 				"east": {"uv": [0.75, 5.18621, 14, 6.75], "rotation": 90, "texture": "#22"},
-				"south": {"uv": [2.4697, 12.87002, 12.39274, 1.97448], "texture": "#19"},
+				"south": {"uv": [2.4697, 12.87002, 12.39274, 1.97448], "texture": "#20"},
 				"west": {"uv": [7.22522, 0.675, 7.45333, 15.5762], "texture": "#17"},
 				"up": {"uv": [14.50459, 4.75, 0.73485, 6.76037], "texture": "#22"},
 				"down": {"uv": [0.92384, 4.63517, 14.561, 6.5], "texture": "#22"}
