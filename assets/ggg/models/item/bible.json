@@ -1,6 +1,166 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "ggg:item/bible"
-  }
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
+	"texture_size": [1254, 1254],
+	"textures": {
+		"9": "ggg:item/bible/01_tapa_libro_frontal_64x64_normal",
+		"10": "ggg:item/bible/02_tapa_libro_trasera_64x64_normal",
+		"17": "ggg:item/bible/04_lomo_libro_central_64x64_normal",
+		"19": "ggg:item/bible/06_gema_amuleto_64x64_normal",
+		"20": "ggg:item/bible/07_correa_oscura_64x64_normal",
+		"22": "ggg:item/bible/09_libro_paginas_madera_64x64_normal",
+		"23": "ggg:item/bible/10_cinta_marcapaginas_magenta_64x64_normal",
+		"particle": "ggg:item/bible/01_tapa_libro_frontal_64x64_normal"
+	},
+	"elements": [
+		{
+			"name": "REFERENCIA_DISTORSIONABLE",
+			"from": [4.25, 1, 7.13],
+			"to": [11.75, 11, 8.88],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.25, 0, 9.13]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 15.75], "texture": "#missing"},
+				"east": {"uv": [1.25, 7.25, 13.75, 10.25], "rotation": 90, "texture": "#22"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"up": {"uv": [14.5, 7.07935, 1.82935, 10.20534], "texture": "#22"},
+				"down": {"uv": [14.75, 7.34211, 2.59211, 10.25], "texture": "#22"}
+			}
+		},
+		{
+			"from": [3.75, 0.75, 6.88],
+			"to": [12, 11.25, 7.38],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3.75, 1, 6.88]},
+			"faces": {
+				"north": {"uv": [14.5, 0.875, 1.76665, 15.22109], "texture": "#10"},
+				"east": {"uv": [0.75, 5.18621, 14, 6.75], "rotation": 90, "texture": "#22"},
+				"south": {"uv": [2.4697, 12.87002, 12.39274, 1.97448], "texture": "#19"},
+				"west": {"uv": [7.22522, 0.675, 7.45333, 15.5762], "texture": "#17"},
+				"up": {"uv": [14.50459, 4.75, 0.73485, 6.76037], "texture": "#22"},
+				"down": {"uv": [0.92384, 4.63517, 14.561, 6.5], "texture": "#22"}
+			}
+		},
+		{
+			"from": [3.75, 0.75, 8.63],
+			"to": [12, 11.25, 9.13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3.75, 1, 8.63]},
+			"faces": {
+				"north": {"uv": [12.2814, 2.25, 2.76037, 13.25], "texture": "#20"},
+				"east": {"uv": [0.73565, 6.54347, 13.75, 5.24502], "rotation": 90, "texture": "#22"},
+				"south": {"uv": [1.67514, 0.9375, 13.75, 15], "texture": "#9"},
+				"west": {"uv": [8.18433, 0.63277, 8.80518, 15.575], "texture": "#17"},
+				"up": {"uv": [0.49541, 6.51037, 13.90341, 5.14553], "texture": "#22"},
+				"down": {"uv": [0.69179, 6.57267, 14.061, 5.46172], "texture": "#22"}
+			}
+		},
+		{
+			"from": [3.75, 0.75, 7.38],
+			"to": [4.25, 11.25, 8.63],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3.75, 1, 7.38]},
+			"faces": {
+				"north": {"uv": [7.17354, 0.25, 8.73604, 1.375], "texture": "#17"},
+				"east": {"uv": [8.95395, 0.25, 7, 15.75], "texture": "#17"},
+				"south": {"uv": [7.50239, 0.25, 8.41069, 7.84689], "texture": "#17"},
+				"west": {"uv": [8.61503, 0.65467, 7.61152, 15.52109], "texture": "#17"},
+				"up": {"uv": [7.3429, 0.5, 8.73584, 0.84879], "rotation": 270, "texture": "#17"},
+				"down": {"uv": [7.16427, 0.82715, 9.02063, 1.13596], "texture": "#17"}
+			}
+		},
+		{
+			"from": [5.25, -0.75, 8.38],
+			"to": [6.25, 2.25, 8.38],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5.25, -0.75, 8.38]},
+			"faces": {
+				"north": {"uv": [4.75, 0, 9.525, 13.75], "texture": "#23"},
+				"east": {"uv": [0.5, 1, 0.5, 2.5], "texture": "#missing"},
+				"south": {"uv": [4.79705, 13.75, 9.61643, 0], "rotation": 180, "texture": "#23"},
+				"west": {"uv": [0, 1, 0, 2.5], "texture": "#missing"},
+				"up": {"uv": [0, 0, 0.25, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0.5, 0.25, 0.5], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-13, 0, 0],
+			"translation": [0, 4, -1.25]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 7, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [9, 0, 0],
+			"translation": [0.25, 1.75, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 2.5, 0]
+		},
+		"ground": {
+			"rotation": [-59, 0, 0],
+			"translation": [0, 3, 0]
+		},
+		"gui": {
+			"rotation": [18, -22, 0],
+			"translation": [0, 2.25, 0],
+			"scale": [1.28, 1.28, 1.28]
+		},
+		"head": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 2.75, -7.75],
+			"scale": [1.63, 1.63, 1.63]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 3, -1.75],
+			"scale": [1.59, 1.59, 1.59]
+		},
+		"on_shelf": {
+			"rotation": [0, -27, 0],
+			"translation": [1.25, 7.5, 0],
+			"scale": [1.83, 1.83, 1.83]
+		}
+	},
+	"groups": [
+		0,
+		{
+			"name": "tourist_guide",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [
+				1,
+				2,
+				3,
+				{
+					"name": "Clasp",
+					"origin": [0, 0, 0],
+					"scope": 0,
+					"color": 0,
+					"children": [4]
+				}
+			]
+		},
+		{
+			"name": "cierre_gema",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "cierre_gema",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "cierre_gema",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": []
+		}
+	]
 }
