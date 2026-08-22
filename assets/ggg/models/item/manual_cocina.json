@@ -4,14 +4,14 @@
 	"parent": "minecraft:block/block",
 	"texture_size": [1254, 1254],
 	"textures": {
-		"6": "Downloads/texturas_libro_64x64/64x64_aspecto_normal/01_lomo_libro_corazon_64x64_normal",
-		"7": "Downloads/texturas_libro_64x64/64x64_aspecto_normal/02_portada_libro_pavo_64x64_normal",
-		"8": "Downloads/texturas_libro_64x64/64x64_aspecto_normal/03_portada_libro_diamante_64x64_normal",
-		"12": "Downloads/texturas_libro_64x64/64x64_aspecto_normal/07_paginas_libro_canto_64x64_normal",
-		"13": "Downloads/texturas_libro_64x64/64x64_aspecto_normal/16_cinta_marcapaginas_rosa_64x64_normal",
-		"14": "Downloads/texturas_libro_64x64/64x64_aspecto_normal/15_cinta_marcapaginas_dorada_64x64_normal",
-		"15": "Downloads/texturas_libro_64x64/64x64_aspecto_normal/13_cinta_marcapaginas_roja_64x64_normal",
-		"16": "Downloads/texturas_libro_64x64/64x64_aspecto_normal/14_cinta_marcapaginas_verde_64x64_normal",
+		"6": "ggg:item/01_lomo_libro_corazon_64x64_normal",
+		"7": "ggg:item/02_portada_libro_pavo_64x64_normal",
+		"8": "ggg:item/03_portada_libro_diamante_64x64_normal",
+		"12": "ggg:item/07_paginas_libro_canto_64x64_normal",
+		"13": "ggg:item/16_cinta_marcapaginas_rosa_64x64_normal",
+		"14": "ggg:item/15_cinta_marcapaginas_dorada_64x64_normal",
+		"15": "ggg:item/13_cinta_marcapaginas_roja_64x64_normal",
+		"16": "ggg:item/14_cinta_marcapaginas_verde_64x64_normal",
 		"particle": "ggg:item/cierre_gema"
 	},
 	"elements": [
