@@ -4,7 +4,7 @@
   "landing_text": "$(d)$(l)¡Qué hacés, butito!$()$(br)Si abriste esto es porque te gusta la bija o venís a baitear al chat, no hay punto medio.$(br)$(6)Pasá de página y leé cómo sobrevivir en GGG sin que te rompan el orto en el intento.$()",
   "version": 0,
   "creative_tab": "minecraft:tools_and_utilities",
-  "model": "ggg:tourist_guide",
+  "model": "ggg:guia_turistica",
   "book_texture": "ggg:textures/gui/tourist_guide.png",
 "filler_texture": "ggg:textures/gui/tourist_guide_filler.png",
 "use_resource_pack": true,
