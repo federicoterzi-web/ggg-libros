@@ -12,7 +12,7 @@
 		"14": "ggg:item/manual_cocina/15_cinta_marcapaginas_dorada_64x64_normal",
 		"15": "ggg:item/manual_cocina/13_cinta_marcapaginas_roja_64x64_normal",
 		"16": "ggg:item/manual_cocina/14_cinta_marcapaginas_verde_64x64_normal",
-		"particle": "ggg:item/manual_cocina/cierre_gema"
+		"particle": "ggg:item/manual_cocina/01_lomo_libro_corazon_64x64_normal"
 	},
 	"elements": [
 		{
