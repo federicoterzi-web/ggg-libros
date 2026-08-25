@@ -1,12 +1,17 @@
 {
   "name": "Guía del GGG",
-"subtitle": "La guía definitiva para conocer los lugares en los que te pueden romper el orto, ya sea que quieras evitarlo o conseguirlo",
-  "landing_text": "$(d)$(l)¡Qué hacés, butito!$()$(br)Si abriste esto es porque te gusta la bija o venís a baitear al chat, no hay punto medio.$(br)$(6)Pasá de página y leé cómo sobrevivir en GGG sin que te rompan el orto en el intento.$()",
-  "version": 0,
+  "landing_text": "$(d)$(l)¡Qué hacés, butito!$()$(br)Si abriste esto es porque te gusta la bija o venís a baitear al chat, no hay punto medio.$(br)$(6)Pasá de página y leé cómo sobrevivir en GGG sin que te rompan el orto en el intento.$()$(br)$(br)Podemos ser amigos $(d)$(l)UwU$()$(br) Y si queres que seamos amigos con beneficios clickea $(l:https://www.patreon.com/cw/RozsierServer)aquí $()para obtener tus beneficios firmado por $(d)$(l)Rozsier el faggot :3",
+  "tooltip": "",
+  "model": "patchouli:book_",
+  "color_def": "",
+  "subtitle": "Vol. I Ciudad Spawn",
   "creative_tab": "minecraft:tools_and_utilities",
-  "model": "ggg:guia_turistica",
+  "dont_generate_book": false,
+  "show_progress": true,
+  "use_resource_pack": false,
+  "advancements_enabled": false,
+  "version": 1,
   "book_texture": "ggg:textures/gui/tourist_guide.png",
-"filler_texture": "ggg:textures/gui/tourist_guide_filler.png",
-"use_resource_pack": true,
-  "show_progress": false
+  "header_color": "ff0aa5",
+  "link_color": "0a0aff"
 }
