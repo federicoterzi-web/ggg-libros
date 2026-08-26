@@ -1,0 +1,23 @@
+{
+  "name": "Marchitaleta",
+  "icon": "tide:witherfin",
+  "category": "patchouli:lava",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:witherfin",
+      "title": "Marchitaleta",
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Alguna vez una criatura próspera, ahora porta una infección mortal que se transmite a quienes la tocan.$(br2)$(bold)Categoría:$() Lava$(br)$(bold)Bioma:$() Lava$(br)$(bold)Dimensión:$() El Nether"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:witherfin",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

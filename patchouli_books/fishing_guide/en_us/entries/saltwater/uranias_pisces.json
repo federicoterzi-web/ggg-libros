@@ -1,0 +1,26 @@
+{
+  "name": "Pisces de Urania",
+  "icon": "tide:uranias_pisces",
+  "category": "patchouli:saltwater",
+  "sortnum": 19,
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": [
+        "tide:textures/item/uranias_pisces_full.png"
+      ],
+      "title": "Pisces de Urania",
+      "border": true,
+      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Muchos pescadores creen que este pez es del cielo mismo. Se dice que trae buena fortuna a quien lo atrapa.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:uranias_pisces",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Océanos$(li)Fase lunar: Cuarto Menguante$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

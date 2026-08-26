@@ -1,0 +1,26 @@
+{
+  "name": "Manta Raya",
+  "icon": "tide:manta_ray",
+  "category": "patchouli:saltwater",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": [
+        "tide:textures/item/manta_ray_full.png"
+      ],
+      "title": "Manta Raya",
+      "border": true,
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Sus amplias aletas lo llevan con gracia a través de aguas abiertas cerca de la superficie de los mares cálidos.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:manta_ray",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Océanos$(li)Temperatura ideal: 28.0°C (rango: 16.4°C a 41.4°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

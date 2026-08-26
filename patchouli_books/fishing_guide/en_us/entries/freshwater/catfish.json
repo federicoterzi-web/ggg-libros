@@ -1,0 +1,23 @@
+{
+  "name": "Bagre",
+  "icon": "tide:catfish",
+  "category": "patchouli:freshwater",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:catfish",
+      "title": "Bagre",
+      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)Este pez tiene mandíbulas con bigotes y gusto por la noche. Los rumores dicen que teme la presencia de los lobos.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:catfish",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Lagos y Ríos$(li)Horario: 18:00-06:00$(li)Temperatura ideal: 27.1°C (rango: 12.4°C a 44.2°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

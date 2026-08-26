@@ -1,0 +1,23 @@
+{
+  "name": "Cachorrito de Devils Hole",
+  "icon": "tide:devils_hole_pupfish",
+  "category": "patchouli:underground",
+  "sortnum": 18,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:devils_hole_pupfish",
+      "title": "Cachorrito de Devils Hole",
+      "text": "$(#FFAA00)$(bold)Legendario$()$(br2)Diminuto e iridiscente, se esconde en uno de los hábitats acuáticos más aislados y extremos.$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:devils_hole_pupfish",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Altitud: entre Y=20 y Y=30"
+    }
+  ]
+}

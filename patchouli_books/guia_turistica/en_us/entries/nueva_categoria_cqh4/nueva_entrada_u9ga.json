@@ -1,10 +1,10 @@
 {
   "name": "Femboy Hooters",
-  "icon": "minecraft:paper",
+  "icon": "minecraft:end_rod",
   "category": "patchouli:nueva_categoria_cqh4",
   "priority": false,
   "secret": false,
-  "sortnum": 3,
+  "sortnum": 4,
   "pages": [
     {
       "type": "patchouli:text",

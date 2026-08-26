@@ -1,0 +1,23 @@
+{
+  "name": "Róbalo",
+  "icon": "tide:snook",
+  "category": "patchouli:saltwater",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:snook",
+      "title": "Róbalo",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Este pez es una vista común en aguas costeras, siendo capaz de tolerar muchos hábitats diferentes.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Coast$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:snook",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Costa$(li)Temperatura ideal: 18.6°C (rango: 4.1°C a 31.8°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

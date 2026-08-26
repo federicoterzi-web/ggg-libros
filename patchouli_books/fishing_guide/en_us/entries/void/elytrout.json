@@ -1,0 +1,23 @@
+{
+  "name": "Elitrucha",
+  "icon": "tide:elytrout",
+  "category": "patchouli:void",
+  "sortnum": 14,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:elytrout",
+      "title": "Elitrucha",
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Una criatura elegante similar a un insecto que se asemeja a los mismos elitros encontrados en las antiguas ciudades del End.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() El End"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:elytrout",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

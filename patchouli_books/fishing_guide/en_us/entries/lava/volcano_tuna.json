@@ -1,0 +1,23 @@
+{
+  "name": "Atún de Volcán",
+  "icon": "tide:volcano_tuna",
+  "category": "patchouli:lava",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:volcano_tuna",
+      "title": "Atún de Volcán",
+      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)Este pez es capaz de vivir hasta 600 años antes de quedar envuelto en obsidiana y hundirse en el fondo.$(br2)$(bold)Categoría:$() Lava$(br)$(bold)Bioma:$() Lava$(br)$(bold)Dimensión:$() —"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:volcano_tuna",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

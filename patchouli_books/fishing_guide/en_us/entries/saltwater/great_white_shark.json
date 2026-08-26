@@ -1,0 +1,26 @@
+{
+  "name": "Gran Tiburón Blanco",
+  "icon": "tide:great_white_shark",
+  "category": "patchouli:saltwater",
+  "sortnum": 16,
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": [
+        "tide:textures/item/great_white_shark_full.png"
+      ],
+      "title": "Gran Tiburón Blanco",
+      "border": true,
+      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Un depredador temido y respetado, patrullando las aguas costeras con sentidos agudos y ráfagas de velocidad.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:great_white_shark",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Océanos$(li)Horario: 04:00-06:00, 06:00-09:00, 17:00-23:00$(li)Temperatura ideal: 8.8°C (rango: 1.5°C a 15.2°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

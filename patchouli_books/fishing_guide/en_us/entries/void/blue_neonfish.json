@@ -1,0 +1,23 @@
+{
+  "name": "Pez Neón Azul",
+  "icon": "tide:blue_neonfish",
+  "category": "patchouli:void",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:blue_neonfish",
+      "title": "Pez Neón Azul",
+      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)Este pez tiene un conjunto de dientes oscuros y dentados que muerden incluso las escamas más duras.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:blue_neonfish",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

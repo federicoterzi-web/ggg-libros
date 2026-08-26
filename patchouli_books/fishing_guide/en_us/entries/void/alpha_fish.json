@@ -1,0 +1,23 @@
+{
+  "name": "Pez Alfa",
+  "icon": "tide:alpha_fish",
+  "category": "patchouli:void",
+  "sortnum": 24,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:alpha_fish",
+      "title": "Pez Alfa",
+      "text": "$(#FFAA00)$(bold)Legendario$()$(br2)Llevado casi a la extinción por otros peces, esta especie de aspecto familiar vaga por las profundidades del mundo exterior.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:alpha_fish",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

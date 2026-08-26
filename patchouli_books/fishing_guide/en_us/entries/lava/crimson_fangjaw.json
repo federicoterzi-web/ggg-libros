@@ -1,0 +1,23 @@
+{
+  "name": "Mandíbula Carmesí",
+  "icon": "tide:crimson_fangjaw",
+  "category": "patchouli:lava",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:crimson_fangjaw",
+      "title": "Mandíbula Carmesí",
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Esta criatura evolucionó para ser un cazador poderoso en su hogar hostil. ¿Su dieta parece consistir en... cerdo?$(br2)$(bold)Categoría:$() Lava$(br)$(bold)Bioma:$() Lava$(br)$(bold)Dimensión:$() El Nether"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:crimson_fangjaw",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

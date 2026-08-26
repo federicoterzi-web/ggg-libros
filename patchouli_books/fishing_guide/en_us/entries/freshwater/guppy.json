@@ -1,0 +1,23 @@
+{
+  "name": "Guppy",
+  "icon": "tide:guppy",
+  "category": "patchouli:freshwater",
+  "sortnum": 11,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:guppy",
+      "title": "Guppy",
+      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)Este pez es diminuto, colorido y eternamente activo. Prospera en aguas cálidas y tropicales.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:guppy",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Lagos y Ríos$(li)Temperatura ideal: 50.0°C (rango: 22.2°C a 107.2°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

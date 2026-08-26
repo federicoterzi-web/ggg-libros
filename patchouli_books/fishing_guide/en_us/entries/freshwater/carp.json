@@ -1,0 +1,23 @@
+{
+  "name": "Carpa",
+  "icon": "tide:carp",
+  "category": "patchouli:freshwater",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:carp",
+      "title": "Carpa",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Este alimentador de fondo prospera en aguas turbias y a menudo crea un lío en su búsqueda de comida.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:carp",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Lagos y Ríos$(li)Horario: 06:00-18:00, 00:00-06:00$(li)Temperatura ideal: 19.5°C (rango: -5.0°C a 41.7°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

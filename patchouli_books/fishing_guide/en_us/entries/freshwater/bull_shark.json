@@ -1,0 +1,26 @@
+{
+  "name": "Tiburón Toro",
+  "icon": "tide:bull_shark",
+  "category": "patchouli:freshwater",
+  "sortnum": 21,
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": [
+        "tide:textures/item/bull_shark_full.png"
+      ],
+      "title": "Tiburón Toro",
+      "border": true,
+      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Un nadador poderoso con mal genio, notablemente capaz de viajar río arriba a entornos de agua dulce.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:bull_shark",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Río$(li)Horario: 06:00-08:00, 17:00-06:00$(li)Temperatura ideal: 25.5°C (rango: 19.8°C a 31.5°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

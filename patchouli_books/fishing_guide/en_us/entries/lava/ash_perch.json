@@ -1,0 +1,23 @@
+{
+  "name": "Perca de Ceniza",
+  "icon": "tide:ash_perch",
+  "category": "patchouli:lava",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:ash_perch",
+      "title": "Perca de Ceniza",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Este pez acecha en las profundidades de los lagos de lava, viajando rápidamente y mezclándose perfectamente con su entorno ardiente.$(br2)$(bold)Categoría:$() Lava$(br)$(bold)Bioma:$() Lava$(br)$(bold)Dimensión:$() —"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:ash_perch",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

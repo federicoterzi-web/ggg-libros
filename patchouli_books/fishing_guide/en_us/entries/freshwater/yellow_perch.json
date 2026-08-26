@@ -1,0 +1,23 @@
+{
+  "name": "Perca Amarilla",
+  "icon": "tide:yellow_perch",
+  "category": "patchouli:freshwater",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:yellow_perch",
+      "title": "Perca Amarilla",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Este pez de rayas amarillas brillantes es tan llamativo como abundante.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:yellow_perch",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Lagos y Ríos$(li)Horario: 06:00-21:00, 03:00-06:00$(li)Temperatura ideal: 23.4°C (rango: -3.3°C a 52.0°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

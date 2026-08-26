@@ -1,0 +1,23 @@
+{
+  "name": "Tetra de Hierro",
+  "icon": "tide:iron_tetra",
+  "category": "patchouli:underground",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:iron_tetra",
+      "title": "Tetra de Hierro",
+      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)Este pez acecha alrededor de las vetas de mineral construyendo un marco metálico, manteniéndolo a salvo de la mayoría de los depredadores.$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:iron_tetra",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Altitud: por debajo de Y=50"
+    }
+  ]
+}

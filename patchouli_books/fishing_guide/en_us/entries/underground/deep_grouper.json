@@ -1,0 +1,23 @@
+{
+  "name": "Mero de las Profundidades",
+  "icon": "tide:deep_grouper",
+  "category": "patchouli:underground",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:deep_grouper",
+      "title": "Mero de las Profundidades",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Sus escamas pálidas de color negro rojizo oscuro le dan a este pez un aspecto de otro mundo.$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:deep_grouper",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Altitud: por debajo de Y=30"
+    }
+  ]
+}

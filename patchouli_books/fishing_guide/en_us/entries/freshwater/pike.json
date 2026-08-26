@@ -1,0 +1,23 @@
+{
+  "name": "Lucio",
+  "icon": "tide:pike",
+  "category": "patchouli:freshwater",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:pike",
+      "title": "Lucio",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Largos, delgados y carnívoros, estos peces dominan los lagos pequeños y emboscan a sus presas con su velocidad.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:pike",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Lagos y Ríos$(li)Temperatura ideal: 4.4°C (rango: -19.4°C a 20.2°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

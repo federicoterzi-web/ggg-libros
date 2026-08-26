@@ -1,0 +1,23 @@
+{
+  "name": "Trucha de Arroyo",
+  "icon": "tide:brook_trout",
+  "category": "patchouli:freshwater",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:brook_trout",
+      "title": "Trucha de Arroyo",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Más pequeña y reservada que otras truchas, la trucha de arroyo prefiere los arroyos sombreados y los estanques musgosos.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:brook_trout",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Lagos y Ríos$(li)Temperatura ideal: 11.6°C (rango: -18.8°C a 32.4°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

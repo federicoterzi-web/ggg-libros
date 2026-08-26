@@ -1,0 +1,23 @@
+{
+  "name": "Pez Garrote Pálido",
+  "icon": "tide:pale_clubfish",
+  "category": "patchouli:void",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:pale_clubfish",
+      "title": "Pez Garrote Pálido",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Estos peces de forma extraña son sorprendentemente comunes, y son un bocado sabroso para depredadores y pescadores.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() El End"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:pale_clubfish",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

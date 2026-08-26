@@ -1,0 +1,23 @@
+{
+  "name": "Nephrosilu",
+  "icon": "tide:nephrosilu",
+  "category": "patchouli:void",
+  "sortnum": 15,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:nephrosilu",
+      "title": "Nephrosilu",
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Esta abominación deforme es un superdepredador, con aletas afiladas como navajas y un ojo púrpura brillante.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:nephrosilu",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

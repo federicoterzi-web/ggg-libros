@@ -1,0 +1,23 @@
+{
+  "name": "Emblema del Sol",
+  "icon": "tide:sun_emblem",
+  "category": "patchouli:saltwater",
+  "sortnum": 15,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:sun_emblem",
+      "title": "Emblema del Sol",
+      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Una medusa luminosa con un caparazón puntiagudo para protegerse. Paraliza a sus atacantes cuando se siente amenazada.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:sun_emblem",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Océanos$(li)Horario: 05:00-06:00, 06:00-18:00$(li)Fase lunar: Luna Llena$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

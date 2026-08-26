@@ -1,0 +1,23 @@
+{
+  "name": "Lucio de Obsidiana",
+  "icon": "tide:obsidian_pike",
+  "category": "patchouli:lava",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:obsidian_pike",
+      "title": "Lucio de Obsidiana",
+      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)Los investigadores no pueden entender cómo este lucio puede siquiera mover sus aletas con su composición dura como la roca.$(br2)$(bold)Categoría:$() Lava$(br)$(bold)Bioma:$() Lava$(br)$(bold)Dimensión:$() —"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:obsidian_pike",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

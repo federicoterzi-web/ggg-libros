@@ -1,0 +1,26 @@
+{
+  "name": "Tiburón Toro de Arena",
+  "icon": "tide:sand_tiger_shark",
+  "category": "patchouli:freshwater",
+  "sortnum": 19,
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": [
+        "tide:textures/item/sand_tiger_shark_full.png"
+      ],
+      "title": "Tiburón Toro de Arena",
+      "border": true,
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Con dientes dentados y una apariencia amenazante, buscan presas en el desierto.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Desierto$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:sand_tiger_shark",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Desierto$(li)Horario: 06:00-09:00, 15:00-06:00$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

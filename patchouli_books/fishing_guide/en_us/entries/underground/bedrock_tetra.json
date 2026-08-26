@@ -1,0 +1,23 @@
+{
+  "name": "Tetra de Bedrock",
+  "icon": "tide:bedrock_tetra",
+  "category": "patchouli:underground",
+  "sortnum": 14,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:bedrock_tetra",
+      "title": "Tetra de Bedrock",
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Este diminuto pez está oculto bajo una sólida capa de roca base, lo que lo hace impermeable a los depredadores.$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:bedrock_tetra",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Altitud: por debajo de Y=-20"
+    }
+  ]
+}

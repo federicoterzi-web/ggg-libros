@@ -1,0 +1,23 @@
+{
+  "name": "Lubina de Cerezo",
+  "icon": "tide:blossom_bass",
+  "category": "patchouli:freshwater",
+  "sortnum": 16,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:blossom_bass",
+      "title": "Lubina de Cerezo",
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Una captura brillante y colorida entre los cerezos en flor. Irradian un poder calmante.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Arboleda de Cerezo$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:blossom_bass",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Arboleda de Cerezos$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

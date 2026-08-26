@@ -1,0 +1,23 @@
+{
+  "name": "Larva Incandescente",
+  "icon": "tide:incandescent_larva",
+  "category": "patchouli:void",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:incandescent_larva",
+      "title": "Larva Incandescente",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Su piel transparente le ayuda a brillar con su propio calor corporal. Un bocado sabroso para muchos peces.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:incandescent_larva",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

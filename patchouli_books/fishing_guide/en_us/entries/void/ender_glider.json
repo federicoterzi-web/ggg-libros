@@ -1,0 +1,23 @@
+{
+  "name": "Planeador de End",
+  "icon": "tide:ender_glider",
+  "category": "patchouli:void",
+  "sortnum": 12,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:ender_glider",
+      "title": "Planeador de End",
+      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)Un pez alienígena alado, capaz de atravesar el End mucho más rápido que el resto.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() El End"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:ender_glider",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

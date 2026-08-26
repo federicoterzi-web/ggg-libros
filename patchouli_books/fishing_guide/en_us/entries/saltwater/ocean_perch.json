@@ -1,0 +1,23 @@
+{
+  "name": "Perca Oceánica",
+  "icon": "tide:ocean_perch",
+  "category": "patchouli:saltwater",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:ocean_perch",
+      "title": "Perca Oceánica",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Esta perca a menudo se encuentra en bancos cerca de fondos marinos rocosos y profundidades oceánicas frías.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:ocean_perch",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Océanos$(li)Temperatura ideal: 0.2°C (rango: -35.5°C a 24.4°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

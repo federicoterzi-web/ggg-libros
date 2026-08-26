@@ -1,0 +1,23 @@
+{
+  "name": "Rape Abisal",
+  "icon": "tide:abyss_angler",
+  "category": "patchouli:underground",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:abyss_angler",
+      "title": "Rape Abisal",
+      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)Su señuelo brilla especialmente, permitiéndole prosperar incluso a más profundidad que sus primos.$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:abyss_angler",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Altitud: por debajo de Y=-20"
+    }
+  ]
+}

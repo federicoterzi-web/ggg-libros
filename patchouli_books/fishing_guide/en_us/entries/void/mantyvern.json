@@ -1,0 +1,26 @@
+{
+  "name": "Mantiperno",
+  "icon": "tide:mantyvern",
+  "category": "patchouli:void",
+  "sortnum": 21,
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": [
+        "tide:textures/item/mantyvern_full.png"
+      ],
+      "title": "Mantiperno",
+      "border": true,
+      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Esta criatura sorprendentemente dócil crea señales con sus antenas para comunicarse.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() El End"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:mantyvern",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

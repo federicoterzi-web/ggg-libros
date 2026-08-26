@@ -1,0 +1,23 @@
+{
+  "name": "Guppy Distorsionado",
+  "icon": "tide:warped_guppy",
+  "category": "patchouli:lava",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:warped_guppy",
+      "title": "Guppy Distorsionado",
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Protegido por hifas resistentes al calor, este compañero fúngico viaja por los océanos de lava mucho más allá de su bioma de origen.$(br2)$(bold)Categoría:$() Lava$(br)$(bold)Bioma:$() Lava$(br)$(bold)Dimensión:$() El Nether"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:warped_guppy",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

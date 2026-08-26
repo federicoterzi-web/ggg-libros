@@ -1,0 +1,23 @@
+{
+  "name": "Pez del Juicio",
+  "icon": "tide:judgment_fish",
+  "category": "patchouli:void",
+  "sortnum": 11,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:judgment_fish",
+      "title": "Pez del Juicio",
+      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)Sus grandes ojos le permiten ver a los depredadores claramente y hacer un movimiento antes de que se acerquen.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:judgment_fish",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

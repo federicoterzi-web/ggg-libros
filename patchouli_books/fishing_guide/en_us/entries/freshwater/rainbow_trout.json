@@ -1,0 +1,23 @@
+{
+  "name": "Trucha Arcoíris",
+  "icon": "tide:rainbow_trout",
+  "category": "patchouli:freshwater",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:rainbow_trout",
+      "title": "Trucha Arcoíris",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Con sus colores vibrantes, estos peces son vistas comunes en ríos y arroyos frescos.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:rainbow_trout",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Lagos y Ríos$(li)Temperatura ideal: -4.3°C (rango: -35.5°C a 18.5°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

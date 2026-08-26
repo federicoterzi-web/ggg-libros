@@ -1,0 +1,23 @@
+{
+  "name": "Koi de Neptuno",
+  "icon": "tide:neptune_koi",
+  "category": "patchouli:saltwater",
+  "sortnum": 17,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:neptune_koi",
+      "title": "Koi de Neptuno",
+      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Este pez tiene hermosos anillos brillantes alrededor de su cuerpo. Los rumores dicen que protege las aguas de los espíritus malignos.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:neptune_koi",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Océanos$(li)Fase lunar: Luna Nueva$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

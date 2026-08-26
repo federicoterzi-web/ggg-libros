@@ -1,0 +1,23 @@
+{
+  "name": "Pargo Rojo",
+  "icon": "tide:red_snapper",
+  "category": "patchouli:saltwater",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:red_snapper",
+      "title": "Pargo Rojo",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Conocido por su vibrante tono rojo, habita en fondos rocosos en aguas costeras.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:red_snapper",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Océanos$(li)Temperatura ideal: 4.4°C (rango: -35.5°C a 28.9°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Lucioperca",
+  "icon": "tide:walleye",
+  "category": "patchouli:freshwater",
+  "sortnum": 12,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:walleye",
+      "title": "Lucioperca",
+      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)Acechando en las gélidas profundidades, este pez de ojos agudos es apreciado por muchos pescadores.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:walleye",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Lagos y Ríos$(li)Horario: 06:00-10:00, 15:00-06:00$(li)Temperatura ideal: -35.5°C (rango: -35.5°C a 22.1°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

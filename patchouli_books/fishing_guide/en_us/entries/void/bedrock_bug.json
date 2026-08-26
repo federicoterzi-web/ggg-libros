@@ -1,0 +1,23 @@
+{
+  "name": "Bicho de Bedrock",
+  "icon": "tide:bedrock_bug",
+  "category": "patchouli:void",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:bedrock_bug",
+      "title": "Bicho de Bedrock",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Sus dientes pueden penetrar la roca base, permitiéndoles construir nidos en las profundidades del mundo exterior.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:bedrock_bug",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

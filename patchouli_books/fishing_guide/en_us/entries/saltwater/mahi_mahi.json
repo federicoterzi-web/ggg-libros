@@ -1,0 +1,26 @@
+{
+  "name": "Mahi-Mahi",
+  "icon": "tide:mahi_mahi",
+  "category": "patchouli:saltwater",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": [
+        "tide:textures/item/mahi_mahi_full.png"
+      ],
+      "title": "Mahi-Mahi",
+      "border": true,
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Estos peces largos tienen colores deslumbrantes y una cabeza roma y redondeada.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:mahi_mahi",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Océanos$(li)Temperatura ideal: 27.1°C (rango: 15.5°C a 40.2°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

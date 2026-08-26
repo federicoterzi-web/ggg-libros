@@ -1,0 +1,23 @@
+{
+  "name": "Ojo de Luna",
+  "icon": "tide:mooneye",
+  "category": "patchouli:freshwater",
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:mooneye",
+      "title": "Ojo de Luna",
+      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Pocos han visto a este pez en la naturaleza. Prosperan en aguas frescas pero permanecen ocultos a la vista.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:mooneye",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Lagos y Ríos$(li)Horario: 06:00-07:00, 18:00-06:00$(li)Temperatura ideal: 2.4°C (rango: -6.2°C a 9.5°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

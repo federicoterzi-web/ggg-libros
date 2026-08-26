@@ -1,0 +1,23 @@
+{
+  "name": "Lubina de Boca Grande",
+  "icon": "tide:largemouth_bass",
+  "category": "patchouli:freshwater",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:largemouth_bass",
+      "title": "Lubina de Boca Grande",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Un depredador audaz y agresivo. Este pez que habita en los lagos es un favorito ampliamente aceptado.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:largemouth_bass",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Lagos y Ríos$(li)Temperatura ideal: 15.8°C (rango: -17.8°C a 41.4°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

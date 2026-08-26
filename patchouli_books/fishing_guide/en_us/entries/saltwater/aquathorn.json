@@ -1,0 +1,23 @@
+{
+  "name": "Acuespina",
+  "icon": "tide:aquathorn",
+  "category": "patchouli:saltwater",
+  "sortnum": 13,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:aquathorn",
+      "title": "Acuespina",
+      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Un ancestro mucho menos agresivo (y más pequeño) de los guardianes de los monumentos marinos.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Monumento Oceánico$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:aquathorn",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

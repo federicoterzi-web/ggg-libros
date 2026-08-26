@@ -1,0 +1,23 @@
+{
+  "name": "Ojeador de End",
+  "icon": "tide:endergazer",
+  "category": "patchouli:void",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:endergazer",
+      "title": "Ojeador de End",
+      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)Este pez tiene un gran ojo que forma su cabeza. Además de proporcionar visión, el ojo también sirve como cerebro.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() El End"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:endergazer",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

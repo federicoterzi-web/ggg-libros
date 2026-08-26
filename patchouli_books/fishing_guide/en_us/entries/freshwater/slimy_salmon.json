@@ -1,0 +1,23 @@
+{
+  "name": "Salmón Pegajoso",
+  "icon": "tide:slimy_salmon",
+  "category": "patchouli:freshwater",
+  "sortnum": 18,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:slimy_salmon",
+      "title": "Salmón Pegajoso",
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Un caparazón elástico de pez hecho de limo. Su cobertura le permite resistir casi cualquier cosa.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Pantano$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:slimy_salmon",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Pantano$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

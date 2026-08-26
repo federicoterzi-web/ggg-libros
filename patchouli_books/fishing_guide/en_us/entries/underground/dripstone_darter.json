@@ -1,0 +1,23 @@
+{
+  "name": "Dardo de Espeleotema",
+  "icon": "tide:dripstone_darter",
+  "category": "patchouli:underground",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:dripstone_darter",
+      "title": "Dardo de Espeleotema",
+      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)¿Es una estalagmita o una estalactita? De cualquier manera, su nariz puntiaguda es útil para cazar.$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Cuevas de Espeleotema$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:dripstone_darter",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Cuevas de Goteo$(li)Altitud: por debajo de Y=40"
+    }
+  ]
+}

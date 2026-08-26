@@ -1,0 +1,23 @@
+{
+  "name": "Koi de Rescoldo",
+  "icon": "tide:ember_koi",
+  "category": "patchouli:lava",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:ember_koi",
+      "title": "Koi de Rescoldo",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Estos peces están en la parte inferior de la cadena alimenticia, pero pueden usar la lava misma para crear más de ellos.$(br2)$(bold)Categoría:$() Lava$(br)$(bold)Bioma:$() Lava$(br)$(bold)Dimensión:$() —"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:ember_koi",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

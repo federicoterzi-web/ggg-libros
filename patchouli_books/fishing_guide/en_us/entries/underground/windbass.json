@@ -1,0 +1,23 @@
+{
+  "name": "Vientobina",
+  "icon": "tide:windbass",
+  "category": "patchouli:underground",
+  "sortnum": 17,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:windbass",
+      "title": "Vientobina",
+      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Este pez posee una velocidad increíble, potenciada por su habilidad para crear corrientes de viento bajo el agua.$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Cámaras de Desafío$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:windbass",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Altitud: por debajo de Y=30"
+    }
+  ]
+}

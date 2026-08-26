@@ -1,0 +1,23 @@
+{
+  "name": "Pargo de Eco",
+  "icon": "tide:echo_snapper",
+  "category": "patchouli:underground",
+  "sortnum": 16,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:echo_snapper",
+      "title": "Pargo de Eco",
+      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Algo de sculk rodeando una espina de pez sin vida. Aun así, se siente como si estuviera escuchando algo.$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Oscuridad Profunda$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:echo_snapper",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Profundidades Oscuras$(li)Altitud: por debajo de Y=30"
+    }
+  ]
+}

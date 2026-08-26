@@ -1,0 +1,23 @@
+{
+  "name": "Pececillo Dorado",
+  "icon": "tide:gilded_minnow",
+  "category": "patchouli:underground",
+  "sortnum": 13,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:gilded_minnow",
+      "title": "Pececillo Dorado",
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Se dice que este pez fue víctima de una criatura mucho más poderosa, volviendo sus escamas doradas.$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:gilded_minnow",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Altitud: por debajo de Y=30"
+    }
+  ]
+}

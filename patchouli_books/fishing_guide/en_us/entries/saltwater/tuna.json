@@ -1,0 +1,23 @@
+{
+  "name": "Atún",
+  "icon": "tide:tuna",
+  "category": "patchouli:saltwater",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:tuna",
+      "title": "Atún",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Construido para la velocidad y la resistencia, este depredador de mar abierto puede viajar vastas distancias.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:tuna",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Océanos$(li)Temperatura ideal: 11.6°C (rango: -18.8°C a 32.4°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

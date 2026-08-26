@@ -1,0 +1,23 @@
+{
+  "name": "Aleta de End",
+  "icon": "tide:enderfin",
+  "category": "patchouli:void",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:enderfin",
+      "title": "Aleta de End",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)La piel metálica de este pez está cubierta por un tono azul profundo, lo que le da una apariencia de perla.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() El End"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:enderfin",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

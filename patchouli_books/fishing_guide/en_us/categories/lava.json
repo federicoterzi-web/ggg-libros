@@ -1,0 +1,6 @@
+{
+  "name": "Lava",
+  "description": "Criaturas ígneas que nadan en lava derretida.",
+  "icon": "tide:magma_mackerel",
+  "sortnum": 3
+}

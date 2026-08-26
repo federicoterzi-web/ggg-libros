@@ -1,0 +1,23 @@
+{
+  "name": "Pez Brillante",
+  "icon": "tide:glowfish",
+  "category": "patchouli:underground",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:glowfish",
+      "title": "Pez Brillante",
+      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)Un pez bioluminiscente que vive pacíficamente en las profundidades. Se dice que son parientes lejanos de los calamares.$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:glowfish",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Altitud: entre Y=-50 y Y=40"
+    }
+  ]
+}

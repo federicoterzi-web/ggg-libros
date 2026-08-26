@@ -1,0 +1,23 @@
+{
+  "name": "Carpa Somnolienta",
+  "icon": "tide:sleepy_carp",
+  "category": "patchouli:void",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:sleepy_carp",
+      "title": "Carpa Somnolienta",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Un pez perezoso y pasivo que pasa la mayor parte de su tiempo sentado en un solo lugar.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:sleepy_carp",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

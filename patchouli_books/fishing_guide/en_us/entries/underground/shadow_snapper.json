@@ -1,0 +1,23 @@
+{
+  "name": "Pargo Sombrío",
+  "icon": "tide:shadow_snapper",
+  "category": "patchouli:underground",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:shadow_snapper",
+      "title": "Pargo Sombrío",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Un depredador sigiloso de las profundidades que ataca velozmente con sus dientes afilados como navajas.$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:shadow_snapper",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Altitud: por debajo de Y=10"
+    }
+  ]
+}

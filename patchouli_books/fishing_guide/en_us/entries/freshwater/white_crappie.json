@@ -1,0 +1,23 @@
+{
+  "name": "Crappie Blanco",
+  "icon": "tide:white_crappie",
+  "category": "patchouli:freshwater",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:white_crappie",
+      "title": "Crappie Blanco",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Este pez de color claro favorece las aguas más lentas y es una captura recreativa común.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:white_crappie",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Lagos y Ríos$(li)Temperatura ideal: 16.4°C (rango: 3.2°C a 28.0°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

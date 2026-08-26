@@ -1,0 +1,23 @@
+{
+  "name": "Bacalao de Chorus",
+  "icon": "tide:chorus_cod",
+  "category": "patchouli:void",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:chorus_cod",
+      "title": "Bacalao de Chorus",
+      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)Este pez parece haber formado una extraña relación con una flor de chorus, proporcionándole comida gratis.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() El End"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:chorus_cod",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

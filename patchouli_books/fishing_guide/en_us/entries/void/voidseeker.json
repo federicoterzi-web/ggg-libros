@@ -1,0 +1,23 @@
+{
+  "name": "Buscavacío",
+  "icon": "tide:voidseeker",
+  "category": "patchouli:void",
+  "sortnum": 23,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:voidseeker",
+      "title": "Buscavacío",
+      "text": "$(#FFAA00)$(bold)Legendario$()$(br2)No se sabe mucho sobre el buscavacío, excepto que saltan entre dimensiones para evitar ser atrapados.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() El End"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:voidseeker",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

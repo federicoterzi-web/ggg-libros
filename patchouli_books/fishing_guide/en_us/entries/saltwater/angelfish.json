@@ -1,0 +1,23 @@
+{
+  "name": "Pez Ángel",
+  "icon": "tide:angelfish",
+  "category": "patchouli:saltwater",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:angelfish",
+      "title": "Pez Ángel",
+      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)De colores brillantes y elegantes, a menudo se encuentran deslizándose con gracia por los arrecifes de coral.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:angelfish",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Océanos$(li)Temperatura ideal: 50.0°C (rango: 22.2°C a 107.2°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

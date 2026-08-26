@@ -1,0 +1,23 @@
+{
+  "name": "Pez Roca de Ámbar",
+  "icon": "tide:amber_rockfish",
+  "category": "patchouli:void",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:amber_rockfish",
+      "title": "Pez Roca de Ámbar",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Este pez está literalmente hecho de roca, con un musgo naranja brillante cubriendo su cuerpo.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() El End"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:amber_rockfish",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

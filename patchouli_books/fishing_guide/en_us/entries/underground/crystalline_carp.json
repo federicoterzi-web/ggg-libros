@@ -1,0 +1,23 @@
+{
+  "name": "Carpa Cristalina",
+  "icon": "tide:crystalline_carp",
+  "category": "patchouli:underground",
+  "sortnum": 11,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:crystalline_carp",
+      "title": "Carpa Cristalina",
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)La composición de los cristales que rodean las escamas de este misterioso pez es desconocida.$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:crystalline_carp",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Altitud: por debajo de Y=10"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Anchoa",
+  "icon": "tide:anchovy",
+  "category": "patchouli:saltwater",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:anchovy",
+      "title": "Anchoa",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Estos pequeños peces se mueven en grandes bancos que giran por los océanos, creando patrones dinámicos.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:anchovy",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Océanos$(li)Temperatura ideal: 9.9°C (rango: -10.6°C a 24.8°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

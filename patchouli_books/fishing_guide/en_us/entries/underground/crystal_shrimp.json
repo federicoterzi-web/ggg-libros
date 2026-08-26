@@ -1,0 +1,23 @@
+{
+  "name": "Camarón de Cristal",
+  "icon": "tide:crystal_shrimp",
+  "category": "patchouli:underground",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:crystal_shrimp",
+      "title": "Camarón de Cristal",
+      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)Los orígenes de este espécimen son desconocidos. Chispea y brilla mientras flota a través de los acuíferos.$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:crystal_shrimp",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Altitud: por debajo de Y=35"
+    }
+  ]
+}

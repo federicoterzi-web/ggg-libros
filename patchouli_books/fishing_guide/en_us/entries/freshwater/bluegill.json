@@ -1,0 +1,23 @@
+{
+  "name": "Pez Sol",
+  "icon": "tide:bluegill",
+  "category": "patchouli:freshwater",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:bluegill",
+      "title": "Pez Sol",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Una captura clásica en estanques y lagos tranquilos de cualquier región. Siempre tienen hambre de algún cebo.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:bluegill",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Lagos y Ríos$(li)Temperatura ideal: 14.9°C (rango: -35.5°C a 84.2°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

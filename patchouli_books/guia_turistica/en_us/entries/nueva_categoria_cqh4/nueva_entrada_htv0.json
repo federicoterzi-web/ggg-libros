@@ -1,0 +1,14 @@
+{
+  "name": "Manga Cafe",
+  "icon": "minecraft:book",
+  "category": "patchouli:nueva_categoria_cqh4",
+  "priority": false,
+  "secret": false,
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)$(4)Mucho nombre, poco contenido.$()$()$(br)$(0)Te la hago simple: ni hay café, ni hay manga. Es otro de los placeholders del spawn que, la verdad, no cumple ninguna función verdadera en el juego mas que tener un par de NPC Easter Eggs y servir para una misión. Entrá, mirá y andate.$()$(br)$(br)"
+    }
+  ]
+}

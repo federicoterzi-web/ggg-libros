@@ -1,0 +1,23 @@
+{
+  "name": "Crappie Negro",
+  "icon": "tide:black_crappie",
+  "category": "patchouli:freshwater",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:black_crappie",
+      "title": "Crappie Negro",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Oscuro y con patrones, el crappie negro prospera en lagos claros y da pelea.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:black_crappie",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Lagos y Ríos$(li)Temperatura ideal: 10.9°C (rango: -4.3°C a 22.8°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

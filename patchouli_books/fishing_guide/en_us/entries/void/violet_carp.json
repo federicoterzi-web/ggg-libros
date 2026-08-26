@@ -1,0 +1,23 @@
+{
+  "name": "Carpa Violeta",
+  "icon": "tide:violet_carp",
+  "category": "patchouli:void",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:violet_carp",
+      "title": "Carpa Violeta",
+      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)Muchos han debatido de dónde saca este carpa sus colores únicos. Aun así, nadie lo sabe.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() El End"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:violet_carp",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

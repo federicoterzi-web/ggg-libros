@@ -1,0 +1,26 @@
+{
+  "name": "Pez Dragón",
+  "icon": "tide:dragon_fish",
+  "category": "patchouli:void",
+  "sortnum": 25,
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": [
+        "tide:textures/item/dragon_fish_full.png"
+      ],
+      "title": "Pez Dragón",
+      "border": true,
+      "text": "$(#FFAA00)$(bold)Legendario$()$(br2)La leyenda habla de un jugador que sumergió un huevo de dragón en agua durante varios años, creando finalmente esto.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() El End"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:dragon_fish",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

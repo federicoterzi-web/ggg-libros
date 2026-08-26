@@ -1,10 +1,10 @@
 {
   "name": "KFC",
-  "icon": "minecraft:paper",
+  "icon": "minecraft:cooked_chicken",
   "category": "patchouli:nueva_categoria_cqh4",
   "priority": false,
   "secret": false,
-  "sortnum": 0,
+  "sortnum": 1,
   "pages": [
     {
       "type": "patchouli:text",

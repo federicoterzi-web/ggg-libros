@@ -1,0 +1,23 @@
+{
+  "name": "Caballa de Magma",
+  "icon": "tide:magma_mackerel",
+  "category": "patchouli:lava",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:magma_mackerel",
+      "title": "Caballa de Magma",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Con escamas resistentes al calor y aletas poderosas, este pequeño pez navega por los charcos de lava con facilidad.$(br2)$(bold)Categoría:$() Lava$(br)$(bold)Bioma:$() Lava$(br)$(bold)Dimensión:$() —"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:magma_mackerel",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

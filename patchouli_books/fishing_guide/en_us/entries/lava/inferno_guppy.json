@@ -1,0 +1,23 @@
+{
+  "name": "Guppy Infernal",
+  "icon": "tide:inferno_guppy",
+  "category": "patchouli:lava",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:inferno_guppy",
+      "title": "Guppy Infernal",
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Este pequeño pez absorbe grandes cantidades de energía de la lava, eliminando por completo la necesidad de comida.$(br2)$(bold)Categoría:$() Lava$(br)$(bold)Bioma:$() Lava$(br)$(bold)Dimensión:$() —"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:inferno_guppy",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

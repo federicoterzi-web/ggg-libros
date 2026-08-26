@@ -1,0 +1,23 @@
+{
+  "name": "Reptador de Cuevas",
+  "icon": "tide:cave_crawler",
+  "category": "patchouli:underground",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:cave_crawler",
+      "title": "Reptador de Cuevas",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Este cuadrúpedo único es rápido en sus pies y puede escalar cualquier superficie.$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:cave_crawler",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Altitud: entre Y=-30 y Y=40"
+    }
+  ]
+}

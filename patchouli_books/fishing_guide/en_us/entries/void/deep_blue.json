@@ -1,0 +1,23 @@
+{
+  "name": "Azul Profundo",
+  "icon": "tide:deep_blue",
+  "category": "patchouli:void",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:deep_blue",
+      "title": "Azul Profundo",
+      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)La piel dura de este pez y su dieta versátil le permiten sobrevivir mucho más tiempo que otros peces.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:deep_blue",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

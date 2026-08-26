@@ -5,7 +5,6 @@
   "priority": false,
   "secret": false,
   "sortnum": 2,
-  "advancement": "carnicero",
   "pages": [
     {
       "type": "patchouli:text",

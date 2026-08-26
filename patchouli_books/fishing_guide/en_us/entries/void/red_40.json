@@ -1,0 +1,23 @@
+{
+  "name": "Rojo 40",
+  "icon": "tide:red_40",
+  "category": "patchouli:void",
+  "sortnum": 17,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:red_40",
+      "title": "Rojo 40",
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Este insecto sin ojos es sorprendentemente rápido, moviéndose a través del agua o del vacío con facilidad.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() El End"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:red_40",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

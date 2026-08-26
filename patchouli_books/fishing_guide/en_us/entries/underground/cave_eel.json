@@ -1,0 +1,23 @@
+{
+  "name": "Anguila de Cueva",
+  "icon": "tide:cave_eel",
+  "category": "patchouli:underground",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:cave_eel",
+      "title": "Anguila de Cueva",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Estos pequeños fideos de cueva pueden caber entre huecos delgados en terreno rocoso para buscar comida.$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:cave_eel",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Altitud: entre Y=-45 y Y=40"
+    }
+  ]
+}

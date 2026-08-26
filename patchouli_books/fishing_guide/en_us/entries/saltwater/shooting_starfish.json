@@ -1,0 +1,23 @@
+{
+  "name": "Estrella de Mar Fugaz",
+  "icon": "tide:shooting_starfish",
+  "category": "patchouli:saltwater",
+  "sortnum": 22,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:shooting_starfish",
+      "title": "Estrella de Mar Fugaz",
+      "text": "$(#FFAA00)$(bold)Legendario$()$(br2)Algunos pescadores hablan de peces que caen del cielo. Parece que tenían razón.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos Profundos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:shooting_starfish",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Océano Profundo$(li)Horario: 19:00-05:00$(li)Fase lunar: Luna Llena$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

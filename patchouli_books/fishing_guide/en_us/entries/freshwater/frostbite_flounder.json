@@ -1,0 +1,23 @@
+{
+  "name": "Platija Gélida",
+  "icon": "tide:frostbite_flounder",
+  "category": "patchouli:freshwater",
+  "sortnum": 17,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:frostbite_flounder",
+      "title": "Platija Gélida",
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Una platija que parece estar congelada en su lugar. Acechan en fondos marinos gélidos.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Biomas Helados$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:frostbite_flounder",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Biomas Helados$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

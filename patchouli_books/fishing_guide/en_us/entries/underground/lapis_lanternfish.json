@@ -1,0 +1,23 @@
+{
+  "name": "Pez Linterna de Lapis",
+  "icon": "tide:lapis_lanternfish",
+  "category": "patchouli:underground",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:lapis_lanternfish",
+      "title": "Pez Linterna de Lapis",
+      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)Este diminuto pez de lapislázuli posee cantidades impactantes de fuerza y velocidad.$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:lapis_lanternfish",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Altitud: por debajo de Y=20"
+    }
+  ]
+}

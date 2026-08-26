@@ -1,0 +1,26 @@
+{
+  "name": "Celacanto",
+  "icon": "tide:coelacanth",
+  "category": "patchouli:saltwater",
+  "sortnum": 21,
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": [
+        "tide:textures/item/coelacanth_full.png"
+      ],
+      "title": "Celacanto",
+      "border": true,
+      "text": "$(#FFAA00)$(bold)Legendario$()$(br2)Un fósil viviente, que se creía extinguido hace millones de años. Acechan en cuevas oscuras para evitar la luz.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos Profundos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:coelacanth",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Océano Profundo$(li)Horario: 19:00-05:00$(li)Temperatura ideal: 24.0°C (rango: 18.3°C a 29.9°C)$(li)Clima: Lluvia, Tormenta$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

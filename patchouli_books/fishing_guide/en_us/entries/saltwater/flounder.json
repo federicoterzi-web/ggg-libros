@@ -1,0 +1,23 @@
+{
+  "name": "Platija",
+  "icon": "tide:flounder",
+  "category": "patchouli:saltwater",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:flounder",
+      "title": "Platija",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Estos peces de forma única descansan planos contra los fondos marinos arenosos o fangosos, manteniéndose ocultos de los depredadores.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:flounder",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Océanos$(li)Temperatura ideal: 6.3°C (rango: -16.3°C a 21.7°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

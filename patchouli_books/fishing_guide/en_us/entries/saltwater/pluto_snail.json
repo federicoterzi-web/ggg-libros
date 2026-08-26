@@ -1,0 +1,23 @@
+{
+  "name": "Caracol de Plutón",
+  "icon": "tide:pluto_snail",
+  "category": "patchouli:saltwater",
+  "sortnum": 14,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:pluto_snail",
+      "title": "Caracol de Plutón",
+      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Arrastrándose en el fondo del océano, este colorido caracol es mucho menos lento que sus parientes.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:pluto_snail",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Océanos$(li)Fase lunar: Creciente Menguante, Creciente Creciente$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

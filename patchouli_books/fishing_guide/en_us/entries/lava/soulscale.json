@@ -1,0 +1,23 @@
+{
+  "name": "Almascamas",
+  "icon": "tide:soulscale",
+  "category": "patchouli:lava",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:soulscale",
+      "title": "Almascamas",
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Este pez está tejido de hebras de tierra de almas poseídas por un espíritu fantasmal.$(br2)$(bold)Categoría:$() Lava$(br)$(bold)Bioma:$() Lava$(br)$(bold)Dimensión:$() El Nether"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:soulscale",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "Sin restricciones especiales de pesca."
+    }
+  ]
+}

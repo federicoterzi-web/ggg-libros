@@ -1,0 +1,23 @@
+{
+  "name": "Acechador de Esporas",
+  "icon": "tide:spore_stalker",
+  "category": "patchouli:saltwater",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:spore_stalker",
+      "title": "Acechador de Esporas",
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Este demonio fúngico acude a los hongos cercanos. Es posible que haya sido un pez en algún momento.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Isla de Setas$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:spore_stalker",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Campo de Champiñones$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

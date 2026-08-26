@@ -1,0 +1,23 @@
+{
+  "name": "Caballa",
+  "icon": "tide:mackerel",
+  "category": "patchouli:saltwater",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:mackerel",
+      "title": "Caballa",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)De movimiento rápido, formando bancos apretados, y una vista común en aguas costeras y mar abierto.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:mackerel",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Océanos$(li)Temperatura ideal: 18.0°C (rango: 1.3°C a 32.7°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

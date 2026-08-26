@@ -1,0 +1,23 @@
+{
+  "name": "Lubina de Boca Pequeña",
+  "icon": "tide:smallmouth_bass",
+  "category": "patchouli:freshwater",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:smallmouth_bass",
+      "title": "Lubina de Boca Pequeña",
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Un parecido a sus primos de boca grande, estos peces prefieren aguas ligeramente más frescas y calmadas.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:smallmouth_bass",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Lagos y Ríos$(li)Temperatura ideal: 6.3°C (rango: -34.8°C a 29.9°C)$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}

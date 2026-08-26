@@ -1,0 +1,23 @@
+{
+  "name": "Bagre Espejismo",
+  "icon": "tide:mirage_catfish",
+  "category": "patchouli:freshwater",
+  "sortnum": 14,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tide:mirage_catfish",
+      "title": "Bagre Espejismo",
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Encontrado bajo calor extremo, este bagre ha confundido a los viajeros durante muchos años.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Desierto$(br)$(bold)Dimensión:$() Mundo superior"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "tide:mirage_catfish",
+      "scale": 1.0,
+      "rotate": true,
+      "default_rotation": 0.0,
+      "name": "Condiciones de pesca",
+      "text": "$(li)Biomas: Desierto$(li)Horario: 18:00-06:00$(li)Altitud: por encima de Y=40"
+    }
+  ]
+}
