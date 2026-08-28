@@ -10,7 +10,7 @@
 		"9": "ggg:item/guia_turistica/tapa_frontal",
 		"10": "ggg:item/guia_turistica/tapa_trasera_trans",
 		"11": "ggg:item/guia_turistica/paginas_cuadrada_expandida",
-		"particle": "ggg:item/tapa_frontal"
+		"particle": "ggg:item/guia_turistica/tapa_frontal"
 	},
 	"elements": [
 		{
