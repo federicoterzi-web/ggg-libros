@@ -1,0 +1,14 @@
+{
+  "name": "El Otraniano",
+  "icon": "minecraft:beacon",
+  "category": "patchouli:nueva_categoria_oxjw",
+  "priority": false,
+  "secret": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "NPC estático en el spawn que ha decidido abandonar su vida para estar parado siempre en el mismo lugar, esperando recibir a los nuevos y darles interesantes misiones para empezar con una ayudita su vida en este mundo."
+    }
+  ]
+}

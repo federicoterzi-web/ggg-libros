@@ -1,0 +1,14 @@
+{
+  "name": "Gachapon",
+  "icon": "plushiesggg:procito19",
+  "category": "patchouli:nueva_categoria_wzo6",
+  "priority": false,
+  "secret": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Si te gusta tirar la platita y que te den cosas suaves a cambio, vas a vivir acá adentro. ¿Qué sacás de acá?: Colección enfermiza (peluches de todo tipo y tamaño), Variedad (muñequitos de todos los modos de Minecraft y habitantes del server), Para los simps (peluches de seres supremos, Admins y representantes de la cultura Otraniana).."
+    }
+  ]
+}

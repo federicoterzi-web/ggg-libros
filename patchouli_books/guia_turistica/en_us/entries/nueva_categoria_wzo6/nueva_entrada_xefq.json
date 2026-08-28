@@ -1,0 +1,14 @@
+{
+  "name": "Iglesia",
+  "icon": "artifacts:cross_necklace",
+  "category": "patchouli:nueva_categoria_wzo6",
+  "priority": false,
+  "secret": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(0)¿Querés hacerte monaguillo para que te toque un cura? Pues este no es el lugar, enfermito. Los curas de esta iglesia son solo NPCs sin ningún tipo de interacción interesante. Además, el lugar está marcado como $()$(0)soon to be demolished$()$(0) (pronto a ser demolido), así que rajá de ahí.$()$(br)$(br)"
+    }
+  ]
+}

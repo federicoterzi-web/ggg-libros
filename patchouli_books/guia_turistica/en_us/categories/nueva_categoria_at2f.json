@@ -1,0 +1,7 @@
+{
+  "name": "Servicios",
+  "description": "La categoría mas importante",
+  "icon": "minecraft:book",
+  "secret": false,
+  "sortnum": 2
+}

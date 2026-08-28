@@ -1,0 +1,14 @@
+{
+  "name": "Maderera Riva",
+  "icon": "minecraft:cherry_log",
+  "category": "patchouli:nueva_categoria_olsh",
+  "priority": false,
+  "secret": false,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Para los que siempre andan buscando un buen tronco. Cortita y al pie: este es el lugar oficial del server para comprar y vender madera. Nada más y nada menos. Si te da amsiedad ir al bosque a ensuciarte las manitos o si andás necesitando un tronco bien duro y grueso para terminar el techo de tu base, venís acá.  "
+    }
+  ]
+}

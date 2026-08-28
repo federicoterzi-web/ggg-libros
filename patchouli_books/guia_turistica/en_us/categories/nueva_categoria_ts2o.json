@@ -1,0 +1,7 @@
+{
+  "name": "Secretos",
+  "description": "¿Exploraste bien? hay lugares apartaditos y no, no estoy referenciando el cruising.",
+  "icon": "minecraft:barrier",
+  "secret": false,
+  "sortnum": 7
+}

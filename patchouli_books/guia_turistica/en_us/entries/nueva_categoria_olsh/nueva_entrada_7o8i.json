@@ -1,0 +1,26 @@
+{
+  "name": "Tienda de Exploradores",
+  "icon": "minecraft:elytra",
+  "category": "patchouli:nueva_categoria_olsh",
+  "priority": false,
+  "secret": false,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(0)Si sos de los que tienen el culo pegado a la silla 24/7 este es tu lugar. Ya que te da amsiedad salir a tocar el pasto en la vida real, por lo menos vení a hacer de cuenta que explorás en Minecraft. Acá venís a comprar equipamiento para salir a cazar y vender toda la mugre que juntás cuando te hacés el Indiana Jones por el mapa.$()$(br)$(br)"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)$(0)¿Qué podés vender acá para facturar?$()$()$(br)$(br)• $(bold)$(0) Caza Mayor (Therians):  $()$()Acá podés vender el preciado hueso del líder therian. Guarde que furros y therians. ¡Anotá, butito ignorante, y dejen de decirme therian!  $(br)$(0) $()$(br)• $(bold)$(0)Ectoplasma pegajoso: $()$()No me pregunten cómo o de dónde se le saca ese líquido blanco y espeso a un fantasma, prefiero no enterarme.$(br)$(br)$(br)"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(#222222) $()$(bold)$(0) $()$()$(br)• $(bold)$(0)Contenido Exclusivo (Sirenas y Hombres Sirena):$()$()$(#222222) Ojito, rey, que  todo es contenido exclusivo. Si tenés el Patreon habilitado, vas a poder sacar buena guita entregando los corazones de sirena, el tridente (que es un arma rotísima) y, por supuesto, sus escamas.$()$(br)$(br)"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(6)💡 El Consejo de Rozsier$()$(0):$()$(br)$(0)Dejá de farmear AFK en el Spawn y andá a tocar un poco de pasto, rey. Comprá buen equipamiento, no seas rata y traé loot que sirva para levantar la economía. Y cuidado con los hombres sirena, mirá que vas por el loot y terminás entregando el rosquete en el fondo del mar. ¡A explorar, golosos!$()"
+    }
+  ]
+}

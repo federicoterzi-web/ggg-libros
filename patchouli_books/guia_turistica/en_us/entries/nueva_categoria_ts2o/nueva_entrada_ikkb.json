@@ -1,0 +1,14 @@
+{
+  "name": "Maus",
+  "icon": "natures_spirit:cheese_block",
+  "category": "patchouli:nueva_categoria_ts2o",
+  "priority": false,
+  "secret": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Un speakeasy (bar clandestino) subterráneo donde los niños ragta se juntan a timbear y escuchar música."
+    }
+  ]
+}
