@@ -1,0 +1,18 @@
+{
+  "name": "Memuebles 2",
+  "icon": "pfm:acacia_classic_nightstand",
+  "category": "patchouli:decoracion",
+  "priority": false,
+  "secret": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Para decorar tu casa y pasear a tu \"mascotita\". A ver, gente, si van a invitar a alguien a su base para hacer... \"cositas\", no pueden tenerlos sentados en un bloque de tierra húmeda. Un poco de dignidad y amor propio. Para eso existe Memuebles 2, el local definitivo para que dejes de vivir como un cavernícola y empieces a gastar platita en diseño de interiores."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)$(italic)Qué vas a encontrar acá?:$() Muebles de Paladin Furnitures$() (todo el catálogo para que tu chocita parezca un palacio) y Accesorios de $(bold)Leashable Collars$() (venden accesorios de esta marca, incluyendo los mejores collares y correas ideales para atar a tu femboy de confianza y sacarlo a pasear por el Spawn)."
+    }
+  ]
+}

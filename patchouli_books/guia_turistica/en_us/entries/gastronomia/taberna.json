@@ -1,0 +1,14 @@
+{
+  "name": "Taberna",
+  "icon": "farmersdelight:apple_cider",
+  "category": "patchouli:gastronomia",
+  "priority": false,
+  "secret": false,
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(4)$(bold)Un lugar que pide a gritos la eutanasia.$()$()$(br)$(0)Originalmente este era el sitio donde empezaba la aventura. Ahora solo es un triste cascarón lleno de NPCs que ya no tienen una función y están esperando el momento en que los deleteen de una vez. F en el chat.$()$(br)$(br)"
+    }
+  ]
+}

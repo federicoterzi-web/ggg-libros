@@ -1,0 +1,14 @@
+{
+  "name": "Mural Comunitario",
+  "icon": "camerapture:camera",
+  "category": "patchouli:entretenimiento",
+  "priority": false,
+  "secret": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Espacio donde se pegan fotos importantes de la historia del servidor y se pueden dejar sugerencias en un cofre para que se vaya renovando."
+    }
+  ]
+}

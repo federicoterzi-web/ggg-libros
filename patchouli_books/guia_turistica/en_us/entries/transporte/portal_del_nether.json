@@ -1,0 +1,14 @@
+{
+  "name": "Portal del Nether",
+  "icon": "minecraft:nether_portal",
+  "category": "patchouli:transporte",
+  "priority": false,
+  "secret": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Para vos que estuviste ahí el día que se abrió el Negro en el cerro, seguramente te trae recuerdos nostálgicos, pero para los nuevos que directamente usan el /warp capaz que ni lo conoce, esta es una buena oportunidad para que lo conozcas."
+    }
+  ]
+}
