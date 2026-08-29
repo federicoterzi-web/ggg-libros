@@ -1,9 +1,12 @@
 {
-  "name": "Manual de Cocina GGG",
+  "name": "Recetas de la Abuela",
   "landing_text": "$(d)$(l)Che, $(playername).$()$(br)$(br)Soy tu abuela, y como ya no voy a estar para cocinarte, te dejo esto de herencia. A ver si con esto aprendés algo, porque solo no vas a durar mucho.$(br)$(br)Prestá atención esta vez.",
-  "version": 1,
+"subtitle": "Recetario recuperado en una casa abandonada"
+  "version": 0,
   "creative_tab": "minecraft:tools_and_utilities",
   "model": "ggg:manual_cocina",
+ "book_texture": "ggg:textures/gui/manual_cocina.png",
+"filler_texture": "ggg:textures/gui/cocina_filler.png",
  "custom_book_item": "minecraft:written_book[minecraft:lore=['{\"text\":\"Recopilatorio de recetas escritos por una abuela tierna rescatado de un basurero. Un tesoro culinario!.\",\"italic\":true,\"color\":\"gray\"}','{\"text\":\"Prestá atención.\",\"italic\":true,\"color\":\"gray\"}']]",
   "use_resource_pack": false,
   "show_progress": false,
