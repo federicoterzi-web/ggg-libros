@@ -1,7 +1,7 @@
 {
   "name": "Servicios",
   "description": "La categoría mas importante",
-  "icon": "minecraft:book",
+  "icon": "minecraft:writable_book",
   "secret": false,
   "sortnum": 2
 }

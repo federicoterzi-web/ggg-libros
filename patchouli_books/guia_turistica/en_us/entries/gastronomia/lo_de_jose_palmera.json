@@ -13,7 +13,7 @@
     },
     {
       "type": "patchouli:text",
-      "text": "$(br)$(br)$(li)$(0)$(bold)Gastronomía marítima$(): Platos de pescado para que dejes de alimentarte a pura zanahoria y carne podrida.$()$(br)• $(0) Invisibilidad absoluta: Está  tan ignorado por todos que si te descubren dupeando y te escondés atrás del mostrador de José, no te encuentra ni Galvhi.$()$(br)• $(0)Atención personalizada: Sos el único cliente que va a pisar el local en todo el mes, así que tratá bien al pobre José.$()ina."
+      "text": "$(li)$(bold)$(0)Gastronomía marítima$()$(): Platos de pescado para que dejes de alimentarte a pura zanahoria y carne podrida.$(br)$(bold)• $()$(bold)$(0) Invisibilidad absoluta:$()$() Está  tan ignorado por todos que si te descubren dupeando y te escondés atrás del mostrador de José, no te encuentra ni Galvhi.$(br)$(bold)• $()$(bold)$(0)Atención personalizada: $()$()Sos el único cliente que va a pisar el local en todo el mes, así que tratá bien al pobre José.ina."
     }
   ]
 }

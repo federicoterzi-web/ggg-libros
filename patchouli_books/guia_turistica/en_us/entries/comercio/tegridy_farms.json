@@ -1,6 +1,6 @@
 {
   "name": "Tegridy Farms",
-  "icon": "minecraft:paper",
+  "icon": "minecraft:hay_block",
   "category": "patchouli:comercio",
   "priority": false,
   "secret": false,

@@ -1,6 +1,6 @@
 {
   "name": "Travis Bickle",
-  "icon": "minecraft:paper",
+  "icon": "minecraft:minecart",
   "category": "patchouli:transporte",
   "priority": false,
   "secret": false,
@@ -8,7 +8,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Este sujeto (describir el personaje de Taxi Driver) es un sujeto que te va a ayudar a llegar rápidamente al lugar más vicioso de este planeta lo que sí, primero tienes que llegar por tu cuenta después él te lleva en Taxi de vuelta hasta Las Vegas."
+      "text": "Este sujeto te va a ayudar a llegar rápidamente al lugar más vicioso de este planeta lo que sí, primero tienes que llegar por tu cuenta después él te lleva en Taxi de vuelta hasta Las Vegas. Cuidado que por ahí se saca."
     }
   ]
 }

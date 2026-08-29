@@ -1,7 +1,7 @@
 {
   "name": "Entretenimiento",
   "description": "Algunas Actividades para distraaerse",
-  "icon": "minecraft:book",
+  "icon": "minecraft:firework_rocket",
   "secret": false,
-  "sortnum": 5
+  "sortnum": 6
 }

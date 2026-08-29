@@ -1,0 +1,18 @@
+{
+  "name": "Mejora de Armaduras",
+  "icon": "minecraft:chainmail_chestplate",
+  "category": "patchouli:equipamiento",
+  "priority": false,
+  "secret": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(4)$(bold)Para ponerte bien duro (de protección).$()$()$(br)$(0)¿Llevaste tu armadura a warden y crees que llegaste al máximo? No, pedazo de iluso, hay más. Siempre te la pueden poner más difícil.$()$(br)$(br)"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)$(0)¿Qué le hacés a tu armadura acá?$()$()$(br)$(br)• $(bold)$(0)Tryhardeo extremo:$()$() Acá vas a poder conseguir las elytras definitivas.$(br)$(br)• $(bold)$(0)Más duro todavía:$()$() En este local venís a mejorar tu armadura para que no te rompan el asterisco a la primera de cambio cuando salís de tu base.$(br)$(br)• $(bold)$(0)Vaciate los bolsillos: $()$()Todo esto lo hacés por un precio, obvio. Preparate para entregar la cola."
+    }
+  ]
+}
