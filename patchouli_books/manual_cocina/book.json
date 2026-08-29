@@ -1,7 +1,7 @@
 {
-  "name": "Recetas de la Abuela",
+  "name": "Recetas de la Abu",
   "landing_text": "$(d)$(l)Che, $(playername).$()$(br)$(br)Soy tu abuela, y como ya no voy a estar para cocinarte, te dejo esto de herencia. A ver si con esto aprendés algo, porque solo no vas a durar mucho.$(br)$(br)Prestá atención esta vez.",
-"subtitle": "Recetario recuperado en una casa abandonada",
+"subtitle": "Recetario recuperado",
   "version": 0,
   "creative_tab": "minecraft:tools_and_utilities",
   "model": "ggg:manual_cocina",
