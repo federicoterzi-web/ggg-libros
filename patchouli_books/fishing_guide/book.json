@@ -2,7 +2,8 @@
   "name": "Pescadex",
   "landing_text": "$(thing)Registro de todas las especies conocidas en las aguas de GGG.$(br2)Compilado, catalogado y corregido a mano por $(bold)H0p3san$(), primer completista de la Pescadex.$(br2)$(italic)\"Si todavía no lo pescaste, no existe.\"$()",
   "subtitle": "Escrito por H0p3san",
-  "version": 1,
+"model": "ggg:fishing_guide"
+  "version": 0,
   "creative_tab": "minecraft:tools_and_utilities",
   "use_resource_pack": false
 }

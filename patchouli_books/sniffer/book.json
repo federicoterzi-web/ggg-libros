@@ -1,7 +1,7 @@
 {
-  "name": "Manual del Cuidador de Sniffers",
-  "version": 1,
-  "subtitle": "§lEdición Dragon Mall§r\n\n§o",
+  "name": "Sniffers",
+  "version": 0,
+  "subtitle": "Manual del Criador",
   "landing_text": "El mejor amigo del pescador no vive en el agua... vive sobre el musgo.\n\nUn folleto rápido con todo lo necesario para iniciar y automatizar tu criadero de tesoros.",
   "creative_tab": "minecraft:tools_and_utilities",
   "pamphlet": true,
