@@ -1,0 +1,21 @@
+{
+  "name": "Cañas de Pescar",
+  "icon": "tide:diamond_fishing_rod",
+  "category": "patchouli:introduccion",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "13 Cañas Distintas",
+      "text": "No alcanza con la caña de madera de siempre. Tide trae 13 cañas propias, cada una con dos cosas que le importan a un completista: cuántos $(bold)slots de cebo$() tiene (cuántos cebos podés cargarle a la vez, sus efectos se suman) y su $(bold)durabilidad$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)Piedra y Hierro: 1 slot, las más básicas$(li)Oro, Cristal, Diamante, Netherite: 2 slots (la Netherite además es ígnifuga)$(li)Eco, Prismarina, Midas: 3 slots$(li)Aldeana, Ardiente: 4 slots$(li)Panal: 5 slots$(li)Girasol: 6 slots, la que más cebos aguanta"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Cada una se craftea distinto según sus materiales (varía el patrón, pero todas siguen la forma clásica de caña: dos palos en diagonal más el material principal). Para consultar la receta exacta de una caña puntual, abrí el libro de recetas (tecla R) parada sobre el ítem."
+    }
+  ]
+}

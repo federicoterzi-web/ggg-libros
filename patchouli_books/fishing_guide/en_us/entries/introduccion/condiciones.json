@@ -1,0 +1,33 @@
+{
+  "name": "Condiciones de Pesca",
+  "icon": "minecraft:compass",
+  "category": "patchouli:introduccion",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Leyendo una Ficha",
+      "text": "Cada pez de este libro tiene una segunda página con el modelo 3D y una lista de $(bold)condiciones de pesca$(). Son los requisitos que tiene que cumplir el lugar y el momento para que ese pez pueda aparecer. Acá te explico qué significa cada una."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Agua y Biomas",
+      "text": "Lo primero es el $(bold)tipo de agua$(): dulce, salada, lava o el vacío. La mayoría de los peces de agua dulce o salada pueden aparecer en $(italic)cualquier$() bioma de ese tipo, salvo que la ficha diga puntualmente otro bioma (jungla, pantano, desierto, etc.) — ahí sí hay que ir específicamente a ese lugar."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Estación y Horario",
+      "text": "Algunos peces solo pican en ciertas épocas del año o franjas horarias. Si la ficha no menciona nada de esto, es porque ese pez no tiene restricción — pica todo el año, a cualquier hora."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Clima y Fase Lunar",
+      "text": "Unos pocos peces son más quisquillosos todavía y solo aparecen con determinado clima (despejado, lluvia o tormenta) o en ciertas fases de la luna. Si no ves esta línea en la ficha, no te preocupes por el cielo."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Altitud y Estructuras",
+      "text": "La $(bold)altitud$() marca en qué rango de nivel Y tenés que estar pescando (por encima, por debajo, o entre dos valores). Algunos peces además necesitan una estructura cercana — un naufragio, un monumento, una cámara de prueba — para poder salir."
+    }
+  ]
+}

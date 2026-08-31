@@ -1,0 +1,21 @@
+{
+  "name": "La Temperatura",
+  "icon": "tide:climate_gauge",
+  "category": "patchouli:introduccion",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "El Termómetro",
+      "text": "Muchos peces tienen una $(bold)temperatura ideal$(). No es una condición estricta como el bioma o la altitud: si el agua no está en el rango exacto, el pez todavía puede aparecer, pero con menos probabilidad. Cuanto más te alejás de su ideal, más difícil se pone."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Para medir la temperatura del agua en la que estás parado, usá el $(bold)Medidor de Clima$() (el termómetro). Te va a marcar la temperatura exacta en grados Celsius, la misma escala que uso en cada ficha de este libro."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Si un pez muestra un rango de temperatura muy amplio en su ficha, quiere decir que es tolerante — casi cualquier lugar le sirve. Si el rango es angosto, más vale que uses el termómetro antes de perder tiempo tirando la caña ahí."
+    }
+  ]
+}

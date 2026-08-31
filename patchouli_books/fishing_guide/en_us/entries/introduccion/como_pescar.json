@@ -1,0 +1,27 @@
+{
+  "name": "Cómo Pescar",
+  "icon": "minecraft:fishing_rod",
+  "category": "patchouli:introduccion",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "El Minijuego",
+      "text": "Cuando algo pica, no alcanza con esperar: hay que $(bold)ganarle al pez$(). Aparece una barra con un indicador que se mueve solo, y tenés que mantenerlo dentro de la zona marcada para ir llenando el progreso."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Fuerza y Velocidad",
+      "text": "Cada pez tiene dos números que le complican (o facilitan) la vida al pescador:$(br2)$(bold)Fuerza:$() define qué tan chica es la zona segura. Un pez de fuerza alta te deja un margen mínimo para acertar.$(br2)$(bold)Velocidad:$() define cuántas veces por segundo se mueve el indicador. A más velocidad, menos tiempo tenés para reaccionar."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "El Comportamiento",
+      "text": "Además, cada pez mueve el indicador con un patrón distinto. Vas a ver seis tipos, y conviene reconocerlos de entrada:$(br)$(li)$(bold)Sine:$() vaivén suave y previsible, de manual$(li)$(bold)Plateau:$() se frena en cada punta antes de volver$(li)$(bold)Jitter:$() tiembla todo el tiempo, cuesta seguirlo$(li)$(bold)Darts:$() hace movimientos bruscos e impredecibles$(li)$(bold)Linear:$() va y viene a velocidad constante, rebotando$(li)$(bold)Linear Wrap:$() en vez de rebotar, desaparece de una punta y reaparece en la otra"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Ojo con los peces $(italic)jitter$() y $(italic)darts$() de alta velocidad — ahí perdí más de un récord antes de agarrarles la mano. Practicá primero con algo tranquilo como una carpa antes de ir por un tiburón."
+    }
+  ]
+}

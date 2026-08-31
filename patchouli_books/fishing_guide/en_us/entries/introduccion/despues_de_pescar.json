@@ -1,0 +1,27 @@
+{
+  "name": "Después de Pescar",
+  "icon": "tide:fish_display",
+  "category": "patchouli:introduccion",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Baldes",
+      "text": "Casi todos los peces tienen su propio balde: acercate a uno vivo con un balde de agua vacío y lo vas a levantar entero, sano y nadando. Sirve para transportarlo, para criarlo en un tanque, o simplemente para tenerlo de mascota."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Vitrina de Peces",
+      "text": "Si lo que querés es presumir tu récord, colocá una $(bold)Vitrina de Peces$() en la pared y usá el balde ahí — el pez queda montado con su modelo real en 3D, no una foto ni un cartel. Es lo más parecido a tener un trofeo de verdad."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Morral de Peces",
+      "text": "Para no andar cargando un inventario lleno de baldes, conseguite un $(bold)Morral de Peces$(). Es un ítem con inventario propio pensado para guardar tus capturas sin ocupar todo el hotbar."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Con esto ya tenés todo lo que yo hubiese querido saber antes de empezar. Ahora sí, andá a buscar cada uno de los 102 — y cuando termines la Pescadex entera, ya sabés a quién agradecerle.$(br2)$(italic)— H0p3san$()"
+    }
+  ]
+}

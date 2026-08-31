@@ -1,0 +1,28 @@
+{
+  "name": "Mesa de Pesca y Accesorios",
+  "icon": "tide:angling_table",
+  "category": "patchouli:introduccion",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "La Mesa de Pesca",
+      "text": "La $(bold)Mesa de Pesca$() no craftea nada por sí sola: es donde le acoplás (o sacás) accesorios a una caña. Se abre como un yunque, con 4 espacios: la caña, la línea, el flotador y el anzuelo.$(br2)$(bold)Receta:$() 2 cuerdas arriba, 2 lingotes de cobre en el medio, 2 tablones abajo."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Anzuelos",
+      "text": "Le dan un efecto especial a la caña mientras esté puesto:$(br)$(li)Ardiente: sube la temperatura del agua$(li)Permafrost: la baja$(li)Crepuscular: invierte las preferencias horarias de los peces$(li)A prueba de lava: permite pescar en lava$(li)Del Vacío: permite pescar en el vacío"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Líneas",
+      "text": "Facilitan el minijuego de distinta forma:$(br)$(li)Cobre: -10% velocidad del pez$(li)Hierro: -15% dificultad de captura$(li)Oro: -5% velocidad del pez $(bold)y$() +1 suerte de pesca$(li)Diamante: -25% dificultad de captura"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Flotadores (Bobbers)",
+      "text": "Hay más de 20, pero son puramente cosméticos — un color de lana, una gema, una fruta. Solo cambian cómo se ve el flotador en el agua, sin afectar el minijuego para nada. Ni siquiera la Manzana Dorada Encantada es la excepción: brilla como un ítem encantado, pero funcionalmente es un flotador más."
+    }
+  ]
+}

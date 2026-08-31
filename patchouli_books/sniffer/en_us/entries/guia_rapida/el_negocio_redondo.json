@@ -1,0 +1,24 @@
+{
+  "name": "El Negocio Redondo",
+  "icon": "minecraft:fishing_rod",
+  "category": "patchouli:guia_rapida",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "El Negocio Redondo",
+      "text": "$(l)La razón real por la que armás todo este quilombo.$()\n\nUna vez que tenés Vainas de Odre saliendo del criadero, la cosa se pone interesante."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:pitcher_pod",
+      "title": "Vaina de Odre",
+      "text": "$(2)+2 de Suerte en la Pesca$() mientras la tengas — el bonus más grande y accesible que vas a conseguir sin encantamientos."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Consejo del Dragon Mall",
+      "text": "Con un criadero grande, te sobran vainas — vendeselas a otros pescadores en vez de guardarlas todas. Un huevo bien cuidado paga solo, y el resto es ganancia."
+    }
+  ]
+}

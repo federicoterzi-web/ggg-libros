@@ -1,13 +1,32 @@
 {
   "name": "Crianza y Granja",
   "icon": "minecraft:moss_block",
-  "category": "patchouli:guia_rapida",  
-"sortnum": 1,
+  "category": "patchouli:guia_rapida",
+  "sortnum": 1,
   "pages": [
     {
       "type": "patchouli:text",
       "title": "Incubación y Cría",
       "text": "• Colocá los huevos sobre §bmusgo§0 para que eclosionen el doble de rápido.\n• Alimentalos con §4Semillas de Anflorcha§0 para reproducirlos."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:sniffer_egg",
+      "title": "Huevo de Sniffer",
+      "link_recipe": true,
+      "text": "Se consigue con una Pala de Hueso en zonas de manglar bajo el agua. Cuidalos, tardan un rato en eclosionar."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:moss_block",
+      "title": "Bloque de Musgo",
+      "text": "La base de todo criadero — duplica la velocidad de eclosión de los huevos puestos encima."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:torchflower_seeds",
+      "title": "Semillas de Anflorcha",
+      "text": "Dale de comer estas a los sniffers adultos para que se reproduzcan entre ellos."
     },
     {
       "type": "patchouli:text",

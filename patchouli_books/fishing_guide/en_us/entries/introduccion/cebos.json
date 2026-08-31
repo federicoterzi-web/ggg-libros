@@ -1,0 +1,21 @@
+{
+  "name": "Cebos",
+  "icon": "tide:lucky_bait",
+  "category": "patchouli:introduccion",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Cebar la Caña",
+      "text": "Los cebos se cargan en la caña desde la Mesa de Pesca (o directo, según el cebo) y sus efectos se $(bold)suman$() si tenés más de uno cargado — por eso conviene una caña con muchos slots."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(bold)Cebo común:$() +2 velocidad combinada. Se craftea con una planta de cebo, carne podrida, una semilla y harina de hueso$(li)$(bold)Cebo de la Suerte:$() +2 suerte. 8 cebos comunes rodeando una pata de conejo$(li)$(bold)Cebo Magnético:$() +25% de probabilidad de sacar un cofre en vez de un pez. Receta con lapislázuli, pepitas de hierro, prismarina y redstone"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(bold)Cebo Incandescente:$() +1 velocidad. No se craftea con ingredientes sueltos — sale de procesar una larva incandescente que se pesca en biomas de lava$(li)$(bold)Cebo del Abismo:$() +2 velocidad. Sale de un pez mazo pálido, una captura de las profundidades"
+    }
+  ]
+}

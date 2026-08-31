@@ -1,0 +1,21 @@
+{
+  "name": "Bienvenida",
+  "icon": "tide:fishing_journal",
+  "category": "patchouli:introduccion",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "La Pescadex",
+      "text": "Si estás leyendo esto es porque encontraste (o alguien te regaló, o se lo afanaste a alguien) la Pescadex.$(br2)Esto no es un libro cualquiera. Es el resultado de años tirando la caña en cada charco, río, cueva, océano y agujero de lava de este mundo, anotando todo lo que salía enganchado."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Me llamo $(bold)H0p3san$(), y sí, soy el primer completista de la Pescadex. Los 102 peces, uno por uno, con récord de tamaño incluido. No fue fácil.$(br2)Este libro es para que a vos no te cueste tanto como me costó a mí. Ordené todo por dónde vive cada bicho, qué necesita para aparecer, y algún que otro consejo que aprendí a las patadas."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Cómo está organizado este libro:$()$(br)Cada categoría del menú de la izquierda agrupa los peces según dónde se los pesca: agua dulce, agua salada, subterráneo, lava o el vacío.$(br2)Antes de meterte en las fichas de cada pez, te recomiendo leer estas primeras páginas. Ahí te explico cómo funciona el minijuego de pesca, qué son las 'condiciones de pesca' que vas a ver repetidas en cada ficha, y qué hacer con el pez una vez que lo sacaste del agua."
+    }
+  ]
+}

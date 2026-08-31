@@ -1,0 +1,22 @@
+{
+  "name": "Rareza y Suerte",
+  "icon": "minecraft:emerald",
+  "category": "patchouli:introduccion",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Los Colores de Rareza",
+      "text": "En la primera página de cada ficha vas a ver la rareza del pez resaltada en un color. De más común a más difícil:$(br)$(li)$(#AAAAAA)Común$()$(li)$(#55FF55)Poco Común$()$(li)$(#55FFFF)Raro$()$(li)$(#AA00AA)Muy Raro$()$(li)$(#FFAA00)Legendario$()"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Suerte",
+      "text": "Un puñado de peces (los más codiciados) piden algo más que estar en el lugar correcto: necesitan que tengas $(bold)suerte mínima$() aplicada. Se consigue con el efecto de Suerte — pociones, la encantadura Suerte del Mar en la caña, o algún bloque que dé el efecto. Si la ficha del pez no menciona suerte, no hace falta preocuparse por esto."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Consejo de completista: antes de salir a cazar algo $(#FFAA00)Legendario$(), fijate primero si pide suerte. Me pasé una tarde entera tirando la caña para el pez equivocado por no leer bien la ficha."
+    }
+  ]
+}
