@@ -1,0 +1,17 @@
+{
+  "name": "Filete Mignon Azul",
+  "icon": "mynethersdelight:blue_tenderloin_steak",
+  "category": "patchouli:sopas_y_guisos",
+  "sortnum": 15,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Filete Mignon Azul",
+      "text": "$(l)Lomo cocido con hongos distorsionados encima, en un bowl. Le da Resistencia al Fuego además de llenar bastante — un plato pensado para salir a laburar acá abajo.$()"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mynethersdelight:blue_tenderloin_steak"
+    }
+  ]
+}

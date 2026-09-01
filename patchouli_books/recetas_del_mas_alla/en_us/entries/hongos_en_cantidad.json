@@ -1,0 +1,29 @@
+{
+  "name": "Hongos en Cantidad",
+  "icon": "minecraft:crimson_fungus",
+  "category": "patchouli:bases_y_preparados",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Hongos en Cantidad",
+      "text": "$(l)Si tenés una colonia de hongos creciendo, no hace falta cosecharla de a uno.$()$(br)$(br)Cortala entera y sacás 5 de una."
+    },
+    {
+      "type": "patchouli:cutting_board_recipe",
+      "title": "Colonia Carmesí → Hongos",
+      "input": "mynethersdelight:crimson_fungus_colony",
+      "output1": "minecraft:crimson_fungus",
+      "output2": "minecraft:air",
+      "tool_item": "tag:c:tools/knife"
+    },
+    {
+      "type": "patchouli:cutting_board_recipe",
+      "title": "Colonia Distorsionada → Hongos",
+      "input": "mynethersdelight:warped_fungus_colony",
+      "output1": "minecraft:warped_fungus",
+      "output2": "minecraft:air",
+      "tool_item": "tag:c:tools/knife"
+    }
+  ]
+}

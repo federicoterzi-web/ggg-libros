@@ -1,0 +1,17 @@
+{
+  "name": "Lomo en Palito",
+  "icon": "mynethersdelight:red_loin_on_a_stick",
+  "category": "patchouli:sopas_y_guisos",
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Lomo en Palito",
+      "text": "$(l)Lomo cocido con hongo carmesí, en un palo. Práctico, sin vueltas, sin efectos raros — a veces se agradece.$()"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mynethersdelight:red_loin_on_a_stick"
+    }
+  ]
+}

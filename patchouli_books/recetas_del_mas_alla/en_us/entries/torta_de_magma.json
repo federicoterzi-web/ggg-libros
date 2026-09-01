@@ -1,0 +1,17 @@
+{
+  "name": "Torta de Magma",
+  "icon": "mynethersdelight:magma_cake_block",
+  "category": "patchouli:sopas_y_guisos",
+  "sortnum": 19,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Torta de Magma",
+      "text": "$(l)Se coloca como bloque, y se corta en porciones (como cualquier otra torta). Cada porción te da Velocidad y Resistencia al Fuego cortitas — buena para escapar de algo.$()"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mynethersdelight:magma_cake"
+    }
+  ]
+}

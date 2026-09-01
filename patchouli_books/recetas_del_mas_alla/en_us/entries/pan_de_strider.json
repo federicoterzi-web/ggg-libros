@@ -1,0 +1,17 @@
+{
+  "name": "Pan de Strider",
+  "icon": "mynethersdelight:striderloaf",
+  "category": "patchouli:sopas_y_guisos",
+  "sortnum": 23,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Pan de Strider",
+      "text": "$(l)Loncha y molido de strider juntos, en un bowl. Rinde poco en cantidad pero la saturación por punto de hambre es de las mejores del libro.$()"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mynethersdelight:striderloaf"
+    }
+  ]
+}

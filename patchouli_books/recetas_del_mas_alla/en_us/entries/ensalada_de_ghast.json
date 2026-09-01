@@ -1,0 +1,17 @@
+{
+  "name": "Ensalada de Ghast",
+  "icon": "mynethersdelight:ghast_salad",
+  "category": "patchouli:sopas_y_guisos",
+  "sortnum": 17,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Ensalada de Ghast",
+      "text": "$(l)Con carne de Ghast cruda y verdura. Te da Regeneración un rato — bien merecida, considerando lo que cuesta conseguir la carne.$()"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mynethersdelight:ghast_salad"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Balde de Alitas",
+  "icon": "mynethersdelight:hot_wings_bucket",
+  "category": "patchouli:sopas_y_guisos",
+  "sortnum": 24,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Balde de Alitas",
+      "text": "$(l)Tres Alitas Picantes juntas en un balde — la versión \"para compartir\", aunque dudo que quieras compartir. 18 de hambre de una sola vez, el segundo plato que más llena de todo el libro.$()"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mynethersdelight:hot_wings_bucket"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Brochette Picante",
+  "icon": "mynethersdelight:spicy_skewer",
+  "category": "patchouli:sopas_y_guisos",
+  "sortnum": 22,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Brochette Picante",
+      "text": "$(l)Pimiento bala y strider crudo en un palo de blaze. Te deja con Picante Malo un buen rato — no te acerques al fuego después de comer esto sin la poción puesta.$()"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mynethersdelight:spicy_skewer"
+    }
+  ]
+}

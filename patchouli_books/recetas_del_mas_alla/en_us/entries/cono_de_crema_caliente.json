@@ -1,0 +1,17 @@
+{
+  "name": "Cono de Crema Caliente",
+  "icon": "mynethersdelight:hot_cream_cone",
+  "category": "patchouli:sopas_y_guisos",
+  "sortnum": 25,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Cono de Crema Caliente",
+      "text": "$(l)La Crema Caliente, pero en formato cucurucho — más práctico para llevar. Se hace con Polvo de Cañón, así que no es exactamente barato.$()"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mynethersdelight:hotcream_cone"
+    }
+  ]
+}

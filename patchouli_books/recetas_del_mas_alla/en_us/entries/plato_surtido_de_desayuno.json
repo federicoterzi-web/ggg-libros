@@ -1,0 +1,17 @@
+{
+  "name": "Plato Surtido de Desayuno",
+  "icon": "mynethersdelight:breakfast_sampler",
+  "category": "patchouli:sopas_y_guisos",
+  "sortnum": 16,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Plato Surtido de Desayuno",
+      "text": "$(l)Dos salchichas, huevo, y algo dulce (miel o huevo de strider) todo junto. El desayuno más completo del recetario — y el que más llena, 15 de una.$()"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mynethersdelight:breakfast_sampler"
+    }
+  ]
+}

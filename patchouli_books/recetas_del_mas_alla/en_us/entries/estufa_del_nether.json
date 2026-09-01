@@ -1,0 +1,17 @@
+{
+  "name": "La Estufa del Nether",
+  "icon": "mynethersdelight:nether_bricks_stove",
+  "category": "patchouli:como_funciona",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "La Estufa del Nether",
+      "text": "$(l)La misma idea que la Olla, pero a prueba de lava.$()$(br)$(br)Se craftea con ladrillos del Nether y una fogata adentro — funciona exactamente igual que la Olla de Cocina de siempre, pero le queda mejor a la decoración de acá abajo. Las recetas son las mismas, da lo mismo cuál uses."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mynethersdelight:nethers_stove"
+    }
+  ]
+}

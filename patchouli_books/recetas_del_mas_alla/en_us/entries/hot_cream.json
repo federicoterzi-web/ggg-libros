@@ -1,0 +1,55 @@
+{
+  "name": "Crema Caliente",
+  "icon": "mynethersdelight:hot_cream",
+  "category": "patchouli:sopas_y_guisos",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Crema Caliente",
+      "m1": "ggg:textures/gui/entries/food_half.png",
+      "o1": "ggg:textures/gui/entries/sat_100.png",
+      "m2": "ggg:textures/gui/entries/blank_icon.png",
+      "o2": "ggg:textures/gui/entries/sat_100.png",
+      "m3": "ggg:textures/gui/entries/blank_icon.png",
+      "o3": "ggg:textures/gui/entries/sat_100.png",
+      "m4": "ggg:textures/gui/entries/blank_icon.png",
+      "o4": "ggg:textures/gui/entries/sat_100.png",
+      "m5": "ggg:textures/gui/entries/blank_icon.png",
+      "o5": "ggg:textures/gui/entries/sat_100.png",
+      "m6": "ggg:textures/gui/entries/blank_icon.png",
+      "o6": "ggg:textures/gui/entries/sat_100.png",
+      "m7": "ggg:textures/gui/entries/blank_icon.png",
+      "o7": "ggg:textures/gui/entries/sat_100.png",
+      "m8": "ggg:textures/gui/entries/blank_icon.png",
+      "o8": "ggg:textures/gui/entries/sat_100.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/blank_icon.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/blank_icon.png",
+      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
+      "effect_text": "",
+      "description": "$(l)$(6)Sí, lleva un balde de lava. No, no es un error mío.$() Casi no llena nada de hambre pero la saturación es una locura — 8 de golpe. Va en un balde, no en un bowl.$()"
+    },
+    {
+      "type": "patchouli:cooking_pot_recipe",
+      "item1": "tag:mynethersdelight:hot_spice",
+      "item2": "tag:c:eggs",
+      "item3": "mynethersdelight:bullet_pepper",
+      "item4": "minecraft:magma_cream",
+      "item5": "minecraft:lava_bucket",
+      "item6": "minecraft:magma_cream",
+      "container": "minecraft:bucket",
+      "result": "mynethersdelight:hot_cream"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Método Alternativo",
+      "text": "$(l)Si ya tenés los conos hechos...$()$(br)$(br)3 Conos de Crema Caliente + 1 balde vacío = 1 balde de Crema Caliente. Más práctico que arrancar de cero con lava."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mynethersdelight:hotcream_bucket"
+    }
+  ]
+}

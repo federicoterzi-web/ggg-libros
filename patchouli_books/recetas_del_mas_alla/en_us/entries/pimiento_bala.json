@@ -1,0 +1,21 @@
+{
+  "name": "Pimiento Bala",
+  "icon": "mynethersdelight:bullet_pepper",
+  "category": "patchouli:bases_y_preparados",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Pimiento Bala",
+      "text": "$(l)El picante de verdad.$()$(br)$(br)Se cultiva como cualquier planta, y cortado te da Polvo de Blaze — así que también es una fuente infinita de eso, no solo un condimento."
+    },
+    {
+      "type": "patchouli:cutting_board_recipe",
+      "title": "Pimiento → Polvo de Blaze",
+      "input": "mynethersdelight:bullet_pepper",
+      "output1": "minecraft:blaze_powder",
+      "output2": "minecraft:blaze_powder",
+      "tool_item": "tag:c:tools/knife"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Curry Picante",
+  "icon": "mynethersdelight:spicy_curry",
+  "category": "patchouli:sopas_y_guisos",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Curry Picante",
+      "m1": "ggg:textures/gui/entries/food_full.png",
+      "o1": "ggg:textures/gui/entries/sat_100.png",
+      "m2": "ggg:textures/gui/entries/food_full.png",
+      "o2": "ggg:textures/gui/entries/sat_100.png",
+      "m3": "ggg:textures/gui/entries/food_full.png",
+      "o3": "ggg:textures/gui/entries/sat_100.png",
+      "m4": "ggg:textures/gui/entries/food_full.png",
+      "o4": "ggg:textures/gui/entries/sat_100.png",
+      "m5": "ggg:textures/gui/entries/food_full.png",
+      "o5": "ggg:textures/gui/entries/sat_100.png",
+      "m6": "ggg:textures/gui/entries/food_full.png",
+      "o6": "ggg:textures/gui/entries/sat_100.png",
+      "m7": "ggg:textures/gui/entries/food_full.png",
+      "o7": "ggg:textures/gui/entries/sat_100.png",
+      "m8": "ggg:textures/gui/entries/food_half.png",
+      "o8": "ggg:textures/gui/entries/sat_100.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/sat_100.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/sat_75.png",
+      "effect_icon": "ggg:textures/gui/entries/nourishment.png",
+      "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (3 min)$(/t)",
+      "description": "$(l)El más picante en serio de todo el libro — nivel 1 de picante, no es joda. Rinde mucho, así que un plato te dura.$()"
+    },
+    {
+      "type": "patchouli:cooking_pot_recipe",
+      "item1": "tag:c:foods/raw_meat",
+      "item2": "tag:c:foods/milk",
+      "item3": "tag:mynethersdelight:hot_spice",
+      "item4": "tag:c:crops/rice",
+      "item5": "minecraft:air",
+      "item6": "minecraft:air",
+      "container": "minecraft:bowl",
+      "result": "mynethersdelight:spicy_curry"
+    }
+  ]
+}

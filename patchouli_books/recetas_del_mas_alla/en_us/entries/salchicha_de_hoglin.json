@@ -1,0 +1,21 @@
+{
+  "name": "Salchicha de Hoglin",
+  "icon": "mynethersdelight:hoglin_sausage",
+  "category": "patchouli:bases_y_preparados",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Salchicha de Hoglin",
+      "text": "$(l)El Lomo de Hoglin (que ya conocés de cortarle al bicho) tiene un segundo uso.$()$(br)$(br)En vez de cocinarlo directo, cortalo para sacar salchichas."
+    },
+    {
+      "type": "patchouli:cutting_board_recipe",
+      "title": "Lomo → Salchichas",
+      "input": "mynethersdelight:hoglin_loin",
+      "output1": "mynethersdelight:hoglin_sausage",
+      "output2": "mynethersdelight:hoglin_sausage",
+      "tool_item": "tag:c:tools/knife"
+    }
+  ]
+}

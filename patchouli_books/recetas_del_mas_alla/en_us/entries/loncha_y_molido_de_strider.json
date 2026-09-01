@@ -1,0 +1,21 @@
+{
+  "name": "Loncha y Molido de Strider",
+  "icon": "mynethersdelight:minced_strider",
+  "category": "patchouli:bases_y_preparados",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Loncha y Molido de Strider",
+      "text": "$(l)La Loncha de Strider no se corta — se consigue matando Striders directo, 2 por bicho.$()$(br)$(br)Una vez que la tenés, ahí sí se puede seguir cortando."
+    },
+    {
+      "type": "patchouli:cutting_board_recipe",
+      "title": "Loncha → Molido",
+      "input": "mynethersdelight:strider_slice",
+      "output1": "mynethersdelight:minced_strider",
+      "output2": "minecraft:string",
+      "tool_item": "tag:c:tools/knife"
+    }
+  ]
+}

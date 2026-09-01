@@ -1,0 +1,46 @@
+{
+  "name": "Chilidog",
+  "icon": "mynethersdelight:chilidog",
+  "category": "patchouli:sopas_y_guisos",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Chilidog",
+      "m1": "ggg:textures/gui/entries/food_full.png",
+      "o1": "ggg:textures/gui/entries/sat_100.png",
+      "m2": "ggg:textures/gui/entries/food_full.png",
+      "o2": "ggg:textures/gui/entries/sat_100.png",
+      "m3": "ggg:textures/gui/entries/food_full.png",
+      "o3": "ggg:textures/gui/entries/sat_100.png",
+      "m4": "ggg:textures/gui/entries/food_full.png",
+      "o4": "ggg:textures/gui/entries/sat_100.png",
+      "m5": "ggg:textures/gui/entries/food_full.png",
+      "o5": "ggg:textures/gui/entries/sat_100.png",
+      "m6": "ggg:textures/gui/entries/food_full.png",
+      "o6": "ggg:textures/gui/entries/sat_75.png",
+      "m7": "ggg:textures/gui/entries/food_half.png",
+      "o7": "ggg:textures/gui/entries/blank_icon.png",
+      "m8": "ggg:textures/gui/entries/blank_icon.png",
+      "o8": "ggg:textures/gui/entries/blank_icon.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/blank_icon.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/blank_icon.png",
+      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
+      "effect_text": "",
+      "description": "$(l)Ojo, éste no lleva bowl — el contenedor es un $(bold)Hotdog ya hecho$(). Le agregás picante y nether wart encima, y se convierte en esto. Da Picante Bueno más Resistencia al Fuego solita.$()"
+    },
+    {
+      "type": "patchouli:cooking_pot_recipe",
+      "item1": "tag:mynethersdelight:hot_spice",
+      "item2": "minecraft:nether_wart",
+      "item3": "minecraft:air",
+      "item4": "minecraft:air",
+      "item5": "minecraft:air",
+      "item6": "minecraft:air",
+      "container": "mynethersdelight:hotdog",
+      "result": "mynethersdelight:chilidog"
+    }
+  ]
+}

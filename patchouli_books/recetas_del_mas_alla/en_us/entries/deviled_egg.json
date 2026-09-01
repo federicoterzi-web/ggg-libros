@@ -1,0 +1,46 @@
+{
+  "name": "Huevo Endiablado",
+  "icon": "mynethersdelight:deviled_egg",
+  "category": "patchouli:sopas_y_guisos",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Huevo Endiablado",
+      "m1": "ggg:textures/gui/entries/food_full.png",
+      "o1": "ggg:textures/gui/entries/sat_100.png",
+      "m2": "ggg:textures/gui/entries/food_full.png",
+      "o2": "ggg:textures/gui/entries/sat_100.png",
+      "m3": "ggg:textures/gui/entries/food_half.png",
+      "o3": "ggg:textures/gui/entries/sat_100.png",
+      "m4": "ggg:textures/gui/entries/blank_icon.png",
+      "o4": "ggg:textures/gui/entries/sat_50.png",
+      "m5": "ggg:textures/gui/entries/blank_icon.png",
+      "o5": "ggg:textures/gui/entries/blank_icon.png",
+      "m6": "ggg:textures/gui/entries/blank_icon.png",
+      "o6": "ggg:textures/gui/entries/blank_icon.png",
+      "m7": "ggg:textures/gui/entries/blank_icon.png",
+      "o7": "ggg:textures/gui/entries/blank_icon.png",
+      "m8": "ggg:textures/gui/entries/blank_icon.png",
+      "o8": "ggg:textures/gui/entries/blank_icon.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/blank_icon.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/blank_icon.png",
+      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
+      "effect_text": "",
+      "description": "$(l)El nombre le queda perfecto, con lo picante que sale. Chiquito pero con carácter, como yo.$()"
+    },
+    {
+      "type": "patchouli:cooking_pot_recipe",
+      "item1": "mynethersdelight:boiled_egg",
+      "item2": "tag:mynethersdelight:hot_spice",
+      "item3": "minecraft:air",
+      "item4": "minecraft:air",
+      "item5": "minecraft:air",
+      "item6": "minecraft:air",
+      "container": "minecraft:bowl",
+      "result": "mynethersdelight:deviled_egg"
+    }
+  ]
+}

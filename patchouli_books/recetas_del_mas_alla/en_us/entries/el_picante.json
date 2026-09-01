@@ -1,0 +1,36 @@
+{
+  "name": "El Picante",
+  "icon": "minecraft:blaze_powder",
+  "category": "patchouli:como_funciona",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "El Picante",
+      "text": "$(l)Che, esto léelo con atención, en serio.$()$(br)$(br)Un montón de recetas de acá abajo llevan $(bold)Pimiento Bala$() o $(bold)Polvo de Blaze$() — y comer eso te deja con un efecto de \"Picante\" que se comporta distinto según dónde estés parado."
+    },
+    {
+      "type": "patchouli:concept_page_dual",
+      "a_title": "Picante Malo",
+      "a_icon": "ggg:textures/gui/entries/bpungent.png",
+      "a_body": "Sin Resistencia al Fuego, te hace daño si estás cerca de lava o fuego.",
+      "b_title": "Picante Bueno",
+      "b_icon": "ggg:textures/gui/entries/gpungent.png",
+      "b_body": "Con Resistencia al Fuego activa, se invierte solo y te cura cerca del fuego."
+    },
+    {
+      "type": "patchouli:concept_page_dual",
+      "a_title": "Resistencia al Fuego",
+      "a_icon": "ggg:textures/gui/entries/fire_resistance.png",
+      "a_body": "El efecto que decide para qué lado se te da vuelta el Picante.",
+      "b_title": "Cómo Conseguirla",
+      "b_icon": "minecraft:textures/item/magma_cream.png",
+      "b_body": "Poción normal (3 min) con Magma Cream, o extendida (8 min) agregando Redstone en la mesa de encantar."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "En criollo",
+      "text": "$(6)No comas picante y te metas en lava sin poción de Resistencia al Fuego encima.$() Con la poción puesta, el mismo plato que te iba a quemar te cura. Sin ella, es al revés. Así que fijate bien el orden: primero la poción, después la comida."
+    }
+  ]
+}

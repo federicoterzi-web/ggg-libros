@@ -1,0 +1,21 @@
+{
+  "name": "Ghasmati",
+  "icon": "mynethersdelight:ghasmati",
+  "category": "patchouli:bases_y_preparados",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Ghasmati",
+      "text": "$(l)El arroz de por acá.$()$(br)$(br)Sale de cortar Ghasta — un bicho medio parecido a un Ghast chico que se puede criar. Cada corte da 1, a veces 2 si tenés suerte."
+    },
+    {
+      "type": "patchouli:cutting_board_recipe",
+      "title": "Ghasta → Ghasmati",
+      "input": "mynethersdelight:ghasta",
+      "output1": "mynethersdelight:ghasmati",
+      "output2": "mynethersdelight:ghasmati",
+      "tool_item": "tag:c:tools/knife"
+    }
+  ]
+}

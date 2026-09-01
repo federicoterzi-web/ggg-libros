@@ -1,0 +1,17 @@
+{
+  "name": "Algodón Picante",
+  "icon": "mynethersdelight:spicy_cotton",
+  "category": "patchouli:sopas_y_guisos",
+  "sortnum": 21,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Algodón Picante",
+      "text": "$(l)$(6)Ojo con este:$() casi no llena hambre (3 nomás) pero la saturación es una barbaridad (2.25) — y te da Resistencia al Fuego. Es más un power-up que comida de verdad.$()"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mynethersdelight:spicy_cotton"
+    }
+  ]
+}

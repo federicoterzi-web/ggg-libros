@@ -1,0 +1,21 @@
+{
+  "name": "Cuero de Hoglin",
+  "icon": "minecraft:leather",
+  "category": "patchouli:bases_y_preparados",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Cuero de Hoglin",
+      "text": "$(l)Los Hoglins también dan cuero acá, no solo panceta.$()$(br)$(br)El Cuero de Hoglin (un drop directo del bicho) se corta y rinde más cuero del esperado."
+    },
+    {
+      "type": "patchouli:cutting_board_recipe",
+      "title": "Cuero de Hoglin → Cuero",
+      "input": "mynethersdelight:hoglin_hide",
+      "output1": "minecraft:leather",
+      "output2": "minecraft:leather",
+      "tool_item": "tag:c:tools/knife"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Pancho (Hotdog)",
+  "icon": "mynethersdelight:hotdog",
+  "category": "patchouli:sopas_y_guisos",
+  "sortnum": 18,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Pancho (Hotdog)",
+      "text": "$(l)Salchicha asada en pan, nada más. La base para el Chilidog que ya viste en Guisos — este es el paso anterior.$()"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mynethersdelight:hotdog"
+    }
+  ]
+}

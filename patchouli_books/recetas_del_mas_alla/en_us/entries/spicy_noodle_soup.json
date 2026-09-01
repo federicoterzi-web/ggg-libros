@@ -1,0 +1,46 @@
+{
+  "name": "Sopa Picante de Fideos",
+  "icon": "mynethersdelight:spicy_noodle_soup",
+  "category": "patchouli:sopas_y_guisos",
+  "sortnum": 12,
+  "pages": [
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Sopa Picante de Fideos",
+      "m1": "ggg:textures/gui/entries/food_full.png",
+      "o1": "ggg:textures/gui/entries/sat_100.png",
+      "m2": "ggg:textures/gui/entries/food_full.png",
+      "o2": "ggg:textures/gui/entries/sat_100.png",
+      "m3": "ggg:textures/gui/entries/food_full.png",
+      "o3": "ggg:textures/gui/entries/sat_100.png",
+      "m4": "ggg:textures/gui/entries/food_full.png",
+      "o4": "ggg:textures/gui/entries/sat_100.png",
+      "m5": "ggg:textures/gui/entries/food_full.png",
+      "o5": "ggg:textures/gui/entries/sat_100.png",
+      "m6": "ggg:textures/gui/entries/food_full.png",
+      "o6": "ggg:textures/gui/entries/sat_100.png",
+      "m7": "ggg:textures/gui/entries/food_full.png",
+      "o7": "ggg:textures/gui/entries/sat_100.png",
+      "m8": "ggg:textures/gui/entries/food_full.png",
+      "o8": "ggg:textures/gui/entries/sat_100.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/sat_100.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/sat_100.png",
+      "effect_icon": "ggg:textures/gui/entries/comfort.png",
+      "effect_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (5 min)$(/t)",
+      "description": "$(l)La que más llena de todo el recetario — 16 de hambre. Picante nivel 2 también, así que no digas que no te avisé.$()"
+    },
+    {
+      "type": "patchouli:cooking_pot_recipe",
+      "item1": "tag:c:foods/rice_pasta",
+      "item2": "tag:c:foods/cooked_egg",
+      "item3": "tag:mynethersdelight:hot_spice",
+      "item4": "tag:c:foods/raw_hoglin",
+      "item5": "minecraft:air",
+      "item6": "minecraft:air",
+      "container": "minecraft:bowl",
+      "result": "mynethersdelight:spicy_noodle_soup"
+    }
+  ]
+}

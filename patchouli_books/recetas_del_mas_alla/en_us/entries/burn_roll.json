@@ -1,0 +1,46 @@
+{
+  "name": "Rollito Quemado",
+  "icon": "mynethersdelight:burnt_roll",
+  "category": "patchouli:sopas_y_guisos",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Rollito Quemado",
+      "m1": "ggg:textures/gui/entries/food_full.png",
+      "o1": "ggg:textures/gui/entries/sat_100.png",
+      "m2": "ggg:textures/gui/entries/food_full.png",
+      "o2": "ggg:textures/gui/entries/sat_100.png",
+      "m3": "ggg:textures/gui/entries/food_full.png",
+      "o3": "ggg:textures/gui/entries/sat_100.png",
+      "m4": "ggg:textures/gui/entries/food_full.png",
+      "o4": "ggg:textures/gui/entries/sat_100.png",
+      "m5": "ggg:textures/gui/entries/food_full.png",
+      "o5": "ggg:textures/gui/entries/sat_100.png",
+      "m6": "ggg:textures/gui/entries/blank_icon.png",
+      "o6": "ggg:textures/gui/entries/sat_100.png",
+      "m7": "ggg:textures/gui/entries/blank_icon.png",
+      "o7": "ggg:textures/gui/entries/blank_icon.png",
+      "m8": "ggg:textures/gui/entries/blank_icon.png",
+      "o8": "ggg:textures/gui/entries/blank_icon.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/blank_icon.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/blank_icon.png",
+      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
+      "effect_text": "",
+      "description": "$(l)Éste te va a dar Picante Malo. Si no tenés Resistencia al Fuego puesta, no te acerques a lava después de comerlo — ya te avisé en la otra sección, así que no te quejes.$()"
+    },
+    {
+      "type": "patchouli:cooking_pot_recipe",
+      "item1": "minecraft:magma_cream",
+      "item2": "minecraft:magma_cream",
+      "item3": "tag:c:foods/raw_meat",
+      "item4": "minecraft:air",
+      "item5": "minecraft:air",
+      "item6": "minecraft:air",
+      "container": "minecraft:bowl",
+      "result": "mynethersdelight:burnt_roll"
+    }
+  ]
+}
