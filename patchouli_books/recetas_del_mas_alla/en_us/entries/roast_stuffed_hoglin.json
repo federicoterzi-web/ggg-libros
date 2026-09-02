@@ -43,7 +43,9 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "",
-      "description": "$(l)Lo primero que sacás, cortando con cuchillo — dos de estas antes de llegar a la carne de verdad.$()"
+      "description": "$(l)Lo primero que sacás, cortando con cuchillo — dos de estas antes de llegar a la carne de verdad.$()",
+      "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
+      "effect2_text": ""
     },
     {
       "type": "patchouli:dish_intro",
@@ -70,7 +72,9 @@
       "o10": "ggg:textures/gui/entries/sat_100.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (5 min)$(/t)",
-      "description": "$(l)La porción más grande y la que más llena de los dos libros enteros — 14 de hambre.$()"
+      "description": "$(l)La porción más grande y la que más llena de los dos libros enteros — 14 de hambre.$()",
+      "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
+      "effect2_text": ""
     },
     {
       "type": "patchouli:dish_intro",
@@ -97,7 +101,9 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (3 min)$(/t)",
-      "description": "$(l)La porción del medio — todavía rinde bastante.$()"
+      "description": "$(l)La porción del medio — todavía rinde bastante.$()",
+      "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
+      "effect2_text": ""
     },
     {
       "type": "patchouli:dish_intro",
@@ -124,7 +130,9 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (2 min)$(/t)",
-      "description": "$(l)Las últimas porciones, ya raspando el fondo — igual sigue rindiendo bien.$()"
+      "description": "$(l)Las últimas porciones, ya raspando el fondo — igual sigue rindiendo bien.$()",
+      "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
+      "effect2_text": ""
     }
   ]
 }

@@ -27,8 +27,10 @@
       "o9": "ggg:textures/gui/entries/blank_icon.png",
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
-      "effect_icon": "ggg:textures/gui/entries/comfort.png",
-      "effect_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (3 min)$(/t)",
+      "effect_icon": "ggg:textures/gui/entries/bpungent.png",
+      "effect_text": "$(t:Picante Malo: te hace daño cerca de lava/fuego sin Resistencia al Fuego.)+ Picante Malo III (1 min)$(/t)",
+      "effect2_icon": "ggg:textures/gui/entries/comfort.png",
+      "effect2_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (3 min)$(/t)",
       "description": "$(l)Dos cremas de magma y nada más — la más fácil de toda la sección, para cuando tenés fiaca pero igual querés algo picante y reconfortante.$()"
     },
     {

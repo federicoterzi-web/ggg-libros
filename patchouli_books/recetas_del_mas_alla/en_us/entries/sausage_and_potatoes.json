@@ -29,7 +29,9 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "",
-      "description": "$(l)Simple, sin vueltas, sin picante. A veces no todo tiene que quemar — este es de los pocos platos tranquilos de por acá.$()"
+      "description": "$(l)Simple, sin vueltas, sin picante. A veces no todo tiene que quemar — este es de los pocos platos tranquilos de por acá.$()",
+      "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
+      "effect2_text": ""
     },
     {
       "type": "patchouli:cooking_pot_recipe",

@@ -237,10 +237,26 @@
       "y": 45
     },
     {
+      "type": "patchouli:image",
+      "image": "#effect2_icon",
+      "x": 0,
+      "y": 60,
+      "width": 18,
+      "height": 18,
+      "texture_width": 18,
+      "texture_height": 18
+    },
+    {
+      "type": "patchouli:text",
+      "text": "#effect2_text",
+      "x": 22,
+      "y": 65
+    },
+    {
       "type": "patchouli:text",
       "text": "#description",
       "x": 0,
-      "y": 62
+      "y": 82
     }
   ]
 }

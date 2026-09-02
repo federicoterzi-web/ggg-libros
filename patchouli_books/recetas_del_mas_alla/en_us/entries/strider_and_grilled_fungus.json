@@ -29,7 +29,9 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (1 min)$(/t)",
-      "description": "$(l)Con los dos hongos, carmesí y distorsionado, juntos. Sencillo pero rendidor — de mis favoritos de esta sección, la verdad.$()"
+      "description": "$(l)Con los dos hongos, carmesí y distorsionado, juntos. Sencillo pero rendidor — de mis favoritos de esta sección, la verdad.$()",
+      "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
+      "effect2_text": ""
     },
     {
       "type": "patchouli:cooking_pot_recipe",
