@@ -2,6 +2,8 @@
   "name": "Curiosidades",
   "icon": "minecraft:dandelion",
   "category": "patchouli:secretos_tabla_de_picar",
+  "priority": false,
+  "secret": false,
   "sortnum": 3,
   "pages": [
     {
@@ -16,6 +18,11 @@
       "output1": "minecraft:yellow_dye",
       "output2": "minecraft:air",
       "tool_item": "tag:c:tools/knife"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "El Estofado Misterioso",
+      "text": "$(l)Sí, ese también está tocado.$()$(br)$(br)Los 6 cultivos silvestres cuentan como \"flor\" para el Estofado Misterioso vanilla, cada uno con su propio efecto:$(br)$(br)$(bold)Repollo$() → Fuerza (6s)  $(bold)Cebolla$() → Resistencia al Fuego (6s)$(br)$(bold)Zanahoria$() → Torpeza al Minar (6s)  $(bold)Papa$() → Náusea (8s)$(br)$(bold)Remolacha$() → Respiración Acuática (8s)$(br)$(6)$(bold)Tomate$() → Veneno (10s) — este NO lo uses si no sabés lo que hacés.$()"
     }
   ]
 }
