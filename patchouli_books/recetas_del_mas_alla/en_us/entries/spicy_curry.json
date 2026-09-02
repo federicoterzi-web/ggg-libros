@@ -2,7 +2,7 @@
   "name": "Curry Picante",
   "icon": "mynethersdelight:spicy_curry",
   "category": "patchouli:sopas_y_guisos",
-  "sortnum": 10,
+  "sortnum": 7,
   "pages": [
     {
       "type": "patchouli:dish_intro",

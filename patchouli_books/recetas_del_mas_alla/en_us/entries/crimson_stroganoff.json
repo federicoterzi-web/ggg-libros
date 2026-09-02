@@ -2,7 +2,7 @@
   "name": "Estrogonoff Carmesí",
   "icon": "mynethersdelight:crimson_stroganoff",
   "category": "patchouli:sopas_y_guisos",
-  "sortnum": 2,
+  "sortnum": 1,
   "pages": [
     {
       "type": "patchouli:dish_intro",

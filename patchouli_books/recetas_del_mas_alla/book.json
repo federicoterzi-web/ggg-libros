@@ -1,6 +1,6 @@
 {
   "name": "Recetas del Más Allá",
-  "landing_text": "$(d)$(l)Che, $(playername), de nuevo yo.$()$(br)$(br)Sí, ya sé, me morí. Pero no te creas que dejé de cocinar por eso — acá abajo hay más ingredientes de los que te imaginás, y algunos hasta pican de verdad.$(br)$(br)Le mandé esto a la editorial que sacó mi primer libro, a ver si te llega pedazo de gil. Prestá atención, que esta vez es peor que la anterior.",
+  "landing_text": "$(d)$(l)Che, pibe/piba, de nuevo yo.$()$(br)$(br)Sí, ya sé, me morí. Pero no te creas que dejé de cocinar por eso — acá abajo hay más ingredientes de los que te imaginás, y algunos hasta pican de verdad.$(br)$(br)Le mandé esto a la editorial que sacó mi primer libro, a ver si les llega antes de que se derrita el mensajero. Prestá atención, que esta vez es peor que la anterior.",
   "version": 1,
   "creative_tab": "minecraft:tools_and_utilities",
   "model": "ggg:recetas_del_mas_alla",

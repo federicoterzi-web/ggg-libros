@@ -14,8 +14,13 @@
       "recipe": "mynethersdelight:crafting/striderloaf"
     },
     {
+      "type": "patchouli:text",
+      "title": "Caliente o Frío",
+      "text": "$(l)Este es el único festín que cambia solo, y hay que prestarle atención.$()$(br)$(br)$(bold)Con lava cerca$() → se mantiene (o vuelve a estar) $(4)caliente$().$(br)$(bold)Sin lava cerca$() → se enfría solo, con el tiempo.$(br)$(br)$(6)Si lo picás con herramienta en vez de servirlo con bowl estando frío y sin terminar,$() perdés el relleno — solo te da un bowl y un hilo. Servilo bien."
+    },
+    {
       "type": "patchouli:dish_intro",
-      "title": "Porción de Pan de Strider",
+      "title": "Porción Caliente",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
       "m2": "ggg:textures/gui/entries/food_full.png",
@@ -40,7 +45,36 @@
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (1 min)$(/t)",
       "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect2_text": "",
-      "description": "$(l)Cada porción rinde poco en cantidad, pero la saturación por punto de hambre es de las mejores del libro.$()"
+      "description": "$(l)Menos cantidad, pero la saturación es altísima — te dura mucho antes de volver a tener hambre.$()"
+    },
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Porción Fría",
+      "m1": "ggg:textures/gui/entries/food_full.png",
+      "o1": "ggg:textures/gui/entries/sat_100.png",
+      "m2": "ggg:textures/gui/entries/food_full.png",
+      "o2": "ggg:textures/gui/entries/sat_25.png",
+      "m3": "ggg:textures/gui/entries/food_full.png",
+      "o3": "ggg:textures/gui/entries/blank_icon.png",
+      "m4": "ggg:textures/gui/entries/food_full.png",
+      "o4": "ggg:textures/gui/entries/blank_icon.png",
+      "m5": "ggg:textures/gui/entries/food_full.png",
+      "o5": "ggg:textures/gui/entries/blank_icon.png",
+      "m6": "ggg:textures/gui/entries/food_half.png",
+      "o6": "ggg:textures/gui/entries/blank_icon.png",
+      "m7": "ggg:textures/gui/entries/blank_icon.png",
+      "o7": "ggg:textures/gui/entries/blank_icon.png",
+      "m8": "ggg:textures/gui/entries/blank_icon.png",
+      "o8": "ggg:textures/gui/entries/blank_icon.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/blank_icon.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/blank_icon.png",
+      "effect_icon": "ggg:textures/gui/entries/nourishment.png",
+      "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (40 seg)$(/t)",
+      "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
+      "effect2_text": "",
+      "description": "$(l)Llena mucho de una, pero la saturación es casi nula — vas a tener hambre de nuevo pronto a pesar de la cantidad.$()"
     }
   ]
 }

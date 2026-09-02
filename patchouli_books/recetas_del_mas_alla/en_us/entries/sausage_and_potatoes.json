@@ -2,7 +2,7 @@
   "name": "Salchichas con Papas",
   "icon": "mynethersdelight:sausage_and_potatoes",
   "category": "patchouli:sopas_y_guisos",
-  "sortnum": 9,
+  "sortnum": 6,
   "pages": [
     {
       "type": "patchouli:dish_intro",

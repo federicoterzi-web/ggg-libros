@@ -2,7 +2,7 @@
   "name": "Strider con Hongos a la Parrilla",
   "icon": "mynethersdelight:strider_with_grilled_fungus",
   "category": "patchouli:sopas_y_guisos",
-  "sortnum": 13,
+  "sortnum": 10,
   "pages": [
     {
       "type": "patchouli:dish_intro",

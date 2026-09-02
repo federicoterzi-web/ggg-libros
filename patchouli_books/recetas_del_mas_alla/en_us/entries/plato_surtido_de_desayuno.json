@@ -1,8 +1,8 @@
 {
   "name": "Plato Surtido de Desayuno",
   "icon": "mynethersdelight:breakfast_sampler",
-  "category": "patchouli:comida_para_llevar",
-  "sortnum": 1,
+  "category": "patchouli:guarniciones_y_otros",
+  "sortnum": 0,
   "pages": [
     {
       "type": "patchouli:dish_intro",

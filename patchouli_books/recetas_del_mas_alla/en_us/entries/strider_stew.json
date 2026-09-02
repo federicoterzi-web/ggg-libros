@@ -2,7 +2,7 @@
   "name": "Guiso de Strider",
   "icon": "mynethersdelight:strider_stew",
   "category": "patchouli:sopas_y_guisos",
-  "sortnum": 14,
+  "sortnum": 11,
   "pages": [
     {
       "type": "patchouli:dish_intro",

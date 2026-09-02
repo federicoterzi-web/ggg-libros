@@ -1,8 +1,8 @@
 {
   "name": "Crema Caliente",
   "icon": "mynethersdelight:hot_cream",
-  "category": "patchouli:sopas_y_guisos",
-  "sortnum": 6,
+  "category": "patchouli:bebidas_y_postres",
+  "sortnum": 0,
   "pages": [
     {
       "type": "patchouli:dish_intro",

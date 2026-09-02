@@ -2,7 +2,7 @@
   "name": "Sopa de Piedra",
   "icon": "mynethersdelight:rock_soup",
   "category": "patchouli:sopas_y_guisos",
-  "sortnum": 8,
+  "sortnum": 5,
   "pages": [
     {
       "type": "patchouli:dish_intro",

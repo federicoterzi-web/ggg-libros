@@ -1,8 +1,8 @@
 {
   "name": "Balde de Alitas",
   "icon": "mynethersdelight:hot_wings_bucket",
-  "category": "patchouli:comida_para_llevar",
-  "sortnum": 9,
+  "category": "patchouli:guarniciones_y_otros",
+  "sortnum": 2,
   "pages": [
     {
       "type": "patchouli:dish_intro",

@@ -1,8 +1,8 @@
 {
   "name": "Filete Mignon Azul",
   "icon": "mynethersdelight:blue_tenderloin_steak",
-  "category": "patchouli:comida_para_llevar",
-  "sortnum": 0,
+  "category": "patchouli:comida_rapida",
+  "sortnum": 4,
   "pages": [
     {
       "type": "patchouli:dish_intro",

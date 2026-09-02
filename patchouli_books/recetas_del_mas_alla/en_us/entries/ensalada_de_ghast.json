@@ -1,8 +1,8 @@
 {
   "name": "Ensalada de Ghast",
   "icon": "mynethersdelight:ghast_salad",
-  "category": "patchouli:comida_para_llevar",
-  "sortnum": 2,
+  "category": "patchouli:guarniciones_y_otros",
+  "sortnum": 1,
   "pages": [
     {
       "type": "patchouli:dish_intro",

@@ -2,7 +2,7 @@
   "name": "Alitas Picantes",
   "icon": "mynethersdelight:hot_wings",
   "category": "patchouli:sopas_y_guisos",
-  "sortnum": 5,
+  "sortnum": 4,
   "pages": [
     {
       "type": "patchouli:dish_intro",

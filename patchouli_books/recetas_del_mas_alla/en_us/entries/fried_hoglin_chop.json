@@ -2,7 +2,7 @@
   "name": "Chuleta de Hoglin Frita",
   "icon": "mynethersdelight:fried_hoglin_chop",
   "category": "patchouli:sopas_y_guisos",
-  "sortnum": 4,
+  "sortnum": 3,
   "pages": [
     {
       "type": "patchouli:dish_intro",

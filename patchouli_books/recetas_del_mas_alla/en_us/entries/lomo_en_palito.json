@@ -1,8 +1,8 @@
 {
   "name": "Lomo en Palito",
   "icon": "mynethersdelight:red_loin_on_a_stick",
-  "category": "patchouli:comida_para_llevar",
-  "sortnum": 5,
+  "category": "patchouli:comida_rapida",
+  "sortnum": 2,
   "pages": [
     {
       "type": "patchouli:dish_intro",

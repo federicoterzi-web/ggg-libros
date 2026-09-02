@@ -1,8 +1,8 @@
 {
   "name": "Cono de Crema Caliente",
   "icon": "mynethersdelight:hot_cream_cone",
-  "category": "patchouli:comida_para_llevar",
-  "sortnum": 10,
+  "category": "patchouli:bebidas_y_postres",
+  "sortnum": 1,
   "pages": [
     {
       "type": "patchouli:dish_intro",

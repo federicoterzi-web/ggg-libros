@@ -1,8 +1,8 @@
 {
   "name": "Torta de Magma",
   "icon": "mynethersdelight:magma_cake_block",
-  "category": "patchouli:comida_para_llevar",
-  "sortnum": 4,
+  "category": "patchouli:comida_rapida",
+  "sortnum": 5,
   "pages": [
     {
       "type": "patchouli:dish_intro",

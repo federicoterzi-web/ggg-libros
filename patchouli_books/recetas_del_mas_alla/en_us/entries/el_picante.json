@@ -22,7 +22,7 @@
       "type": "patchouli:concept_page_dual",
       "a_title": "Resistencia al Fuego",
       "a_icon": "ggg:textures/gui/entries/fire_resistance.png",
-      "a_body": "El efecto que decide para qué lado se te da vuelta el Picante.",
+      "a_body": "El efecto de POCIÓN — no el encantamiento de armadura. Eso no cuenta para nada acá.",
       "b_title": "Cómo Conseguirla",
       "b_icon": "minecraft:textures/item/magma_cream.png",
       "b_body": "Poción normal (3 min) con Magma Cream, o extendida (8 min) agregando Redstone en la mesa de encantar."

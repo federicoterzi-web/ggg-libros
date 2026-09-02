@@ -2,7 +2,7 @@
   "name": "Huevo Endiablado",
   "icon": "mynethersdelight:deviled_egg",
   "category": "patchouli:sopas_y_guisos",
-  "sortnum": 3,
+  "sortnum": 2,
   "pages": [
     {
       "type": "patchouli:dish_intro",

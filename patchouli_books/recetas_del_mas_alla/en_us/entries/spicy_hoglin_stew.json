@@ -2,7 +2,7 @@
   "name": "Guiso Picante de Hoglin",
   "icon": "mynethersdelight:spicy_hoglin_stew",
   "category": "patchouli:sopas_y_guisos",
-  "sortnum": 11,
+  "sortnum": 8,
   "pages": [
     {
       "type": "patchouli:dish_intro",
