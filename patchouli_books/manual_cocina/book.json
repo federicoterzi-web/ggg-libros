@@ -1,13 +1,17 @@
 {
-  "name": "Recetas de la Abu",
-  "landing_text": "$(d)$(l)Che, $(playername).$()$(br)$(br)Soy tu abuela, y como ya no voy a estar para cocinarte, te dejo esto de herencia. A ver si con esto aprendés algo, porque solo no vas a durar mucho.$(br)$(br)Prestá atención esta vez.",
-"subtitle": "Recetario recuperado",
-  "version": 0,
+  "name": "Recetas de Abu",
+  "landing_text": "$(d)$(l)Che, %(playername).$()$(br)$(br)Soy tu abuela, y como ya no voy a estar para cocinarte, te dejo esto de herencia. A ver si con esto aprendés algo, porque solo no vas a durar mucho.$(br)$(br)Prestá atención esta vez.",
+  "subtitle": "Recetario recuperado",
+  "version": 1,
   "creative_tab": "minecraft:tools_and_utilities",
   "model": "ggg:manual_cocina",
- "book_texture": "ggg:textures/gui/manual_cocina.png",
-"filler_texture": "ggg:textures/gui/cocina_filler.png",
+  "book_texture": "ggg:textures/gui/manual_cocina.png",
+  "filler_texture": "ggg:textures/gui/cocina_filler.png",
   "use_resource_pack": false,
-  "show_progress": false,
-  "header_color": "AA1E1E"
+  "show_progress": true,
+  "header_color": "aa1e1e",
+  "tooltip": "",
+  "color_def": "",
+  "dont_generate_book": false,
+  "advancements_enabled": false
 }

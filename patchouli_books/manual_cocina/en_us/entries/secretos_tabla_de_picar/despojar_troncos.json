@@ -1,0 +1,23 @@
+{
+  "name": "Despojar Troncos",
+  "icon": "minecraft:stripped_oak_log",
+  "category": "patchouli:secretos_tabla_de_picar",
+  "priority": false,
+  "secret": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Despojar Troncos",
+      "text": "$(l)Un hachazo con extra.$()$(br)$(br)Pasar un tronco por la Tabla de Picar con un $(bold)hacha$() no solo lo despoja (como en vanilla) — también te da $(bold)Corteza$() de regalo, un ítem decorativo/de crafteo extra que no conseguís despojando a mano en el mundo."
+    },
+    {
+      "type": "patchouli:cutting_board_recipe",
+      "title": "Ejemplo: Tronco de Acacia",
+      "input": "minecraft:acacia_log",
+      "output1": "minecraft:stripped_acacia_log",
+      "output2": "farmersdelight:tree_bark",
+      "tool_item": "tag:minecraft:axes"
+    }
+  ]
+}

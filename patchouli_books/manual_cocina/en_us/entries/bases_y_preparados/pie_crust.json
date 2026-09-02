@@ -1,0 +1,41 @@
+{
+  "name": "Masa de Tarta",
+  "icon": "farmersdelight:pie_crust",
+  "category": "patchouli:bases_y_preparados",
+  "priority": false,
+  "secret": false,
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Masa de Tarta",
+      "m1": "ggg:textures/gui/entries/food_full.png",
+      "o1": "ggg:textures/gui/entries/sat_50.png",
+      "m2": "ggg:textures/gui/entries/blank_icon.png",
+      "o2": "ggg:textures/gui/entries/blank_icon.png",
+      "m3": "ggg:textures/gui/entries/blank_icon.png",
+      "o3": "ggg:textures/gui/entries/blank_icon.png",
+      "m4": "ggg:textures/gui/entries/blank_icon.png",
+      "o4": "ggg:textures/gui/entries/blank_icon.png",
+      "m5": "ggg:textures/gui/entries/blank_icon.png",
+      "o5": "ggg:textures/gui/entries/blank_icon.png",
+      "m6": "ggg:textures/gui/entries/blank_icon.png",
+      "o6": "ggg:textures/gui/entries/blank_icon.png",
+      "m7": "ggg:textures/gui/entries/blank_icon.png",
+      "o7": "ggg:textures/gui/entries/blank_icon.png",
+      "m8": "ggg:textures/gui/entries/blank_icon.png",
+      "o8": "ggg:textures/gui/entries/blank_icon.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/blank_icon.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/blank_icon.png",
+      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
+      "effect_text": "",
+      "description": "$(l)Trigo y leche, nada más. Se necesita para cualquier tarta que valga la pena — aprendé esto antes de saltar a lo dulce.$()"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:pie_crust"
+    }
+  ]
+}

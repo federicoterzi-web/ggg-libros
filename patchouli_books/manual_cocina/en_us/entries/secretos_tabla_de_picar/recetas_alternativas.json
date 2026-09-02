@@ -1,0 +1,31 @@
+{
+  "name": "Recetas Alternativas",
+  "icon": "minecraft:paper",
+  "category": "patchouli:secretos_tabla_de_picar",
+  "priority": false,
+  "secret": false,
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Recetas Alternativas",
+      "text": "$(l)El mod le agrega caminos nuevos a cosas vanilla.$()$(br)$(br)Estos son formas de conseguir ítems de siempre, usando materiales que te van a sobrar de cocinar."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:paper_from_tree_bark"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)$(bold)Papel de Corteza$()$(br)$(br)3 Cortezas de árbol (la que te sobra al despojar troncos) = 1 Papel. Total, nunca vas a comprarle papel a nadie de nuevo."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:lead_from_straw"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)$(bold)Correa de Paja$()$(br)$(br)Con Paja (Straw) en vez de hilo y baba de slime. Si tenés una granja de trigo, nunca más te va a faltar correa.$(br)$(br)$(bold)De yapa:$() el mod también trae \"crates\" (cajas compactas) para varios cultivos — cada una se puede volver a abrir en mesa de crafteo para recuperar 9 unidades del cultivo original. Sirven para guardar más en menos espacio."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Ghasta con Crema",
+  "icon": "mynethersdelight:ghasta_with_cream",
+  "category": "patchouli:festines",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Ghasta con Crema",
+      "text": "$(l)El festín más raro de los dos libros.$() $(6)Se coloca como bloque$() en el mundo — no se come de la mano. Necesitás un $(bold)bowl vacío$() para sacar porciones, hasta $(bold)4$() antes de acabarse.$(br)$(br)$(6)Detalle único:$() si lo dejás con entre 2 y 4 porciones, $(bold)se regenera solo con el tiempo$() — no hace falta que lo vuelvas a cocinar."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mynethersdelight:crafting/ghasta_with_cream"
+    },
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Porción de Ghasta con Crema",
+      "m1": "ggg:textures/gui/entries/food_full.png",
+      "o1": "ggg:textures/gui/entries/sat_100.png",
+      "m2": "ggg:textures/gui/entries/food_full.png",
+      "o2": "ggg:textures/gui/entries/sat_100.png",
+      "m3": "ggg:textures/gui/entries/food_full.png",
+      "o3": "ggg:textures/gui/entries/sat_100.png",
+      "m4": "ggg:textures/gui/entries/food_full.png",
+      "o4": "ggg:textures/gui/entries/sat_100.png",
+      "m5": "ggg:textures/gui/entries/blank_icon.png",
+      "o5": "ggg:textures/gui/entries/sat_100.png",
+      "m6": "ggg:textures/gui/entries/blank_icon.png",
+      "o6": "ggg:textures/gui/entries/sat_100.png",
+      "m7": "ggg:textures/gui/entries/blank_icon.png",
+      "o7": "ggg:textures/gui/entries/sat_100.png",
+      "m8": "ggg:textures/gui/entries/blank_icon.png",
+      "o8": "ggg:textures/gui/entries/sat_25.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/blank_icon.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/blank_icon.png",
+      "effect_icon": "ggg:textures/gui/entries/bpungent.png",
+      "effect_text": "$(t:Picante Malo: te hace daño cerca de lava/fuego sin Resistencia al Fuego.)+ Picante Malo (10 seg)$(/t)",
+      "effect2_icon": "ggg:textures/gui/entries/nourishment.png",
+      "effect2_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (1 min)$(/t)",
+      "description": "$(l)Cada porción te da Picante Malo y Nourishment juntos — comé con cuidado si no tenés Resistencia al Fuego encima.$()"
+    }
+  ]
+}

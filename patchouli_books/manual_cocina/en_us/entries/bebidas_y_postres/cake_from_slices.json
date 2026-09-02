@@ -1,0 +1,28 @@
+{
+  "name": "Torta",
+  "icon": "minecraft:cake",
+  "category": "patchouli:bebidas_y_postres",
+  "priority": false,
+  "secret": false,
+  "sortnum": 16,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Torta",
+      "text": "$(l)La torta vanilla de siempre, con un camino nuevo.$()$(br)$(br)Se sigue haciendo con la receta de mesa de crafteo de toda la vida — la diferencia es que ahora acepta tanto balde de leche como Botellas de Leche."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:cake_from_milk_bottle"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "El truco: rearmarla",
+      "text": "$(l)Si te arrepentiste de cortarla...$()$(br)$(br)Podés juntar las $(bold)7 porciones cortadas$() de vuelta en una mesa de crafteo, y te devuelve la torta entera. Rarísimo que lo necesites, pero ahí está."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:cake_from_slices"
+    }
+  ]
+}

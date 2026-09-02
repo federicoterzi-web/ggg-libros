@@ -1,0 +1,41 @@
+{
+  "name": "Cheesecake de Bayas Dulces",
+  "icon": "farmersdelight:sweet_berry_cheesecake",
+  "category": "patchouli:bebidas_y_postres",
+  "priority": false,
+  "secret": false,
+  "sortnum": 12,
+  "pages": [
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Cheesecake de Bayas Dulces",
+      "m1": "ggg:textures/gui/entries/blank_icon.png",
+      "o1": "ggg:textures/gui/entries/blank_icon.png",
+      "m2": "ggg:textures/gui/entries/blank_icon.png",
+      "o2": "ggg:textures/gui/entries/blank_icon.png",
+      "m3": "ggg:textures/gui/entries/blank_icon.png",
+      "o3": "ggg:textures/gui/entries/blank_icon.png",
+      "m4": "ggg:textures/gui/entries/blank_icon.png",
+      "o4": "ggg:textures/gui/entries/blank_icon.png",
+      "m5": "ggg:textures/gui/entries/blank_icon.png",
+      "o5": "ggg:textures/gui/entries/blank_icon.png",
+      "m6": "ggg:textures/gui/entries/blank_icon.png",
+      "o6": "ggg:textures/gui/entries/blank_icon.png",
+      "m7": "ggg:textures/gui/entries/blank_icon.png",
+      "o7": "ggg:textures/gui/entries/blank_icon.png",
+      "m8": "ggg:textures/gui/entries/blank_icon.png",
+      "o8": "ggg:textures/gui/entries/blank_icon.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/blank_icon.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/blank_icon.png",
+      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
+      "effect_text": "",
+      "description": "$(l)La más elegante de las tres, y la que más trabajo lleva. Si te sale bien esta, ahí sí te creo que aprendiste algo. $(6)Nota:$() se come del bloque colocado, mordisco a mordisco — no es un ítem que se coma de la mano de una.$()"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:sweet_berry_cheesecake"
+    }
+  ]
+}

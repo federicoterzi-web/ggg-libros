@@ -1,8 +1,8 @@
 {
   "name": "Balde de Alitas",
   "icon": "mynethersdelight:hot_wings_bucket",
-  "category": "patchouli:sopas_y_guisos",
-  "sortnum": 24,
+  "category": "patchouli:comida_para_llevar",
+  "sortnum": 9,
   "pages": [
     {
       "type": "patchouli:dish_intro",
@@ -35,7 +35,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "mynethersdelight:hot_wings_bucket"
+      "recipe": "mynethersdelight:crafting/hot_wings_bucket"
     }
   ]
 }

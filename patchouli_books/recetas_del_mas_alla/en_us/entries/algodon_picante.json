@@ -1,8 +1,8 @@
 {
   "name": "Algodón Picante",
   "icon": "mynethersdelight:spicy_cotton",
-  "category": "patchouli:sopas_y_guisos",
-  "sortnum": 21,
+  "category": "patchouli:comida_para_llevar",
+  "sortnum": 6,
   "pages": [
     {
       "type": "patchouli:dish_intro",
@@ -35,7 +35,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "mynethersdelight:spicy_cotton"
+      "recipe": "mynethersdelight:crafting/spicy_cotton"
     }
   ]
 }

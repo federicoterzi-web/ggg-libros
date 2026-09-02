@@ -1,8 +1,8 @@
 {
   "name": "Lomo en Palito",
   "icon": "mynethersdelight:red_loin_on_a_stick",
-  "category": "patchouli:sopas_y_guisos",
-  "sortnum": 20,
+  "category": "patchouli:comida_para_llevar",
+  "sortnum": 5,
   "pages": [
     {
       "type": "patchouli:dish_intro",
@@ -35,7 +35,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "mynethersdelight:red_loin_on_a_stick"
+      "recipe": "mynethersdelight:crafting/red_loin_on_a_stick"
     }
   ]
 }

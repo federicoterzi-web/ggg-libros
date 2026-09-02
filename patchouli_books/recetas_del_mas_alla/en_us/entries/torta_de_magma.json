@@ -1,8 +1,8 @@
 {
   "name": "Torta de Magma",
   "icon": "mynethersdelight:magma_cake_block",
-  "category": "patchouli:sopas_y_guisos",
-  "sortnum": 19,
+  "category": "patchouli:comida_para_llevar",
+  "sortnum": 4,
   "pages": [
     {
       "type": "patchouli:dish_intro",
@@ -35,7 +35,20 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "mynethersdelight:magma_cake"
+      "recipe": "mynethersdelight:crafting/magma_cake"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cortarla",
+      "text": "$(l)Se coloca como bloque, y se corta en porciones con cuchillo — 7 de una, igual que cualquier otra torta.$()"
+    },
+    {
+      "type": "patchouli:cutting_board_recipe",
+      "title": "Torta de Magma",
+      "input": "mynethersdelight:magma_cake_block",
+      "output1": "mynethersdelight:magma_cake_slice",
+      "output2": "minecraft:air",
+      "tool_item": "tag:c:tools/knife"
     }
   ]
 }

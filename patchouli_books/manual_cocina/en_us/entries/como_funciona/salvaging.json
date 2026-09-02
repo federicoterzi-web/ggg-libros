@@ -1,0 +1,23 @@
+{
+  "name": "Desarmar Objetos",
+  "icon": "minecraft:oak_door",
+  "category": "patchouli:como_funciona",
+  "priority": false,
+  "secret": false,
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Desarmar Objetos",
+      "text": "$(l)La Tabla de Picar también sirve para deshacer.$()$(br)$(br)Un montón de objetos crafteados (puertas, trampillas, carteles, botes, armaduras de cuero, minecarts especiales, y más) se pueden $(bold)desarmar$() en la Tabla de Picar con la herramienta correcta, recuperando parte del material original.$(br)$(br)$(6)Ojo:$() no siempre es 100% seguro — algunas recetas tienen probabilidad de fallar y no darte nada."
+    },
+    {
+      "type": "patchouli:cutting_board_recipe",
+      "title": "Ejemplo: Casco de Cuero",
+      "input": "minecraft:leather_helmet",
+      "output1": "minecraft:leather",
+      "output2": "minecraft:air",
+      "tool_item": "minecraft:shears"
+    }
+  ]
+}

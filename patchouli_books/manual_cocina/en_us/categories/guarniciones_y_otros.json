@@ -2,5 +2,6 @@
   "name": "Guarniciones y Otros",
   "description": "Los acompañamientos y las recetas que no encajan en otro lado.",
   "icon": "farmersdelight:fried_rice",
+  "secret": false,
   "sortnum": 6
 }

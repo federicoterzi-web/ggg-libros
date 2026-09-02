@@ -1,8 +1,8 @@
 {
   "name": "Filete Mignon Azul",
   "icon": "mynethersdelight:blue_tenderloin_steak",
-  "category": "patchouli:sopas_y_guisos",
-  "sortnum": 15,
+  "category": "patchouli:comida_para_llevar",
+  "sortnum": 0,
   "pages": [
     {
       "type": "patchouli:dish_intro",
@@ -35,7 +35,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "mynethersdelight:blue_tenderloin_steak"
+      "recipe": "mynethersdelight:crafting/blue_tenderloin_steak"
     }
   ]
 }

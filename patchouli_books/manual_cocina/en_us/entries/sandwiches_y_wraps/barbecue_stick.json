@@ -1,0 +1,41 @@
+{
+  "name": "Palito de Barbacoa",
+  "icon": "farmersdelight:barbecue_stick",
+  "category": "patchouli:sandwiches_y_wraps",
+  "priority": false,
+  "secret": false,
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Palito de Barbacoa",
+      "m1": "ggg:textures/gui/entries/food_full.png",
+      "o1": "ggg:textures/gui/entries/sat_100.png",
+      "m2": "ggg:textures/gui/entries/food_full.png",
+      "o2": "ggg:textures/gui/entries/sat_100.png",
+      "m3": "ggg:textures/gui/entries/food_full.png",
+      "o3": "ggg:textures/gui/entries/sat_100.png",
+      "m4": "ggg:textures/gui/entries/food_full.png",
+      "o4": "ggg:textures/gui/entries/sat_100.png",
+      "m5": "ggg:textures/gui/entries/blank_icon.png",
+      "o5": "ggg:textures/gui/entries/sat_100.png",
+      "m6": "ggg:textures/gui/entries/blank_icon.png",
+      "o6": "ggg:textures/gui/entries/sat_100.png",
+      "m7": "ggg:textures/gui/entries/blank_icon.png",
+      "o7": "ggg:textures/gui/entries/sat_100.png",
+      "m8": "ggg:textures/gui/entries/blank_icon.png",
+      "o8": "ggg:textures/gui/entries/sat_25.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/blank_icon.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/blank_icon.png",
+      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
+      "effect_text": "",
+      "description": "$(l)Cualquier carne cocida, en un palito. Comida de feria, la que te compraba cuando te portabas bien — cosa rara, la verdad.$()"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:barbecue_stick"
+    }
+  ]
+}

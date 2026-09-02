@@ -1,8 +1,8 @@
 {
   "name": "Ensalada de Ghast",
   "icon": "mynethersdelight:ghast_salad",
-  "category": "patchouli:sopas_y_guisos",
-  "sortnum": 17,
+  "category": "patchouli:comida_para_llevar",
+  "sortnum": 2,
   "pages": [
     {
       "type": "patchouli:dish_intro",
@@ -35,7 +35,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "mynethersdelight:ghast_salad"
+      "recipe": "mynethersdelight:crafting/ghast_salad"
     }
   ]
 }

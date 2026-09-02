@@ -1,0 +1,19 @@
+{
+  "name": "Introducción",
+  "icon": "minecraft:book",
+  "category": "patchouli:como_funciona",
+  "priority": false,
+  "secret": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Introducción",
+      "text": "$(l)Bueno, acá estoy yo otra vez, dándote todo masticado.$()$(br)$(br)Esto es lo que sé de cocina, todo junto, para que no tengas excusa. Cada receta la anoté tal cual funciona de verdad — ni una coma inventada, que para eso me tomé el trabajo."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Así lo organicé, prestá atención:$()$(br)$(br)$(bold)Cómo Funciona$() — las herramientas nuevas, para que no rompas nada de entrada.$(br)$(bold)Bases y Preparados$() — lo que tenés que saber hacer antes de animarte a lo demás.$(br)$(bold)Secretos de la Tabla de Picar$() — trucos que no son de comida, pero sirven igual.$(br)$(bold)Platos Preparados$() — las recetas de verdad, con mi opinión incluida, te guste o no."
+    }
+  ]
+}

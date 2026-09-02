@@ -51,7 +51,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "mynethersdelight:hotcream_bucket"
+      "recipe": "mynethersdelight:crafting/hotcream_bucket"
     }
   ]
 }

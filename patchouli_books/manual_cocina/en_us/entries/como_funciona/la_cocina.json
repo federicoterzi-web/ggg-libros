@@ -1,0 +1,19 @@
+{
+  "name": "La Cocina",
+  "icon": "farmersdelight:stove",
+  "category": "patchouli:como_funciona",
+  "priority": false,
+  "secret": false,
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "La Cocina",
+      "text": "$(l)Una parrilla, no un horno con más espacio.$()$(br)$(br)Se coloca como bloque y necesita estar sobre fuego (igual que la Olla). Poné hasta $(bold)6 ítems directo sobre el bloque$() (no en una interfaz, en el mundo) y se cocinan todos a la vez, usando recetas de $(bold)ahumado$(). No tiene combustible propio — el fuego de abajo la mantiene encendida."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:stove"
+    }
+  ]
+}

@@ -2,5 +2,6 @@
   "name": "Sopas y Guisos",
   "description": "Lo más reconfortante que sale de la olla.",
   "icon": "farmersdelight:beef_stew",
+  "secret": false,
   "sortnum": 3
 }

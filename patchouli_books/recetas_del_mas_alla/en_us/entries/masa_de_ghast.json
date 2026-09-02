@@ -11,7 +11,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "mynethersdelight:ghast_dough"
+      "recipe": "mynethersdelight:crafting/ghast_dough"
     }
   ]
 }

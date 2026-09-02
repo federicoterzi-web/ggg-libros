@@ -11,7 +11,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "mynethersdelight:raw_stuffed_hoglin"
+      "recipe": "mynethersdelight:crafting/raw_stuffed_hoglin"
     },
     {
       "type": "patchouli:text",

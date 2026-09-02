@@ -1,14 +1,58 @@
 {
   "components": [
-    { "type": "patchouli:image", "image": "ggg:textures/gui/entries/slot_frame.png", "x": 8, "y": 15, "width": 20, "height": 20, "texture_width": 20, "texture_height": 20 },
-    { "type": "patchouli:item", "item": "minecraft:wheat", "x": 10, "y": 17 },
-
-    { "type": "patchouli:image", "image": "ggg:textures/gui/entries/slot_frame.png", "x": 32, "y": 15, "width": 20, "height": 20, "texture_width": 20, "texture_height": 20 },
-    { "type": "patchouli:item", "item": "minecraft:water_bucket", "x": 34, "y": 17 },
-
-    { "type": "patchouli:text", "text": "$(bold)>>>$()", "x": 58, "y": 22 },
-
-    { "type": "patchouli:image", "image": "ggg:textures/gui/entries/slot_frame.png", "x": 75, "y": 15, "width": 20, "height": 20, "texture_width": 20, "texture_height": 20 },
-    { "type": "patchouli:item", "item": "farmersdelight:wheat_dough", "x": 77, "y": 17 }
+    {
+      "type": "patchouli:image",
+      "image": "ggg:textures/gui/entries/slot_frame.png",
+      "x": 8,
+      "y": 15,
+      "width": 20,
+      "height": 20,
+      "texture_width": 20,
+      "texture_height": 20
+    },
+    {
+      "type": "patchouli:item",
+      "item": "minecraft:wheat",
+      "x": 10,
+      "y": 17
+    },
+    {
+      "type": "patchouli:image",
+      "image": "ggg:textures/gui/entries/slot_frame.png",
+      "x": 32,
+      "y": 15,
+      "width": 20,
+      "height": 20,
+      "texture_width": 20,
+      "texture_height": 20
+    },
+    {
+      "type": "patchouli:item",
+      "item": "minecraft:water_bucket",
+      "x": 34,
+      "y": 17
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)>>>$()",
+      "x": 58,
+      "y": 22
+    },
+    {
+      "type": "patchouli:image",
+      "image": "ggg:textures/gui/entries/slot_frame.png",
+      "x": 75,
+      "y": 15,
+      "width": 20,
+      "height": 20,
+      "texture_width": 20,
+      "texture_height": 20
+    },
+    {
+      "type": "patchouli:item",
+      "item": "farmersdelight:wheat_dough",
+      "x": 77,
+      "y": 17
+    }
   ]
 }
