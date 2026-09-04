@@ -5,12 +5,9 @@
   "sortnum": 12,
   "pages": [
     {
-      "type": "patchouli:image",
-      "images": [
-        "tide:textures/item/sailfish_full.png"
-      ],
+      "type": "patchouli:spotlight",
+      "item": "tide:sailfish",
       "title": "Pez Vela",
-      "border": true,
       "text": "$(#55FFFF)$(bold)Raro$()$(br2)Conocido por su impresionante aleta dorsal, acelera a través de los océanos abiertos cazando peces con ataques rápidos.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {

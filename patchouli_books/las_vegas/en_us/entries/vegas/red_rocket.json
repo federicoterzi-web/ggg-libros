@@ -1,0 +1,15 @@
+{
+  "name": "Red Rocket",
+  "icon": "minecraft:firework_rocket",
+  "category": "patchouli:vegas",
+  "advancement": "ggg:red_rocket",
+  "priority": false,
+  "secret": false,
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)$(4)Una estación de servicio que no vende nada.$()$()$(br)$(br)Puramente decorativa: no hay surtidor, no hay empleado, no hay nada que comprar. Pero corre el rumor de que hay algún secreto escondido entre las ruinas para el que se ponga a buscar. Suerte, detective."
+    }
+  ]
+}

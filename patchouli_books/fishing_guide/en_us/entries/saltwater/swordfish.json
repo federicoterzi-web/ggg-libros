@@ -5,12 +5,9 @@
   "sortnum": 11,
   "pages": [
     {
-      "type": "patchouli:image",
-      "images": [
-        "tide:textures/item/swordfish_full.png"
-      ],
+      "type": "patchouli:spotlight",
+      "item": "tide:swordfish",
       "title": "Pez Espada",
-      "border": true,
       "text": "$(#55FFFF)$(bold)Raro$()$(br2)Un depredador poderoso con un pico largo y plano usado para tajar a sus presas. Navega por aguas profundas en busca de comida.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {

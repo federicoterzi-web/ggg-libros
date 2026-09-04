@@ -2,6 +2,7 @@
   "name": "La Herrería de Polar",
   "icon": "minecraft:deepslate_diamond_ore",
   "category": "patchouli:comercio",
+  "advancement": "ggg:la_herreria_de_polar",
   "priority": false,
   "secret": false,
   "sortnum": 3,

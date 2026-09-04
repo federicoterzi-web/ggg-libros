@@ -1,0 +1,27 @@
+{
+  "name": "¡Hola!",
+  "icon": "minecraft:book",
+  "category": "patchouli:primeros_pasos",
+  "priority": false,
+  "secret": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "¡Bienvenida, butito!",
+      "text": "$(d)$(l)📖 Guía Turística Oficial de GGG$()$(br)$(br)A ver, pedazo de lurker, si este libro llegó a tus manos chorreadas solo hay tres opciones claras:$(br)• Sos un $(d)$(l)femboy$() de cultura.$(br)• Sos un $(c)butito$() tragasables al que le encantan los femboys.$(br)• O llegó la hora de replantearte qué carajo estás haciendo con tu vida, rey."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "A menos que seas un $(#FF5555)troll$(). Si venís a trollear, andá preparando la cola porque te vamos a piolar entero, te cortamos la bija y la sorteamos en los puntos del canal para entretener a los viewers más necesitados y horny del server."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)GGG $()es un loquero donde conviven comerciantes sospechosamente cariñosos, tryharders de cartón, impresores de litematica, builders compulsivos, wachines y una cantidad $(#FF55FF)estadísticamente enferma de femboys$().$(br)$(br)En estas páginas vas a ver lo mejor del spawn: spots, negocios turbios y secretos que era mejor dejar enterrados... "
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Así que guardá tus mochilas en una mochila, apaga la lamparita de Redstone, fijate de no haber dropeado la espada como un novato y $(bold)$(#FFAA00)preparate para patear GGG$()$().$(br)$(br)$(#FF55FF)La aventura arranca en la página que sigue. ¡GG chat!$()"
+    }
+  ]
+}

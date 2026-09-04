@@ -5,12 +5,9 @@
   "sortnum": 9,
   "pages": [
     {
-      "type": "patchouli:image",
-      "images": [
-        "tide:textures/item/mahi_mahi_full.png"
-      ],
+      "type": "patchouli:spotlight",
+      "item": "tide:mahi_mahi",
       "title": "Mahi-Mahi",
-      "border": true,
       "text": "$(#55FFFF)$(bold)Raro$()$(br2)Estos peces largos tienen colores deslumbrantes y una cabeza roma y redondeada.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {

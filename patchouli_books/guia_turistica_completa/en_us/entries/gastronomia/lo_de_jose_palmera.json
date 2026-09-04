@@ -1,0 +1,19 @@
+{
+  "name": "Lo de José Palmera",
+  "icon": "tide:midas_fish",
+  "category": "patchouli:gastronomia",
+  "priority": false,
+  "secret": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Lo de José Palmera",
+      "text": "El secreto mejor guardado del servidor (porque nadie lo ve).$()$(br)Estás en el Spawn, girás la cabeza y... ¿qué hay ahí al lado? No tenés ni idea. Pasaste por enfrente quinientas veces corriendo como un desquiciado y nunca te diste cuenta de que ahí mismo está José Palmera.$()$(br)José tiene una humilde tiendita donde vende comidas y especialidades hechas a base de pescado. $()$(br)$(br)"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(bold)Gastronomía marítima$()$(): Platos de pescado para que dejes de alimentarte a pura zanahoria y carne podrida.$(br)$(bold)• $()$(bold) Invisibilidad absoluta:$()$() Está  tan ignorado por todos que si te descubren dupeando y te escondés atrás del mostrador de José, no te encuentra ni Galvhi.$(br)$(bold)• $()$(bold)Atención personalizada: $()$()Sos el único cliente que va a pisar el local en todo el mes, así que tratá bien al pobre José."
+    }
+  ]
+}

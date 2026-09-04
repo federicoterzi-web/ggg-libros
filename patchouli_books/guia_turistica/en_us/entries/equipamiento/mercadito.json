@@ -2,13 +2,14 @@
   "name": "Mercadito",
   "icon": "minecraft:bell",
   "category": "patchouli:equipamiento",
+  "advancement": "ggg:mercadito",
   "priority": false,
   "secret": false,
   "sortnum": 4,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Por si necesitas tomar aire mientras haces las compras un mercadito al aire libre"
+      "text": "Un mercadito al aire libre, por si te agarra claustrofobia comprando en locales cerrados. Puestitos sueltos, cielo abierto y ofertas dudosas."
     },
     {
       "type": "patchouli:text",

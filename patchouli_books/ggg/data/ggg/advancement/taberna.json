@@ -1,0 +1,73 @@
+{
+  "parent": "ggg:ggg_spawn",
+  "display": {
+    "icon": {
+      "id": "farmersdelight:apple_cider"
+    },
+    "title": {
+      "text": "F en el chat"
+    },
+    "description": {
+      "text": "Visitaste la taberna. Acá empezaba la aventura; ahora es un cascarón de NPCs esperando el delete."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "coordenadas": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "dimension": "minecraft:overworld",
+                "position": {
+                  "x": {
+                    "min": 6,
+                    "max": 19
+                  },
+                  "y": {
+                    "min": 64,
+                    "max": 72
+                  },
+                  "z": {
+                    "min": 116,
+                    "max": 120
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "inventario": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "patchouli:guide_book"
+            ],
+            "components": {
+              "patchouli:book": "patchouli:guia_turistica"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "coordenadas"
+    ],
+    [
+      "inventario"
+    ]
+  ]
+}

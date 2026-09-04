@@ -8,7 +8,7 @@
   "book_texture": "ggg:textures/gui/manual_cocina.png",
   "filler_texture": "ggg:textures/gui/cocina_filler.png",
   "use_resource_pack": false,
-  "show_progress": true,
+  "show_progress": false,
   "header_color": "aa1e1e",
   "tooltip": "",
   "color_def": "",

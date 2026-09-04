@@ -1,0 +1,19 @@
+{
+  "name": "¿Y esto cómo funca?",
+  "icon": "minecraft:book",
+  "category": "patchouli:introduccion",
+  "priority": false,
+  "secret": false,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "¿Cómo funca esto?",
+      "text": "Funciona igual que el Volumen I: movés el culo, entrás a una zona nueva con el libro en la mano, y $(bold)$(6)¡PUM!$() se desbloquea la página con la info y las coordenadas."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La única diferencia es que acá, si te desbloqueás la zona equivocada a la hora equivocada, es muy probable que también te desbloquees una demanda. Explorá bajo tu propio riesgo. ¡A patear Las Vegas, sucia!"
+    }
+  ]
+}

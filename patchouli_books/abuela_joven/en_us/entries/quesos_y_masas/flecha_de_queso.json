@@ -1,0 +1,14 @@
+{
+  "name": "Flecha de Queso",
+  "icon": "natures_spirit:cheese_arrow",
+  "category": "patchouli:quesos_y_masas",
+  "priority": false,
+  "secret": false,
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Sí, una flecha. De queso.$()$(br)$(br)No preguntes por qué existe, ni yo lo sé. Se arma en la mesa de crafteo con flechas normales y un balde de queso en el medio. No alimenta a nadie, pero es lo más divertido que hice en todo el huerto esta semana."
+    }
+  ]
+}

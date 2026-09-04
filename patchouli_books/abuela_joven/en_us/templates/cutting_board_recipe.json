@@ -1,0 +1,92 @@
+{
+  "components": [
+    {
+      "type": "patchouli:header",
+      "text": "#title",
+      "x": 0,
+      "y": 4,
+      "centered": false,
+      "scale": 0.7
+    },
+    {
+      "type": "patchouli:image",
+      "image": "ggg:textures/gui/entries/cutting_board_bg.png",
+      "x": 5,
+      "y": 30,
+      "width": 100,
+      "height": 64,
+      "texture_width": 100,
+      "texture_height": 64
+    },
+    {
+      "type": "patchouli:image",
+      "image": "ggg:textures/gui/entries/slot_frame.png",
+      "x": 8,
+      "y": 40,
+      "width": 20,
+      "height": 20,
+      "texture_width": 20,
+      "texture_height": 20
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#input",
+      "x": 10,
+      "y": 42
+    },
+    {
+      "type": "patchouli:image",
+      "image": "ggg:textures/gui/entries/slot_frame.png",
+      "x": 42,
+      "y": 40,
+      "width": 20,
+      "height": 20,
+      "texture_width": 20,
+      "texture_height": 20
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#tool_item",
+      "x": 44,
+      "y": 42
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)>>>$()",
+      "x": 70,
+      "y": 47
+    },
+    {
+      "type": "patchouli:image",
+      "image": "ggg:textures/gui/entries/slot_frame.png",
+      "x": 8,
+      "y": 100,
+      "width": 20,
+      "height": 20,
+      "texture_width": 20,
+      "texture_height": 20
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#output1",
+      "x": 10,
+      "y": 102
+    },
+    {
+      "type": "patchouli:image",
+      "image": "ggg:textures/gui/entries/slot_frame.png",
+      "x": 32,
+      "y": 100,
+      "width": 20,
+      "height": 20,
+      "texture_width": 20,
+      "texture_height": 20
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#output2",
+      "x": 34,
+      "y": 102
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Nabo del Desierto",
+  "icon": "natures_spirit:desert_turnip",
+  "category": "patchouli:del_huerto",
+  "priority": false,
+  "secret": false,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Nabo del Desierto",
+      "m1": "ggg:textures/gui/entries/food_full.png",
+      "m2": "ggg:textures/gui/entries/blank_icon.png",
+      "m3": "ggg:textures/gui/entries/blank_icon.png",
+      "m4": "ggg:textures/gui/entries/blank_icon.png",
+      "m5": "ggg:textures/gui/entries/blank_icon.png",
+      "m6": "ggg:textures/gui/entries/blank_icon.png",
+      "m7": "ggg:textures/gui/entries/blank_icon.png",
+      "m8": "ggg:textures/gui/entries/blank_icon.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o1": "ggg:textures/gui/entries/sat_75.png",
+      "o2": "ggg:textures/gui/entries/blank_icon.png",
+      "o3": "ggg:textures/gui/entries/blank_icon.png",
+      "o4": "ggg:textures/gui/entries/blank_icon.png",
+      "o5": "ggg:textures/gui/entries/blank_icon.png",
+      "o6": "ggg:textures/gui/entries/blank_icon.png",
+      "o7": "ggg:textures/gui/entries/blank_icon.png",
+      "o8": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/blank_icon.png",
+      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
+      "effect_text": "",
+      "description": "$(l)Este creció solo, en la parte más seca del huerto, donde ya me había resignado a no plantar nada.$()$(br)$(br)Se come crudo y rápido, casi de un bocado. Si juntás cuatro, se compactan en un bloque para guardar mejor."
+    },
+    {
+      "type": "patchouli:item",
+      "item": "natures_spirit:desert_turnip",
+      "text": "Así se come."
+    }
+  ]
+}

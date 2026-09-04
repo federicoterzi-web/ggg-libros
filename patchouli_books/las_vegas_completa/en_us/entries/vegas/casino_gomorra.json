@@ -1,0 +1,14 @@
+{
+  "name": "Casino Gomorra",
+  "icon": "minecraft:redstone_block",
+  "category": "patchouli:vegas",
+  "priority": false,
+  "secret": false,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)$(4)El otro casino, el de la familia.$()$()$(br)$(br)Si el Lucky 38 es la joda prolija del viejo obsesivo, el Gomorra es la joda de la familia a la que no te conviene deberle plata. Mismo sistema de apuestas que el Lucky 38 — te vacían igual de rápido — pero acá encima te miran raro mientras lo hacen."
+    }
+  ]
+}

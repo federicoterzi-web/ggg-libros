@@ -5,12 +5,9 @@
   "sortnum": 22,
   "pages": [
     {
-      "type": "patchouli:image",
-      "images": [
-        "tide:textures/item/shadow_shark_full.png"
-      ],
+      "type": "patchouli:spotlight",
+      "item": "tide:shadow_shark",
       "title": "Tiburón Sombrío",
-      "border": true,
       "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Este depredador espeluznante posee dientes absurdamente afilados pero una piel relativamente débil.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {

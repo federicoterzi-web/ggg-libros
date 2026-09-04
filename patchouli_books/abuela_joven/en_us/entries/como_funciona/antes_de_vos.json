@@ -1,0 +1,19 @@
+{
+  "name": "Antes de Vos",
+  "icon": "minecraft:book",
+  "category": "patchouli:como_funciona",
+  "priority": false,
+  "secret": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Antes de Vos",
+      "text": "$(d)$(l)No vas a encontrar quejas acá.$()$(br)$(br)Este cuaderno lo empecé mucho antes de saber cómo se iba a poner todo. Todavía creo que el mundo se arregla con un huerto bien cuidado y algo rico compartido en la mesa. Guardá esa idea, aunque con los años yo me olvide."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Todo lo que sigue sale de acá cerca: lo que planté yo, lo que junté del monte, y algún plato de algún lugar lejano que armé con lo que tenía a mano. Nada de esto necesita una estufa grande ni una olla especial — con una tabla de picar, una olla de cocción y ganas alcanza."
+    }
+  ]
+}

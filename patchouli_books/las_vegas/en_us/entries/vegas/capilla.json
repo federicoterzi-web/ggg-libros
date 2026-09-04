@@ -1,0 +1,15 @@
+{
+  "name": "Capilla (Juzgado de Paz)",
+  "icon": "minecraft:bell",
+  "category": "patchouli:vegas",
+  "advancement": "ggg:capilla",
+  "priority": false,
+  "secret": false,
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)$(4)Casate acá. En serio, cualquiera con cualquiera.$()$()$(br)$(br)Más que una iglesia, es un juzgado de paz exprés para que dos butitos cualquiera se casen en Las Vegas sin pensarlo dos veces. Nadie pregunta nombres, nadie pide anillos, y nadie garantiza que dure hasta la próxima temporada."
+    }
+  ]
+}

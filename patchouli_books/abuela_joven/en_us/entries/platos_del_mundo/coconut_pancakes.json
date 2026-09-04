@@ -1,0 +1,53 @@
+{
+  "name": "Panqueques de Coco",
+  "icon": "natures_delight:coconut_pancakes",
+  "category": "patchouli:platos_del_mundo",
+  "priority": false,
+  "secret": false,
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Panqueques de Coco",
+      "m1": "ggg:textures/gui/entries/food_full.png",
+      "m2": "ggg:textures/gui/entries/food_full.png",
+      "m3": "ggg:textures/gui/entries/food_full.png",
+      "m4": "ggg:textures/gui/entries/food_full.png",
+      "m5": "ggg:textures/gui/entries/food_full.png",
+      "m6": "ggg:textures/gui/entries/blank_icon.png",
+      "m7": "ggg:textures/gui/entries/blank_icon.png",
+      "m8": "ggg:textures/gui/entries/blank_icon.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o1": "ggg:textures/gui/entries/sat_100.png",
+      "o2": "ggg:textures/gui/entries/sat_100.png",
+      "o3": "ggg:textures/gui/entries/sat_100.png",
+      "o4": "ggg:textures/gui/entries/sat_100.png",
+      "o5": "ggg:textures/gui/entries/sat_100.png",
+      "o6": "ggg:textures/gui/entries/sat_100.png",
+      "o7": "ggg:textures/gui/entries/blank_icon.png",
+      "o8": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/blank_icon.png",
+      "effect_icon": "ggg:textures/gui/entries/nourishment.png",
+      "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (1 min)$(/t)",
+      "description": "$(l)Para las mañanas en las que me levanto con ganas de mimarme un poco.$()$(br)$(br)Coco, leche y arroz, todo junto. Simple, dulce, y suficiente para arrancar el día con energía."
+    },
+    {
+      "type": "patchouli:item",
+      "item": "natures_delight:coconut_pancakes",
+      "text": "Así se sirve."
+    },
+    {
+      "type": "patchouli:cooking_pot_recipe",
+      "item1": "natures_spirit:coconut_half",
+      "item2": "tag:c:foods/milk",
+      "item3": "farmersdelight:rice",
+      "item4": "minecraft:air",
+      "item5": "minecraft:air",
+      "item6": "minecraft:air",
+      "container": "minecraft:bowl",
+      "result": "natures_delight:coconut_pancakes"
+    }
+  ]
+}

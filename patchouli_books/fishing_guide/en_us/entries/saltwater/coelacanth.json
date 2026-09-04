@@ -5,12 +5,9 @@
   "sortnum": 21,
   "pages": [
     {
-      "type": "patchouli:image",
-      "images": [
-        "tide:textures/item/coelacanth_full.png"
-      ],
+      "type": "patchouli:spotlight",
+      "item": "tide:coelacanth",
       "title": "Celacanto",
-      "border": true,
       "text": "$(#FFAA00)$(bold)Legendario$()$(br2)Un fósil viviente, que se creía extinguido hace millones de años. Acechan en cuevas oscuras para evitar la luz.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos Profundos$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {

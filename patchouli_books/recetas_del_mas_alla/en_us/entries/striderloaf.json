@@ -45,7 +45,7 @@
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (1 min)$(/t)",
       "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect2_text": "",
-      "description": "$(l)Menos cantidad, pero la saturación es altísima — te dura mucho antes de volver a tener hambre.$()"
+      "description": "$(l)Menos cantidad, pero la saturación es altísima — te dura mucho antes de volver a tener hambre.$() $(6)Es el mismo bloque$() cambiando de temperatura — frío o caliente, sigue rindiendo $(bold)4 porciones$() en total antes de acabarse, necesitás un $(bold)bowl vacío$() para sacarlas."
     },
     {
       "type": "patchouli:dish_intro",
@@ -74,7 +74,17 @@
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (40 seg)$(/t)",
       "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect2_text": "",
-      "description": "$(l)Llena mucho de una, pero la saturación es casi nula — vas a tener hambre de nuevo pronto a pesar de la cantidad.$()"
+      "description": "$(l)Llena mucho de una, pero la saturación es casi nula — vas a tener hambre de nuevo pronto a pesar de la cantidad.$() $(6)Es el mismo bloque$() cambiando de temperatura — frío o caliente, sigue rindiendo $(bold)4 porciones$() en total antes de acabarse, necesitás un $(bold)bowl vacío$() para sacarlas."
+    },
+    {
+      "type": "patchouli:item",
+      "item": "mynethersdelight:plate_of_striderloaf",
+      "text": "La porción en este estado."
+    },
+    {
+      "type": "patchouli:item",
+      "item": "mynethersdelight:plate_of_cold_striderloaf",
+      "text": "La porción en este estado."
     }
   ]
 }

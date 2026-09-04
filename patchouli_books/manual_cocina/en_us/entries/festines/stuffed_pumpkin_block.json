@@ -34,6 +34,11 @@
       "o10": "ggg:textures/gui/entries/sat_100.png"
     },
     {
+      "type": "patchouli:item",
+      "item": "farmersdelight:stuffed_pumpkin",
+      "text": "La porción que te sirve el bloque."
+    },
+    {
       "type": "patchouli:cooking_pot_recipe",
       "item1": "tag:c:crops/rice",
       "item2": "tag:c:crops/onion",

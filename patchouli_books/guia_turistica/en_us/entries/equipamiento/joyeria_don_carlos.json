@@ -2,13 +2,14 @@
   "name": "Joyería Don Carlos",
   "icon": "minecraft:diamond",
   "category": "patchouli:equipamiento",
+  "advancement": "ggg:joyeria_don_carlos",
   "priority": false,
   "secret": false,
   "sortnum": 2,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "$(4)$(bold)Bling bling para tu inventario.$()$()$(br)$(0)Acá no solo conseguís anillos normales, sino que tienen la posta: anillos mágicos. Con estos chiches podés hacer que se haga de día, que se haga de noche, o directamente teletransportarte sin límites. Ideal para los que les da amsiedad caminar.$()$(br)$(br)"
+      "text": "$(4)$(bold)Bling bling para tu inventario.$()$()$(br)Acá no solo conseguís anillos normales, sino que tienen la posta: anillos mágicos. Con estos chiches podés hacer que se haga de día, que se haga de noche, o directamente teletransportarte sin límites. Ideal para los vagos que no quieren caminar.$()$(br)$(br)"
     }
   ]
 }

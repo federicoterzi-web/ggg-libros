@@ -2,13 +2,14 @@
   "name": "Oficina de Empleo",
   "icon": "minecraft:golden_shovel",
   "category": "patchouli:servicios",
+  "advancement": "ggg:oficina_de_empleo",
   "priority": false,
   "secret": false,
   "sortnum": 0,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "El lugar más terrorífico de todo el servidor (sí, acá se agarra la pala). Si hay un lugar al que los viewers y el 90% de los butitos de GGG le tienen más miedo que a un creeper por la espalda, es a este. La famosa Oficina de Empleo. El templo del terror para los que les da amsiedad laburar y pretenden vivir del aire, del horny bait o de limosnear en el Spawn."
+      "text": "El lugar más terrorífico de todo el servidor (sí, acá se agarra la pala). Si hay un lugar al que los viewers y el 90% de los butitos de GGG le tienen más miedo que a un creeper por la espalda, es a este. La famosa Oficina de Empleo. El templo del terror para los alérgicos al laburo y pretenden vivir del aire, del horny bait o de limosnear en el Spawn."
     },
     {
       "type": "patchouli:text",

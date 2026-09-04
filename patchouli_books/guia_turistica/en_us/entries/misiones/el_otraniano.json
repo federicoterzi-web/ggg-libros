@@ -2,13 +2,14 @@
   "name": "El Otraniano",
   "icon": "minecraft:beacon",
   "category": "patchouli:misiones",
+  "advancement": "ggg:el_otraniano",
   "priority": false,
   "secret": false,
   "sortnum": 0,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "NPC estático en el spawn que ha decidido abandonar su vida para estar parado siempre en el mismo lugar, esperando recibir a los nuevos y darles interesantes misiones para empezar con una ayudita su vida en este mundo."
+      "text": "$(bold)$(4)El primer NPC que te va a hablar en tu vida.$()$()$(br)$(br)Largó todo —familia, laburo, sueños— para quedarse clavado en el mismo pixel del Spawn esperándote a vos. Dale bola: te tira las misiones iniciales para que arranques con una ayudita en vez de morir de hambre la primera noche como un novato."
     }
   ]
 }

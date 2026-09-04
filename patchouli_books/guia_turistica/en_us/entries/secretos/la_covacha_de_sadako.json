@@ -2,6 +2,7 @@
   "name": "La Covacha de Sadako",
   "icon": "minecraft:ender_eye",
   "category": "patchouli:secretos",
+  "advancement": "ggg:la_covacha_de_sadako",
   "priority": false,
   "secret": false,
   "sortnum": 1,

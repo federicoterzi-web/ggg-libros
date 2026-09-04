@@ -1,0 +1,73 @@
+{
+  "parent": "ggg:ggg_spawn",
+  "display": {
+    "icon": {
+      "id": "minecraft:beef"
+    },
+    "title": {
+      "text": "Se acabó la joda del salmón"
+    },
+    "description": {
+      "text": "Entraste a la carnicería. El exploit murió; ahora si querés pescado, agarrá la caña."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "coordenadas": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "dimension": "minecraft:overworld",
+                "position": {
+                  "x": {
+                    "min": 87,
+                    "max": 93
+                  },
+                  "y": {
+                    "min": 66,
+                    "max": 67
+                  },
+                  "z": {
+                    "min": 27,
+                    "max": 40
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "inventario": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "patchouli:guide_book"
+            ],
+            "components": {
+              "patchouli:book": "patchouli:guia_turistica"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "coordenadas"
+    ],
+    [
+      "inventario"
+    ]
+  ]
+}

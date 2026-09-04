@@ -1,0 +1,14 @@
+{
+  "name": "La Herrería de Polar",
+  "icon": "minecraft:deepslate_diamond_ore",
+  "category": "patchouli:comercio",
+  "priority": false,
+  "secret": false,
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Lavado de dinero rocoso. El lugar ideal para vender minerales. Si tenés un pico con toque de seda, traé tus menas directo para acá y vendé todo para forrarte en billetes. Algunos creen que el herrero es pariente de Hope"
+    }
+  ]
+}

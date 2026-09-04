@@ -1,0 +1,73 @@
+{
+  "parent": "ggg:ggg_spawn",
+  "display": {
+    "icon": {
+      "id": "minecraft:minecart"
+    },
+    "title": {
+      "text": "You talkin' to me?"
+    },
+    "description": {
+      "text": "Conociste a Travis. Te lleva en taxi hasta Las Vegas de vuelta... pero primero llegás por tu cuenta."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "coordenadas": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "dimension": "minecraft:overworld",
+                "position": {
+                  "x": {
+                    "min": 45,
+                    "max": 49
+                  },
+                  "y": {
+                    "min": 64,
+                    "max": 67
+                  },
+                  "z": {
+                    "min": -1,
+                    "max": 3
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "inventario": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "patchouli:guide_book"
+            ],
+            "components": {
+              "patchouli:book": "patchouli:guia_turistica"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "coordenadas"
+    ],
+    [
+      "inventario"
+    ]
+  ]
+}

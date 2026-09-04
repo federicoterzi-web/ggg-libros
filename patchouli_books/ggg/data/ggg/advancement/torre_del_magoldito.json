@@ -1,0 +1,73 @@
+{
+  "parent": "ggg:ggg_spawn",
+  "display": {
+    "icon": {
+      "id": "minecraft:enchanted_book"
+    },
+    "title": {
+      "text": "El palo mágico más duro del Spawn"
+    },
+    "description": {
+      "text": "Subiste a la torre del más gordito. Grimorios custom y control del clima, para dejarte bien empapado, rey."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "coordenadas": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "dimension": "minecraft:overworld",
+                "position": {
+                  "x": {
+                    "min": 108,
+                    "max": 112
+                  },
+                  "y": {
+                    "min": 76,
+                    "max": 79
+                  },
+                  "z": {
+                    "min": 199,
+                    "max": 204
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "inventario": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "patchouli:guide_book"
+            ],
+            "components": {
+              "patchouli:book": "patchouli:guia_turistica"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "coordenadas"
+    ],
+    [
+      "inventario"
+    ]
+  ]
+}

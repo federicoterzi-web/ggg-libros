@@ -5,12 +5,9 @@
   "sortnum": 16,
   "pages": [
     {
-      "type": "patchouli:image",
-      "images": [
-        "tide:textures/item/great_white_shark_full.png"
-      ],
+      "type": "patchouli:spotlight",
+      "item": "tide:great_white_shark",
       "title": "Gran Tiburón Blanco",
-      "border": true,
       "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Un depredador temido y respetado, patrullando las aguas costeras con sentidos agudos y ráfagas de velocidad.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {

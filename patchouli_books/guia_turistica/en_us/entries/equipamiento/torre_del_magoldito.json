@@ -2,17 +2,18 @@
   "name": "Torre del Magoldito",
   "icon": "minecraft:enchanted_book",
   "category": "patchouli:equipamiento",
+  "advancement": "ggg:torre_del_magoldito",
   "priority": false,
   "secret": false,
   "sortnum": 1,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "$(bold)$(4)El palo mágico más duro de todo el Spawn.$()$()$(br)$(0)Si andás necesitando algún libro encantado y estás dando vueltas por el Spawn, llegaste a la torre del más gordito. Y ya sabemos que a vos te encantan los gorditos mágicos que te sacuden la varita para dejarte bien protegido, rey.$()$(br)$(br)"
+      "text": "$(bold)$(4)El palo mágico más duro de todo el Spawn.$()$()$(br)Si andás necesitando algún libro encantado y estás dando vueltas por el Spawn, llegaste a la torre del más gordito. Y ya sabemos que a vos te encantan los gorditos mágicos que te sacuden la varita para dejarte bien protegido, rey.$()$(br)$(br)"
     },
     {
       "type": "patchouli:text",
-      "text": "$(0)$(bold)¿Qué carajo te ofrece este NPC?$()$()$(br)$(br)• $(0)$(bold)Magia de la buena: $()Este chabón no te vende cualquier porquería, tiene incluso algunos grimorios muy especiales custom.$()$(br)$(br)• $(0)$(bold)Control total: $()Con estos libritos turbios podés hacer que el clima cumpla tu voluntad. Si querés que llueva a cántaros para mojarte todo como te gusta, el Magoldito te hace el favor y te deja empapado.$()"
+      "text": "$(bold)¿Qué carajo te ofrece este NPC?$()$()$(br)$(br)• $(bold)Magia de la buena: $()Este chabón no te vende cualquier porquería, tiene incluso algunos grimorios muy especiales custom.$()$(br)$(br)• $(bold)Control total: $()Con estos libritos turbios podés hacer que el clima cumpla tu voluntad. Si querés que llueva a cántaros para mojarte todo como te gusta, el Magoldito te hace el favor y te deja empapado.$()"
     }
   ]
 }

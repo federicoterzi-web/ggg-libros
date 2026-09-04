@@ -1,0 +1,18 @@
+{
+  "name": "El Mercado Negro",
+  "icon": "minecraft:ender_chest",
+  "category": "patchouli:vegas",
+  "priority": false,
+  "secret": false,
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)$(4)Lo que la fábrica no te dijo que tenía en el sótano.$()$()$(br)$(br)Bajás por donde nadie te ve y aparecés en el verdadero negocio de Las Vegas: armas especiales, pociones, ingredientes para pociones, libros encantados, y un segundo local de mejoras de armadura, todavía más filoso que el del Spawn."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(6)💡 El Consejo de Rozsier$()$(br)Si alguien te pregunta de dónde sacaste esa espada, la respuesta correcta es \"la encontré\"."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "El Queso",
+  "icon": "natures_spirit:cheese_bucket",
+  "category": "patchouli:quesos_y_masas",
+  "priority": false,
+  "secret": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)La primera vez que hice queso fue de casualidad.$()$(br)$(br)Puse leche en la cazuela de queso, la toqué con un hongo marrón sin pensarlo mucho, y a los minutos ya tenía algo que sacar con el balde. Desde entonces no paré."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "El Atajo de la Olla",
+      "text": "Si además tenés olla de cocción, hay un atajo: la misma combinación de leche y hongo marrón funciona ahí adentro también. Y si no te queda leche embotellada, con cuatro botellitas de leche y un hongo se consigue exactamente lo mismo."
+    },
+    {
+      "type": "patchouli:cooking_pot_recipe",
+      "item1": "minecraft:milk_bucket",
+      "item2": "minecraft:brown_mushroom",
+      "item3": "minecraft:air",
+      "item4": "minecraft:air",
+      "item5": "minecraft:air",
+      "item6": "minecraft:air",
+      "container": "minecraft:bowl",
+      "result": "natures_spirit:cheese_bucket"
+    }
+  ]
+}

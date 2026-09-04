@@ -1,0 +1,73 @@
+{
+  "parent": "ggg:ggg_spawn",
+  "display": {
+    "icon": {
+      "id": "minecraft:glowstone"
+    },
+    "title": {
+      "text": "Bienvenido a Las Vegas"
+    },
+    "description": {
+      "text": "Cruzaste medio mapa para llegar acá. Ya es tarde para arrepentirte."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "coordenadas": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "dimension": "minecraft:overworld",
+                "position": {
+                  "x": {
+                    "min": 1653,
+                    "max": 1949
+                  },
+                  "y": {
+                    "min": 67,
+                    "max": 315
+                  },
+                  "z": {
+                    "min": 2656,
+                    "max": 2952
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "inventario": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "patchouli:guide_book"
+            ],
+            "components": {
+              "patchouli:book": "patchouli:las_vegas"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "coordenadas"
+    ],
+    [
+      "inventario"
+    ]
+  ]
+}

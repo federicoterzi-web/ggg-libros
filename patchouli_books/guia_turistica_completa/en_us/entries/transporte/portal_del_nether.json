@@ -1,0 +1,14 @@
+{
+  "name": "Portal del Nether",
+  "icon": "minecraft:nether_portal",
+  "category": "patchouli:transporte",
+  "priority": false,
+  "secret": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)$(4)El acceso físico y nostálgico al infierno.$()$()$(br)$(br)Si estuviste el día que se abrió el Negro en el cerro, esto te pega en el corazoncito. Y si sos de los nuevos que teletransportan todo con $(6)/warp$(), date una vuelta a pata al menos una vez para ver de dónde venimos, malcriado."
+    }
+  ]
+}

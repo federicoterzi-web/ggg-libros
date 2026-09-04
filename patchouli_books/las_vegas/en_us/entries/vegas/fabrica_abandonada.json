@@ -1,0 +1,15 @@
+{
+  "name": "Fábrica Abandonada",
+  "icon": "minecraft:cobweb",
+  "category": "patchouli:vegas",
+  "advancement": "ggg:fabrica_abandonada",
+  "priority": false,
+  "secret": false,
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)$(4)Acá se fabricaba algo que a nadie le importaba.$()$()$(br)$(br)Una vieja fábrica que producía algo completamente inútil para Minecraft — tan inútil que quebró. Hoy no queda nada más que telarañas y silencio... salvo por lo que se esconde más abajo."
+    }
+  ]
+}

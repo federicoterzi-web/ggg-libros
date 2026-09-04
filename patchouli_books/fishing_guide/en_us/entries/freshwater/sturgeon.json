@@ -5,12 +5,9 @@
   "sortnum": 15,
   "pages": [
     {
-      "type": "patchouli:image",
-      "images": [
-        "tide:textures/item/sturgeon_full.png"
-      ],
+      "type": "patchouli:spotlight",
+      "item": "tide:sturgeon",
       "title": "Esturión",
-      "border": true,
       "text": "$(#55FFFF)$(bold)Raro$()$(br2)Un pez que se alimenta en el fondo con escamas duras y un hocico largo. Navegan por las profundidades de ríos y lagos fríos.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {

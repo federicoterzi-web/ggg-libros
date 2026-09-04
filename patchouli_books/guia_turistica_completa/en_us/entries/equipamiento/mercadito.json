@@ -1,0 +1,18 @@
+{
+  "name": "Mercadito",
+  "icon": "minecraft:bell",
+  "category": "patchouli:equipamiento",
+  "priority": false,
+  "secret": false,
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Un mercadito al aire libre, por si te agarra claustrofobia comprando en locales cerrados. Puestitos sueltos, cielo abierto y ofertas dudosas."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "• $(bold)Estrógenos y Bebida Monster:$() El combo vital para arrancar el día en GGG y mantener el nivel de femboy activo las 24 horas.$(br)$(br)• $(bold)Escudos trans en el femboy shop:$() Obvio que el escudo tiene una pasiva.$(br)$(br)• $(bold)Cohetes, Hotdogs y Amatista:$() En los puestitos de al lado tenés de todo para el morfi y para salir disparado por los aires como corresponde.  "
+    }
+  ]
+}

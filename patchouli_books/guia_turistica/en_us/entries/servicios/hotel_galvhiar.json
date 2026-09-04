@@ -2,6 +2,7 @@
   "name": "Hotel Galvhiar",
   "icon": "minecraft:bed",
   "category": "patchouli:servicios",
+  "advancement": "ggg:hotel_galvhiar",
   "priority": false,
   "secret": false,
   "sortnum": 0,

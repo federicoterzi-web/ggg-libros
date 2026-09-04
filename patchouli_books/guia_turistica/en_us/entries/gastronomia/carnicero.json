@@ -2,13 +2,14 @@
   "name": "Carnicero",
   "icon": "minecraft:beef",
   "category": "patchouli:gastronomia",
+  "advancement": "ggg:carnicero",
   "priority": false,
   "secret": false,
   "sortnum": 2,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "$(0) $()$(bold)$(4)Acá hay carne, pero no la que vos querés.$()$()$(br)$(0)Históricamente, este local fue el centro del exploit de los salmones. Pero se les terminó la joda a los vivos: ahora solo vende otras carnes y si queres pescado$()$(1) $(bold)¡Agarrá la caña!$()$(br)$()$(br)"
+      "text": " $()$(bold)$(4)Acá hay carne, pero no la que vos querés.$()$()$(br)Históricamente, este local fue el centro del exploit de los salmones. Pero se les terminó la joda a los vivos: ahora solo vende otras carnes y si queres pescado$()$(1) $(bold)¡Agarrá la caña!$()$(br)$()$(br)"
     }
   ]
 }

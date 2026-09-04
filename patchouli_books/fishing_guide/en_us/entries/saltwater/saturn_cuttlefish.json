@@ -5,12 +5,9 @@
   "sortnum": 20,
   "pages": [
     {
-      "type": "patchouli:image",
-      "images": [
-        "tide:textures/item/saturn_cuttlefish_full.png"
-      ],
+      "type": "patchouli:spotlight",
+      "item": "tide:saturn_cuttlefish",
       "title": "Sepia de Saturno",
-      "border": true,
       "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Esta sepia de color pálido tiene un anillo distintivo orbitando su cabeza.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {

@@ -5,12 +5,9 @@
   "sortnum": 15,
   "pages": [
     {
-      "type": "patchouli:image",
-      "images": [
-        "tide:textures/item/chasm_eel_full.png"
-      ],
+      "type": "patchouli:spotlight",
+      "item": "tide:chasm_eel",
       "title": "",
-      "border": true,
       "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {

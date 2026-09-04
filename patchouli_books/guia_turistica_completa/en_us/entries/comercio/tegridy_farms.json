@@ -1,0 +1,18 @@
+{
+  "name": "Tegridy Farms",
+  "icon": "minecraft:hay_block",
+  "category": "patchouli:comercio",
+  "priority": false,
+  "secret": false,
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Para los butitos de campo. ¿Acabás de llegar al server y no tenés qué morfar? Tranqui, rey. En Tegridy Farms cosechás con clic derecho y matás a los animalitos sin culpa. Y si además de no cagarte de hambre querés platita fresca, también vendés lo que produzcas."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Pero ni se te ocurra contrabandear con los chinos ni armar una granja de villanos, porque te cae Randy con la escopeta a gritarte que $(italic)necesitás un poco de integridad$() mientras se fuma tu cosecha entera."
+    }
+  ]
+}

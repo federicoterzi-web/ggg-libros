@@ -1,0 +1,17 @@
+{
+  "name": "Guía del GGG",
+  "subtitle": "Vol. II — Las Vegas",
+  "landing_text": "$(d)$(l)Bueno, llegaste.$()$(br)$(br)Este libro no se compra ni se roba: te lo ganaste recorriendo TODO el Volumen I, zona por zona. Andá al psicólogo si eso te preocupa, pero mientras tanto agarrá el auto de Travis y metete en Las Vegas de GGG: neón, apuestas, armas de contrabando y una capilla para casarte con el primero que se te cruce.$(br)$(br)Ahora movete, y dejá que se desbloquee solo. Firmado, $(d)$(l)Rozsier$().",
+  "version": 0,
+  "creative_tab": "minecraft:tools_and_utilities",
+  "model": "ggg:vegas",
+  "book_texture": "ggg:textures/gui/las_vegas.png",
+  "filler_texture": "ggg:textures/gui/filler_guia.png",
+  "use_resource_pack": false,
+  "show_progress": false,
+  "advancements_enabled": true,
+  "dont_generate_book": false,
+  "color_def": "",
+  "header_color": "FFD700",
+  "link_color": "00E5FF"
+}

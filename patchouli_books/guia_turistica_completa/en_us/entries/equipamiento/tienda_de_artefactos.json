@@ -1,0 +1,14 @@
+{
+  "name": "Tienda de Artefactos",
+  "icon": "artifacts:charm_of_shrinking",
+  "category": "patchouli:equipamiento",
+  "priority": false,
+  "secret": false,
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(4)$(bold)No, no vas a conseguir dildos aquí.$()$()$(br)Querés tener habilidades increíbles como hacerte pequeñito, nadar en el aire o minar más rápido?. Acá podés comprar casi todos los artefactos que se encuentran en el mundo para que te den esa ventaja extra$()"
+    }
+  ]
+}

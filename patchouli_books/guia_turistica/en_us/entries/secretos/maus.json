@@ -2,13 +2,14 @@
   "name": "Maus",
   "icon": "natures_spirit:cheese_block",
   "category": "patchouli:secretos",
+  "advancement": "ggg:maus",
   "priority": false,
   "secret": false,
   "sortnum": 0,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Un speakeasy (bar clandestino) subterráneo donde los niños rata se juntan a timbear y escuchar música."
+      "text": "$(bold)$(4)El sótano donde ratonea el server.$()$()$(br)$(br)Un speakeasy clandestino bajo tierra: bajás, apostás la guita que tanto te costó farmear, la perdés toda, y te quedás a escuchar música porque ya no tenés con qué volver. Las ratas de GGG lo llaman \"una buena noche\"."
     }
   ]
 }

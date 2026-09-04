@@ -1,0 +1,73 @@
+{
+  "parent": "ggg:ciudad_vegas",
+  "display": {
+    "icon": {
+      "id": "minecraft:painting"
+    },
+    "title": {
+      "text": "Arte con presupuesto"
+    },
+    "description": {
+      "text": "Encontraste la galería. Alguien dibujó algo que nadie pidió, y ahí está, colgado."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "coordenadas": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "dimension": "minecraft:overworld",
+                "position": {
+                  "x": {
+                    "min": 1797,
+                    "max": 1841
+                  },
+                  "y": {
+                    "min": 68,
+                    "max": 75
+                  },
+                  "z": {
+                    "min": 2891,
+                    "max": 2924
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "inventario": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "patchouli:guide_book"
+            ],
+            "components": {
+              "patchouli:book": "patchouli:las_vegas"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "coordenadas"
+    ],
+    [
+      "inventario"
+    ]
+  ]
+}

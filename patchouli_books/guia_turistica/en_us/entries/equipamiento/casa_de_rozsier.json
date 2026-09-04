@@ -2,13 +2,14 @@
   "name": "Casa de Rozsier",
   "icon": "playerhead:Rozsier",
   "category": "patchouli:equipamiento",
+  "advancement": "ggg:casa_de_rozsier",
   "priority": false,
   "secret": false,
   "sortnum": 5,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Si ya tenés todo y no sabes en que gastar aquí vas a encontrar un nuevo objetivo: $(bold)$(4)RENACER$()$()$(br)$(bold)$(0)Así es vas a volver a nacer.$()$()$(br)$(0)Vas a seguir siendo butito pero vas a tener algunos beneficios.$()$(br)$(0)Lo que sí preparate para empeñar hasta a tu vieja.$()"
+      "text": "Si ya tenés todo y no sabes en que gastar aquí vas a encontrar un nuevo objetivo: $(bold)$(4)RENACER$()$()$(br)$(bold)Así es vas a volver a nacer.$()$()$(br)Vas a seguir siendo butito pero vas a tener algunos beneficios.$()$(br)Lo que sí preparate para empeñar hasta a tu vieja.$()"
     }
   ]
 }

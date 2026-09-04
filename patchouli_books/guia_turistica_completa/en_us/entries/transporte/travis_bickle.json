@@ -1,0 +1,14 @@
+{
+  "name": "Travis Bickle",
+  "icon": "minecraft:minecart",
+  "category": "patchouli:transporte",
+  "priority": false,
+  "secret": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)$(4)You talkin' to me?$()$()$(br)$(br)Un taxista con la mirada perdida y demasiado tiempo solo en el auto. Te lleva de una hasta Las Vegas, el lugar más vicioso del planeta... pero la primera vez tenés que llegar por tus propios medios; después ya te hace el viaje de vuelta. Eso sí: no lo mires mucho que por ahí se saca."
+    }
+  ]
+}

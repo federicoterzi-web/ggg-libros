@@ -1,0 +1,15 @@
+{
+  "name": "Biblioteca Abandonada",
+  "icon": "minecraft:soul_lantern",
+  "category": "patchouli:vegas",
+  "advancement": "ggg:biblioteca_abandonada",
+  "priority": false,
+  "secret": false,
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)$(4)Ojo con lo que se saca de acá.$()$()$(br)$(br)Entre estantes vacíos y libros que ya nadie va a leer, esta biblioteca está tomada por fantasmas. Si te animás a meterte, vas a poder farmear ectoplasma pegajoso — el mismo que se vende en la Tienda de Exploradores del Spawn. No preguntes de dónde sale."
+    }
+  ]
+}

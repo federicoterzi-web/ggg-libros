@@ -1,0 +1,42 @@
+{
+  "name": "Bloque de Queso",
+  "icon": "natures_spirit:cheese_block",
+  "category": "patchouli:quesos_y_masas",
+  "priority": false,
+  "secret": false,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Bloque de Queso",
+      "m1": "ggg:textures/gui/entries/food_full.png",
+      "m2": "ggg:textures/gui/entries/blank_icon.png",
+      "m3": "ggg:textures/gui/entries/blank_icon.png",
+      "m4": "ggg:textures/gui/entries/blank_icon.png",
+      "m5": "ggg:textures/gui/entries/blank_icon.png",
+      "m6": "ggg:textures/gui/entries/blank_icon.png",
+      "m7": "ggg:textures/gui/entries/blank_icon.png",
+      "m8": "ggg:textures/gui/entries/blank_icon.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o1": "ggg:textures/gui/entries/sat_25.png",
+      "o2": "ggg:textures/gui/entries/blank_icon.png",
+      "o3": "ggg:textures/gui/entries/blank_icon.png",
+      "o4": "ggg:textures/gui/entries/blank_icon.png",
+      "o5": "ggg:textures/gui/entries/blank_icon.png",
+      "o6": "ggg:textures/gui/entries/blank_icon.png",
+      "o7": "ggg:textures/gui/entries/blank_icon.png",
+      "o8": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/blank_icon.png",
+      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
+      "effect_text": "",
+      "description": "$(l)El balde de queso no se come solo — hay que servirlo.$()$(br)$(br)Volcalo en el piso como harías con un balde de agua y te queda un bloque entero de queso. Cada mordida (clic derecho, sin herramienta) te da esto de arriba, y el bloque entero rinde $(bold)7 mordidas$() antes de acabarse — igual que una torta."
+    },
+    {
+      "type": "patchouli:item",
+      "item": "natures_spirit:cheese_block",
+      "text": "El bloque del que vas mordisqueando."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Mural Comunitario",
+  "icon": "camerapture:camera",
+  "category": "patchouli:entretenimiento",
+  "priority": false,
+  "secret": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)$(4)El feed del server, pero en la pared.$()$()$(br)$(br)Acá se cuelgan las fotos de los momentos que hicieron historia en GGG: dramas, hazañas y gente haciendo el ridículo. Si tenés una toma épica (o comprometedora), hay un cofre para dejar tu sugerencia. Inmortalizá a tu enemigo en su peor momento, rey."
+    }
+  ]
+}

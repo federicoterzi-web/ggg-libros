@@ -1,0 +1,14 @@
+{
+  "name": "Hotel Vault 21",
+  "icon": "minecraft:heavy_core",
+  "category": "patchouli:vegas",
+  "priority": false,
+  "secret": false,
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)$(4)El Hotel Galvhiar, pero con clase.$()$()$(br)$(br)Es el mismo negocio de siempre —protección \"accesible\" vendida por gente que no la necesita— pero acá con mármol, luces de neón y un nombre que suena a bunker de lujo. Adentro sigue siendo el mismo curro del superadmin, solo que ahora te cobra más caro por la decoración."
+    }
+  ]
+}

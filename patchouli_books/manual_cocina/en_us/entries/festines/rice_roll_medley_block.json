@@ -9,29 +9,44 @@
     {
       "type": "patchouli:dish_intro",
       "title": "Bandeja de Rollos de Arroz",
-      "m1": "ggg:textures/gui/entries/blank_icon.png",
-      "o1": "ggg:textures/gui/entries/blank_icon.png",
-      "m2": "ggg:textures/gui/entries/blank_icon.png",
-      "o2": "ggg:textures/gui/entries/blank_icon.png",
-      "m3": "ggg:textures/gui/entries/blank_icon.png",
-      "o3": "ggg:textures/gui/entries/blank_icon.png",
+      "m1": "ggg:textures/gui/entries/food_full.png",
+      "m2": "ggg:textures/gui/entries/food_full.png",
+      "m3": "ggg:textures/gui/entries/food_full.png",
       "m4": "ggg:textures/gui/entries/blank_icon.png",
-      "o4": "ggg:textures/gui/entries/blank_icon.png",
       "m5": "ggg:textures/gui/entries/blank_icon.png",
-      "o5": "ggg:textures/gui/entries/blank_icon.png",
       "m6": "ggg:textures/gui/entries/blank_icon.png",
-      "o6": "ggg:textures/gui/entries/blank_icon.png",
       "m7": "ggg:textures/gui/entries/blank_icon.png",
-      "o7": "ggg:textures/gui/entries/blank_icon.png",
       "m8": "ggg:textures/gui/entries/blank_icon.png",
-      "o8": "ggg:textures/gui/entries/blank_icon.png",
       "m9": "ggg:textures/gui/entries/blank_icon.png",
-      "o9": "ggg:textures/gui/entries/blank_icon.png",
       "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o1": "ggg:textures/gui/entries/sat_100.png",
+      "o2": "ggg:textures/gui/entries/sat_100.png",
+      "o3": "ggg:textures/gui/entries/sat_100.png",
+      "o4": "ggg:textures/gui/entries/blank_icon.png",
+      "o5": "ggg:textures/gui/entries/blank_icon.png",
+      "o6": "ggg:textures/gui/entries/blank_icon.png",
+      "o7": "ggg:textures/gui/entries/blank_icon.png",
+      "o8": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "",
-      "description": "$(l)Este ni yo lo probé, la verdad — es más para decorar la mesa que para comer de una. Quedate con la idea, es lo que importa. $(6)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)4 porciones$() antes de acabarse.$()"
+      "description": "$(l)Esta no la armé pensando en comerla — es más vidriera que otra cosa.$()$(br)$(br)Va en orden fijo, no al azar: las primeras 3 porciones son de alga (6 de hambre), las siguientes 3 de salmón (7 de hambre), y las últimas 2 de bacalao (7 de hambre). $(6)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)8 porciones$() antes de acabarse."
+    },
+    {
+      "type": "patchouli:item",
+      "item": "farmersdelight:kelp_roll_slice",
+      "text": "Las primeras 3 porciones (de la 8 a la 6). 6 de hambre."
+    },
+    {
+      "type": "patchouli:item",
+      "item": "farmersdelight:salmon_roll",
+      "text": "Las siguientes 3 (de la 5 a la 3). 7 de hambre."
+    },
+    {
+      "type": "patchouli:item",
+      "item": "farmersdelight:cod_roll",
+      "text": "Las últimas 2 (2 y 1). 7 de hambre."
     },
     {
       "type": "patchouli:crafting",

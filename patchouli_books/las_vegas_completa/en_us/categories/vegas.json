@@ -1,0 +1,7 @@
+{
+  "name": "Las Vegas",
+  "description": "Casinos, contrabando y un cartel de neón que nunca se apaga.",
+  "icon": "minecraft:glowstone",
+  "secret": false,
+  "sortnum": 1
+}

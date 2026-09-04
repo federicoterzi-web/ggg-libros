@@ -1,0 +1,14 @@
+{
+  "name": "El Otraniano",
+  "icon": "minecraft:beacon",
+  "category": "patchouli:misiones",
+  "priority": false,
+  "secret": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)$(4)El primer NPC que te va a hablar en tu vida.$()$()$(br)$(br)Largó todo —familia, laburo, sueños— para quedarse clavado en el mismo pixel del Spawn esperándote a vos. Dale bola: te tira las misiones iniciales para que arranques con una ayudita en vez de morir de hambre la primera noche como un novato."
+    }
+  ]
+}

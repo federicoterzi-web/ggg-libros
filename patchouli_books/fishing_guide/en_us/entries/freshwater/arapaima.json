@@ -5,12 +5,9 @@
   "sortnum": 13,
   "pages": [
     {
-      "type": "patchouli:image",
-      "images": [
-        "tide:textures/item/arapaima_full.png"
-      ],
+      "type": "patchouli:spotlight",
+      "item": "tide:arapaima",
       "title": "Arapaima",
-      "border": true,
       "text": "$(#55FFFF)$(bold)Raro$()$(br2)Esta criatura gigante se desliza por los cálidos ríos de la jungla con fuerza y velocidad.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Jungla$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {

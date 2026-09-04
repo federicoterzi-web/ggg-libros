@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:end_rod"
+    },
+    "title": {
+      "text": "Bienvenide a la GGG!"
+    },
+    "description": {
+      "text": "¡Tu culo me pertenece butito! firmado Rozsier el faggot!!!! :3"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "tick"
+    ]
+  ],
+"rewards": {
+  "loot": [
+    "ggg:ggg_spawn"
+  ]
+}
+}

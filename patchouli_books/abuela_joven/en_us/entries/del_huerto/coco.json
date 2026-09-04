@@ -1,0 +1,54 @@
+{
+  "name": "Coco",
+  "icon": "natures_spirit:coconut",
+  "category": "patchouli:del_huerto",
+  "priority": false,
+  "secret": false,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)No sé cómo llegó la palmera hasta acá, pero no pregunto.$()$(br)$(br)El coco entero no se come tal cual viene — hay que partirlo primero en la tabla de picar. De cada uno salen dos mitades, y esas sí se comen crudas."
+    },
+    {
+      "type": "patchouli:cutting_board_recipe",
+      "title": "Coco",
+      "input": "natures_spirit:coconut",
+      "tool_item": "tag:c:tools/knives",
+      "output1": "natures_spirit:coconut_half",
+      "output2": "minecraft:air"
+    },
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Mitad de Coco",
+      "m1": "ggg:textures/gui/entries/food_full.png",
+      "m2": "ggg:textures/gui/entries/food_full.png",
+      "m3": "ggg:textures/gui/entries/food_full.png",
+      "m4": "ggg:textures/gui/entries/blank_icon.png",
+      "m5": "ggg:textures/gui/entries/blank_icon.png",
+      "m6": "ggg:textures/gui/entries/blank_icon.png",
+      "m7": "ggg:textures/gui/entries/blank_icon.png",
+      "m8": "ggg:textures/gui/entries/blank_icon.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o1": "ggg:textures/gui/entries/sat_100.png",
+      "o2": "ggg:textures/gui/entries/sat_100.png",
+      "o3": "ggg:textures/gui/entries/sat_100.png",
+      "o4": "ggg:textures/gui/entries/sat_75.png",
+      "o5": "ggg:textures/gui/entries/blank_icon.png",
+      "o6": "ggg:textures/gui/entries/blank_icon.png",
+      "o7": "ggg:textures/gui/entries/blank_icon.png",
+      "o8": "ggg:textures/gui/entries/blank_icon.png",
+      "o9": "ggg:textures/gui/entries/blank_icon.png",
+      "o10": "ggg:textures/gui/entries/blank_icon.png",
+      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
+      "effect_text": "",
+      "description": "$(l)Ya partido, se come directo — queda la cáscara vacía de recuerdo.$()$(br)$(br)Con esas mismas mitades sale casi todo lo dulce de este cuaderno."
+    },
+    {
+      "type": "patchouli:item",
+      "item": "natures_spirit:coconut_half",
+      "text": "Así se come."
+    }
+  ]
+}

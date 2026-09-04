@@ -1,14 +1,15 @@
 {
-  "name": " Panadería El Panochón",
+  "name": "Panadería El Panochón",
   "icon": "minecraft:cake",
   "category": "patchouli:gastronomia",
+  "advancement": "ggg:panaderia_el_panochon",
   "priority": false,
   "secret": false,
   "sortnum": 3,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "$(br)$(bold)$(0)Endulzate la vida.$()$()$(br)$(0)Cortita y al pie, goloso: vení, corta una tajada y llevate la torta. No hay mucha más ciencia que esa.$()"
+      "text": "$(br)$(bold)Endulzate la vida.$()$()$(br)Cortita y al pie, goloso: vení, corta una tajada y llevate la torta. No hay mucha más ciencia que esa.$()"
     }
   ]
 }

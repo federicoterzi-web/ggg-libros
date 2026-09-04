@@ -2,6 +2,7 @@
   "name": "Gachapon",
   "icon": "plushiesggg:procito19",
   "category": "patchouli:entretenimiento",
+  "advancement": "ggg:gachapon",
   "priority": false,
   "secret": false,
   "sortnum": 0,

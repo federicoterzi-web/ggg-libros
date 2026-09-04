@@ -2,6 +2,7 @@
   "name": "Memuebles 2",
   "icon": "pfm:acacia_classic_nightstand",
   "category": "patchouli:decoracion",
+  "advancement": "ggg:memuebles_2",
   "priority": false,
   "secret": false,
   "sortnum": 0,

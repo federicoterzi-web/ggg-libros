@@ -2,13 +2,14 @@
   "name": "Tienda de Protecciones",
   "icon": "minecraft:paper",
   "category": "patchouli:servicios",
+  "advancement": "ggg:tienda_de_protecciones",
   "priority": false,
   "secret": false,
   "sortnum": 0,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Para que no te rompan el orto (ni los cofres). Si sos de esos butitos a los que les da amsiedad que les grifeen la base o les toquen sus cositas sin permiso, este es el lugar al que tenés que venir corriendo. Básicamente es la tienda en la que podés comprar protecciones para tus tierras.Escribí acá el contenido de la página."
+      "text": "Para que no te rompan el orto (ni los cofres). Si vivís con el culo apretado pensando que en cualquier momento te grifean la base y te vacían los cofres, acá se soluciona: comprás una protección para tus tierras y se te va el insomnio."
     },
     {
       "type": "patchouli:text",

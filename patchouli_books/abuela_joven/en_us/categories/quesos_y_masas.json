@@ -1,0 +1,7 @@
+{
+  "name": "Quesos y Masas",
+  "description": "La cocina de todos los días: queso fresco y algo de pan encima.",
+  "icon": "natures_spirit:cheese_bucket",
+  "secret": false,
+  "sortnum": 2
+}

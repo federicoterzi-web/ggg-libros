@@ -1,0 +1,18 @@
+{
+  "name": "Tienda de Protecciones",
+  "icon": "minecraft:paper",
+  "category": "patchouli:servicios",
+  "priority": false,
+  "secret": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Para que no te rompan el orto (ni los cofres). Si vivís con el culo apretado pensando que en cualquier momento te grifean la base y te vacían los cofres, acá se soluciona: comprás una protección para tus tierras y se te va el insomnio."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)$(italic)¿Qué chota venden acá?:$()$() $(br)$(br)Tres tamaños para tu comodidad (30x30, 60x60, 100x100), Precios según la zona (overworld, nether, end), $(br)$(br)$(italic)$(6)El Consejo de Rozsier:$()$() No seas rata, gatillá la de 100x100 y protegé tu base, ragasables. Mirá que si no comprás una protección, el próximo creeper que te explote por atrás no va a ser el único que te deje un agujero nuevo. "
+    }
+  ]
+}

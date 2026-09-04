@@ -1,0 +1,14 @@
+{
+  "name": "Galería del Fan Art",
+  "icon": "minecraft:painting",
+  "category": "patchouli:vegas",
+  "priority": false,
+  "secret": false,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)$(4)El mural comunitario, pero con presupuesto.$()$()$(br)$(br)Una galería entera dedicada al fan art que la comunidad le hace al server y al streamer. Hay de todo: dibujos hermosos, memes cuestionables y algún que otro retrato que nadie pidió. Andá, mirá, y si tenés arte propio, dejá tu sugerencia."
+    }
+  ]
+}

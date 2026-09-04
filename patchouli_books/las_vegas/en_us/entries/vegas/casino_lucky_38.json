@@ -1,0 +1,20 @@
+{
+  "name": "Casino Lucky 38",
+  "icon": "minecraft:lever",
+  "category": "patchouli:vegas",
+  "advancement": "ggg:casino_lucky_38",
+  "priority": false,
+  "secret": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)$(4)El único edificio de Vegas al que no podés entrar del todo.$()$()$(br)$(br)El Lucky 38 lo maneja un viejo que nunca se muestra en persona — solo habla desde una pantalla, controla las cámaras de todo el casino, y jura cada cinco minutos que $(italic)no está obsoleto$(). ¿Su nombre? No hace falta que lo digas fuerte: es el padre de Rozsier, y se nota bien de dónde sacó lo controlador."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "¿Cómo se juega acá?",
+      "text": "Tiene su propio sistema de apuestas, distinto al Gachapon del Spawn — acá no ganás peluches, ganás (o perdés) en serio. El viejo se queda con la casa siempre; vos solo elegís cuánto tardás en darte cuenta."
+    }
+  ]
+}

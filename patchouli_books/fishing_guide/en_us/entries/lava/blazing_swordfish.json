@@ -5,12 +5,9 @@
   "sortnum": 10,
   "pages": [
     {
-      "type": "patchouli:image",
-      "images": [
-        "tide:textures/item/blazing_swordfish_full.png"
-      ],
+      "type": "patchouli:spotlight",
+      "item": "tide:blazing_swordfish",
       "title": "Pez Espada Ardiente",
-      "border": true,
       "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Este pez espada tiene escamas brillantes y una nariz afilada como una navaja, y puede usarse como un arma mortal.$(br2)$(bold)Categoría:$() Lava$(br)$(bold)Bioma:$() Lava$(br)$(bold)Dimensión:$() El Nether"
     },
     {

@@ -5,12 +5,9 @@
   "sortnum": 18,
   "pages": [
     {
-      "type": "patchouli:image",
-      "images": [
-        "tide:textures/item/marstilus_full.png"
-      ],
+      "type": "patchouli:spotlight",
+      "item": "tide:marstilus",
       "title": "Marstilus",
-      "border": true,
       "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Las cualidades de esta polvorienta criatura similar a un nautilus son diferentes a cualquier cosa encontrada en el mundo exterior.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {

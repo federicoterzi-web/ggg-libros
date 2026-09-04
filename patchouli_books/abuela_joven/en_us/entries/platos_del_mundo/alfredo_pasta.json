@@ -1,0 +1,53 @@
+{
+  "name": "Pasta Alfredo",
+  "icon": "natures_delight:alfredo_pasta",
+  "category": "patchouli:platos_del_mundo",
+  "priority": false,
+  "secret": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:dish_intro",
+      "title": "Pasta Alfredo",
+      "m1": "ggg:textures/gui/entries/food_full.png",
+      "m2": "ggg:textures/gui/entries/food_full.png",
+      "m3": "ggg:textures/gui/entries/food_full.png",
+      "m4": "ggg:textures/gui/entries/food_full.png",
+      "m5": "ggg:textures/gui/entries/food_full.png",
+      "m6": "ggg:textures/gui/entries/food_full.png",
+      "m7": "ggg:textures/gui/entries/blank_icon.png",
+      "m8": "ggg:textures/gui/entries/blank_icon.png",
+      "m9": "ggg:textures/gui/entries/blank_icon.png",
+      "m10": "ggg:textures/gui/entries/blank_icon.png",
+      "o1": "ggg:textures/gui/entries/sat_100.png",
+      "o2": "ggg:textures/gui/entries/sat_100.png",
+      "o3": "ggg:textures/gui/entries/sat_100.png",
+      "o4": "ggg:textures/gui/entries/sat_100.png",
+      "o5": "ggg:textures/gui/entries/sat_100.png",
+      "o6": "ggg:textures/gui/entries/sat_100.png",
+      "o7": "ggg:textures/gui/entries/sat_100.png",
+      "o8": "ggg:textures/gui/entries/sat_100.png",
+      "o9": "ggg:textures/gui/entries/sat_100.png",
+      "o10": "ggg:textures/gui/entries/sat_75.png",
+      "effect_icon": "ggg:textures/gui/entries/nourishment.png",
+      "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (1 min)$(/t)",
+      "description": "$(l)Un plato italiano, hecho con lo que hay en un huerto que no tiene nada de italiano.$()$(br)$(br)Pollo, pasta, queso y unas aceitunas del árbol de acá al lado. No sé si en Italia la hacen así, pero en este huerto sale riquísima."
+    },
+    {
+      "type": "patchouli:item",
+      "item": "natures_delight:alfredo_pasta",
+      "text": "Así se sirve."
+    },
+    {
+      "type": "patchouli:cooking_pot_recipe",
+      "item1": "farmersdelight:chicken_cuts",
+      "item2": "tag:c:foods/pasta",
+      "item3": "natures_spirit:cheese_bucket",
+      "item4": "natures_spirit:olives",
+      "item5": "minecraft:air",
+      "item6": "minecraft:air",
+      "container": "minecraft:bowl",
+      "result": "natures_delight:alfredo_pasta"
+    }
+  ]
+}

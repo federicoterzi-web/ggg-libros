@@ -1,0 +1,19 @@
+{
+  "name": "¡Welcome to Vegas!",
+  "icon": "minecraft:book",
+  "category": "patchouli:introduccion",
+  "priority": false,
+  "secret": false,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Bienvenido a Las Vegas",
+      "text": "$(d)$(l)📖 Guía del GGG — Vol. II: Las Vegas$()$(br)$(br)Si tenés este libro en las manos es porque recorriste TODO el Volumen I, zona por zona, como el completista enfermo que sos. El GGG te premia con esto. Ahora agarrá el auto de Travis y llegá hasta acá, que la joda recién empieza."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Las Vegas no es como el Spawn. Acá no hay administradores jugando a ser buena gente: hay casinos que te vacían el inventario, un mercado negro escondido debajo de una fábrica en quiebra, y una capilla para que te cases borracho con el primero que se te cruce. Nadie te va a cuidar acá, así que abrí bien los ojos."
+    }
+  ]
+}
