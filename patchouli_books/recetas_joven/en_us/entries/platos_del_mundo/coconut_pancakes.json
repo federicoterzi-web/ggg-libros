@@ -34,7 +34,7 @@
       "description": "$(l)Para las mañanas en las que me levanto con ganas de mimarme un poco.$()$(br)$(br)Coco, leche y arroz, todo junto. Simple, dulce, y suficiente para arrancar el día con energía."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "natures_delight:coconut_pancakes",
       "text": "Así se sirve."
     },

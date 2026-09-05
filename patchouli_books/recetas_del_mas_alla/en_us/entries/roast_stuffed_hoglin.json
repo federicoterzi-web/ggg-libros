@@ -135,22 +135,22 @@
       "effect2_text": ""
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "mynethersdelight:roast_ear",
       "text": "La porción de 'Oreja Asada'."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "mynethersdelight:plate_of_stuffed_hoglin_snout",
       "text": "La porción de 'Plato de Hocico'."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "mynethersdelight:plate_of_stuffed_hoglin_ham",
       "text": "La porción de 'Plato de Jamón'."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "mynethersdelight:plate_of_stuffed_hoglin",
       "text": "La porción de 'Plato Base'."
     }

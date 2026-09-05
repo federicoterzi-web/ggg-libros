@@ -34,7 +34,7 @@
       "description": "$(l)Esta es la receta que le voy a enseñar a mis hijos, y ellos a los suyos.$()$(br)$(br)Se arma en la mesa de crafteo con trigo, remolacha y queso, en forma de carita. Después se le pueden agregar toppings: zanahoria, aceitunas, hongo, o algo de carne cocida si hay ganas."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "natures_spirit:quarter_pizza",
       "text": "Cualquier porción — dan exactamente lo mismo."
     },

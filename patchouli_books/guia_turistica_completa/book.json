@@ -2,7 +2,7 @@
   "name": "Guía del GGG",
   "subtitle": "Vol. I — Edición Completa",
   "landing_text": "$(d)$(l)Che, vos ya hiciste todo esto.$()$(br)$(br)Esta es la copia de coleccionista: la misma Guía del GGG, pero entera, sin que tengas que volver a pisar cada rincón del Spawn para que se te desbloquee. Te la ganaste recorriendo el mapa entero como un completista de verdad.$(br)$(br)Guardala de recuerdo, regalásela a alguien para hacerte el interesante, o usala de referencia rápida. Firmado, $(d)$(l)Rozsier$().",
-  "model": "ggg:guia_turistica",
+  "model": "ggg:guia_turistica_completa",
   "filler_texture": "ggg:textures/gui/filler_guia.png",
   "color_def": "",
   "creative_tab": "minecraft:tools_and_utilities",

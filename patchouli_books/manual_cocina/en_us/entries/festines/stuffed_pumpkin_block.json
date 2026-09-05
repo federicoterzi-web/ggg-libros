@@ -34,7 +34,7 @@
       "o10": "ggg:textures/gui/entries/sat_100.png"
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "farmersdelight:stuffed_pumpkin",
       "text": "La porción que te sirve el bloque."
     },

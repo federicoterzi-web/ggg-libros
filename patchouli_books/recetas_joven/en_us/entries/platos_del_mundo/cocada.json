@@ -34,7 +34,7 @@
       "description": "$(l)Un dulce latinoamericano, todo coco y azúcar.$()$(br)$(br)Es de esas cosas que hago cuando quiero sentir que estoy en otro lado por un rato, aunque nunca me haya movido de este huerto."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "natures_delight:cocada",
       "text": "Así se sirve."
     },

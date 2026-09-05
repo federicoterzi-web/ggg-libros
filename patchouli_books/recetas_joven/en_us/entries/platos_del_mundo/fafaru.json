@@ -34,7 +34,7 @@
       "description": "$(l)Un plato tahitiano de pescado crudo fermentado con coco.$()$(br)$(br)Suena raro cuando lo escribís así, y la verdad es que también suena raro cuando lo hacés. Pero confiá en mí esta vez."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "natures_delight:fafaru",
       "text": "Así se sirve."
     },

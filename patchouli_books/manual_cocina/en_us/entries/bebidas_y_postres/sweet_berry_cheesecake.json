@@ -34,7 +34,7 @@
       "description": "$(l)La más elegante de las tres, y la que más trabajo lleva. Si te sale bien esta, ahí sí te creo que aprendiste algo.$()$(br)$(br)$(6)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)4 porciones$() antes de acabarse."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "farmersdelight:sweet_berry_cheesecake_slice",
       "text": "La porción que te sirve el bloque."
     },

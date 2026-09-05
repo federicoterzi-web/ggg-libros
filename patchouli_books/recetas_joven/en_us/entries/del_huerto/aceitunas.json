@@ -34,7 +34,7 @@
       "description": "$(l)Plantamos el olivo el primer año, sin saber si iba a agarrar en esta tierra.$()$(br)$(br)Agarró. Ahora tengo más aceitunas de las que sé qué hacer — se comen directo de la mano, y todavía me sobran para la pizza y la pasta alfredo."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "natures_spirit:olives",
       "text": "Así se come."
     }

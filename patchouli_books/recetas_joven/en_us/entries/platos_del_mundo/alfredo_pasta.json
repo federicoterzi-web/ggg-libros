@@ -34,7 +34,7 @@
       "description": "$(l)Un plato italiano, hecho con lo que hay en un huerto que no tiene nada de italiano.$()$(br)$(br)Pollo, pasta, queso y unas aceitunas del árbol de acá al lado. No sé si en Italia la hacen así, pero en este huerto sale riquísima."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "natures_delight:alfredo_pasta",
       "text": "Así se sirve."
     },

@@ -34,7 +34,7 @@
       "description": "$(l)Se llama Avial de donde viene, en Kerala, India.$()$(br)$(br)Zanahoria, papa y arroz, todo salteado en salsa de coco. Un plato entero de verduras que ni se nota que son solo verduras."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "natures_delight:sweet_and_savory_saute",
       "text": "Así se sirve."
     },

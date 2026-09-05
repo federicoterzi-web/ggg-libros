@@ -34,17 +34,17 @@
       "description": "$(l)Esta no la armé pensando en comerla — es más vidriera que otra cosa.$()$(br)$(br)Va en orden fijo, no al azar: las primeras 3 porciones son de alga (6 de hambre), las siguientes 3 de salmón (7 de hambre), y las últimas 2 de bacalao (7 de hambre). $(6)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)8 porciones$() antes de acabarse."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "farmersdelight:kelp_roll_slice",
       "text": "Las primeras 3 porciones (de la 8 a la 6). 6 de hambre."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "farmersdelight:salmon_roll",
       "text": "Las siguientes 3 (de la 5 a la 3). 7 de hambre."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "farmersdelight:cod_roll",
       "text": "Las últimas 2 (2 y 1). 7 de hambre."
     },

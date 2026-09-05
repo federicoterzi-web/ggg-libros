@@ -77,12 +77,12 @@
       "description": "$(l)Llena mucho de una, pero la saturación es casi nula — vas a tener hambre de nuevo pronto a pesar de la cantidad.$() $(6)Es el mismo bloque$() cambiando de temperatura — frío o caliente, sigue rindiendo $(bold)4 porciones$() en total antes de acabarse, necesitás un $(bold)bowl vacío$() para sacarlas."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "mynethersdelight:plate_of_striderloaf",
       "text": "La porción en este estado."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "mynethersdelight:plate_of_cold_striderloaf",
       "text": "La porción en este estado."
     }

@@ -46,7 +46,7 @@
       "description": "$(l)Ya partido, se come directo — queda la cáscara vacía de recuerdo.$()$(br)$(br)Con esas mismas mitades sale casi todo lo dulce de este cuaderno."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "natures_spirit:coconut_half",
       "text": "Así se come."
     }

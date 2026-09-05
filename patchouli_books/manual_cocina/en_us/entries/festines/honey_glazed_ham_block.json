@@ -34,7 +34,7 @@
       "description": "$(l)Dulce, como a tu abuelo le gustaba. En paz descanse, pero de comer sabía. $(6)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)4 porciones$() antes de acabarse.$()"
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "farmersdelight:honey_glazed_ham",
       "text": "La porción que te sirve el bloque."
     },

@@ -34,7 +34,7 @@
       "description": "$(l)Este creció solo, en la parte más seca del huerto, donde ya me había resignado a no plantar nada.$()$(br)$(br)Se come crudo y rápido, casi de un bocado. Si juntás cuatro, se compactan en un bloque para guardar mejor."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "natures_spirit:desert_turnip",
       "text": "Así se come."
     }

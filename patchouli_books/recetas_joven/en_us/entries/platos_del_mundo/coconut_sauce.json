@@ -34,7 +34,7 @@
       "description": "$(l)La base de casi todo lo que hago con sabor a lugares lejanos.$()$(br)$(br)Solo coco, mucho coco — cuatro mitades juntas en la olla. No se come sola, pero sin ella no existen ni el fafaru ni el salteado dulce y salado."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "natures_delight:coconut_sauce",
       "text": "Así se sirve."
     },

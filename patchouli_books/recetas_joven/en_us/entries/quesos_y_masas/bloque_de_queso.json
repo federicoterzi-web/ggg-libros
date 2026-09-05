@@ -34,7 +34,7 @@
       "description": "$(l)El balde de queso no se come solo — hay que servirlo.$()$(br)$(br)Volcalo en el piso como harías con un balde de agua y te queda un bloque entero de queso. Cada mordida (clic derecho, sin herramienta) te da esto de arriba, y el bloque entero rinde $(bold)7 mordidas$() antes de acabarse — igual que una torta."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "natures_spirit:cheese_block",
       "text": "El bloque del que vas mordisqueando."
     }

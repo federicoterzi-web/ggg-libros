@@ -34,7 +34,7 @@
       "description": "$(l)Un guiso marroquí, hecho con el nabo que creció solo en la parte seca del huerto.$()$(br)$(br)Zanahoria, salsa de tomate, cebolla, queso y el nabo del desierto, todo junto en la olla hasta que quede espeso. Da para varios platos."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "natures_delight:turnip_tagine",
       "text": "Así se sirve."
     },

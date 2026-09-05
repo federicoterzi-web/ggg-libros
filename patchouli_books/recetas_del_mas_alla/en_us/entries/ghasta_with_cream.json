@@ -43,7 +43,7 @@
       "description": "$(l)Cada porción te da Picante Malo y Nourishment juntos — comé con cuidado si no tenés Resistencia al Fuego encima.$() $(6)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)4 porciones$() antes de acabarse."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "mynethersdelight:plate_of_ghasta_with_cream",
       "text": "La porción que te sirve el bloque."
     }

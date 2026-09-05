@@ -34,7 +34,7 @@
       "description": "$(l)Un plato libanés que se cocina entero y se sirve de a porciones, como una torta salada.$()$(br)$(br)Masa de trigo, queso y carne picada, todo horneado junto en la olla de cocción. No se come de la mano — se coloca como bloque en la mesa y se corta cuando hay hambre de verdad."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "natures_delight:manakish_slice",
       "text": "La porción que se come — el bloque entero no se come de la mano."
     },

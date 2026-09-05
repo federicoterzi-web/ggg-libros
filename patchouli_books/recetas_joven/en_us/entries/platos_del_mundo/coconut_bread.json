@@ -34,7 +34,7 @@
       "description": "$(l)Inspirado en un budín indonesio-holandés que leí en un libro viejo, hecho con lo que tenía en la alacena.$()$(br)$(br)Coco, azúcar, huevo y un pan que ya tenía de un día anterior. Nunca se desperdicia nada acá."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "natures_delight:coconut_bread",
       "text": "Así se sirve."
     },

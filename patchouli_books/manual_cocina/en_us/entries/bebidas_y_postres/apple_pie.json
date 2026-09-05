@@ -34,7 +34,7 @@
       "description": "$(l)Con la masa que ya aprendiste a hacer. Esta la horneaba todos los domingos, y ni tu abuelo se animaba a tocarla antes de que se enfríe.$()$(br)$(br)$(6)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)4 porciones$() antes de acabarse."
     },
     {
-      "type": "patchouli:item",
+      "type": "patchouli:spotlight",
       "item": "farmersdelight:apple_pie_slice",
       "text": "La porción que te sirve el bloque."
     },
