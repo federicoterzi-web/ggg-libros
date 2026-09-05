@@ -29,7 +29,7 @@
       "o8": "ggg:textures/gui/entries/blank_icon.png",
       "o9": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
-      "description": "$(l)Esta no la armé pensando en comerla — es más vidriera que otra cosa, como vos de adorno en esta cocina.$()$(br)$(br)Va en orden fijo, no al azar: las primeras 3 porciones son de alga (6 de hambre), las siguientes 3 de salmón (7 de hambre), y las últimas 2 de bacalao (7 de hambre). $(6)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)8 porciones$() antes de acabarse."
+      "description": "$(l)Esta no la armé pensando en comerla — es más vidriera que otra cosa, como vos de adorno en esta cocina.$()$(br)$(br)Va en orden fijo, no al azar: las primeras 3 porciones son de alga (6 de hambre), las siguientes 3 de salmón (7 de hambre), y las últimas 2 de bacalao (7 de hambre). $(6)Se coloca como bloque$() y con la mano vacía vas sacando los rollos de a uno — sin bowl ni nada. Rinde $(bold)8 porciones$() y se acaba."
     },
     {
       "type": "patchouli:spotlight",
