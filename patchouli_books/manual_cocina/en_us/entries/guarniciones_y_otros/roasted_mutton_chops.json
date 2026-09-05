@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/sat_100.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (5 min)$(/t)",
-      "description": "$(l)El plato más completo de todos — mirá la barra, va a durar toda la tarde. Esto se cocina para ocasiones especiales, no para cualquier martes.$()"
+      "description": "$(l)El plato más completo de todos — mirá la barra, va a durar toda la tarde. Esto se cocina para ocasiones especiales, no para cualquier martes en que se te ocurre tener hambre.$()"
     },
     {
       "type": "patchouli:crafting",

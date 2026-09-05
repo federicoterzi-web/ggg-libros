@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/sat_100.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (5 min)$(/t)",
-      "description": "$(l)Para cuando tu amigo raro dice que no come carne. Yo no entiendo esa moda pero bueno, ahí tenés algo para que no se queje en tu mesa.$()"
+      "description": "$(l)Para cuando tu amigo raro dice que no come carne. Yo no entiendo esa moda pero bueno, ahí tenés algo para que no se queje en tu mesa — que bastante tenés ya con que te aguante a vos.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/sat_75.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (3 min)$(/t)",
-      "description": "$(l)Para cuando volvés de una cueva con más hongos de los que sabés qué hacer. A mí me pasaba seguido, no te creas que sos el primer boludo que junta de más.$()"
+      "description": "$(l)Para cuando volvés de una cueva con más hongos de los que sabés qué hacer. A mí me pasaba seguido, no te creas que sos el primer boludo que junta de más — solo el más lento en darse cuenta.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

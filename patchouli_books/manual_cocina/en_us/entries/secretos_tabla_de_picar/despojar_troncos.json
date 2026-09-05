@@ -9,7 +9,7 @@
     {
       "type": "patchouli:text",
       "title": "Despojar Troncos",
-      "text": "$(l)Un hachazo con extra.$()$(br)$(br)Pasar un tronco por la Tabla de Picar con un $(bold)hacha$() no solo lo despoja (como en vanilla) — también te da $(bold)Corteza$() de regalo, un ítem decorativo/de crafteo extra que no conseguís despojando a mano en el mundo."
+      "text": "$(l)Un hachazo con extra, algo que hasta vos podés hacer bien.$()$(br)$(br)Pasar un tronco por la Tabla de Picar con un $(bold)hacha$() no solo lo despoja (como en vanilla) — también te da $(bold)Corteza$() de regalo, un ítem decorativo/de crafteo extra que no conseguís despojando a mano en el mundo."
     },
     {
       "type": "patchouli:cutting_board_recipe",

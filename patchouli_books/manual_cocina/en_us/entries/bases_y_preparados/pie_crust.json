@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "",
-      "description": "$(l)Trigo y leche, nada más. Se necesita para cualquier tarta que valga la pena — aprendé esto antes de saltar a lo dulce.$()"
+      "description": "$(l)Trigo y leche, nada más — ni con esa simpleza confío en que te salga bien.$()"
     },
     {
       "type": "patchouli:crafting",

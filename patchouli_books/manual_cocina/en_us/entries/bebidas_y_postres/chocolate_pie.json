@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "",
-      "description": "$(l)Cacao, leche y azúcar sobre la masa. La que hacía para las visitas que quería impresionar, no para cualquiera, ojo.$()$(br)$(br)$(6)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)4 porciones$() antes de acabarse."
+      "description": "$(l)Cacao, leche y azúcar sobre la masa. La que hacía para las visitas que quería impresionar — a vos ni te la ofrecía, para qué gastar.$()$(br)$(br)$(6)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)4 porciones$() antes de acabarse."
     },
     {
       "type": "patchouli:spotlight",

@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/comfort.png",
       "effect_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (5 min)$(/t)",
-      "description": "$(l)Tres remolachas, ni un ingrediente más. Si ni esto sabés hacer, dejá de jugar y andá a laburar de otra cosa.$()"
+      "description": "$(l)Tres remolachas, ni un ingrediente más. Si ni esto sabés hacer, dejá de jugar y andá a laburar de otra cosa, porque en la cocina no tenés futuro.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "$(t:Te da un poco de armadura extra temporal, sin llenar el hambre.)+ Absorción (1 min)$(/t)",
-      "description": "$(l)No llena nada, pero te da un empujoncito. Es más para el gusto que para el hambre, como vos con los estudios.$()"
+      "description": "$(l)No llena nada, pero te da un empujoncito. Es más para el gusto que para el hambre, como vos con los estudios — que ahí tampoco llenás nada.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

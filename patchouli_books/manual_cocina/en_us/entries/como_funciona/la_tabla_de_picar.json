@@ -9,7 +9,7 @@
     {
       "type": "patchouli:text",
       "title": "La Tabla de Picar",
-      "text": "$(l)Ítem + herramienta = resultado.$()$(br)$(br)Se coloca como un bloque. Poné el ítem encima con click derecho, y después pasále la herramienta correcta (casi siempre un cuchillo, a veces un hacha) — también con click derecho. Sirve tanto para preparar comida como para $(bold)desarmar$() objetos (ver Secretos de la Tabla de Picar)."
+      "text": "$(l)Ítem + herramienta = resultado. Ni que fuera física cuántica, prestá atención.$()$(br)$(br)Se coloca como un bloque. Poné el ítem encima con click derecho, y después pasále la herramienta correcta (casi siempre un cuchillo, a veces un hacha) — también con click derecho. Sirve tanto para preparar comida como para $(bold)desarmar$() objetos (ver Secretos de la Tabla de Picar)."
     },
     {
       "type": "patchouli:crafting",

@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "",
-      "description": "$(l)Hongos del Nether en un bowl. Ni yo me animo a esto, pero el mod dice que se come, así que allá vos.$()"
+      "description": "$(l)Hongos del Nether en un bowl. Ni yo me animo a esto, pero el mod dice que se come, así que allá vos y tu estómago de fierro.$()"
     },
     {
       "type": "patchouli:crafting",

@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "",
-      "description": "$(l)Para el calor, aunque acá el calor te lo da más que nada picar piedra al sol como un boludo sin sombrero.$()"
+      "description": "$(l)Para el calor, aunque acá el calor te lo da más que nada picar piedra al sol como un boludo sin sombrero — porque encima ni un sombrero sabés ponerte.$()"
     },
     {
       "type": "patchouli:crafting",

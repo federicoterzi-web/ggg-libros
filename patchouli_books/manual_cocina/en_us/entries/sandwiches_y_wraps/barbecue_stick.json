@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "",
-      "description": "$(l)Cualquier carne cocida, en un palito. Comida de feria, la que te compraba cuando te portabas bien — cosa rara, la verdad.$()"
+      "description": "$(l)Cualquier carne cocida, en un palito. Comida de feria, la que te compraba cuando te portabas bien — cosa rara, la verdad, casi un milagro cada vez.$()"
     },
     {
       "type": "patchouli:crafting",

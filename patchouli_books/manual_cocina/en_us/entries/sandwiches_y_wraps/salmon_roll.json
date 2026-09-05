@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "",
-      "description": "$(l)Sushi casero, más o menos. No esperes que quede como en un restaurante caro, pero llena igual.$()"
+      "description": "$(l)Sushi casero, más o menos. No esperes que quede como en un restaurante caro, pero llena igual — a diferencia de vos, que ni lleno rendís.$()"
     },
     {
       "type": "patchouli:crafting",

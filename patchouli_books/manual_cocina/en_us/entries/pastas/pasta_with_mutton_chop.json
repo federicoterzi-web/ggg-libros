@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/sat_75.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (3 min)$(/t)",
-      "description": "$(l)Lo mismo que las albóndigas pero con cordero. No soy muy original con los nombres, pero al menos la comida no te va a fallar como vos.$()"
+      "description": "$(l)Lo mismo que las albóndigas pero con cordero. No soy muy original con los nombres, pero al menos la comida no te va a fallar como fallás vos en todo lo demás.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "",
-      "description": "$(l)Manzana, melón, bayas y calabaza — un desperdicio de fruta linda si me preguntás, pero bueno, dale, hacela.$()"
+      "description": "$(l)Manzana, melón, bayas y calabaza — un desperdicio de fruta linda si me preguntás, pero bueno, dale, hacela, ya que no sabés hacer nada más elaborado.$()"
     },
     {
       "type": "patchouli:crafting",

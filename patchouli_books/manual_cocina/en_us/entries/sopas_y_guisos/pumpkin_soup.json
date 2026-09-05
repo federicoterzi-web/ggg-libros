@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/sat_100.png",
       "effect_icon": "ggg:textures/gui/entries/comfort.png",
       "effect_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (5 min)$(/t)",
-      "description": "$(l)Con panceta, así que no me vengas ahora con que sos vegetariano. Comé y quedate calladito, que para eso te lo hago.$()"
+      "description": "$(l)Con panceta, así que no me vengas ahora con que sos vegetariano. Comé y quedate calladito, que para eso te lo hago y no para escuchar tus inventos.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

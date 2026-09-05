@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/sat_100.png",
       "effect_icon": "ggg:textures/gui/entries/comfort.png",
       "effect_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (5 min)$(/t)",
-      "description": "$(l)Este me costó cazarlo más de lo que te va a costar a vos leer la receta. Un poco de respeto, pibe.$()"
+      "description": "$(l)Este me costó cazarlo más de lo que te va a costar a vos leer la receta. Un poco de respeto, pibe, que no todo en la vida te lo dan servido — aunque esto sí.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

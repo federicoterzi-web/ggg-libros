@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/comfort.png",
       "effect_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (1 min)$(/t)",
-      "description": "$(l)Con los huesos que te sobran de andar matando esqueletos. No se tira nada acá, y menos con la guita que no tenés.$()"
+      "description": "$(l)Con los huesos que te sobran de andar matando esqueletos. No se tira nada acá, y menos con la guita que no tenés ni vas a tener si seguís así.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

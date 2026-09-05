@@ -1,6 +1,6 @@
 {
   "name": "Recetas de Abu",
-  "landing_text": "$(d)$(l)Che, %(playername).$()$(br)$(br)Soy tu abuela, y como ya no voy a estar para cocinarte, te dejo esto de herencia. A ver si con esto aprendés algo, porque solo no vas a durar mucho.$(br)$(br)Prestá atención esta vez.",
+  "landing_text": "$(d)$(l)Che, $(playername).$()$(br)$(br)Soy tu abuela, y como ya no voy a estar para cocinarte, te dejo esto de herencia. No lo vayas a perder, eh — porque como se te escape de las manos, te lo levanta el primer vivo que pase y se hace una fortuna vendiendo mis recetas mientras vos seguís comiendo fideos hervidos sin sal.$(br)$(br)Cuidalo, aprendé algo, y prestá atención esta vez.",
   "subtitle": "Recetario recuperado",
   "version": 1,
   "creative_tab": "minecraft:tools_and_utilities",

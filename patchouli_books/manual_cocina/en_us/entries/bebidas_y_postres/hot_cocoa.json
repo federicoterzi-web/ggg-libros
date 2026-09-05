@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "$(t:Puede curarte algunos efectos negativos, según cuáles tengas encima.)Efecto especial$(/t)",
-      "description": "$(l)Doble cacao, como a mí me gusta, no como esas porquerías aguadas que tomás vos. Este no llena la panza pero te puede sacar un mal momento de encima, así que dejate de hacerte el vivo y tomalo.$()"
+      "description": "$(l)Doble cacao, como a mí me gusta, no esas porquerías aguadas que tomás vos porque no sabés ni hacer un chocolate como la gente.$()$(br)$(br)Este no llena la panza pero te puede sacar un mal momento de encima, así que dejate de hacerte el vivo y tomalo, que buena falta te hace.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

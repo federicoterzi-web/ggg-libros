@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/sat_100.png",
       "effect_icon": "ggg:textures/gui/entries/comfort.png",
       "effect_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (5 min)$(/t)",
-      "description": "$(l)La que te hacía cuando tenías fiebre y llorabas por todo. Ahora no tengo forma de dártela caliente, así que aprendé de una vez, no seas dependiente.$()"
+      "description": "$(l)La que te hacía cuando tenías fiebre y llorabas por todo. Ahora no tengo forma de dártela caliente, así que aprendé de una vez, no seas dependiente toda la vida.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

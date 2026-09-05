@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "",
-      "description": "$(l)Pollo, verdura y zanahoria entre panes. Comida de laburante de verdad, no como esas cosas raras que comés vos.$()"
+      "description": "$(l)Pollo, verdura y zanahoria entre panes. Comida de laburante de verdad, no como esas cosas raras que comés vos sin mover un dedo en todo el día.$()"
     },
     {
       "type": "patchouli:crafting",

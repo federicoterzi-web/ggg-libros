@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (1 min)$(/t)",
-      "description": "$(l)El desayuno de los que trabajan de verdad, no como vos que te levantás a mediodía.$()"
+      "description": "$(l)El desayuno de los que trabajan de verdad, no como vos que te levantás a mediodía a rascarte.$()"
     },
     {
       "type": "patchouli:crafting",

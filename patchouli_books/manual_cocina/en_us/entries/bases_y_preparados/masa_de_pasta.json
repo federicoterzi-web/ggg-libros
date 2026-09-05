@@ -9,7 +9,7 @@
     {
       "type": "patchouli:text",
       "title": "Masa de Pasta",
-      "text": "$(l)Un cuchillazo y listo.$()$(br)$(br)Cualquier masa de trigo (sea cual sea su origen) se corta en Masa de Pasta con solo pasarle el cuchillo por encima, en la $(bold)Tabla de Picar$(). Es el paso previo a cualquier plato de fideos."
+      "text": "$(l)Un cuchillazo y listo, ni que fuera cirugía.$()$(br)$(br)Cualquier masa de trigo (sea cual sea su origen) se corta en Masa de Pasta con solo pasarle el cuchillo por encima, en la $(bold)Tabla de Picar$(). Es el paso previo a cualquier plato de fideos — y si te trabás en esto, mejor ni sigas leyendo el libro."
     },
     {
       "type": "patchouli:cutting_board_recipe",

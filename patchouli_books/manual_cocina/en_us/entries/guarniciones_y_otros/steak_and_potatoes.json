@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/sat_75.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (3 min)$(/t)",
-      "description": "$(l)Carne, papa y arroz en un bowl. Esto sí es comida de verdad, no esas porquerías que comés cuando ando ocupada.$()"
+      "description": "$(l)Carne, papa y arroz en un bowl. Esto sí es comida de verdad, no esas porquerías que comés cuando ando ocupada y no te controlo.$()"
     },
     {
       "type": "patchouli:crafting",

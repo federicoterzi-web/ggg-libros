@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/comfort.png",
       "effect_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (30 seg)$(/t)",
-      "description": "$(l)Arroz solo, nada más. Si esto te sale mal, mejor dedicate a otra cosa, en serio te lo digo con cariño.$()"
+      "description": "$(l)Arroz solo, nada más. Si esto te sale mal, mejor dedicate a otra cosa, en serio, porque acá no hay margen ni para vos.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

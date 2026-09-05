@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/sat_75.png",
       "effect_icon": "ggg:textures/gui/entries/comfort.png",
       "effect_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (3 min)$(/t)",
-      "description": "$(l)Necesita la salsa de tomate que te enseñé en Bases y Preparados. Si te la salteaste como salteás todo, volvé para atrás, no seas atrevido conmigo.$()"
+      "description": "$(l)Necesita la salsa de tomate que te enseñé en Bases y Preparados. Si te la salteaste como salteás todo en tu vida, volvé para atrás, no seas atrevido conmigo.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "",
-      "description": "$(l)Verdura, tomate y remolacha en un bowl. Sano, aburrido, y aún así más rico que lo que cocinás vos normalmente.$()"
+      "description": "$(l)Verdura, tomate y remolacha en un bowl. Sano, aburrido, y aún así más rico que cualquier cosa que cocinés vos normalmente, que ya es decir poco.$()"
     },
     {
       "type": "patchouli:crafting",

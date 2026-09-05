@@ -9,7 +9,7 @@
     {
       "type": "patchouli:text",
       "title": "Pan desde la Masa",
-      "text": "$(l)Otro uso para tu Masa de Trigo.$()$(br)$(br)En vez de la receta vanilla (con mesa de crafteo), podés meter la Masa de Trigo directo en un $(bold)Ahumador$() (más rápido) o un $(bold)Horno$() normal (más lento, pero no necesitás construir nada nuevo)."
+      "text": "$(l)Otro uso para tu Masa de Trigo, así dejás de romperme las bolas.$()$(br)$(br)En vez de la receta vanilla (con mesa de crafteo), podés meter la Masa de Trigo directo en un $(bold)Ahumador$() (más rápido) o un $(bold)Horno$() normal (más lento, pero ya tenés uno, así que dejá de inventar excusas para no construir nada)."
     },
     {
       "type": "patchouli:crafting",

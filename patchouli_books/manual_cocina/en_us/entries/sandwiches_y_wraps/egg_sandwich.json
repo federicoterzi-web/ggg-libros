@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "",
-      "description": "$(l)Pan y dos huevos fritos. Lo más simple que hay, así que si esto te sale mal ya no sé qué decirte, en serio.$()"
+      "description": "$(l)Pan y dos huevos fritos. Lo más simple que hay, así que si esto te sale mal ya no sé qué decirte, en serio, andate a vivir con otra abuela.$()"
     },
     {
       "type": "patchouli:crafting",

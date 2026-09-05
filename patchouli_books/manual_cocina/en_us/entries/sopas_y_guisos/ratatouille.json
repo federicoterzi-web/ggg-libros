@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (1 min)$(/t)",
-      "description": "$(l)Sí, como la película de la ratita esa. No, no hace falta que un bicho te cocine — con seguir la receta ya sería un montón para vos.$()"
+      "description": "$(l)Sí, como la película de la ratita esa. No, no hace falta que un bicho te cocine — con seguir la receta ya sería un montón para vos, sinceramente.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

@@ -9,7 +9,7 @@
     {
       "type": "patchouli:text",
       "title": "Carnes y Pescados",
-      "text": "$(l)Antes de cocinar, hay que picar.$()$(br)$(br)Casi todas las carnes crudas rinden más si las pasás por la $(bold)Tabla de Picar$() primero — sacás más porciones, y algunas recetas específicamente piden el corte, no la pieza entera."
+      "text": "$(l)Antes de cocinar, hay que picar — no todo en la vida se resuelve solo, aunque vos actúes como si sí.$()$(br)$(br)Casi todas las carnes crudas rinden más si las pasás por la $(bold)Tabla de Picar$() primero — sacás más porciones, y algunas recetas específicamente piden el corte, no la pieza entera. Fijate bien antes de arruinarla, como arruinás todo lo demás."
     },
     {
       "type": "patchouli:cutting_board_recipe",

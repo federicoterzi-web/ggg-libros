@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "",
-      "description": "$(l)Enrollado, para que comas caminando si tenés tanto apuro como siempre decís que tenés.$()"
+      "description": "$(l)Enrollado, para que comas caminando si tenés tanto apuro como siempre decís que tenés — que dudo mucho, porque nunca te vi apurado para nada útil.$()"
     },
     {
       "type": "patchouli:crafting",

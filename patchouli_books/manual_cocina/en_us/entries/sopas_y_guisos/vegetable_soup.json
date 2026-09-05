@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/sat_75.png",
       "effect_icon": "ggg:textures/gui/entries/comfort.png",
       "effect_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (3 min)$(/t)",
-      "description": "$(l)Cuando no tenés ni idea qué cocinar, hacés esto. Lo que yo hacía todos los martes de mi vida, ni te creas que es alta ciencia.$()"
+      "description": "$(l)Cuando no tenés ni idea qué cocinar, hacés esto. Lo que yo hacía todos los martes de mi vida, ni te creas que es alta ciencia — ni vos la vas a arruinar, espero.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

@@ -9,7 +9,7 @@
     {
       "type": "patchouli:text",
       "title": "La Olla de Cocina",
-      "text": "$(l)El corazón de toda cocina decente.$()$(br)$(br)Se coloca como un bloque y se usa con fuego debajo (una fogata alcanza). Click derecho para abrir su interfaz: hasta 6 ingredientes, más un contenedor vacío (bowl o plato) para sacar el resultado."
+      "text": "$(l)El corazón de toda cocina decente — que la tuya, por ahora, no lo es.$()$(br)$(br)Se coloca como un bloque y se usa con fuego debajo (una fogata alcanza, ni que fuera difícil). Click derecho para abrir su interfaz: hasta 6 ingredientes, más un contenedor vacío (bowl o plato) para sacar el resultado."
     },
     {
       "type": "patchouli:crafting",

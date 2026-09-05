@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "",
-      "description": "$(l)Como las que hacía tu bisabuela, aunque con otro nombre. Ojo que si las dejás cerca tuyo no van a durar ni cinco minutos, igual que tu plata.$()"
+      "description": "$(l)Como las que hacía tu bisabuela, aunque con otro nombre. Ojo que si las dejás cerca tuyo no van a durar ni cinco minutos, igual que tu plata cada quincena.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

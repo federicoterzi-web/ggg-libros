@@ -11,7 +11,7 @@
       "title": "Guiso de Carne",
       "effect_icon": "ggg:textures/gui/entries/comfort.png",
       "effect_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (3 min)$(/t)",
-      "description": "$(l)El primero que te enseño, así que prestá atención por una vez en tu vida. Con carne, zanahoria y papa alcanza para calmar a cualquiera — vos incluido, que seguro volviste con hambre de andar picando piedra como boludo sin comer nada.$()",
+      "description": "$(l)El primero que te enseño, así que prestá atención por una vez en tu vida. Con carne, zanahoria y papa alcanza para calmar a cualquiera — vos incluido, que seguro volviste con hambre de andar picando piedra como boludo sin comer nada, como siempre.$()",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
       "m2": "ggg:textures/gui/entries/food_full.png",

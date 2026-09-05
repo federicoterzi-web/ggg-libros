@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/sat_100.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (3 min)$(/t)",
-      "description": "$(l)Con bayas dulces arriba, no te asustes que es así la receta. Confiá en tu abuela por una vez en tu vida.$()"
+      "description": "$(l)Con bayas dulces arriba, no te asustes que es así la receta. Confiá en tu abuela por una vez en tu vida, que ya bastante desconfiás de todo lo demás.$()"
     },
     {
       "type": "patchouli:crafting",

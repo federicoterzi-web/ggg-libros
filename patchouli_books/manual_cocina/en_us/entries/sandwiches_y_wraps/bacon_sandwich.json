@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "",
-      "description": "$(l)Panceta, verdura y tomate. Un clásico de domingo a la mañana, cuando yo ya estaba despierta hace horas y vos seguías durmiendo.$()"
+      "description": "$(l)Panceta, verdura y tomate. Un clásico de domingo a la mañana, cuando yo ya estaba despierta hace horas trabajando y vos seguías durmiendo la mona.$()"
     },
     {
       "type": "patchouli:crafting",

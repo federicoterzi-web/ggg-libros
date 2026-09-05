@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "",
-      "description": "$(l)La versión con bacalao del de salmón. Ninguno de los dos es sushi de verdad, así que no te hagas el entendido.$()"
+      "description": "$(l)La versión con bacalao del de salmón. Ninguno de los dos es sushi de verdad, así que no te hagas el entendido, que ya bastante te hacés el que sabe de todo sin saber nada.$()"
     },
     {
       "type": "patchouli:crafting",

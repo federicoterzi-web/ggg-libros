@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "$(t:Brillás un rato, nada más.)+ Resplandor (5 seg)$(/t)",
-      "description": "$(l)El postre más lindo que vas a hacer en tu vida, aunque sea por esta única vez. Brilla y todo, para que no digas que tu abuela no se esforzaba con la presentación, a diferencia de vos con cualquier cosa.$()"
+      "description": "$(l)El postre más lindo que vas a hacer en tu vida, aunque sea por esta única vez, porque el resto de tus intentos dan lástima.$()$(br)$(br)Brilla y todo, para que no digas que tu abuela no se esforzaba con la presentación — a diferencia de vos, que ni te peinás para salir.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

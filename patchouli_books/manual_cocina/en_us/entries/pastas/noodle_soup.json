@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/sat_100.png",
       "effect_icon": "ggg:textures/gui/entries/comfort.png",
       "effect_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (5 min)$(/t)",
-      "description": "$(l)Un ramen casero, con alga y todo. Yo no sé qué es un ramen pero el mod le dice así, así que hacele caso al mod y no a mí, total nunca me hacés caso.$()"
+      "description": "$(l)Un ramen casero, con alga y todo. Yo no sé qué es un ramen pero el mod le dice así, así que hacele caso al mod y no a mí, total nunca me hacés caso ni cuando te digo cosas simples.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

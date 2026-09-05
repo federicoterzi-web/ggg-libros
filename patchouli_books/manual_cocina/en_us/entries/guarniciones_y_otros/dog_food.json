@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "",
-      "description": "$(l)$(6)Esto NO es para vos, así que ni se te ocurra.$() Es para el perro, no para el nieto — aunque a veces dudo cuál de los dos entiende menos.$()"
+      "description": "$(l)$(6)Esto NO es para vos, así que ni se te ocurra.$() Es para el perro, no para el nieto — aunque a veces dudo cuál de los dos entiende menos, y la verdad, el perro va ganando.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

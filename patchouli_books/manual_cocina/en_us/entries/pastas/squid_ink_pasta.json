@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/sat_100.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (5 min)$(/t)",
-      "description": "$(l)Sé que da impresión, pero con esa tinta de calamar que te sobra de las cuevas, no se desperdicia nada en esta casa — ni la comida ni la paciencia conmigo.$()"
+      "description": "$(l)Sé que da impresión, pero con esa tinta de calamar que te sobra de las cuevas, no se desperdicia nada en esta casa — ni la comida, ni la paciencia que ya no tengo con vos.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

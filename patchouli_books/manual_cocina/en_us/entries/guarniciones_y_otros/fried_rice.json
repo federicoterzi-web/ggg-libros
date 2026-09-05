@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/sat_100.png",
       "effect_icon": "ggg:textures/gui/entries/comfort.png",
       "effect_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (5 min)$(/t)",
-      "description": "$(l)El arroz de ayer, disimulado. Una receta más vieja que yo, y funciona siempre — a diferencia de tus excusas.$()"
+      "description": "$(l)El arroz de ayer, disimulado. Una receta más vieja que yo, y funciona siempre — a diferencia de vos, que fallás hasta en las cosas fáciles.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

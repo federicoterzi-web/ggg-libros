@@ -9,7 +9,7 @@
     {
       "type": "patchouli:text",
       "title": "Curiosidades",
-      "text": "$(l)La Tabla de Picar como atajo de tintes.$()$(br)$(br)Casi todas las flores del juego se pueden cortar directo en tinte — sin horno ni mesa de crafteo. Y no es solo más rápido: $(bold)rinde el doble$() (2 tintes por flor, contra 1 que te da craftearla normal)."
+      "text": "$(l)La Tabla de Picar como atajo de tintes, un secreto que ni vos vas a arruinar.$()$(br)$(br)Casi todas las flores del juego se pueden cortar directo en tinte — sin horno ni mesa de crafteo. Y no es solo más rápido: $(bold)rinde el doble$() (2 tintes por flor, contra 1 que te da craftearla normal)."
     },
     {
       "type": "patchouli:cutting_board_recipe",
@@ -22,7 +22,7 @@
     {
       "type": "patchouli:text",
       "title": "El Estofado Misterioso",
-      "text": "$(l)Sí, ese también está tocado.$()$(br)$(br)Los 6 cultivos silvestres cuentan como \"flor\" para el Estofado Misterioso vanilla, cada uno con su propio efecto:$(br)$(br)$(bold)Repollo$() → Fuerza (6s)  $(bold)Cebolla$() → Resistencia al Fuego (6s)$(br)$(bold)Zanahoria$() → Torpeza al Minar (6s)  $(bold)Papa$() → Náusea (8s)$(br)$(bold)Remolacha$() → Respiración Acuática (8s)$(br)$(6)$(bold)Tomate$() → Veneno (10s) — este NO lo uses si no sabés lo que hacés.$()"
+      "text": "$(l)Sí, ese también está tocado, así que prestá atención por una vez.$()$(br)$(br)Los 6 cultivos silvestres cuentan como \"flor\" para el Estofado Misterioso vanilla, cada uno con su propio efecto:$(br)$(br)$(bold)Repollo$() → Fuerza (6s)  $(bold)Cebolla$() → Resistencia al Fuego (6s)$(br)$(bold)Zanahoria$() → Torpeza al Minar (6s)  $(bold)Papa$() → Náusea (8s)$(br)$(bold)Remolacha$() → Respiración Acuática (8s)$(br)$(6)$(bold)Tomate$() → Veneno (10s) — este NO lo uses si no sabés lo que hacés, y vos nunca sabés lo que hacés.$()"
     }
   ]
 }

@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "",
-      "description": "$(l)La versión con bayas de las galletitas. Ninguna de las dos llena mucho, así que no las cuentes como comida de verdad.$()"
+      "description": "$(l)La versión con bayas de las galletitas. Ninguna de las dos llena mucho, así que no las cuentes como comida de verdad — como no cuento tus excusas como trabajo.$()"
     },
     {
       "type": "patchouli:crafting",

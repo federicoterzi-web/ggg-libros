@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "",
-      "description": "$(l)Con miel de las abejas de verdad, no ese jarabe raro. Rinden 8 de una — no te las comas todas de una sentada.$()"
+      "description": "$(l)Con miel de las abejas de verdad, no ese jarabe barato que comprás vos.$()$(br)$(br)Rinden 8 de una — no te las comas todas de una sentada, gordo, que después no entrás en la armadura.$()"
     },
     {
       "type": "patchouli:crafting",

@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "",
-      "description": "$(l)La más elegante de las tres, y la que más trabajo lleva. Si te sale bien esta, ahí sí te creo que aprendiste algo.$()$(br)$(br)$(6)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)4 porciones$() antes de acabarse."
+      "description": "$(l)La más elegante de las tres, y la que más trabajo lleva — dos cosas que a vos te quedan grandes.$()$(br)$(br)Si te sale bien esta, ahí sí te creo que aprendiste algo, y no solo a romper cosas.$(br)$(br)$(6)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)4 porciones$() antes de acabarse."
     },
     {
       "type": "patchouli:spotlight",
