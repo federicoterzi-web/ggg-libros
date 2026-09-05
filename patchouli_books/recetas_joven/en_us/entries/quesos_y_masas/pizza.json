@@ -35,17 +35,17 @@
       "type": "patchouli:spotlight",
       "item": "natures_spirit:quarter_pizza",
       "text": "Cualquier porción — dan exactamente lo mismo.",
-      "title": "Cuarto de pizza"
+      "title": "Cuarto de Pizza"
     },
     {
       "type": "patchouli:text",
       "title": "Un Aviso al Futuro",
-      "text": "$(4)Una curiosidad para más adelante:$() si aparece por acá alguien que sepa hacer masa de tarta y salsa de tomate como la gente, la receta de la pizza cambia sola — vas a poder armarla con eso en vez de trigo y remolacha."
+      "text": "$(2)Una curiosidad para más adelante:$() si aparece por acá alguien que sepa hacer masa de tarta y salsa de tomate como la gente, la receta de la pizza cambia sola — vas a poder armarla con eso en vez de trigo y remolacha."
     },
     {
       "type": "patchouli:text",
       "title": "Otro Aviso",
-      "text": "$(4)Otra curiosidad:$() no importa si comés una porción chiquita o la pizza entera de una — cada mordida llena exactamente lo mismo. Rarísimo, pero así viene."
+      "text": "$(2)Otra curiosidad:$() no importa si comés una porción chiquita o la pizza entera de una — cada mordida llena exactamente lo mismo. Rarísimo, pero así viene."
     },
     {
       "type": "patchouli:cutting_board_recipe",

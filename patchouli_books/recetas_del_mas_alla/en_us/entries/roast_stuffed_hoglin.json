@@ -7,20 +7,20 @@
     {
       "type": "patchouli:text",
       "title": "Hoglin Relleno Asado",
-      "text": "$(l)El festín más grande de los dos libros.$()$(br)$(br)$(4)Esto NO se come de la mano.$() Se coloca en el mundo (ocupa $(bold)2 bloques$() de largo, como una cama) y se va cortando en distintas porciones a medida que lo servís — $(bold)11 porciones$() en total, y el tipo de porción cambia según cuánto quede."
+      "text": "$(l)El festín más grande de los dos libros, la puta madre.$()$(br)$(br)$(4)Esto NO se come de la mano.$() Va en el piso — ocupa $(bold)2 bloques$(), como una cama — y lo vas cortando en porciones distintas a medida que servís. $(bold)11 porciones$(), y el tipo cambia según cuánto quede."
     },
     {
       "type": "patchouli:crafting",
       "recipe": "mynethersdelight:crafting/raw_stuffed_hoglin",
-      "title": "Hoglin relleno crudo"
+      "title": "Hoglin Relleno"
     },
     {
       "type": "patchouli:text",
       "title": "Cómo Servirlo",
-      "text": "$(l)Primero se cocina en la Olla/Estufa, después se coloca, y ahí empieza el corte:$()$(br)$(br)$(bold)Porciones 11 y 10:$() con $(bold)cuchillo$() → Oreja Asada (x2)$(br)$(bold)Porción 9:$() con $(bold)bowl$() → Plato de Hocico$(br)$(bold)Porciones 8 a 5:$() con $(bold)bowl$() → Plato de Jamón$(br)$(bold)Porciones 4 a 1:$() con $(bold)bowl$() → Plato base"
+      "text": "$(l)Primero se cocina en la Olla o la Estufa, después se coloca, y ahí arranca el corte:$()$(br)$(br)$(bold)Porciones 11 y 10:$() $(bold)cuchillo$() → Oreja Asada (x2)$(br)$(bold)Porción 9:$() $(bold)bowl$() → Plato de Hocico$(br)$(bold)Porciones 8 a 5:$() $(bold)bowl$() → Plato de Jamón$(br)$(bold)Porciones 4 a 1:$() $(bold)bowl$() → Plato Base"
     },
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_simple",
       "title": "Oreja Asada",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
@@ -42,14 +42,10 @@
       "o9": "ggg:textures/gui/entries/blank_icon.png",
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
-      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect_text": "",
-      "description": "$(l)Lo primero que sacás, cortando con cuchillo — dos de estas antes de llegar a la carne de verdad.$() $(4)Se corta con cuchillo$(), no con bowl — son las orejas, 2 en total, una por cada mitad del bloque doble.",
-      "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect2_text": ""
+      "description": "$(l)Lo primero que sacás, con cuchillo — dos orejas antes de llegar a la carne posta.$() $(4)Cuchillo, no bowl$() — una por cada mitad del bloque doble."
     },
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_1effect",
       "title": "Plato de Hocico",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
@@ -73,12 +69,10 @@
       "o10": "ggg:textures/gui/entries/sat_100.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (5 min)$(/t)",
-      "description": "$(l)La porción más grande y la que más llena de los dos libros — 14 de hambre.$()$(br)$(br)$(4)Va como bloque$() y se sirve con $(bold)bowl vacío$(). Es la primera tanda con bowl, después de las orejas — $(bold)11 porciones$() en total.",
-      "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect2_text": ""
+      "description": "$(l)La porción más grande y la que más llena de los dos libros — 14 de hambre.$()$(br)$(br)$(4)Va como bloque$(), $(bold)bowl vacío$(). Primera tanda con bowl, después de las orejas."
     },
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_1effect",
       "title": "Plato de Jamón",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
@@ -102,12 +96,10 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (3 min)$(/t)",
-      "description": "$(l)La porción del medio — todavía rinde bastante.$() Segunda tanda, ya con el bowl.",
-      "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect2_text": ""
+      "description": "$(l)La del medio — todavía rinde bien.$() Segunda tanda, ya con bowl."
     },
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_1effect",
       "title": "Plato Base",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
@@ -131,33 +123,31 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (2 min)$(/t)",
-      "description": "$(l)Las últimas porciones, ya raspando el fondo — igual sigue rindiendo bien.$() Última tanda antes de que no quede nada.",
-      "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect2_text": ""
+      "description": "$(l)Las últimas, raspando el fondo — igual siguen rindiendo.$() Última tanda antes de que no quede nada."
     },
     {
       "type": "patchouli:spotlight",
       "item": "mynethersdelight:roast_ear",
-      "text": "La porción de 'Oreja Asada'.",
-      "title": "Oreja asada"
+      "text": "Esta es la Oreja Asada.",
+      "title": "Oreja Asada"
     },
     {
       "type": "patchouli:spotlight",
       "item": "mynethersdelight:plate_of_stuffed_hoglin_snout",
-      "text": "La porción de 'Plato de Hocico'.",
-      "title": "Plato de hocico relleno"
+      "text": "Esta es la del Plato de Hocico.",
+      "title": "Plato de Hocico"
     },
     {
       "type": "patchouli:spotlight",
       "item": "mynethersdelight:plate_of_stuffed_hoglin_ham",
-      "text": "La porción de 'Plato de Jamón'.",
-      "title": "Plato de jamón asado"
+      "text": "Esta es la del Plato de Jamón.",
+      "title": "Plato de Jamón"
     },
     {
       "type": "patchouli:spotlight",
       "item": "mynethersdelight:plate_of_stuffed_hoglin",
-      "text": "La porción de 'Plato Base'.",
-      "title": "Plato de hoglin relleno"
+      "text": "Esta es la del Plato Base.",
+      "title": "Plato Base"
     }
   ]
 }

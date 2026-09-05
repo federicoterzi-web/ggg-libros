@@ -31,7 +31,7 @@
       "effect_text": "$(t:Resistencia al Fuego temporal.)+ Resistencia al Fuego (30 seg)$(/t)",
       "effect2_icon": "ggg:textures/gui/entries/comfort.png",
       "effect2_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (2 min)$(/t)",
-      "description": "$(l)Con hongos carmesí y strider molido — un plato con clase, para variar. También te da Resistencia al Fuego de yapa, así que aprovechá.$()"
+      "description": "$(l)Hongos carmesí y strider molido — un plato con clase, mirá vos, acá abajo. Te da Resistencia al Fuego y Comfort: comé esto antes de salir a laburar y dejá de joder.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

@@ -5,7 +5,7 @@
   "sortnum": 10,
   "pages": [
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_1effect",
       "title": "Strider con Hongos a la Parrilla",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
@@ -29,9 +29,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (1 min)$(/t)",
-      "description": "$(l)Con los dos hongos, carmesí y distorsionado, juntos. Sencillo pero rendidor — de mis favoritos de esta sección, la verdad.$()",
-      "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect2_text": ""
+      "description": "$(l)Los dos hongos, carmesí y distorsionado, con el strider. Simple y rendidor — de mis favoritos de la sección, te lo firmo.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

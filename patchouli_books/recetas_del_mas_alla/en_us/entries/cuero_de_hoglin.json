@@ -7,7 +7,7 @@
     {
       "type": "patchouli:text",
       "title": "Cuero de Hoglin",
-      "text": "$(l)Los Hoglins también dan cuero acá, no solo panceta.$()$(br)$(br)El Cuero de Hoglin (un drop directo del bicho) se corta y rinde más cuero del esperado."
+      "text": "$(l)Los Hoglins también sueltan cuero, no solo panceta.$()$(br)$(br)El Cuero de Hoglin sale del bicho directo. Cortalo en la tabla y te rinde más cuero del que esperás — no seas gil, no lo tires."
     },
     {
       "type": "patchouli:cutting_board_recipe",

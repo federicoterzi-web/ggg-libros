@@ -5,7 +5,7 @@
   "sortnum": 2,
   "pages": [
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_simple",
       "title": "Lomo en Palito",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
@@ -27,16 +27,12 @@
       "o9": "ggg:textures/gui/entries/blank_icon.png",
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
-      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect_text": "",
-      "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect2_text": "",
-      "description": "$(l)Lomo cocido con hongo carmesí, en un palo. Práctico, sin vueltas, sin efectos raros — a veces se agradece.$()"
+      "description": "$(l)Lomo con hongo carmesí en un palo. Sin vueltas, sin efectos raros, sin picante. A veces se agradece un plato que no te haga nada.$()"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "mynethersdelight:crafting/red_loin_on_a_stick",
-      "title": "Brocheta de solomillo rojo"
+      "title": "Lomo en Palito"
     }
   ]
 }

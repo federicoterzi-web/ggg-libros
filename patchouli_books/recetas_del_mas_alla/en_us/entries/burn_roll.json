@@ -5,7 +5,7 @@
   "sortnum": 0,
   "pages": [
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_1effect",
       "title": "Rollito Quemado",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
@@ -29,9 +29,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/bpungent.png",
       "effect_text": "$(t:Picante Malo: te hace daño cerca de lava/fuego sin Resistencia al Fuego.)+ Picante Malo II (30 seg)$(/t)",
-      "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect2_text": "",
-      "description": "$(l)Éste te va a dar Picante Malo. Si no tenés Resistencia al Fuego puesta, no te acerques a lava después de comerlo — ya te avisé en la otra sección, así que no te quejes.$()"
+      "description": "$(l)Se llama quemado y quema. Picante Malo del feo — sin Resistencia al Fuego encima ni te arrimes a la lava. Ya te lo avisé antes, no lo repito más.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

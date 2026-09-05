@@ -7,7 +7,7 @@
     {
       "type": "patchouli:text",
       "title": "Ghasmati",
-      "text": "$(l)El arroz de por acá.$()$(br)$(br)Sale de cortar Ghasta — un bicho medio parecido a un Ghast chico que se puede criar. Cada corte da 1, a veces 2 si tenés suerte."
+      "text": "$(l)El arroz de por acá.$()$(br)$(br)Sale de cortarle a un Ghasta — un bicho parecido a un Ghast enano que podés criar. Cada corte te da 1, con suerte 2."
     },
     {
       "type": "patchouli:cutting_board_recipe",

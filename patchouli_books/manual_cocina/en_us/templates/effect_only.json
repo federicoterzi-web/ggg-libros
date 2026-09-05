@@ -9,16 +9,10 @@
       "scale": 0.7
     },
     {
-      "type": "patchouli:text",
-      "text": "$(o)No recupera hambre ni saturación.$()",
-      "x": 0,
-      "y": 16
-    },
-    {
       "type": "patchouli:image",
       "image": "#effect_icon",
       "x": 0,
-      "y": 30,
+      "y": 16,
       "width": 18,
       "height": 18,
       "texture_width": 18,
@@ -28,13 +22,19 @@
       "type": "patchouli:text",
       "text": "#effect_text",
       "x": 22,
-      "y": 35
+      "y": 21
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(o)No recupera hambre ni saturación.$()",
+      "x": 0,
+      "y": 40
     },
     {
       "type": "patchouli:text",
       "text": "#description",
       "x": 0,
-      "y": 54
+      "y": 56
     }
   ]
 }

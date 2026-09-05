@@ -7,20 +7,20 @@
     {
       "type": "patchouli:text",
       "title": "Pan de Strider",
-      "text": "$(l)Loncha y molido de strider juntos, horneado entero.$() $(4)Se coloca como bloque$() en el mundo — no se come de la mano. Necesitás un $(bold)bowl vacío$() para sacar porciones, hasta $(bold)4$() antes de acabarse."
+      "text": "$(l)Loncha y molido de strider, horneado entero.$() $(4)Va como bloque$() — no se come de la mano. $(bold)Bowl vacío$() para las porciones, $(bold)4$() antes de que se acabe."
     },
     {
       "type": "patchouli:crafting",
       "recipe": "mynethersdelight:crafting/striderloaf",
-      "title": "Pan de lavagante"
+      "title": "Pan de Strider"
     },
     {
       "type": "patchouli:text",
       "title": "Caliente o Frío",
-      "text": "$(l)Este es el único festín que cambia solo, y hay que prestarle atención.$()$(br)$(br)$(bold)Con lava cerca$() → se mantiene (o vuelve a estar) $(4)caliente$().$(br)$(bold)Sin lava cerca$() → se enfría solo, con el tiempo.$(br)$(br)$(4)Si lo picás con herramienta en vez de servirlo con bowl estando frío y sin terminar,$() perdés el relleno — solo te da un bowl y un hilo. Servilo bien."
+      "text": "$(l)El único festín que cambia solo, así que ojo.$()$(br)$(br)$(bold)Con lava cerca$() → se mantiene $(4)caliente$().$(br)$(bold)Sin lava$() → se enfría con el tiempo.$(br)$(br)$(4)Si lo picás con herramienta en vez de servirlo con bowl, estando frío y a medio comer,$() cagaste: perdés el relleno y te da solo un bowl y un hilo. Servilo como la gente."
     },
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_1effect",
       "title": "Porción Caliente",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
@@ -44,12 +44,10 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (1 min)$(/t)",
-      "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect2_text": "",
-      "description": "$(l)Menos cantidad, pero la saturación es altísima — te dura mucho antes de volver a tener hambre.$() $(4)Es el mismo bloque$() cambiando de temperatura — frío o caliente, sigue rindiendo $(bold)4 porciones$() en total antes de acabarse, necesitás un $(bold)bowl vacío$() para sacarlas."
+      "description": "$(l)Poca cantidad pero saturación altísima — te aguanta un buen rato sin volver a tener hambre.$() $(4)Es el mismo bloque$() cambiando de temperatura: frío o caliente rinde $(bold)4 porciones$(), con $(bold)bowl vacío$()."
     },
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_1effect",
       "title": "Porción Fría",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
@@ -73,21 +71,19 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (40 seg)$(/t)",
-      "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect2_text": "",
-      "description": "$(l)Llena mucho de una, pero la saturación es casi nula — vas a tener hambre de nuevo pronto a pesar de la cantidad.$() $(4)Es el mismo bloque$() cambiando de temperatura — frío o caliente, sigue rindiendo $(bold)4 porciones$() en total antes de acabarse, necesitás un $(bold)bowl vacío$() para sacarlas."
+      "description": "$(l)Llena un montón de una, pero la saturación es casi nula — vas a tener hambre enseguida igual.$() $(4)Es el mismo bloque$() cambiando de temperatura: frío o caliente rinde $(bold)4 porciones$(), con $(bold)bowl vacío$()."
     },
     {
       "type": "patchouli:spotlight",
       "item": "mynethersdelight:plate_of_striderloaf",
-      "text": "La porción en este estado.",
-      "title": "Plato de pan de lavagante"
+      "text": "La porción, en este estado.",
+      "title": "Porción Caliente"
     },
     {
       "type": "patchouli:spotlight",
       "item": "mynethersdelight:plate_of_cold_striderloaf",
-      "text": "La porción en este estado.",
-      "title": "Plato de pan de lavagante frio"
+      "text": "La porción, en este estado.",
+      "title": "Porción Fría"
     }
   ]
 }

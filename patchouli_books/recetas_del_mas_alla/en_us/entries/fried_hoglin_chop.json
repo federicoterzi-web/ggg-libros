@@ -31,7 +31,7 @@
       "effect_text": "$(t:Picante Malo: te hace daño cerca de lava/fuego sin Resistencia al Fuego.)+ Picante Malo (1 min)$(/t)",
       "effect2_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect2_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (2 min)$(/t)",
-      "description": "$(l)Cinco ingredientes, así que prestá atención al armarla. Vale la pena — llena mucho y encima te cubre un rato largo.$()"
+      "description": "$(l)Cinco ingredientes, prestá atención al armarla que no está para el gil. Llena un montón y te cubre un rato largo — te la banco.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

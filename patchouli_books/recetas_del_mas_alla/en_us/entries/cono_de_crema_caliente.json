@@ -31,12 +31,12 @@
       "effect_text": "$(t:Picante Bueno: te cura cerca de lava/fuego.)+ Picante Bueno (10 seg)$(/t)",
       "effect2_icon": "ggg:textures/gui/entries/fire_resistance.png",
       "effect2_text": "$(t:Resistencia al Fuego temporal.)+ Resistencia al Fuego (10 seg)$(/t)",
-      "description": "$(l)La Crema Caliente, pero en formato cucurucho — más práctico para llevar. Se hace con Polvo de Cañón, así que no es exactamente barato.$()"
+      "description": "$(l)La Crema Caliente en cucurucho, para llevar. Lleva Polvo de Cañón, así que no es gratis — pero te salva el orto cerca del fuego un ratito.$()"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "mynethersdelight:crafting/hotcream_cone",
-      "title": "Crema ardiente en cono"
+      "title": "Cono de Crema Caliente"
     }
   ]
 }

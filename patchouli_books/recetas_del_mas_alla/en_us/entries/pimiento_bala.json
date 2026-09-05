@@ -7,7 +7,7 @@
     {
       "type": "patchouli:text",
       "title": "Pimiento Bala",
-      "text": "$(l)El picante de verdad.$()$(br)$(br)Se cultiva como cualquier planta, y cortado te da Polvo de Blaze — así que también es una fuente infinita de eso, no solo un condimento. $(4)Si te lo comés crudo y entero:$() te da Picante Malo nivel 3 — el más fuerte del libro. No te acerques al fuego después."
+      "text": "$(l)El picante en serio.$()$(br)$(br)Se cultiva como cualquier planta y cortado te da Polvo de Blaze — o sea, fuente infinita, no solo condimento. $(4)Si te lo morfás crudo y entero:$() Picante Malo nivel 3, el más heavy del libro. Ni te arrimes al fuego después."
     },
     {
       "type": "patchouli:cutting_board_recipe",

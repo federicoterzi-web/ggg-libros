@@ -31,7 +31,7 @@
       "effect_text": "$(t:Resistencia al Fuego temporal.)+ Resistencia al Fuego (40 seg)$(/t)",
       "effect2_icon": "ggg:textures/gui/entries/comfort.png",
       "effect2_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (1 min)$(/t)",
-      "description": "$(l)Un solo ingrediente — el Strider crudo entero. El más fácil de toda la olla, para cuando recién estás llegando acá abajo y no tenés nada más.$()"
+      "description": "$(l)Un solo ingrediente: el strider crudo entero. El más fácil de toda la olla, para cuando recién caés acá y no tenés un carajo.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

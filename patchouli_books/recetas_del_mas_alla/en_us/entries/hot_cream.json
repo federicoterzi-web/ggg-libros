@@ -31,7 +31,7 @@
       "effect_text": "$(t:Picante Bueno: te cura cerca de lava/fuego.)+ Picante Bueno III (30 seg)$(/t)",
       "effect2_icon": "ggg:textures/gui/entries/fire_resistance.png",
       "effect2_text": "$(t:Resistencia al Fuego temporal.)+ Resistencia al Fuego (30 seg)$(/t)",
-      "description": "$(l)$(4)Sí, lleva un balde de lava. No, no es un error mío. Casi no llena nada de hambre pero la saturación es una locura — 8 de golpe. Va en un balde, no en un bowl.$()"
+      "description": "$(l)$(4)Sí, lleva un balde de lava. No, no me equivoqué.$() Casi no llena — 1 de hambre — pero la saturación es una animalada, 8 de una. Va en balde, no en bowl.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",
@@ -52,7 +52,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "mynethersdelight:crafting/hotcream_bucket",
-      "title": "Crema ardiente"
+      "title": "Crema Caliente"
     }
   ]
 }

@@ -20,7 +20,7 @@
     },
     {
       "type": "patchouli:dish_intro_simple",
-      "title": "Mitad de Coco",
+      "title": "Medio Coco",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "m2": "ggg:textures/gui/entries/food_full.png",
       "m3": "ggg:textures/gui/entries/food_full.png",
@@ -47,7 +47,7 @@
       "type": "patchouli:spotlight",
       "item": "natures_spirit:coconut_half",
       "text": "Así se come.",
-      "title": "Medio coco"
+      "title": "Medio Coco"
     }
   ]
 }

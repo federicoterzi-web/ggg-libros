@@ -29,13 +29,13 @@
       "o8": "ggg:textures/gui/entries/blank_icon.png",
       "o9": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
-      "description": "$(l)El balde de queso no se come solo — hay que servirlo.$()$(br)$(br)Volcalo en el piso como harías con un balde de agua y te queda un bloque entero de queso. Cada mordida (clic derecho, sin herramienta) te da esto de arriba, y el bloque entero rinde $(bold)7 mordidas$() antes de acabarse — igual que una torta."
+      "description": "$(l)El balde no se come — hay que volcarlo.$()$(br)$(br)Tiralo al piso como un balde de agua y queda un bloque de queso. Cada mordida (clic derecho, sin herramienta) da esto de arriba; el bloque rinde $(bold)7 mordidas$(), igual que una torta."
     },
     {
       "type": "patchouli:spotlight",
       "item": "natures_spirit:cheese_bucket",
-      "text": "El bloque del que vas mordisqueando.",
-      "title": "Cubo de queso"
+      "text": "El balde: lo volcás y queda el bloque.",
+      "title": "Balde de Queso"
     }
   ]
 }

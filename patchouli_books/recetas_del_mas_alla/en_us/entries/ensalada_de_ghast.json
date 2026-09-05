@@ -5,7 +5,7 @@
   "sortnum": 1,
   "pages": [
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_1effect",
       "title": "Ensalada de Ghast",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
@@ -29,14 +29,12 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "minecraft:textures/mob_effect/regeneration.png",
       "effect_text": "$(t:Regeneración de vida temporal.)+ Regeneración (15 seg)$(/t)",
-      "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect2_text": "",
-      "description": "$(l)Con carne de Ghast cruda y verdura. Te da Regeneración un rato — bien merecida, considerando lo que cuesta conseguir la carne.$()"
+      "description": "$(l)Carne de Ghast cruda con verdura. Conseguir la carne es un dolor de huevos, así que la Regeneración que te da te la ganaste.$()"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "mynethersdelight:crafting/ghast_salad",
-      "title": "Ensalada de ghast"
+      "title": "Ensalada de Ghast"
     }
   ]
 }

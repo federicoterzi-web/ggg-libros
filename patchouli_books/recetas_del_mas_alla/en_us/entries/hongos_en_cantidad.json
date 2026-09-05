@@ -7,7 +7,7 @@
     {
       "type": "patchouli:text",
       "title": "Hongos en Cantidad",
-      "text": "$(l)Si tenés una colonia de hongos creciendo, no hace falta cosecharla de a uno.$()$(br)$(br)Cortala entera y sacás 5 de una."
+      "text": "$(l)Si tenés una colonia de hongos creciendo, no la coseches de a uno como un boludo.$()$(br)$(br)Cortala entera y te llevás 5 de un saque."
     },
     {
       "type": "patchouli:cutting_board_recipe",

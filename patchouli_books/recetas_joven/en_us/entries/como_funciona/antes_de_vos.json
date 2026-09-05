@@ -9,7 +9,7 @@
     {
       "type": "patchouli:text",
       "title": "Antes de Vos",
-      "text": "$(d)$(l)No vas a encontrar quejas acá.$()$(br)$(br)Este cuaderno lo empecé mucho antes de saber cómo se iba a poner todo. Todavía creo que el mundo se arregla con un huerto bien cuidado y algo rico compartido en la mesa. Guardá esa idea, aunque con los años yo me olvide."
+      "text": "$(2)$(l)No vas a encontrar quejas acá.$()$(br)$(br)Este cuaderno lo empecé mucho antes de saber cómo se iba a poner todo. Todavía creo que el mundo se arregla con un huerto bien cuidado y algo rico compartido en la mesa. Guardá esa idea, aunque con los años yo me olvide."
     },
     {
       "type": "patchouli:text",

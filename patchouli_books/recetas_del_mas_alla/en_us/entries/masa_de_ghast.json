@@ -7,12 +7,12 @@
     {
       "type": "patchouli:text",
       "title": "Masa de Ghast",
-      "text": "$(l)La versión infernal de la Masa de Trigo.$()$(br)$(br)Ghasmati + huevos, en mesa de crafteo. Se usa para varias recetas de acá abajo, así que convendría tener stock."
+      "text": "$(l)La versión infernal de la Masa de Trigo.$()$(br)$(br)Ghasmati y huevos en la mesa. La piden varias recetas de acá, así que tené stock y no lloriquees después."
     },
     {
       "type": "patchouli:crafting",
       "recipe": "mynethersdelight:crafting/ghast_dough",
-      "title": "Masa de ghast"
+      "title": "Masa de Ghast"
     }
   ]
 }

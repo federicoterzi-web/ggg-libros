@@ -31,7 +31,7 @@
       "effect_text": "$(t:Picante Malo: te hace daño cerca de lava/fuego sin Resistencia al Fuego.)+ Picante Malo III (1 min)$(/t)",
       "effect2_icon": "ggg:textures/gui/entries/comfort.png",
       "effect2_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (3 min)$(/t)",
-      "description": "$(l)Dos cremas de magma y nada más — la más fácil de toda la sección, para cuando tenés fiaca pero igual querés algo picante y reconfortante.$()"
+      "description": "$(l)Dos cremas de magma y listo — la más fácil de la sección, para cuando tenés fiaca pero igual querés algo picante y calentito.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

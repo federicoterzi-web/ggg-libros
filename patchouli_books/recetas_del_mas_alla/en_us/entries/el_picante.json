@@ -7,7 +7,7 @@
     {
       "type": "patchouli:text",
       "title": "El Picante",
-      "text": "$(l)Che, esto léelo con atención, en serio.$()$(br)$(br)Un montón de recetas de acá abajo llevan $(bold)Pimiento Bala$() o $(bold)Polvo de Blaze$() — y comer eso te deja con un efecto de \"Picante\" que se comporta distinto según dónde estés parado."
+      "text": "$(l)Che, esto leelo bien, no te hagas el vivo.$()$(br)$(br)Un montón de recetas de acá llevan $(bold)Pimiento Bala$() o $(bold)Polvo de Blaze$() — y morfar eso te deja \"Picante\", que te hace una cosa u otra según dónde estés parado."
     },
     {
       "type": "patchouli:concept_page_dual",
@@ -25,12 +25,12 @@
       "a_body": "El efecto de POCIÓN — no el encantamiento de armadura. Eso no cuenta para nada acá.",
       "b_title": "Cómo Conseguirla",
       "b_icon": "minecraft:textures/item/magma_cream.png",
-      "b_body": "Poción normal (3 min) con Magma Cream, o extendida (8 min) agregando Redstone en la mesa de encantar."
+      "b_body": "Poción normal (3 min) con Magma Cream, o extendida (8 min) agregando Redstone en el soporte de pociones."
     },
     {
       "type": "patchouli:text",
       "title": "En criollo",
-      "text": "$(4)No comas picante y te metas en lava sin poción de Resistencia al Fuego encima.$() Con la poción puesta, el mismo plato que te iba a quemar te cura. Sin ella, es al revés. Así que fijate bien el orden: primero la poción, después la comida."
+      "text": "$(4)No comas picante y te tires a la lava sin poción de Resistencia al Fuego encima.$() Con la poción puesta, el mismo plato que te quemaba te cura. Sin ella, al revés. Primero la poción, después la morfada. ¿Se entiende o te lo dibujo?"
     }
   ]
 }

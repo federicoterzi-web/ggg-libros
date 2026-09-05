@@ -5,7 +5,7 @@
   "sortnum": 0,
   "pages": [
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_1effect",
       "title": "Plato Surtido de Desayuno",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
@@ -29,14 +29,12 @@
       "o10": "ggg:textures/gui/entries/sat_100.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (2 min)$(/t)",
-      "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect2_text": "",
-      "description": "$(l)Dos salchichas, huevo, y algo dulce (miel o huevo de strider) todo junto. El desayuno más completo del recetario — y el que más llena, 15 de una.$()"
+      "description": "$(l)Dos salchichas, dos huevos y algo dulce (miel o huevo de strider), todo junto. El desayuno más completo del libro — 15 de hambre. Con esto arrancás el día aunque estés muerta, como yo.$()"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "mynethersdelight:crafting/breakfast_sampler",
-      "title": "Desayuno Americano"
+      "title": "Plato Surtido de Desayuno"
     }
   ]
 }

@@ -5,7 +5,7 @@
   "sortnum": 3,
   "pages": [
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_1effect",
       "title": "Brochette Picante",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
@@ -29,14 +29,12 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/bpungent.png",
       "effect_text": "$(t:Picante Malo: te hace daño cerca de lava/fuego sin Resistencia al Fuego.)+ Picante Malo (1 min)$(/t)",
-      "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect2_text": "",
-      "description": "$(l)Pimiento bala y strider crudo en un palo de blaze. Te deja con Picante Malo un buen rato — no te acerques al fuego después de comer esto sin la poción puesta.$()"
+      "description": "$(l)Pimiento bala y strider crudo en un palo. Está buena, pero te deja picando un rato — si te acercás a la lava sin la poción puesta, el que se cocina sos vos.$()"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "mynethersdelight:crafting/spicy_skewer",
-      "title": "Brocheta picante"
+      "title": "Brochette Picante"
     }
   ]
 }

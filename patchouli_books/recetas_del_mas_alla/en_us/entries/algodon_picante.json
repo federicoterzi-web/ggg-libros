@@ -5,7 +5,7 @@
   "sortnum": 2,
   "pages": [
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_1effect",
       "title": "Algodón Picante",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
@@ -29,14 +29,12 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/fire_resistance.png",
       "effect_text": "$(t:Resistencia al Fuego temporal.)+ Resistencia al Fuego (15 seg)$(/t)",
-      "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect2_text": "",
-      "description": "$(l)$(4)Ojo con este: casi no llena hambre (3 nomás) pero la saturación es una barbaridad (2.25) — y te da Resistencia al Fuego. Es más un power-up que comida de verdad.$()"
+      "description": "$(l)Casi no llena un carajo — 3 de hambre — pero la saturación te la voltea, y encima te da Resistencia al Fuego. No es comida, es un chetazo. Metételo antes de cruzar lava.$()"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "mynethersdelight:crafting/spicy_cotton",
-      "title": "Algodón picante"
+      "title": "Algodón Picante"
     }
   ]
 }

@@ -5,7 +5,7 @@
   "sortnum": 1,
   "pages": [
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_simple",
       "title": "Pancho (Hotdog)",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
@@ -27,16 +27,12 @@
       "o9": "ggg:textures/gui/entries/blank_icon.png",
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
-      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect_text": "",
-      "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect2_text": "",
-      "description": "$(l)Salchicha asada en pan, nada más. La base para el Chilidog que ya viste en Guisos — este es el paso anterior.$()"
+      "description": "$(l)Salchicha asada en pan, nada más. Es la base del Chilidog — este es el paso de antes, no te lo saltees.$()"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "mynethersdelight:crafting/hotdog",
-      "title": "Hotdog"
+      "title": "Pancho (Hotdog)"
     }
   ]
 }

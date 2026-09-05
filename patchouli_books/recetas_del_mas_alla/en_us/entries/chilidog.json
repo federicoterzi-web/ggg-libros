@@ -31,7 +31,7 @@
       "effect_text": "$(t:Picante Bueno: te cura cerca de lava/fuego.)+ Picante Bueno (30 seg)$(/t)",
       "effect2_icon": "ggg:textures/gui/entries/fire_resistance.png",
       "effect2_text": "$(t:Resistencia al Fuego temporal.)+ Resistencia al Fuego (15 seg)$(/t)",
-      "description": "$(l)Ojo, éste no lleva bowl — el contenedor es un $(bold)Hotdog ya hecho. Le agregás picante y nether wart encima, y se convierte en esto. Da Picante Bueno más Resistencia al Fuego solita.$()"
+      "description": "$(l)Ojo, este no lleva bowl — el contenedor es un $(bold)Pancho ya hecho$(). Le encajás picante y nether wart y se convierte en esto. Te cura cerca del fuego y te da Resistencia al Fuego sola. De lo mejorcito de acá abajo.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",
