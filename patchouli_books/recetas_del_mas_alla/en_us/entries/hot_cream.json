@@ -31,7 +31,7 @@
       "effect_text": "$(t:Picante Bueno: te cura cerca de lava/fuego.)+ Picante Bueno III (30 seg)$(/t)",
       "effect2_icon": "ggg:textures/gui/entries/fire_resistance.png",
       "effect2_text": "$(t:Resistencia al Fuego temporal.)+ Resistencia al Fuego (30 seg)$(/t)",
-      "description": "$(l)$(6)Sí, lleva un balde de lava. No, no es un error mío. Casi no llena nada de hambre pero la saturación es una locura — 8 de golpe. Va en un balde, no en un bowl.$()"
+      "description": "$(l)$(4)Sí, lleva un balde de lava. No, no es un error mío. Casi no llena nada de hambre pero la saturación es una locura — 8 de golpe. Va en un balde, no en un bowl.$()"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

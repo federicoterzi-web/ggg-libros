@@ -30,7 +30,7 @@
     {
       "type": "patchouli:text",
       "title": "En criollo",
-      "text": "$(6)No comas picante y te metas en lava sin poción de Resistencia al Fuego encima.$() Con la poción puesta, el mismo plato que te iba a quemar te cura. Sin ella, es al revés. Así que fijate bien el orden: primero la poción, después la comida."
+      "text": "$(4)No comas picante y te metas en lava sin poción de Resistencia al Fuego encima.$() Con la poción puesta, el mismo plato que te iba a quemar te cura. Sin ella, es al revés. Así que fijate bien el orden: primero la poción, después la comida."
     }
   ]
 }

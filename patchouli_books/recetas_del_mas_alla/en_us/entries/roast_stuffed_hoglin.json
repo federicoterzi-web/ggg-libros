@@ -7,7 +7,7 @@
     {
       "type": "patchouli:text",
       "title": "Hoglin Relleno Asado",
-      "text": "$(l)El festín más grande de los dos libros.$()$(br)$(br)$(6)Esto NO se come de la mano.$() Se coloca en el mundo (ocupa $(bold)2 bloques$() de largo, como una cama) y se va cortando en distintas porciones a medida que lo servís — $(bold)11 porciones$() en total, y el tipo de porción cambia según cuánto quede."
+      "text": "$(l)El festín más grande de los dos libros.$()$(br)$(br)$(4)Esto NO se come de la mano.$() Se coloca en el mundo (ocupa $(bold)2 bloques$() de largo, como una cama) y se va cortando en distintas porciones a medida que lo servís — $(bold)11 porciones$() en total, y el tipo de porción cambia según cuánto quede."
     },
     {
       "type": "patchouli:crafting",
@@ -43,7 +43,7 @@
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect_text": "",
-      "description": "$(l)Lo primero que sacás, cortando con cuchillo — dos de estas antes de llegar a la carne de verdad.$() $(6)Se corta con cuchillo$(), no con bowl — son las orejas, 2 en total, una por cada mitad del bloque doble.",
+      "description": "$(l)Lo primero que sacás, cortando con cuchillo — dos de estas antes de llegar a la carne de verdad.$() $(4)Se corta con cuchillo$(), no con bowl — son las orejas, 2 en total, una por cada mitad del bloque doble.",
       "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect2_text": ""
     },
@@ -72,7 +72,7 @@
       "o10": "ggg:textures/gui/entries/sat_100.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (5 min)$(/t)",
-      "description": "$(l)La porción más grande y la que más llena de los dos libros enteros — 14 de hambre.$() $(6)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)11 porciones$() antes de acabarse. Esta es la primera tanda de porciones sacadas con bowl, después de las orejas.",
+      "description": "$(l)La porción más grande y la que más llena de los dos libros enteros — 14 de hambre.$() $(4)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)11 porciones$() antes de acabarse. Esta es la primera tanda de porciones sacadas con bowl, después de las orejas.",
       "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect2_text": ""
     },

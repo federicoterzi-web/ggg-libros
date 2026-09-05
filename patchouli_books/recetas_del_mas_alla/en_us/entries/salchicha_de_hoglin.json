@@ -7,7 +7,7 @@
     {
       "type": "patchouli:text",
       "title": "Salchicha de Hoglin",
-      "text": "$(l)El Lomo de Hoglin (que ya conocés de cortarle al bicho) tiene un segundo uso.$()$(br)$(br)En vez de cocinarlo directo, cortalo para sacar salchichas. $(6)Ojo si los comés crudos:$() tanto el Lomo como la Salchicha tienen 40% de chance de darte Náusea."
+      "text": "$(l)El Lomo de Hoglin (que ya conocés de cortarle al bicho) tiene un segundo uso.$()$(br)$(br)En vez de cocinarlo directo, cortalo para sacar salchichas. $(4)Ojo si los comés crudos:$() tanto el Lomo como la Salchicha tienen 40% de chance de darte Náusea."
     },
     {
       "type": "patchouli:cutting_board_recipe",

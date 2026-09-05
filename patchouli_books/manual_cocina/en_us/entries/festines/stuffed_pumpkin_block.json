@@ -11,7 +11,7 @@
       "title": "Calabaza Rellena",
       "effect_icon": "ggg:textures/gui/entries/comfort.png",
       "effect_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (5 min)$(/t)",
-      "description": "$(l)El plato más difícil de toda la casa — seis ingredientes distintos. Si te sale a la primera, ya sos mejor cocinero que tu tío, y eso ya es decir bastante poco de vos.$()$(br)$(br)$(6)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)4 porciones$() antes de acabarse.",
+      "description": "$(l)El plato más difícil de toda la casa — seis ingredientes distintos. Si te sale a la primera, ya sos mejor cocinero que tu tío, y eso ya es decir bastante poco de vos.$()$(br)$(br)$(4)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)4 porciones$() antes de acabarse.",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
       "m2": "ggg:textures/gui/entries/food_full.png",

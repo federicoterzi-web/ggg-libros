@@ -31,7 +31,7 @@
       "effect_text": "$(t:Resistencia al Fuego temporal.)+ Resistencia al Fuego (15 seg)$(/t)",
       "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect2_text": "",
-      "description": "$(l)$(6)Ojo con este: casi no llena hambre (3 nomás) pero la saturación es una barbaridad (2.25) — y te da Resistencia al Fuego. Es más un power-up que comida de verdad.$()"
+      "description": "$(l)$(4)Ojo con este: casi no llena hambre (3 nomás) pero la saturación es una barbaridad (2.25) — y te da Resistencia al Fuego. Es más un power-up que comida de verdad.$()"
     },
     {
       "type": "patchouli:crafting",

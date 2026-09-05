@@ -31,7 +31,7 @@
       "o10": "ggg:textures/gui/entries/sat_100.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (5 min)$(/t)",
-      "description": "$(l)Dulce, como a tu abuelo le gustaba. En paz descanse — al menos él sabía apreciar algo bien hecho, cosa que a vos no te sale ni de casualidad.$()$(br)$(br)$(6)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)4 porciones$() antes de acabarse."
+      "description": "$(l)Dulce, como a tu abuelo le gustaba. En paz descanse — al menos él sabía apreciar algo bien hecho, cosa que a vos no te sale ni de casualidad.$()$(br)$(br)$(4)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)4 porciones$() antes de acabarse."
     },
     {
       "type": "patchouli:spotlight",

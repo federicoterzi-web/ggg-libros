@@ -7,7 +7,7 @@
     {
       "type": "patchouli:text",
       "title": "Loncha y Molido de Strider",
-      "text": "$(l)La Loncha de Strider no se corta — se consigue matando Striders directo, 2 por bicho.$()$(br)$(br)Una vez que la tenés, ahí sí se puede seguir cortando. $(6)Ojo con la Loncha cruda:$() 15% de chance de darte Veneno. Mejor cocinarla."
+      "text": "$(l)La Loncha de Strider no se corta — se consigue matando Striders directo, 2 por bicho.$()$(br)$(br)Una vez que la tenés, ahí sí se puede seguir cortando. $(4)Ojo con la Loncha cruda:$() 15% de chance de darte Veneno. Mejor cocinarla."
     },
     {
       "type": "patchouli:cutting_board_recipe",
