@@ -1,6 +1,6 @@
 {
   "name": "Casa de Rozsier",
-  "icon": "playerhead:Rozsier",
+  "icon": "minecraft:player_head[profile='Rozsier']",
   "category": "patchouli:equipamiento",
   "priority": false,
   "secret": false,

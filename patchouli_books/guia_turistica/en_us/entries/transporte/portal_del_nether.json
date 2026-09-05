@@ -1,6 +1,6 @@
 {
   "name": "Portal del Nether",
-  "icon": "minecraft:nether_portal",
+  "icon": "minecraft:obsidian",
   "category": "patchouli:transporte",
   "advancement": "ggg:portal_del_nether",
   "priority": false,

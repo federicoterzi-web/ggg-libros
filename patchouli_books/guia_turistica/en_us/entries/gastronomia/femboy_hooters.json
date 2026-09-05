@@ -1,6 +1,6 @@
 {
   "name": "Femboy Hooters",
-  "icon": "minecraft:potted_pink_tulip",
+  "icon": "minecraft:pink_tulip",
   "category": "patchouli:gastronomia",
   "advancement": "ggg:femboy_hooters",
   "priority": false,
@@ -9,7 +9,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "$(bold)$(4)La estafa más grande de GGG.$()$()$(br)La mayor decepción para los gooners del server. $()$(4)NO HAY FEMBOYS, NI HAY HOOTERS$(). Es otro lugar que es pura fachada y tiene cero contenido. Todos fuimos corriendo con la billetera en la mano y nos quedamos mirando el techo.$()$(br)$(br)$(br)$(br)"
+      "text": "$(bold)$(4)La estafa más grande de GGG.$()$()$(br)La mayor decepción para los gooners del server. $(4)NO HAY FEMBOYS, NI HAY HOOTERS$(). Es otro lugar que es pura fachada y tiene cero contenido. Todos fuimos corriendo con la billetera en la mano y nos quedamos mirando el techo.$()"
     }
   ]
 }

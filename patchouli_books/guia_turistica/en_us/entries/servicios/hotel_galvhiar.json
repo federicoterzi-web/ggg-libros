@@ -1,6 +1,6 @@
 {
   "name": "Hotel Galvhiar",
-  "icon": "minecraft:bed",
+  "icon": "minecraft:red_bed",
   "category": "patchouli:servicios",
   "advancement": "ggg:hotel_galvhiar",
   "priority": false,
