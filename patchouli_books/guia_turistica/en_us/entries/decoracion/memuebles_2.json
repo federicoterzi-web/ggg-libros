@@ -9,11 +9,11 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Para decorar tu casa y pasear a tu $(4)$(bold)\"mascotita\"$()$(). A ver, gente, si van a invitar a alguien a su base para hacer... \"cositas\", no pueden tenerlos sentados en un bloque de tierra húmeda. Un poco de dignidad y amor propio. Para eso existe Memuebles 2, el local definitivo para que dejes de vivir como un cavernícola y empieces a gastar platita en diseño de interiores."
+      "text": "Para decorar tu casa y pasear a tu $(4)$(bold)\"mascotita\"$(). Si vas a invitar a alguien a tu base para hacer... \"cositas\", no los tengas sentados en un bloque de tierra húmeda. Un poco de dignidad. Para eso está Memuebles 2: dejá de vivir como cavernícola y gastá platita en diseño de interiores."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)$(italic)Qué vas a encontrar acá?:$()$() Muebles de $(bold)Paladin Furnitures$() (todo el catálogo para que tu chocita parezca un palacio) y Accesorios de $(bold)Leashable Collars$() (venden accesorios de esta marca, incluyendo los mejores collares y correas ideales para atar a tu femboy de confianza y sacarlo a pasear por el Spawn)."
+      "text": "$(bold)$(italic)¿Qué encontrás acá?$()$() Muebles de $(bold)Paladin Furnitures$() (todo el catálogo para que tu chocita parezca un palacio) y accesorios de $(bold)Leashable Collars$() (los mejores collares y correas para atar a tu femboy de confianza y sacarlo a pasear por el Spawn)."
     }
   ]
 }

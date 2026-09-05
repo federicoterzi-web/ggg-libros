@@ -9,19 +9,19 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Si sos de los que tienen el culo pegado a la silla 24/7 este es tu lugar. Ya que no pensás salir a tocar pasto en la vida real, por lo menos vení a hacer de cuenta que explorás en Minecraft. Acá venís a comprar equipamiento para salir a cazar y vender toda la mugre que juntás cuando te hacés el Indiana Jones por el mapa.$()$(br)$(br)"
+      "text": "Si tenés el culo pegado a la silla 24/7, este es tu lugar. Ya que no pensás tocar pasto en la vida real, por lo menos hacé de cuenta que explorás en Minecraft. Acá comprás equipo para salir a cazar y vendés toda la mugre que juntás haciéndote el Indiana Jones por el mapa."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)¿Qué podés vender acá para facturar?$()$(br)$(br)$(bold)• Caza Mayor (Therians):$() Acá vendés el preciado hueso del líder therian. Y ojo que no son lo mismo: la gente del cerro tiene re clara la diferencia entre furros y therians. ¡Anotá, butito ignorante, y dejen de decirme therian!$(br)$(br)$(bold)• Ectoplasma pegajoso:$() No preguntes cómo ni de dónde se le saca ese líquido blanco y espeso a un fantasma. Prefiero no enterarme."
+      "text": "$(bold)¿Qué vendés acá para facturar?$()$(br)$(br)$(bold)• Caza Mayor (Therians):$() el preciado hueso del líder therian. Y ojo, no son furros: la gente del cerro te caga a pedos si los confundís.$(br)$(br)$(bold)• Ectoplasma pegajoso:$() no preguntes cómo se le saca ese líquido blanco y espeso a un fantasma. Mejor no saber."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)• Contenido Exclusivo (Sirenas y Hombres Sirena):$() Ojito, rey: esto es todo contenido de Patreon. Si lo tenés habilitado, sacás buena guita entregando corazones de sirena, el tridente (un arma rotísima) y las escamas."
+      "text": "$(bold)• Contenido Exclusivo (Sirenas y Hombres Sirena):$() ojito, rey, esto es todo de Patreon. Si lo tenés, sacás buena guita con corazones de sirena, el tridente (arma rotísima) y las escamas."
     },
     {
       "type": "patchouli:text",
-      "text": "$(6)💡 El Consejo de Rozsier$()$(br)Dejá de farmear AFK en el Spawn y andá a tocar un poco de pasto, rey. Comprá buen equipamiento, no seas rata y traé loot que sirva para levantar la economía. Y cuidado con los hombres sirena: vas por el loot y terminás entregando el rosquete en el fondo del mar. ¡A explorar, golosos!"
+      "text": "$(6)💡 El Consejo de Rozsier$()$(br)Dejá de farmear AFK en el Spawn y andá a tocar pasto. Comprá equipo bueno, no seas rata, y traé loot que sirva para levantar la economía. Y cuidado con los hombres sirena: vas por el loot y terminás entregando el rosquete en el fondo del mar."
     }
   ]
 }

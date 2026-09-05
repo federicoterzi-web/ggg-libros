@@ -7,27 +7,27 @@
     {
       "type": "patchouli:text",
       "title": "Leyendo una Ficha",
-      "text": "Cada pez de este libro tiene una segunda página con el modelo 3D y una lista de $(bold)condiciones de pesca$(). Son los requisitos que tiene que cumplir el lugar y el momento para que ese pez pueda aparecer. Acá te explico qué significa cada una."
+      "text": "Cada pez tiene una segunda página con el modelo 3D y una lista de $(bold)condiciones de pesca$(): todo lo que el lugar y el momento tienen que cumplir para que el bicho se digne a picar. Acá va qué significa cada línea."
     },
     {
       "type": "patchouli:text",
       "title": "Agua y Biomas",
-      "text": "Lo primero es el $(bold)tipo de agua$(): dulce, salada, lava o el vacío. La mayoría de los peces de agua dulce o salada pueden aparecer en $(italic)cualquier$() bioma de ese tipo, salvo que la ficha diga puntualmente otro bioma (jungla, pantano, desierto, etc.) — ahí sí hay que ir específicamente a ese lugar."
+      "text": "Primero, el $(bold)tipo de agua$(): dulce, salada, lava o el vacío. La mayoría de los de agua dulce y salada pican en $(italic)cualquier$() bioma de ese tipo. Si la ficha te pide uno puntual (jungla, pantano, desierto), ahí sí no te queda otra que ir hasta el lugar."
     },
     {
       "type": "patchouli:text",
       "title": "Estación y Horario",
-      "text": "Algunos peces solo pican en ciertas épocas del año o franjas horarias. Si la ficha no menciona nada de esto, es porque ese pez no tiene restricción — pica todo el año, a cualquier hora."
+      "text": "Algunos solo pican en ciertas épocas del año o a ciertas horas. Si la ficha no dice nada de esto, es que el pez no tiene horario — está disponible siempre, a cualquier hora, como vos."
     },
     {
       "type": "patchouli:text",
       "title": "Clima y Fase Lunar",
-      "text": "Unos pocos peces son más quisquillosos todavía y solo aparecen con determinado clima (despejado, lluvia o tormenta) o en ciertas fases de la luna. Si no ves esta línea en la ficha, no te preocupes por el cielo."
+      "text": "Unos pocos son más exquisitos y solo salen con cierto clima (despejado, lluvia, tormenta) o en determinada fase de la luna. Si no ves esa línea en la ficha, no pierdas tiempo mirando el cielo."
     },
     {
       "type": "patchouli:text",
       "title": "Altitud y Estructuras",
-      "text": "La $(bold)altitud$() marca en qué rango de nivel Y tenés que estar pescando (por encima, por debajo, o entre dos valores). Algunos peces además necesitan una estructura cercana — un naufragio, un monumento, una cámara de prueba — para poder salir."
+      "text": "La $(bold)altitud$() marca en qué nivel Y tenés que estar pescando: por arriba, por abajo, o entre dos valores. Y algunos, además, piden una estructura cerca — un naufragio, un monumento, una cámara de prueba — para animarse a salir."
     }
   ]
 }

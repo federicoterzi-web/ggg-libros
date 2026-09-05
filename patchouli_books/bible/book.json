@@ -1,15 +1,10 @@
 {
   "name": "Biblia Otraniana",
   "subtitle": "Crónicas de los dioses",
-  "landing_text": "Bienvenido, peregrino. Estas páginas reúnen los conocimientos de Rozsier, Galvhiar y Kondev. Que la sabiduría de los dioses ilumine tu sendero.",
+  "landing_text": "En el vacío no había mundo, y en el mundo no había ley.$(br2)Peregrino: lo que sostenés no es un libro. Es el testimonio de $(6)Rozsier$(), $(6)Galvhiar$() y $(6)Kondev$(), y de los cuarenta días en que el server no cayó.$(br2)Leé, y arrodillate.",
   "version": "0",
-
   "model": "ggg:bible",
   "book_texture": "ggg:textures/gui/bible.png",
-
-
-  "creative_tab": "tools_and_utilities",
-
   "show_progress": false,
   "show_toasts": true,
   "use_blocky_font": false,
@@ -19,7 +14,6 @@
   "text_color": "000000",
   "link_color": "6D28D9",
   "link_hover_color": "A855F7",
-
   "open_sound": "minecraft:item.book.page_turn",
   "flip_sound": "minecraft:item.book.page_turn"
 }

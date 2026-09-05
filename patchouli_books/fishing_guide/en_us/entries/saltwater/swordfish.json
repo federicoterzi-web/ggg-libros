@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:swordfish",
       "title": "Pez Espada",
-      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Un depredador poderoso con un pico largo y plano usado para tajar a sus presas. Navega por aguas profundas en busca de comida.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Un depredador poderoso con un pico largo y plano usado para tajar a sus presas. Navega por aguas profundas en busca de comida.$(br2)$(o)Agarralo vos antes de que te agarre él con esa cosa.$()$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {
       "type": "patchouli:entity",

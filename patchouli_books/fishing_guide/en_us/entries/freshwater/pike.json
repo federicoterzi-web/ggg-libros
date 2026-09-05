@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:pike",
       "title": "Lucio",
-      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Largos, delgados y carnívoros, estos peces dominan los lagos pequeños y emboscan a sus presas con su velocidad.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Largos, delgados y carnívoros, estos peces dominan los lagos pequeños y emboscan a sus presas con su velocidad.$(br2)$(o)Largo, flaco y siempre listo para clavártela desde una emboscada.$()$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {
       "type": "patchouli:entity",

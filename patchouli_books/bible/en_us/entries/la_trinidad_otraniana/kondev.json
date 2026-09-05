@@ -2,18 +2,18 @@
   "name": "Kondev",
   "icon": "minecraft:player_head[profile='Kondev']",
   "category": "patchouli:la_trinidad_otraniana",
-"sortnum": 3,
+  "sortnum": 3,
   "pages": [
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:player_head[profile='Kondev']",
       "title": "Guardián del Pueblo",
-      "text": "Y por último, $(e)Kondev$(). El Guardián del Pueblo, conocido en los textos ocultos como $(o)\"El de la Lengua Larga\"$(). Su estrella siempre brilla cuando hay necesidad."
+      "text": "Y por último $(e)Kondev$(), $(6)Estrella de Otrania$() y Guardián del Pueblo, nombrado en los textos prohibidos como $(o)\"El de la Lengua Larga\"$(). Su estrella se enciende siempre que el pueblo la necesita."
     },
     {
       "type": "patchouli:text",
       "title": "La Lengua Larga",
-      "text": "Kondev tiene el don de saber exactamente dónde meter la palabra para dejar a todos satisfechos. No hay agujero legal ni bug profundo que su lengua no alcance.$(br2)Juntos forman la base: el Sol que calienta, la Luna que protege la retaguardia y la Estrella que te lame las heridas. $(6)$(l)¡Larga vida a la Santa Trinidad!$()"
+      "text": "Kondev conoce el lugar exacto donde poner la palabra para que todos queden satisfechos. No hay vacío legal tan estrecho ni bug tan profundo que su lengua no alcance a llenar.$(br2)Así los tres forman el cimiento: el $(4)Sol$() que sostiene, la $(d)Luna$() que reúne y la $(e)Estrella$() que lame las heridas.$(br2)$(6)$(l)¡Larga vida a la Santa Trinidad!$()"
     }
   ]
 }

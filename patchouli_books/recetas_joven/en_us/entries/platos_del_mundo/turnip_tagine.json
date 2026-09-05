@@ -30,7 +30,7 @@
       "o9": "ggg:textures/gui/entries/sat_50.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/comfort.png",
-      "effect_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (3 min)$(/t)",
+      "effect_text": "$(t:Regeneración natural, sin importar el hambre.)Comfort 3m$(/t)",
       "description": "$(l)Un guiso marroquí, hecho con el nabo que creció solo en la parte seca del huerto.$()$(br)$(br)Zanahoria, salsa de tomate, cebolla, queso y el nabo del desierto, todo junto en la olla hasta que quede espeso. Da para varios platos."
     },
     {

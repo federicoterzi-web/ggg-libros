@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:cave_eel",
       "title": "Anguila de Cueva",
-      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Estos pequeños fideos de cueva pueden caber entre huecos delgados en terreno rocoso para buscar comida.$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Estos pequeños fideos de cueva pueden caber entre huecos delgados en terreno rocoso para buscar comida.$(br2)$(o)Un fideo que se mete por cualquier hueco fino con tal de morfar.$()$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {
       "type": "patchouli:entity",

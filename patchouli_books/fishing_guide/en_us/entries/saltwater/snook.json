@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:snook",
       "title": "Róbalo",
-      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Este pez es una vista común en aguas costeras, siendo capaz de tolerar muchos hábitats diferentes.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Coast$(br)$(bold)Dimensión:$() Mundo superior"
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Este pez es una vista común en aguas costeras, siendo capaz de tolerar muchos hábitats diferentes.$(br2)$(o)Se banca cualquier hábitat. Adaptable el chabón.$()$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Coast$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {
       "type": "patchouli:entity",

@@ -30,7 +30,7 @@
       "o9": "ggg:textures/gui/entries/sat_100.png",
       "o10": "ggg:textures/gui/entries/sat_100.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
-      "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (5 min)$(/t)",
+      "effect_text": "$(t:No perdés hambre con el tiempo.)Nourishment 5m$(/t)",
       "description": "$(l)Se llama Avial de donde viene, en Kerala, India.$()$(br)$(br)Zanahoria, papa y arroz, todo salteado en salsa de coco. Un plato entero de verduras que ni se nota que son solo verduras."
     },
     {

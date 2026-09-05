@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:pentapus",
       "title": "Pentapus",
-      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Esta criatura púrpura traslúcida y viscosa tiene cinco patas. ¿Su cuerpo central es un ojo o un cerebro?$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() Mundo superior"
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Esta criatura púrpura traslúcida y viscosa tiene cinco patas. ¿Su cuerpo central es un ojo o un cerebro?$(br2)$(o)Cinco patas y no se sabe si la bola del medio es ojo o cerebro. Mejor no averiguar.$()$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {
       "type": "patchouli:entity",

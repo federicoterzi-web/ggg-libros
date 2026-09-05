@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "Anguila del Abismo",
   "icon": "tide:chasm_eel",
   "category": "patchouli:underground",
   "sortnum": 15,
@@ -7,8 +7,8 @@
     {
       "type": "patchouli:spotlight",
       "item": "tide:chasm_eel",
-      "title": "",
-      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
+      "title": "Anguila del Abismo",
+      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Una anguila glotona, increíblemente resistente. Se alimenta de los trozos de bedrock que yacen en las profundidades más hondas.$(br2)$(o)Baja hasta el fondo del mapa y se muerde el bedrock. Respeto.$()$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {
       "type": "patchouli:entity",

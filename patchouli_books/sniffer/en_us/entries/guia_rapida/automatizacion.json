@@ -1,36 +1,36 @@
 {
-  "name": "Automatización",
-  "icon": "minecraft:minecart_with_hopper",
-  "category": "patchouli:guia_rapida",
-  "sortnum": 3,
-  "pages": [
-    {
-      "type": "patchouli:text",
-      "title": "Recolección",
-      "text": "Construí el piso del criadero sobre un sistema subterráneo:\n\n• Vías\n• Vagoneta con tolva\n• Cofre conectado"
-    },
-    {
-      "type": "patchouli:spotlight",
-      "item": "minecraft:rail",
-      "title": "Vías",
-      "text": "Van por debajo del piso del criadero, cubriendo toda la zona donde excavan los sniffers."
-    },
-    {
-      "type": "patchouli:spotlight",
-      "item": "minecraft:hopper_minecart",
-      "title": "Vagoneta con Tolva",
-      "text": "Recorre las vías recogiendo automáticamente todo lo que los sniffers desentierren y dejen tirado."
-    },
-    {
-      "type": "patchouli:spotlight",
-      "item": "minecraft:chest",
-      "title": "Cofre",
-      "text": "Ponelo al final del recorrido — la vagoneta le vuelca todo lo recolectado apenas pasa al lado."
-    },
-    {
-      "type": "patchouli:text",
-      "title": "Resultado",
-      "text": "La vagoneta recogerá automáticamente todo lo que desentierren y lo mandará al cofre.\n\n§8Consejo del Dragon Mall:§0 Un buen pescador siempre tiene su granja lista."
-    }
-  ]
+ "name": "Automatización",
+ "icon": "minecraft:hopper_minecart",
+ "category": "patchouli:guia_rapida",
+ "sortnum": 3,
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "title": "Recolección",
+   "text": "Construí el piso del criadero sobre un sistema subterráneo:$(br)$(br)$(li)Vías$(li)Vagoneta con tolva$(li)Cofre conectado"
+  },
+  {
+   "type": "patchouli:spotlight",
+   "item": "minecraft:rail",
+   "title": "Vías",
+   "text": "Van por debajo del piso del criadero, cubriendo toda la zona donde excavan los sniffers."
+  },
+  {
+   "type": "patchouli:spotlight",
+   "item": "minecraft:hopper_minecart",
+   "title": "Vagoneta con Tolva",
+   "text": "Recorre las vías recogiendo automáticamente todo lo que los sniffers desentierren y dejen tirado."
+  },
+  {
+   "type": "patchouli:spotlight",
+   "item": "minecraft:chest",
+   "title": "Cofre",
+   "text": "Ponelo al final del recorrido — la vagoneta le vuelca todo lo recolectado al pasar al lado."
+  },
+  {
+   "type": "patchouli:text",
+   "title": "Resultado",
+   "text": "La vagoneta junta sola todo lo que desentierren y lo manda al cofre.$(br)$(br)$(8)Consejo del Dragon Mall:$() un buen pescador siempre tiene la granja lista."
+  }
+ ]
 }

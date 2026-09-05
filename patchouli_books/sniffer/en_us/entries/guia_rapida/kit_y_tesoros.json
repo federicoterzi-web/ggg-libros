@@ -1,40 +1,42 @@
 {
-  "name": "Kit y Tesoros",
-  "icon": "minecraft:sniffer_egg",
-  "category": "patchouli:guia_rapida",
-  "sortnum": 0,
-  "pages": [
-    {
-      "type": "patchouli:text",
-      "text": "§l¿Qué incluye este kit?§0\n\n* 2 Huevos de Sniffer\n* 2 Bloques de Musgo\n* 32 Semillas de Anflorcha\n\nTodo lo necesario para arrancar tu criadero."
-    },
-    {
-      "type": "patchouli:spotlight",
-      "item": "minecraft:sniffer_egg",
-      "title": "Huevo de Sniffer",
-      "text": "El punto de partida de todo. Ponelo sobre musgo para que eclosione."
-    },
-    {
-      "type": "patchouli:spotlight",
-      "item": "minecraft:moss_block",
-      "title": "Bloque de Musgo",
-      "text": "Acelera la eclosión al doble de velocidad si el huevo está encima."
-    },
-    {
-      "type": "patchouli:text",
-      "text": "§l¿Cómo funcionan?§0\n\nLos sniffers buscan objetos antiguos.\n\nEncuentran §4Semillas de Anflorcha§0 y la valiosa §4Vaina de Odre§0, muy apreciada por pescadores porque otorga §2+2 de Suerte en la Pesca§0."
-    },
-    {
-      "type": "patchouli:spotlight",
-      "item": "minecraft:torchflower_seeds",
-      "title": "Semillas de Anflorcha",
-      "text": "Lo más común que van a desenterrar. Sirven para plantar y reproducir sniffers."
-    },
-    {
-      "type": "patchouli:spotlight",
-      "item": "minecraft:pitcher_pod",
-      "title": "Vaina de Odre",
-      "text": "El tesoro raro del criadero. Da §2+2 de Suerte en la Pesca§0 — la razón por la que los pescadores les tienen tanto cariño a los sniffers."
-    }
-  ]
+ "name": "Kit y Tesoros",
+ "icon": "minecraft:sniffer_egg",
+ "category": "patchouli:guia_rapida",
+ "sortnum": 0,
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "title": "El Kit",
+   "text": "$(l)¿Qué incluye este kit?$()$(br)$(br)$(li)2 Huevos de Sniffer$(li)2 Bloques de Musgo$(li)32 Semillas de Anflorcha$(li)Este manual$(br)$(br)Todo lo necesario para arrancar tu criadero."
+  },
+  {
+   "type": "patchouli:spotlight",
+   "item": "minecraft:sniffer_egg",
+   "title": "Huevo de Sniffer",
+   "text": "El punto de partida de todo. Ponelo sobre musgo para que eclosione."
+  },
+  {
+   "type": "patchouli:spotlight",
+   "item": "minecraft:moss_block",
+   "title": "Bloque de Musgo",
+   "text": "Acelera la eclosión al doble de velocidad si el huevo está encima."
+  },
+  {
+   "type": "patchouli:text",
+   "title": "¿Cómo funcionan?",
+   "text": "Los sniffers buscan objetos antiguos. Desentierran $(4)Semillas de Anflorcha$() y, con suerte, la valiosa $(4)Vaina de Odre$() — muy apreciada por los pescadores porque da $(2)+2 de Suerte en la Pesca$()."
+  },
+  {
+   "type": "patchouli:spotlight",
+   "item": "minecraft:torchflower_seeds",
+   "title": "Semillas de Anflorcha",
+   "text": "Lo más común que van a desenterrar. Sirven para plantar y para reproducir sniffers."
+  },
+  {
+   "type": "patchouli:spotlight",
+   "item": "minecraft:pitcher_pod",
+   "title": "Vaina de Odre",
+   "text": "El tesoro raro del criadero. Da $(2)+2 de Suerte en la Pesca$() — la razón por la que los pescadores les tienen tanto cariño a los sniffers."
+  }
+ ]
 }

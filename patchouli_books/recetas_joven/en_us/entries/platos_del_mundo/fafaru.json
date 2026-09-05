@@ -30,7 +30,7 @@
       "o9": "ggg:textures/gui/entries/sat_100.png",
       "o10": "ggg:textures/gui/entries/sat_100.png",
       "effect_icon": "ggg:textures/gui/entries/comfort.png",
-      "effect_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (5 min)$(/t)",
+      "effect_text": "$(t:Regeneración natural, sin importar el hambre.)Comfort 5m$(/t)",
       "description": "$(l)Un plato tahitiano de pescado crudo fermentado con coco.$()$(br)$(br)Suena raro cuando lo escribís así, y la verdad es que también suena raro cuando lo hacés. Pero confiá en mí esta vez."
     },
     {

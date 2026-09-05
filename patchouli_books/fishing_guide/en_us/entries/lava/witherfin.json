@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:witherfin",
       "title": "Marchitaleta",
-      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Alguna vez una criatura próspera, ahora porta una infección mortal que se transmite a quienes la tocan.$(br2)$(bold)Categoría:$() Lava$(br)$(bold)Bioma:$() Lava$(br)$(bold)Dimensión:$() El Nether"
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Alguna vez una criatura próspera, ahora porta una infección mortal que se transmite a quienes la tocan.$(br2)$(o)Si lo tocás te contagia. Sacalo con la caña y no con la mano, salame.$()$(br2)$(bold)Categoría:$() Lava$(br)$(bold)Bioma:$() Lava$(br)$(bold)Dimensión:$() El Nether"
     },
     {
       "type": "patchouli:entity",

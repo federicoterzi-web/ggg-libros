@@ -7,15 +7,15 @@
     {
       "type": "patchouli:text",
       "title": "El Termómetro",
-      "text": "Muchos peces tienen una $(bold)temperatura ideal$(). No es una condición estricta como el bioma o la altitud: si el agua no está en el rango exacto, el pez todavía puede aparecer, pero con menos probabilidad. Cuanto más te alejás de su ideal, más difícil se pone."
+      "text": "Muchos peces tienen una $(bold)temperatura ideal$(). No es estricta como el bioma o la altitud: si el agua no está justa, el pez igual puede aparecer, pero le cuesta más. Cuanto más lejos del ideal, más difícil que te dé bola."
     },
     {
       "type": "patchouli:text",
-      "text": "Para medir la temperatura del agua en la que estás parado, usá el $(bold)Medidor de Clima$() (el termómetro). Te va a marcar la temperatura exacta en grados Celsius, la misma escala que uso en cada ficha de este libro."
+      "text": "Para medir la temperatura del agua donde estás parado, usá el $(bold)Medidor de Clima$() (el termómetro). Te marca los grados exactos en Celsius — la misma escala que uso en cada ficha del libro."
     },
     {
       "type": "patchouli:text",
-      "text": "Si un pez muestra un rango de temperatura muy amplio en su ficha, quiere decir que es tolerante — casi cualquier lugar le sirve. Si el rango es angosto, más vale que uses el termómetro antes de perder tiempo tirando la caña ahí."
+      "text": "Si un pez muestra un rango de temperatura re amplio, es tolerante — casi cualquier lado le sirve. Si el rango es angosto, sacá el termómetro antes de perder la tarde tirando al pedo en el lugar equivocado."
     }
   ]
 }

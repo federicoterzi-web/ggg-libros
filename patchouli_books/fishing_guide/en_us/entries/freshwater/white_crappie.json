@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:white_crappie",
       "title": "Crappie Blanco",
-      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Este pez de color claro favorece las aguas más lentas y es una captura recreativa común.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Este pez de color claro favorece las aguas más lentas y es una captura recreativa común.$(br2)$(o)Más tranqui que el negro, con el mismo nombre desafortunado.$()$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {
       "type": "patchouli:entity",

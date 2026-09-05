@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:vengeance",
       "title": "Venganza",
-      "text": "$(#55FFFF)$(bold)Raro$()$(br2)¿Es un fantasma? ¿Es un pez? Independientemente, es altamente territorial y agresivo hacia cualquier cosa.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() Mundo superior"
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)¿Es un fantasma? ¿Es un pez? Independientemente, es altamente territorial y agresivo hacia cualquier cosa.$(br2)$(o)¿Fantasma o pez? Lo único seguro es que te la tiene jurada.$()$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {
       "type": "patchouli:entity",

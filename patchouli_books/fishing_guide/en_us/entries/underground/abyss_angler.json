@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:abyss_angler",
       "title": "Rape Abisal",
-      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)Su señuelo brilla especialmente, permitiéndole prosperar incluso a más profundidad que sus primos.$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
+      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)Su señuelo brilla especialmente, permitiéndole prosperar incluso a más profundidad que sus primos.$(br2)$(o)Igual que el rape, pero se mete todavía más hondo. Récord de profundidad.$()$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {
       "type": "patchouli:entity",

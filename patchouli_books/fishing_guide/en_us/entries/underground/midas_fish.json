@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:midas_fish",
       "title": "Pez de Midas",
-      "text": "$(#FFAA00)$(bold)Legendario$()$(br2)Un pez bendecido con la habilidad de convertir las cosas en oro. Desafortunadamente para el pez, ya no puede comerse a sus presas.$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
+      "text": "$(#FFAA00)$(bold)Legendario$()$(br2)Un pez bendecido con la habilidad de convertir las cosas en oro. Desafortunadamente para el pez, ya no puede comerse a sus presas.$(br2)$(o)Convierte en oro todo lo que toca. Lástima que ya no se puede llevar nada a la boca.$()$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {
       "type": "patchouli:entity",

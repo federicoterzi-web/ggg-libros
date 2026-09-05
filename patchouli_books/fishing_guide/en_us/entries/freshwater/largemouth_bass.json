@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:largemouth_bass",
       "title": "Lubina de Boca Grande",
-      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Un depredador audaz y agresivo. Este pez que habita en los lagos es un favorito ampliamente aceptado.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Un depredador audaz y agresivo. Este pez que habita en los lagos es un favorito ampliamente aceptado.$(br2)$(o)Boca grande, apetito grande: se traga lo que le pongas.$()$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {
       "type": "patchouli:entity",

@@ -30,7 +30,7 @@
       "o9": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "minecraft:textures/mob_effect/speed.png",
-      "effect_text": "$(t:Puede pasar o no, nunca avisa.)+ Speed I, 50% de las veces (30s)$(/t)",
+      "effect_text": "$(t:Puede pasar o no, nunca avisa. Speed I por 30s, 50% de chance.)Speed 50% 30s$(/t)",
       "description": "$(l)Un dulce latinoamericano, todo coco y azúcar.$()$(br)$(br)Es de esas cosas que hago cuando quiero sentir que estoy en otro lado por un rato, aunque nunca me haya movido de este huerto."
     },
     {

@@ -1,30 +1,30 @@
 {
-  "name": "Consiguiendo el Huevo",
-  "icon": "minecraft:brush",
-  "category": "patchouli:guia_rapida",
-  "sortnum": 2,
-  "pages": [
-    {
-      "type": "patchouli:text",
-      "title": "Consiguiendo el Huevo",
-      "text": "Antes de armar el criadero, hay que salir a buscar. Los huevos de sniffer no se compran en ningún lado — hay que cavar."
-    },
-    {
-      "type": "patchouli:spotlight",
-      "item": "minecraft:brush",
-      "title": "Cepillo",
-      "text": "Tu herramienta más importante acá. Sin esto, no sacás nada de la arena sospechosa."
-    },
-    {
-      "type": "patchouli:text",
-      "title": "Dónde buscar",
-      "text": "Buceá en $(bold)ruinas oceánicas cálidas$() (Warm Ocean Ruins) y fijate en montoncitos de $(bold)arena o grava sospechosa$() en el fondo — se nota porque tienen partículas saliendo.\n\nCepillalos con paciencia hasta que suelten el huevo."
-    },
-    {
-      "type": "patchouli:spotlight",
-      "item": "minecraft:suspicious_sand",
-      "title": "Arena Sospechosa",
-      "text": "Cepillala de a poco — se rompe si la picás con cualquier otra cosa."
-    }
-  ]
+ "name": "Consiguiendo el Huevo",
+ "icon": "minecraft:brush",
+ "category": "patchouli:guia_rapida",
+ "sortnum": 2,
+ "pages": [
+  {
+   "type": "patchouli:text",
+   "title": "Consiguiendo el Huevo",
+   "text": "Si te compraste el kit, ya tenés con qué arrancar — salteá a $(l)Crianza y Granja$().$(br)$(br)Si querés más huevos por tu cuenta, no los tira ningún bicho: hay que salir a cepillar."
+  },
+  {
+   "type": "patchouli:spotlight",
+   "item": "minecraft:brush",
+   "title": "Cepillo",
+   "text": "Tu herramienta más importante acá. Sin esto no sacás nada de la arena sospechosa."
+  },
+  {
+   "type": "patchouli:text",
+   "title": "Dónde buscar",
+   "text": "Buceá en $(bold)ruinas oceánicas cálidas$() (Warm Ocean Ruins) y buscá $(bold)arena sospechosa$() en el fondo — se nota por las partículas que suelta.$(br)$(br)Cepillala con paciencia hasta que largue el huevo."
+  },
+  {
+   "type": "patchouli:spotlight",
+   "item": "minecraft:suspicious_sand",
+   "title": "Arena Sospechosa",
+   "text": "Cepillala de a poco — si la picás con cualquier otra cosa, se rompe y perdés lo que tenía adentro."
+  }
+ ]
 }

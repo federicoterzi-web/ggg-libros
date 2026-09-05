@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:sleepy_carp",
       "title": "Carpa Somnolienta",
-      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Un pez perezoso y pasivo que pasa la mayor parte de su tiempo sentado en un solo lugar.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() Mundo superior"
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Un pez perezoso y pasivo que pasa la mayor parte de su tiempo sentado en un solo lugar.$(br2)$(o)Se pasa el día sentado en un solo lugar sin hacer nada. Un maestro.$()$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {
       "type": "patchouli:entity",

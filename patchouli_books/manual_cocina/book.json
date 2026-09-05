@@ -3,7 +3,6 @@
   "landing_text": "$(4)$(l)Che, $(playername).$()$(br)$(br)Soy tu abuela, y como ya no voy a estar para cocinarte, te dejo esto de herencia. No lo vayas a perder, eh — porque como se te escape de las manos, te lo levanta el primer vivo que pase y se hace una fortuna vendiendo mis recetas mientras vos seguís comiendo fideos hervidos sin sal.$(br)$(br)Cuidalo, aprendé algo, y prestá atención esta vez.",
   "subtitle": "Recetario recuperado",
   "version": 0,
-  "creative_tab": "minecraft:tools_and_utilities",
   "model": "ggg:manual_cocina",
   "book_texture": "ggg:textures/gui/manual_cocina.png",
   "filler_texture": "ggg:textures/gui/cocina_filler.png",

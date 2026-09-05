@@ -7,27 +7,27 @@
     {
       "type": "patchouli:text",
       "title": "Premios de Pescador",
-      "text": "Algunas capturas raras no son solo para la colección — sirven para craftear equipo único. Esto es lo más parecido a un premio por perseverar:"
+      "text": "Algunas capturas raras no son solo para la colección — con ellas armás equipo único. Es lo más parecido a un premio que vas a tener por aguantar tantas horas con la caña en la mano:"
     },
     {
       "type": "patchouli:text",
       "title": "Reloj de Bolsillo Encantado",
-      "text": "Combiná un Reloj de Bolsillo con un Coelacanto. Usalo sobre una criatura para $(bold)congelarla en el tiempo$() — vuelve a moverse recién cuando la tocás de nuevo."
+      "text": "Un Reloj de Bolsillo más un Coelacanto. Usalo sobre una criatura para $(bold)congelarla en el tiempo$() — no se mueve más hasta que la volvés a tocar."
     },
     {
       "type": "patchouli:text",
       "title": "Arco Estelar",
-      "text": "Un arco normal más un Pez Estrella Fugaz. Transforma las flechas en estrellas fugaces y tiene 60% de probabilidad de no gastar munición."
+      "text": "Un arco normal más un Pez Estrella Fugaz. Convierte las flechas en estrellas fugaces y tiene 60% de no gastar munición — dispará tranquilo, que no se acaba."
     },
     {
       "type": "patchouli:text",
       "title": "Botas de Aleta de Dragón",
-      "text": "No se craftean en mesa: se hacen en la $(bold)mesa de herrería$(), usando Botas de Netherite como base, Aliento de Dragón como plantilla, y un Pez Dragón como agregado. Otorgan un salto extra en el aire, que se recarga al tocar el suelo."
+      "text": "No van en mesa: se arman en la $(bold)mesa de herrería$() con Botas de Netherite de base, Aliento de Dragón de plantilla y un Pez Dragón de agregado. Te dan un salto extra en el aire, que se recarga apenas pisás el suelo."
     },
     {
       "type": "patchouli:text",
       "title": "Cajones",
-      "text": "El Cajón de Madera se craftea con 8 tablones cortados (slabs) de cualquier madera, en forma de caja hueca (huequito en el medio). Para las versiones de obsidiana y púrpura no encontré ninguna receta de crafteo en el código — existen como bloque, pero por ahora solo se consiguen por otra vía (creativo, comando, o alguna futura actualización)."
+      "text": "El Cajón de Madera sale de 8 slabs de cualquier madera en forma de caja hueca (huequito en el medio). Las versiones de obsidiana y púrpura no tienen receta en el código — existen como bloque, pero por ahora se consiguen solo por otra vía (creativo, comando, o alguna update futura)."
     }
   ]
 }

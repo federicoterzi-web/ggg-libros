@@ -7,22 +7,22 @@
     {
       "type": "patchouli:text",
       "title": "La Mesa de Pesca",
-      "text": "La $(bold)Mesa de Pesca$() no craftea nada por sí sola: es donde le acoplás (o sacás) accesorios a una caña. Se abre como un yunque, con 4 espacios: la caña, la línea, el flotador y el anzuelo.$(br2)$(bold)Receta:$() 2 cuerdas arriba, 2 lingotes de cobre en el medio, 2 tablones abajo."
+      "text": "La $(bold)Mesa de Pesca$() sola no craftea nada: es donde le ponés (o le sacás) accesorios a la caña. Se abre como un yunque, con 4 huecos: la caña, la línea, el flotador y el anzuelo — cada cosa en su lugar.$(br2)$(bold)Receta:$() 2 cuerdas arriba, 2 lingotes de cobre en el medio, 2 tablones abajo."
     },
     {
       "type": "patchouli:text",
       "title": "Anzuelos",
-      "text": "Le dan un efecto especial a la caña mientras esté puesto:$(br)$(li)Ardiente: sube la temperatura del agua$(li)Permafrost: la baja$(li)Crepuscular: invierte las preferencias horarias de los peces$(li)A prueba de lava: permite pescar en lava$(li)Del Vacío: permite pescar en el vacío"
+      "text": "Le dan un efecto especial a la caña mientras lo tengas puesto:$(br)$(li)Ardiente: calienta el agua$(li)Permafrost: la enfría$(li)Crepuscular: da vuelta los horarios que prefieren los peces$(li)A prueba de lava: te deja pescar en lava$(li)Del Vacío: te deja pescar en el vacío"
     },
     {
       "type": "patchouli:text",
       "title": "Líneas",
-      "text": "Facilitan el minijuego de distinta forma:$(br)$(li)Cobre: -10% velocidad del pez$(li)Hierro: -15% dificultad de captura$(li)Oro: -5% velocidad del pez $(bold)y$() +1 suerte de pesca$(li)Diamante: -25% dificultad de captura"
+      "text": "Cada una te afloja el minijuego a su manera:$(br)$(li)Cobre: -10% de velocidad del pez$(li)Hierro: -15% de dificultad de captura$(li)Oro: -5% de velocidad $(bold)y$() +1 de suerte de pesca$(li)Diamante: -25% de dificultad de captura"
     },
     {
       "type": "patchouli:text",
       "title": "Flotadores (Bobbers)",
-      "text": "Hay más de 20, pero son puramente cosméticos — un color de lana, una gema, una fruta. Solo cambian cómo se ve el flotador en el agua, sin afectar el minijuego para nada. Ni siquiera la Manzana Dorada Encantada es la excepción: brilla como un ítem encantado, pero funcionalmente es un flotador más."
+      "text": "Hay más de 20 y son todos decorativos — un color de lana, una gema, una fruta. Solo cambian cómo se ve el flotador flotando, no tocan el minijuego para nada. Ni la Manzana Dorada Encantada: brilla como encantada, pero por dentro es un flotador más. Puro brillo."
     }
   ]
 }

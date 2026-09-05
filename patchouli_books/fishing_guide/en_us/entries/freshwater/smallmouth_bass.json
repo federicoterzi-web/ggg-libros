@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:smallmouth_bass",
       "title": "Lubina de Boca Pequeña",
-      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Un parecido a sus primos de boca grande, estos peces prefieren aguas ligeramente más frescas y calmadas.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Un parecido a sus primos de boca grande, estos peces prefieren aguas ligeramente más frescas y calmadas.$(br2)$(o)El primo de boca más chica. Igual entra sin problema.$()$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {
       "type": "patchouli:entity",

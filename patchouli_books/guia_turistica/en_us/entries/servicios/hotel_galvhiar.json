@@ -9,11 +9,11 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": " Para que le superadmin te dé con de todo menos con piedad. A ver, butitos recién llegados, presten atención porque esto es importante. Como si el superadmin no tuviera suficiente con sacarse todo del creativo, ahora resulta que tiene este \"emprendimiento\". El mismísimo $(bold)$(2)Galvhi$()$() armó este antro para supuestamente proporcionar a los nuevos de una protección \"accesible\"."
+      "text": "Para que le superadmin te dé con todo menos con piedad. Butitos recién llegados, atención: como si no le alcanzara con sacarse todo del creativo, ahora $(bold)$(2)Galvhi$()$() armó este \"emprendimiento\" para darle a los nuevos una protección \"accesible\"."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)$(italic)¿Qué chota vas a encontrar acá?:$() $()$(br)$(br)$(bold)• Caridad de mentira$() (te venden el cuento de la protección accesible para lucrar con tu inocencia) y $(br)$(br)$(bold)• Materiales dudosos$() (todo el mundo sabe que acá no hubo farmeo honesto; el chabón levantó este lugar sacándose todo del creativo).  "
+      "text": "$(bold)$(italic)¿Qué encontrás acá?$()$()$(br)$(br)$(bold)• Caridad de mentira:$() te venden el cuento de la protección accesible para lucrar con tu inocencia.$(br)$(br)$(bold)• Materiales dudosos:$() todos saben que acá no hubo farmeo honesto — el chabón levantó esto sacándose todo del creativo."
     }
   ]
 }

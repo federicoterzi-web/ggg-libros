@@ -9,16 +9,16 @@
     {
       "type": "patchouli:text",
       "title": "¿Cómo funca esto?",
-      "text": "$(bold)$(d)📖 Manual para butitos$()$()$(br)A ver, pedazo de lurker inservible, si abrís el libro y lo ves vacío no empieces a llorar por el chat de que te estafaron. Este libro se desbloquea $(6)moviendo el culo$(), rey.$(br)$(br)No se te va a entregar todo de una como te entregás vos cuando ves un cartel de $(d)Femboys Hooters$() o una pollita pollera."
+      "text": "$(bold)$(d)📖 Manual para butitos$()$()$(br)$(br)Si abrís el libro y lo ves vacío, no llores por el chat de que te estafaron. Este libro se desbloquea $(6)moviendo el culo$(), rey. No se te entrega todo de una como te entregás vos cuando ves un cartel de $(d)Femboys Hooters$()."
     },
     {
       "type": "patchouli:text",
       "title": "A Explorar, Butito",
-      "text": "Cada vez que muevas tus patitas por el server y entres a una zona nueva$(bold) con la guía en la mano$() —ya sea un comercio normal, el $(c)Spawn$() o algún antro sospechoso lleno de bucaneras—, el libro detecta tu olor a virgo y $(bold)$(6)¡PUM!$()$() te desbloquea la página del lugar con la info y las coordenadas.$(br)$(br)Así que dejá de pajearte AFK en el spawn y salí a explorar que hay $(6)$(bold)recompensa $()$()por completarlo!"
+      "text": "Cada vez que muevas las patitas por el server y entres a una zona nueva $(bold)con la guía en la mano$() —un comercio, el $(c)Spawn$() o algún antro lleno de bucaneras—, el libro detecta tu olor a virgo y $(bold)$(6)¡PUM!$()$() te desbloquea la página con la info y las coordenadas.$(br)$(br)Salí a explorar, que hay $(6)$(bold)recompensa$()$() por completarlo."
     },
     {
       "type": "patchouli:text",
-      "text": "Si te da la nafta para completar todo el libro sin que un troll te piole por el camino y te ampute la bija para el sorteo del stream... recién ahí te vas a ganar el respeto del chat.$(br)$(br)$(d)$(l)¡A patear el server, sucia! ¡GG CHAT!$()"
+      "text": "Si te da la nafta para completar todo el libro sin que un troll te ampute la bija para el sorteo del stream... recién ahí te ganás el respeto del chat.$(br)$(br)$(d)$(l)¡A patear el server, sucia! ¡GG CHAT!$()"
     }
   ]
 }

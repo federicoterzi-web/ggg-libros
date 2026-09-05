@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:manta_ray",
       "title": "Manta Raya",
-      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Sus amplias aletas lo llevan con gracia a través de aguas abiertas cerca de la superficie de los mares cálidos.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Sus amplias aletas lo llevan con gracia a través de aguas abiertas cerca de la superficie de los mares cálidos.$(br2)$(o)Bien abierto de aletas, planeando cerquita de la superficie.$()$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {
       "type": "patchouli:entity",

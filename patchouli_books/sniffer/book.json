@@ -2,10 +2,9 @@
   "name": "Sniffers",
   "version": 0,
   "subtitle": "Manual del Criador",
-  "landing_text": "El mejor amigo del pescador no vive en el agua. vive sobre el musgo....\nUn folleto rápido con todo lo necesario para iniciar y automatizar tu criadero de tesoros.",
-  "creative_tab": "minecraft:tools_and_utilities",
+  "landing_text": "$(o)El mejor amigo del pescador no vive en el agua — vive sobre el musgo.$()$(br)$(br)Un folleto rápido con todo lo necesario para arrancar y automatizar tu criadero de tesoros.",
   "pamphlet": true,
   "model": "ggg:sniffer",
- "show_progress": false,
+  "show_progress": false,
   "use_resource_pack_fonts": true
 }

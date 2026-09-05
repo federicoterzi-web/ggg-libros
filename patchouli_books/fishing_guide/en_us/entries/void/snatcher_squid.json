@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:snatcher_squid",
       "title": "Calamar Arrebatador",
-      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Este calamar viaja rutinariamente a la zona de muerte presurizada del vacío, arrastrando a su presa con él.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() El End"
+      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Este calamar viaja rutinariamente a la zona de muerte presurizada del vacío, arrastrando a su presa con él.$(br2)$(o)Te agarra, te arrastra a la zona presurizada, y recién ahí te cuenta sus intenciones.$()$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() El End"
     },
     {
       "type": "patchouli:entity",

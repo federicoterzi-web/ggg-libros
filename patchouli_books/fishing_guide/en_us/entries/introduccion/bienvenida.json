@@ -7,15 +7,15 @@
     {
       "type": "patchouli:text",
       "title": "La Pescadex",
-      "text": "Si estás leyendo esto es porque encontraste (o alguien te regaló, o se lo afanaste a alguien) la Pescadex.$(br2)Esto no es un libro cualquiera. Es el resultado de años tirando la caña en cada charco, río, cueva, océano y agujero de lava de este mundo, anotando todo lo que salía enganchado."
+      "text": "Si estás leyendo esto es porque encontraste la Pescadex — o alguien te la puso en la mano.$(br2)No es un libro cualquiera. Son años tirando la caña en cada charco, río, cueva y agujero calentito de este mundo, anotando todo lo que salió enganchado. Y salió de todo."
     },
     {
       "type": "patchouli:text",
-      "text": "Me llamo $(bold)H0p3san$(), y sí, soy el primer completista de la Pescadex. Los 102 peces, uno por uno, con récord de tamaño incluido. No fue fácil.$(br2)Este libro es para que a vos no te cueste tanto como me costó a mí. Ordené todo por dónde vive cada bicho, qué necesita para aparecer, y algún que otro consejo que aprendí a las patadas."
+      "text": "Me llamo $(bold)H0p3san$(), y fui el primero en completarla enterita: los 102, uno por uno, cada uno con su récord de tamaño bien medido. No fue fácil, terminé con la muñeca hecha pomada.$(br2)Este libro es para que a vos te cueste menos. Ordené todo por dónde vive cada bicho y qué hay que hacer para que pique."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)Cómo está organizado este libro:$()$(br)Cada categoría del menú de la izquierda agrupa los peces según dónde se los pesca: agua dulce, agua salada, subterráneo, lava o el vacío.$(br2)Antes de meterte en las fichas de cada pez, te recomiendo leer estas primeras páginas. Ahí te explico cómo funciona el minijuego de pesca, qué son las 'condiciones de pesca' que vas a ver repetidas en cada ficha, y qué hacer con el pez una vez que lo sacaste del agua."
+      "text": "$(bold)Cómo viene la cosa:$()$(br)Cada categoría de la izquierda junta los peces por dónde se los agarra: agua dulce, salada, subterráneo, lava o el vacío.$(br2)Antes de meterte en las fichas, pasá por estas primeras páginas. Te explico el minijuego, las condiciones que vas a ver repetidas, y qué hacés con el pez una vez que lo tenés afuera."
     }
   ]
 }

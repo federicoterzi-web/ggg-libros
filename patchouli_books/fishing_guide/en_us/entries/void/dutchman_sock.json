@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:dutchman_sock",
       "title": "Calcetín del Holandés Errante",
-      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Esta especie de bacteria crece tanto que a menudo se confunde con un pez (o un calcetín).$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() El End"
+      "text": "$(#55FFFF)$(bold)Raro$()$(br2)Esta especie de bacteria crece tanto que a menudo se confunde con un pez (o un calcetín).$(br2)$(o)Una bacteria que creció tanto que parece un calcetín usado. Y pica igual.$()$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() El End"
     },
     {
       "type": "patchouli:entity",

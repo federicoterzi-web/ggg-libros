@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:bull_shark",
       "title": "Tiburón Toro",
-      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Un nadador poderoso con mal genio, notablemente capaz de viajar río arriba a entornos de agua dulce.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Un nadador poderoso con mal genio, notablemente capaz de viajar río arriba a entornos de agua dulce.$(br2)$(o)Mal genio y capaz de remontar el río hasta tu casa. No lo provoques.$()$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Ríos$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {
       "type": "patchouli:entity",

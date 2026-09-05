@@ -1,9 +1,8 @@
 {
   "name": "Recetas Silvestres",
   "subtitle": "Antes de Vos",
-  "landing_text": "$(2)$(l)Mi amor,$()$(br)$(br)si estás leyendo esto es porque llegaste al mundo, y con vos toda esta parte de mí que todavía no sabe que va a ser tu abuela.$(br)$(br)Ahora mismo tengo las manos llenas de tierra, un huerto que crece más rápido de lo que puedo cocinar, y la cabeza llena de sueños sobre la familia que todavía no tengo. Vos sos uno de esos sueños.$(br)$(br)Anoté acá todo lo que aprendí a hacer con lo que da la tierra — quesos, cocos, pizzas, platos de lugares que ni siquiera conozco todavía. Algún día te voy a cocinar todo esto de verdad. Mientras tanto, quedate con las recetas.$(br)$(br)Con todo mi amor,$(br)$(2)$(l)la futura Abu de quien sea que esté leyendo esto$().",
+  "landing_text": "$(2)$(l)Mi amor,$()$(br)$(br)si leés esto es porque llegaste al mundo. Yo todavía ni sé que voy a ser tu abuela — tengo las manos llenas de tierra y un huerto que crece más rápido de lo que puedo cocinar.$(br)$(br)Anoté todo lo que aprendí a hacer con lo que da la tierra: quesos, cocos, pizzas, platos de lugares que ni conozco. Algún día te lo cocino de verdad. Por ahora, quedate con las recetas.$(br)$(br)$(2)$(l)Con todo mi amor, la futura Abu.$()",
   "version": 0,
-  "creative_tab": "minecraft:tools_and_utilities",
   "model": "ggg:recetas_joven",
   "book_texture": "ggg:textures/gui/manual_cocina.png",
   "filler_texture": "ggg:textures/gui/cocina_filler.png",

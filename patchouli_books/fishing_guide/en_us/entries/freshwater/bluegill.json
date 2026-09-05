@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:bluegill",
       "title": "Pez Sol",
-      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Una captura clásica en estanques y lagos tranquilos de cualquier región. Siempre tienen hambre de algún cebo.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Una captura clásica en estanques y lagos tranquilos de cualquier región. Siempre tienen hambre de algún cebo.$(br2)$(o)Nunca le dice que no a un cebo. Un ejemplo para todos.$()$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {
       "type": "patchouli:entity",

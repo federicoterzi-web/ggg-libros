@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:catfish",
       "title": "Bagre",
-      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)Este pez tiene mandíbulas con bigotes y gusto por la noche. Los rumores dicen que teme la presencia de los lobos.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)Este pez tiene mandíbulas con bigotes y gusto por la noche. Los rumores dicen que teme la presencia de los lobos.$(br2)$(o)Bigotudo, nocturno y feo como pocos. De ahí el nombre.$()$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {
       "type": "patchouli:entity",

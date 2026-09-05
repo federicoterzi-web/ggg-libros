@@ -1,9 +1,8 @@
 {
   "name": "Guía del GGG",
-  "subtitle": "Vol. II — Las Vegas (Edición Completa)",
+  "subtitle": "Vol. II — Edición Completa",
   "landing_text": "$(d)$(l)Ya la recorriste entera.$()$(br)$(br)Casinos, mercado negro, hasta la capilla — no dejaste nada de Las Vegas sin pisar. Esta es tu copia de coleccionista: todo desbloqueado, sin volver a caminar cada esquina para que se te abra la página.$(br)$(br)Guardala de recuerdo, o andá a buscar a alguien para presumirla. Firmado, $(d)$(l)Rozsier$().",
   "version": 0,
-  "creative_tab": "minecraft:tools_and_utilities",
   "model": "ggg:las_vegas_completa",
   "book_texture": "ggg:textures/gui/tourist_guide.png",
   "filler_texture": "ggg:textures/gui/filler_guia.png",

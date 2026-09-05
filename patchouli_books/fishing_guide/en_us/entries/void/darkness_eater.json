@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:darkness_eater",
       "title": "Devorador de Oscuridad",
-      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)La leyenda dice que este bagre masivo puede tragarse cinco golems de hierro de un bocado.$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() Mundo superior"
+      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)La leyenda dice que este bagre masivo puede tragarse cinco golems de hierro de un bocado.$(br2)$(o)Se traga cinco golems de hierro de un bocado. Vos hacé la cuenta.$()$(br2)$(bold)Categoría:$() El Vacío$(br)$(bold)Bioma:$() El Vacío$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {
       "type": "patchouli:entity",

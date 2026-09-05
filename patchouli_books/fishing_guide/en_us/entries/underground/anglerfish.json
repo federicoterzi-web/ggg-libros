@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:anglerfish",
       "title": "Rape",
-      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)El señuelo brillante en la cabeza de este pez atrae la comida, permitiéndoles conservar energía mientras cazan.$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
+      "text": "$(#55FF55)$(bold)Poco Común$()$(br2)El señuelo brillante en la cabeza de este pez atrae la comida, permitiéndoles conservar energía mientras cazan.$(br2)$(o)Prende la lucecita, espera que la comida se le acerque sola, y zas.$()$(br2)$(bold)Categoría:$() Subterráneo$(br)$(bold)Bioma:$() Subterráneo$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {
       "type": "patchouli:entity",

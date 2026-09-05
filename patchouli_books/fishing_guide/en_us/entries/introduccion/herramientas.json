@@ -7,12 +7,12 @@
     {
       "type": "patchouli:text",
       "title": "Instrumentos de Medición",
-      "text": "Para no tener que adivinar las condiciones de pesca, Tide trae un juego de instrumentos — cada uno mide una sola cosa, y se leen sosteniéndolos en la mano:$(br)$(li)$(bold)Reloj de Bolsillo:$() la hora exacta$(li)$(bold)Calendario Lunar:$() la fase lunar actual$(li)$(bold)Medidor de Clima:$() la temperatura del agua (ya lo vimos)$(li)$(bold)Medidor de Profundidad:$() cuánto estás por encima o por debajo del nivel del mar$(li)$(bold)Radio del Clima:$() qué clima viene y en cuánto tiempo"
+      "text": "Para no andar adivinando las condiciones, Tide trae instrumentos — cada uno mide una sola cosa, y se leen sosteniéndolos en la mano:$(br)$(li)$(bold)Reloj de Bolsillo:$() la hora exacta$(li)$(bold)Calendario Lunar:$() la fase de la luna$(li)$(bold)Medidor de Clima:$() la temperatura del agua$(li)$(bold)Medidor de Profundidad:$() cuánto estás por arriba o por abajo del nivel del mar$(li)$(bold)Radio del Clima:$() qué clima viene y en cuánto"
     },
     {
       "type": "patchouli:text",
       "title": "Buscador de Peces",
-      "text": "Si no querés andar cargando los cinco por separado, el $(bold)Buscador de Peces$() combina la función de los cinco instrumentos en un solo ítem."
+      "text": "Si no querés cargar los cinco por separado, el $(bold)Buscador de Peces$() te junta la función de los cinco en un solo ítem. Uno solo que te hace todo el trabajo."
     }
   ]
 }

@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:carp",
       "title": "Carpa",
-      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Este alimentador de fondo prospera en aguas turbias y a menudo crea un lío en su búsqueda de comida.$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
+      "text": "$(#AAAAAA)$(bold)Común$()$(br2)Este alimentador de fondo prospera en aguas turbias y a menudo crea un lío en su búsqueda de comida.$(br2)$(o)Revuelve todo el fondo buscando qué morfar. Un desastre, pero pica fácil.$()$(br2)$(bold)Categoría:$() Agua Dulce$(br)$(bold)Bioma:$() Lagos y Ríos$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {
       "type": "patchouli:entity",

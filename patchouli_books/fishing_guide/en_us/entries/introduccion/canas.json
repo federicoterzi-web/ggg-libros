@@ -7,15 +7,15 @@
     {
       "type": "patchouli:text",
       "title": "13 Cañas Distintas",
-      "text": "No alcanza con la caña de madera de siempre. Tide trae 13 cañas propias, cada una con dos cosas que le importan a un completista: cuántos $(bold)slots de cebo$() tiene (cuántos cebos podés cargarle a la vez, sus efectos se suman) y su $(bold)durabilidad$()."
+      "text": "La de madera de toda la vida te queda corta, aceptalo. Una caña que no aguanta firme no le sirve a nadie.$(br2)Tide trae 13, y a un completista le importan dos cosas de cada una: cuántos $(bold)slots de cebo$() tiene (cuántos le metés de una — los efectos se suman) y la $(bold)durabilidad$() (cuánto te dura dura antes de aflojar)."
     },
     {
       "type": "patchouli:text",
-      "text": "$(li)Piedra y Hierro: 1 slot, las más básicas$(li)Oro, Cristal, Diamante, Netherite: 2 slots (la Netherite además es ígnifuga)$(li)Eco, Prismarina, Midas: 3 slots$(li)Aldeana, Ardiente: 4 slots$(li)Panal: 5 slots$(li)Girasol: 6 slots, la que más cebos aguanta"
+      "text": "Cuantos más slots, más cargada la llevás:$(br)$(li)Piedra y Hierro: 1 slot, para el que recién agarra la caña$(li)Oro, Cristal, Diamante, Netherite: 2 slots (la Netherite ni se te quema en la lava)$(li)Eco, Prismarina, Midas: 3 slots$(li)Aldeana, Ardiente: 4 slots$(li)Panal: 5 slots$(li)Girasol: 6 slots — la que más aguanta con todo puesto"
     },
     {
       "type": "patchouli:text",
-      "text": "Cada una se craftea distinto según sus materiales (varía el patrón, pero todas siguen la forma clásica de caña: dos palos en diagonal más el material principal). Para consultar la receta exacta de una caña puntual, abrí el libro de recetas (tecla R) parada sobre el ítem."
+      "text": "Cada una se craftea con sus materiales: cambia el patrón, pero siempre la misma forma de siempre — dos palos en diagonal y el material principal. No tiene ciencia.$(br2)¿Querés la receta exacta de una? Abrí el recetario (tecla R) parado encima del ítem y mirá."
     }
   ]
 }

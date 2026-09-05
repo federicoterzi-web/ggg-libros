@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:blazing_swordfish",
       "title": "Pez Espada Ardiente",
-      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Este pez espada tiene escamas brillantes y una nariz afilada como una navaja, y puede usarse como un arma mortal.$(br2)$(bold)Categoría:$() Lava$(br)$(bold)Bioma:$() Lava$(br)$(bold)Dimensión:$() El Nether"
+      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Este pez espada tiene escamas brillantes y una nariz afilada como una navaja, y puede usarse como un arma mortal.$(br2)$(o)El mismo pincho que el pez espada, pero al rojo vivo. Ojito dónde lo agarrás.$()$(br2)$(bold)Categoría:$() Lava$(br)$(bold)Bioma:$() Lava$(br)$(bold)Dimensión:$() El Nether"
     },
     {
       "type": "patchouli:entity",

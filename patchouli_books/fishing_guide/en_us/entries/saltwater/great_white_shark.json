@@ -8,7 +8,7 @@
       "type": "patchouli:spotlight",
       "item": "tide:great_white_shark",
       "title": "Gran Tiburón Blanco",
-      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Un depredador temido y respetado, patrullando las aguas costeras con sentidos agudos y ráfagas de velocidad.$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
+      "text": "$(#AA00AA)$(bold)Muy Raro$()$(br2)Un depredador temido y respetado, patrullando las aguas costeras con sentidos agudos y ráfagas de velocidad.$(br2)$(o)Temido y respetado. Vos vas a estar solo temido.$()$(br2)$(bold)Categoría:$() Agua Salada$(br)$(bold)Bioma:$() Océanos$(br)$(bold)Dimensión:$() Mundo superior"
     },
     {
       "type": "patchouli:entity",
