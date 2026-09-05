@@ -2,6 +2,7 @@
   "name": "El escondite del Neuro",
   "icon": "minecraft:chicken",
   "category": "patchouli:secretos",
+  "advancement": "ggg:el_escondite_del_neuro",
   "priority": false,
   "secret": false,
   "sortnum": 3,
