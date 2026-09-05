@@ -34,7 +34,8 @@
     {
       "type": "patchouli:spotlight",
       "item": "natures_spirit:olives",
-      "text": "Así se come."
+      "text": "Así se come.",
+      "title": "Aceitunas"
     }
   ]
 }

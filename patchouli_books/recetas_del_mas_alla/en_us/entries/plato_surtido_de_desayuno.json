@@ -35,7 +35,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "mynethersdelight:crafting/breakfast_sampler"
+      "recipe": "mynethersdelight:crafting/breakfast_sampler",
+      "title": "Desayuno Americano"
     }
   ]
 }

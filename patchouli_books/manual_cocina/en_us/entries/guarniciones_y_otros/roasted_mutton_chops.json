@@ -35,7 +35,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:roasted_mutton_chops"
+      "recipe": "farmersdelight:roasted_mutton_chops",
+      "title": "Chuletas de cordero asadas"
     }
   ]
 }

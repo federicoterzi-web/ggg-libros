@@ -13,7 +13,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:cooking_pot"
+      "recipe": "farmersdelight:cooking_pot",
+      "title": "Olla"
     }
   ]
 }

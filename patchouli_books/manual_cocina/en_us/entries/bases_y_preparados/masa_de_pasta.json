@@ -16,7 +16,8 @@
       "input": "farmersdelight:wheat_dough",
       "output1": "farmersdelight:raw_pasta",
       "output2": "minecraft:air",
-      "tool_item": "tag:c:tools/knife"
+      "tool_item": "tag:c:tools/knife",
+      "title": "Pasta cruda"
     }
   ]
 }

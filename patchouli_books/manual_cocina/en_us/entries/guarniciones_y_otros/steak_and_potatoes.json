@@ -35,7 +35,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:steak_and_potatoes"
+      "recipe": "farmersdelight:steak_and_potatoes",
+      "title": "Bistec y patatas"
     }
   ]
 }

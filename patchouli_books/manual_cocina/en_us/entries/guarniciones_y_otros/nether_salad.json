@@ -33,7 +33,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:nether_salad"
+      "recipe": "farmersdelight:nether_salad",
+      "title": "Ensalada del Nether"
     }
   ]
 }

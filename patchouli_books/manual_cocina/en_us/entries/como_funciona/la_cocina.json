@@ -9,11 +9,12 @@
     {
       "type": "patchouli:text",
       "title": "La Cocina",
-      "text": "$(bold)Una parrilla, no un horno con más espacio — así que dejá de preguntarme si es lo mismo, porque no.$()$(br)$(br)Se coloca como bloque, se enciende con mechero y apaga con pala. Poné hasta $(bold)6 ítems directo sobre el bloque$() (no en una interfaz) y se cocinan todos a la vez, usando recetas de $(bold)ahumado$(). No necesita combustible — el fuego de abajo se mantiene encendido, así que no me vengas después preguntando por qué se apagó."
+      "text": "$(bold)Una parrilla, no un horno más grande — dejá de preguntar si es lo mismo.$()$(br)$(br)Va como bloque: la prendés con mechero, la apagás con pala. Poné hasta $(bold)6 ítems directo encima$() y se cocinan juntos, con recetas de $(bold)ahumado$(). Sin combustible: el fuego de abajo la mantiene."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:stove"
+      "recipe": "farmersdelight:stove",
+      "title": "Parrilla"
     }
   ]
 }

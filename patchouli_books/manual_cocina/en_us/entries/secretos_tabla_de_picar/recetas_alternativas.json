@@ -13,7 +13,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:paper_from_tree_bark"
+      "recipe": "farmersdelight:paper_from_tree_bark",
+      "title": "Papel"
     },
     {
       "type": "patchouli:text",
@@ -21,11 +22,12 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:lead_from_straw"
+      "recipe": "farmersdelight:lead_from_straw",
+      "title": "Correa"
     },
     {
       "type": "patchouli:text",
-      "text": "$(l)$(bold)Correa de Paja$()$(br)$(br)Con Paja (Straw) en vez de hilo y baba de slime. Si tenés una granja de trigo, nunca más te va a faltar correa.$(br)$(br)$(bold)De yapa:$() el mod también trae \"crates\" (cajas compactas) para varios cultivos — cada una se puede volver a abrir en mesa de crafteo para recuperar 9 unidades del cultivo original. Sirven para guardar más en menos espacio, cosa que a vos en tu inventario desordenado te vendría bien."
+      "text": "$(l)$(bold)Correa de Paja$()$(br)$(br)Con Paja en vez de hilo y baba de slime. Si tenés granja de trigo, nunca más te falta correa.$(br)$(br)$(bold)De yapa:$() el mod trae \"crates\" (cajas) para varios cultivos — se reabren en la mesa y recuperás 9 unidades. Guardás más en menos lugar."
     }
   ]
 }

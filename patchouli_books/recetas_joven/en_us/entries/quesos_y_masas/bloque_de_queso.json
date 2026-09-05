@@ -34,7 +34,8 @@
     {
       "type": "patchouli:spotlight",
       "item": "natures_spirit:cheese_bucket",
-      "text": "El bloque del que vas mordisqueando."
+      "text": "El bloque del que vas mordisqueando.",
+      "title": "Cubo de queso"
     }
   ]
 }

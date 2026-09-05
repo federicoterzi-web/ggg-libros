@@ -46,7 +46,8 @@
     {
       "type": "patchouli:spotlight",
       "item": "natures_spirit:coconut_half",
-      "text": "Así se come."
+      "text": "Así se come.",
+      "title": "Medio coco"
     }
   ]
 }

@@ -29,7 +29,7 @@
       "o8": "ggg:textures/gui/entries/blank_icon.png",
       "o9": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
-      "description": "$(l)La más elegante de las tres, y la que más trabajo lleva — dos cosas que a vos te quedan grandes.$()$(br)$(br)Si te sale bien esta, ahí sí te creo que aprendiste algo, y no solo a romper cosas.$(br)$(br)$(4)Se coloca como bloque$() y se come a mordiscos con la mano — nada de bowl. Para la porción como ítem, pasale un $(bold)cuchillo$() (al bloque, o a la torta entera en la $(bold)tabla de picar$()). Aguanta $(bold)4$() y se acaba."
+      "description": "$(l)La más elegante de las tres y la que más trabajo lleva — dos cosas que a vos te quedan grandes.$()$(br)$(br)Si te sale bien esta, ahí sí te creo que aprendiste algo.$(br)$(br)$(4)Va como bloque$(): se come a mordiscos, o con cuchillo sale la porción (también en la tabla de picar). $(bold)4$() y se acaba."
     },
     {
       "type": "patchouli:spotlight",
@@ -39,7 +39,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:sweet_berry_cheesecake"
+      "recipe": "farmersdelight:sweet_berry_cheesecake",
+      "title": "Tarta de bayas dulces"
     }
   ]
 }

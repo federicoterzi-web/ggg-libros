@@ -35,7 +35,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "mynethersdelight:crafting/hot_wings_bucket"
+      "recipe": "mynethersdelight:crafting/hot_wings_bucket",
+      "title": "Cubo de alitas picantes"
     }
   ]
 }

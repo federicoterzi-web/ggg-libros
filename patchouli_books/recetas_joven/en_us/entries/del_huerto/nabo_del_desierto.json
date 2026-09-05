@@ -34,7 +34,8 @@
     {
       "type": "patchouli:spotlight",
       "item": "natures_spirit:desert_turnip",
-      "text": "Así se come."
+      "text": "Así se come.",
+      "title": "Nabo del desierto"
     }
   ]
 }

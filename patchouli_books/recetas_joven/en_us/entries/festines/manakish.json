@@ -34,7 +34,8 @@
     {
       "type": "patchouli:spotlight",
       "item": "natures_delight:manakish_slice",
-      "text": "La porción que se come — el bloque entero no se come de la mano."
+      "text": "La porción que se come — el bloque entero no se come de la mano.",
+      "title": "Porción de manakish"
     },
     {
       "type": "patchouli:text",

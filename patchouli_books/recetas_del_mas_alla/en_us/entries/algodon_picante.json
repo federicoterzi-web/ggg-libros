@@ -35,7 +35,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "mynethersdelight:crafting/spicy_cotton"
+      "recipe": "mynethersdelight:crafting/spicy_cotton",
+      "title": "Algodón picante"
     }
   ]
 }

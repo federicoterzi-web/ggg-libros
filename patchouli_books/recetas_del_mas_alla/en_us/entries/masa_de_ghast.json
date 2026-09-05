@@ -11,7 +11,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "mynethersdelight:crafting/ghast_dough"
+      "recipe": "mynethersdelight:crafting/ghast_dough",
+      "title": "Masa de ghast"
     }
   ]
 }

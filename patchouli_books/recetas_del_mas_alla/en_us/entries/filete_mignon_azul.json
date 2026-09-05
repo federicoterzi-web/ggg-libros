@@ -35,7 +35,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "mynethersdelight:crafting/blue_tenderloin_steak"
+      "recipe": "mynethersdelight:crafting/blue_tenderloin_steak",
+      "title": "Chuletón de solomillo azul"
     }
   ]
 }

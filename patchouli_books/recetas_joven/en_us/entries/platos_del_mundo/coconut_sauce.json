@@ -34,7 +34,8 @@
     {
       "type": "patchouli:spotlight",
       "item": "natures_delight:coconut_sauce",
-      "text": "Así se sirve."
+      "text": "Así se sirve.",
+      "title": "Salsa de coco"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

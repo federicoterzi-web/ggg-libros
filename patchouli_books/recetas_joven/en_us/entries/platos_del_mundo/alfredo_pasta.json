@@ -36,7 +36,8 @@
     {
       "type": "patchouli:spotlight",
       "item": "natures_delight:alfredo_pasta",
-      "text": "Así se sirve."
+      "text": "Así se sirve.",
+      "title": "Pasta Alfredo"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

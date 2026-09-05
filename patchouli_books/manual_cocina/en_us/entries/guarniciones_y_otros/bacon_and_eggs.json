@@ -35,7 +35,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:bacon_and_eggs"
+      "recipe": "farmersdelight:bacon_and_eggs",
+      "title": "Tocino con huevos"
     }
   ]
 }

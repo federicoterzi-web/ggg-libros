@@ -33,7 +33,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:mutton_wrap"
+      "recipe": "farmersdelight:mutton_wrap",
+      "title": "Wrap de cordero"
     }
   ]
 }

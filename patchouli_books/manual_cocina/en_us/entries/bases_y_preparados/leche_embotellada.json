@@ -13,7 +13,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:milk_bottle"
+      "recipe": "farmersdelight:milk_bottle",
+      "title": "Frasco con leche"
     }
   ]
 }

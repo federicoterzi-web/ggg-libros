@@ -31,16 +31,18 @@
       "o10": "ggg:textures/gui/entries/sat_100.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (5 min)$(/t)",
-      "description": "$(l)El plato de las fiestas de verdad. Si no sabés armar esto para Navidad, no sé qué estabas haciendo todos estos años aparte de molestarme.$()$(br)$(br)$(4)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)4 porciones$() antes de acabarse."
+      "description": "$(l)El plato de las fiestas de verdad. Si no sabés armar esto para Navidad, no sé qué hiciste todos estos años aparte de molestarme.$()$(br)$(br)$(4)Va como bloque$() y se sirve con $(bold)bowl vacío$() — $(bold)4 porciones$()."
     },
     {
       "type": "patchouli:spotlight",
       "item": "farmersdelight:roast_chicken",
-      "text": "La porción que te sirve el bloque."
+      "text": "La porción que te sirve el bloque.",
+      "title": "Plato de pollo asado"
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:roast_chicken_block"
+      "recipe": "farmersdelight:roast_chicken_block",
+      "title": "Pollo asado"
     }
   ]
 }

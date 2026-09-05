@@ -13,7 +13,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:cake_from_milk_bottle"
+      "recipe": "farmersdelight:cake_from_milk_bottle",
+      "title": "Pastel"
     },
     {
       "type": "patchouli:text",
@@ -22,7 +23,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:cake_from_slices"
+      "recipe": "farmersdelight:cake_from_slices",
+      "title": "Pastel"
     }
   ]
 }

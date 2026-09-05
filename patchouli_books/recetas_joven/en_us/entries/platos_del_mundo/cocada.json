@@ -36,7 +36,8 @@
     {
       "type": "patchouli:spotlight",
       "item": "natures_delight:cocada",
-      "text": "Así se sirve."
+      "text": "Así se sirve.",
+      "title": "Cocada"
     },
     {
       "type": "patchouli:cooking_pot_recipe",

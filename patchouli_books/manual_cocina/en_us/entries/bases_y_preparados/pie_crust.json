@@ -33,7 +33,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:pie_crust"
+      "recipe": "farmersdelight:pie_crust",
+      "title": "Corteza de tarta"
     }
   ]
 }

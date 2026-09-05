@@ -33,7 +33,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:mixed_salad"
+      "recipe": "farmersdelight:mixed_salad",
+      "title": "Ensalada mixta"
     }
   ]
 }

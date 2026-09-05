@@ -51,7 +51,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "mynethersdelight:crafting/hotcream_bucket"
+      "recipe": "mynethersdelight:crafting/hotcream_bucket",
+      "title": "Crema ardiente"
     }
   ]
 }

@@ -33,7 +33,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:cod_roll"
+      "recipe": "farmersdelight:cod_roll",
+      "title": "Rollos de bacalao"
     }
   ]
 }

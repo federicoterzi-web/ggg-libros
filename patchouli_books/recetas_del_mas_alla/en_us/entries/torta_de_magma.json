@@ -31,11 +31,12 @@
       "effect_text": "$(t:Picante Bueno: te cura cerca de lava/fuego.)+ Picante Bueno III (20 seg)$(/t)",
       "effect2_icon": "ggg:textures/gui/entries/fire_resistance.png",
       "effect2_text": "$(t:Resistencia al Fuego temporal.)+ Resistencia al Fuego (10 seg)$(/t)",
-      "description": "$(l)Se coloca como bloque, y se corta en porciones (como cualquier otra torta). Cada porción te da Velocidad y Resistencia al Fuego cortitas — buena para escapar de algo. $(4)De yapa: también te da Velocidad por 20 segundos, aparte de estos dos. $(4)De yapa:$() también te da Velocidad por 20 segundos, aparte de estos dos.$()"
+      "description": "$(l)Va como bloque y se corta en porciones con cuchillo, como cualquier torta.$()$(br)$(br)Cada porción da Velocidad y Resistencia al Fuego cortitas — buena para rajar de algo. $(4)De yapa:$() Velocidad 20 s aparte de esas dos."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "mynethersdelight:crafting/magma_cake"
+      "recipe": "mynethersdelight:crafting/magma_cake",
+      "title": "Torta de Magma"
     },
     {
       "type": "patchouli:text",

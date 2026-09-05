@@ -13,7 +13,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:cutting_board"
+      "recipe": "farmersdelight:cutting_board",
+      "title": "Tabla de picar"
     }
   ]
 }

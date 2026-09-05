@@ -33,7 +33,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:salmon_roll"
+      "recipe": "farmersdelight:salmon_roll",
+      "title": "Rollos de salmon"
     }
   ]
 }

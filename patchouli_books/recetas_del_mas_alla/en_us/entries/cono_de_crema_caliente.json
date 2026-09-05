@@ -35,7 +35,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "mynethersdelight:crafting/hotcream_cone"
+      "recipe": "mynethersdelight:crafting/hotcream_cone",
+      "title": "Crema ardiente en cono"
     }
   ]
 }

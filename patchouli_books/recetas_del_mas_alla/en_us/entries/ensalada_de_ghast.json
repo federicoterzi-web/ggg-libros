@@ -35,7 +35,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "mynethersdelight:crafting/ghast_salad"
+      "recipe": "mynethersdelight:crafting/ghast_salad",
+      "title": "Ensalada de ghast"
     }
   ]
 }

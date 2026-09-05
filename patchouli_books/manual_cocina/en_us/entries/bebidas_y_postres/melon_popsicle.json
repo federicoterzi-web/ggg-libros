@@ -33,7 +33,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:melon_popsicle"
+      "recipe": "farmersdelight:melon_popsicle",
+      "title": "Palito de melón"
     }
   ]
 }

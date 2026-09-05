@@ -35,7 +35,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "mynethersdelight:crafting/red_loin_on_a_stick"
+      "recipe": "mynethersdelight:crafting/red_loin_on_a_stick",
+      "title": "Brocheta de solomillo rojo"
     }
   ]
 }

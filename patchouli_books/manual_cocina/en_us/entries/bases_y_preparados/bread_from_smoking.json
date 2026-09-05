@@ -13,7 +13,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:bread_from_smoking"
+      "recipe": "farmersdelight:bread_from_smoking",
+      "title": "Pan"
     }
   ]
 }

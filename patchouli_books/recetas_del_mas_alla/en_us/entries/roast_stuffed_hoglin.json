@@ -11,7 +11,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "mynethersdelight:crafting/raw_stuffed_hoglin"
+      "recipe": "mynethersdelight:crafting/raw_stuffed_hoglin",
+      "title": "Hoglin relleno crudo"
     },
     {
       "type": "patchouli:text",
@@ -72,7 +73,7 @@
       "o10": "ggg:textures/gui/entries/sat_100.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (5 min)$(/t)",
-      "description": "$(l)La porción más grande y la que más llena de los dos libros enteros — 14 de hambre.$() $(4)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)11 porciones$() antes de acabarse. Esta es la primera tanda de porciones sacadas con bowl, después de las orejas.",
+      "description": "$(l)La porción más grande y la que más llena de los dos libros — 14 de hambre.$()$(br)$(br)$(4)Va como bloque$() y se sirve con $(bold)bowl vacío$(). Es la primera tanda con bowl, después de las orejas — $(bold)11 porciones$() en total.",
       "effect2_icon": "ggg:textures/gui/entries/blank_icon_18.png",
       "effect2_text": ""
     },
@@ -137,22 +138,26 @@
     {
       "type": "patchouli:spotlight",
       "item": "mynethersdelight:roast_ear",
-      "text": "La porción de 'Oreja Asada'."
+      "text": "La porción de 'Oreja Asada'.",
+      "title": "Oreja asada"
     },
     {
       "type": "patchouli:spotlight",
       "item": "mynethersdelight:plate_of_stuffed_hoglin_snout",
-      "text": "La porción de 'Plato de Hocico'."
+      "text": "La porción de 'Plato de Hocico'.",
+      "title": "Plato de hocico relleno"
     },
     {
       "type": "patchouli:spotlight",
       "item": "mynethersdelight:plate_of_stuffed_hoglin_ham",
-      "text": "La porción de 'Plato de Jamón'."
+      "text": "La porción de 'Plato de Jamón'.",
+      "title": "Plato de jamón asado"
     },
     {
       "type": "patchouli:spotlight",
       "item": "mynethersdelight:plate_of_stuffed_hoglin",
-      "text": "La porción de 'Plato Base'."
+      "text": "La porción de 'Plato Base'.",
+      "title": "Plato de hoglin relleno"
     }
   ]
 }

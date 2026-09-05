@@ -33,7 +33,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:honey_cookie"
+      "recipe": "farmersdelight:honey_cookie",
+      "title": "Galleta de miel"
     }
   ]
 }

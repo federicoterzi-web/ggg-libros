@@ -11,7 +11,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "mynethersdelight:crafting/striderloaf"
+      "recipe": "mynethersdelight:crafting/striderloaf",
+      "title": "Pan de lavagante"
     },
     {
       "type": "patchouli:text",
@@ -79,12 +80,14 @@
     {
       "type": "patchouli:spotlight",
       "item": "mynethersdelight:plate_of_striderloaf",
-      "text": "La porción en este estado."
+      "text": "La porción en este estado.",
+      "title": "Plato de pan de lavagante"
     },
     {
       "type": "patchouli:spotlight",
       "item": "mynethersdelight:plate_of_cold_striderloaf",
-      "text": "La porción en este estado."
+      "text": "La porción en este estado.",
+      "title": "Plato de pan de lavagante frio"
     }
   ]
 }

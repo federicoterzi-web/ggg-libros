@@ -7,11 +7,12 @@
     {
       "type": "patchouli:text",
       "title": "Ghasta con Crema",
-      "text": "$(l)El festín más raro de los dos libros.$() $(4)Se coloca como bloque$() en el mundo — no se come de la mano. Necesitás un $(bold)bowl vacío$() para sacar porciones, hasta $(bold)4$() antes de acabarse.$(br)$(br)$(4)Detalle único:$() si lo dejás con entre 2 y 4 porciones, $(bold)se regenera solo con el tiempo$() — no hace falta que lo vuelvas a cocinar."
+      "text": "$(l)El festín más raro de los dos libros.$() $(4)Va como bloque$() y se sirve con $(bold)bowl vacío$() — hasta $(bold)4 porciones$().$(br)$(br)$(4)Detalle único:$() si lo dejás con 2 a 4 porciones, $(bold)se regenera solo con el tiempo$() — no hace falta volver a cocinarlo."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "mynethersdelight:crafting/ghasta_with_cream"
+      "recipe": "mynethersdelight:crafting/ghasta_with_cream",
+      "title": "Ghasta con crema"
     },
     {
       "type": "patchouli:dish_intro",
@@ -40,12 +41,13 @@
       "effect_text": "$(t:Picante Malo: te hace daño cerca de lava/fuego sin Resistencia al Fuego.)+ Picante Malo (10 seg)$(/t)",
       "effect2_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect2_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (1 min)$(/t)",
-      "description": "$(l)Cada porción te da Picante Malo y Nourishment juntos — comé con cuidado si no tenés Resistencia al Fuego encima.$() $(4)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)4 porciones$() antes de acabarse."
+      "description": "$(l)Cada porción da Picante Malo y Nourishment juntos — comé con cuidado si no tenés Resistencia al Fuego.$()$(br)$(br)$(4)Va como bloque$() y se sirve con $(bold)bowl vacío$() — $(bold)4 porciones$()."
     },
     {
       "type": "patchouli:spotlight",
       "item": "mynethersdelight:plate_of_ghasta_with_cream",
-      "text": "La porción que te sirve el bloque."
+      "text": "La porción que te sirve el bloque.",
+      "title": "Plato de ghasta con crema"
     }
   ]
 }

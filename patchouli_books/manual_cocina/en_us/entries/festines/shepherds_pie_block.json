@@ -31,16 +31,18 @@
       "o10": "ggg:textures/gui/entries/sat_100.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
       "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (5 min)$(/t)",
-      "description": "$(l)Este lo aprendí de una vecina inglesa. No le voy a mentir a nadie: le quedaba mejor a ella, pero bueno, hacé la lucha — total, peor que vos no puede quedar.$()$(br)$(br)$(4)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)4 porciones$() antes de acabarse."
+      "description": "$(l)Este lo aprendí de una vecina inglesa. A ella le salía mejor, no te voy a mentir, pero hacé la lucha — peor que vos no puede quedar.$()$(br)$(br)$(4)Va como bloque$() y se sirve con $(bold)bowl vacío$() — $(bold)4 porciones$()."
     },
     {
       "type": "patchouli:spotlight",
       "item": "farmersdelight:shepherds_pie",
-      "text": "La porción que te sirve el bloque."
+      "text": "La porción que te sirve el bloque.",
+      "title": "Plato de Pastel de Pastor"
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:shepherds_pie_block"
+      "recipe": "farmersdelight:shepherds_pie_block",
+      "title": "Pastel de pastor"
     }
   ]
 }

@@ -35,11 +35,12 @@
       "type": "patchouli:spotlight",
       "item": "farmersdelight:apple_pie_slice",
       "title": "La porción",
-      "text": "$(4)Se coloca como bloque$() y se come a mordiscos con la mano — nada de bowl. Para la porción como ítem, pasale un $(bold)cuchillo$() (al bloque, o a la tarta entera en la $(bold)tabla de picar$()). Aguanta $(bold)4$() y se acaba."
+      "text": "$(4)Va como bloque$(): se come a mordiscos, o con cuchillo sale la porción como ítem — al bloque o a la tarta entera en la $(bold)tabla de picar$(). $(bold)4$() y se acaba."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:apple_pie"
+      "recipe": "farmersdelight:apple_pie",
+      "title": "Tarta de manzana"
     }
   ]
 }

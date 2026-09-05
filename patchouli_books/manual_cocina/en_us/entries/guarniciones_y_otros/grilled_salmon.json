@@ -35,7 +35,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "farmersdelight:grilled_salmon"
+      "recipe": "farmersdelight:grilled_salmon",
+      "title": "Salmón a la parrilla"
     }
   ]
 }
