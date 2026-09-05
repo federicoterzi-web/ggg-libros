@@ -28,9 +28,9 @@
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/gpungent.png",
-      "effect_text": "$(t:Picante Bueno: te cura cerca de lava/fuego.)+ Picante Bueno III (30 seg)$(/t)",
+      "effect_text": "$(t:Pungente bueno: cerca del fuego te cura.)P. Bueno III 30s$(/t)",
       "effect2_icon": "ggg:textures/gui/entries/fire_resistance.png",
-      "effect2_text": "$(t:Resistencia al Fuego temporal.)+ Resistencia al Fuego (30 seg)$(/t)",
+      "effect2_text": "$(t:Resistencia al Fuego temporal — no te quemás cerca de lava.)Res. Fuego 30s$(/t)",
       "description": "$(l)$(4)Sí, lleva un balde de lava. No, no me equivoqué.$() Casi no llena — 1 de hambre — pero la saturación es una animalada, 8 de una. Va en balde, no en bowl.$()"
     },
     {

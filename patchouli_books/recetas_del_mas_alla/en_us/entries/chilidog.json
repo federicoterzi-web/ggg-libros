@@ -28,9 +28,9 @@
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/gpungent.png",
-      "effect_text": "$(t:Picante Bueno: te cura cerca de lava/fuego.)+ Picante Bueno (30 seg)$(/t)",
+      "effect_text": "$(t:Pungente bueno: cerca del fuego te cura.)P. Bueno 30s$(/t)",
       "effect2_icon": "ggg:textures/gui/entries/fire_resistance.png",
-      "effect2_text": "$(t:Resistencia al Fuego temporal.)+ Resistencia al Fuego (15 seg)$(/t)",
+      "effect2_text": "$(t:Resistencia al Fuego temporal — no te quemás cerca de lava.)Res. Fuego 15s$(/t)",
       "description": "$(l)Ojo, este no lleva bowl — el contenedor es un $(bold)Pancho ya hecho$(). Le encajás picante y nether wart y se convierte en esto. Te cura cerca del fuego y te da Resistencia al Fuego sola. De lo mejorcito de acá abajo.$()"
     },
     {

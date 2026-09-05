@@ -7,7 +7,7 @@
     {
       "type": "patchouli:text",
       "title": "Ghasmati",
-      "text": "$(l)El arroz de por acá.$()$(br)$(br)Sale de cortarle a un Ghasta — un bicho parecido a un Ghast enano que podés criar. Cada corte te da 1, con suerte 2."
+      "text": "$(l)El arroz de por acá.$()$(br)$(br)Sale de cortar una $(bold)Ghasta$() en la tabla — eso que sueltan los Ghast cuando los reventás, más o menos la mitad de las veces (más con Botín). Cada corte da 1, con suerte 2."
     },
     {
       "type": "patchouli:cutting_board_recipe",

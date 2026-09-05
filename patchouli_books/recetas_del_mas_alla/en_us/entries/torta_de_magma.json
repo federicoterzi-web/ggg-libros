@@ -28,9 +28,9 @@
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/gpungent.png",
-      "effect_text": "$(t:Te cura cerca de fuego o lava.)+ Picante Bueno III (20 seg)$(/t)",
+      "effect_text": "$(t:Pungente bueno: cerca del fuego te cura.)P. Bueno III 20s$(/t)",
       "effect2_icon": "minecraft:textures/mob_effect/speed.png",
-      "effect2_text": "$(t:Un envión para las piernas.)+ Velocidad (20 seg)$(/t)",
+      "effect2_text": "$(t:Un envión para las piernas.)Velocidad 20s$(/t)",
       "description": "$(l)Va como bloque y se corta con cuchillo — 7 porciones, como cualquier torta.$()$(br)$(br)Cada porción te tira $(bold)Velocidad$() y $(bold)Picante Bueno$() 20 segundos, más $(bold)Resistencia al Fuego$() 10 — el combo entero para rajar del quilombo.$()"
     },
     {

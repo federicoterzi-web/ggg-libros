@@ -28,7 +28,7 @@
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/sat_100.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
-      "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (2 min)$(/t)",
+      "effect_text": "$(t:No perdés hambre con el tiempo.)Nourishment 2m$(/t)",
       "description": "$(l)Dos salchichas, dos huevos y algo dulce (miel o huevo de strider), todo junto. El desayuno más completo del libro — 15 de hambre. Con esto arrancás el día aunque estés muerta, como yo.$()"
     },
     {

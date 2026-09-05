@@ -28,7 +28,7 @@
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/bpungent.png",
-      "effect_text": "$(t:Picante Malo: te hace daño cerca de lava/fuego sin Resistencia al Fuego.)+ Picante Malo (10 seg)$(/t)",
+      "effect_text": "$(t:Pungente malo: cerca del fuego te hace daño si no tenés Resistencia al Fuego.)P. Malo 10s$(/t)",
       "description": "$(l)Chico y con mala leche, como yo. Pica apenas, 10 segundos y se te pasa. No llores.$()"
     },
     {

@@ -43,7 +43,7 @@
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
-      "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (1 min)$(/t)",
+      "effect_text": "$(t:No perdés hambre con el tiempo.)Nourishment 1m$(/t)",
       "description": "$(l)Poca cantidad pero saturación altísima — te aguanta un buen rato sin volver a tener hambre.$() $(4)Es el mismo bloque$() cambiando de temperatura: frío o caliente rinde $(bold)4 porciones$(), con $(bold)bowl vacío$()."
     },
     {
@@ -70,7 +70,7 @@
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
-      "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (40 seg)$(/t)",
+      "effect_text": "$(t:No perdés hambre con el tiempo.)Nourishment 40s$(/t)",
       "description": "$(l)Llena un montón de una, pero la saturación es casi nula — vas a tener hambre enseguida igual.$() $(4)Es el mismo bloque$() cambiando de temperatura: frío o caliente rinde $(bold)4 porciones$(), con $(bold)bowl vacío$()."
     },
     {

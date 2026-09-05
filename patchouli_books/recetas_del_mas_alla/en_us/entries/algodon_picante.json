@@ -28,7 +28,7 @@
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/fire_resistance.png",
-      "effect_text": "$(t:Resistencia al Fuego temporal.)+ Resistencia al Fuego (15 seg)$(/t)",
+      "effect_text": "$(t:Resistencia al Fuego temporal — no te quemás cerca de lava.)Res. Fuego 15s$(/t)",
       "description": "$(l)Casi no llena un carajo — 3 de hambre — pero la saturación te la voltea, y encima te da Resistencia al Fuego. No es comida, es un chetazo. Metételo antes de cruzar lava.$()"
     },
     {

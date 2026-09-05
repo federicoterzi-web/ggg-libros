@@ -28,9 +28,9 @@
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/fire_resistance.png",
-      "effect_text": "$(t:Resistencia al Fuego temporal.)+ Resistencia al Fuego (30 seg)$(/t)",
+      "effect_text": "$(t:Resistencia al Fuego temporal — no te quemás cerca de lava.)Res. Fuego 30s$(/t)",
       "effect2_icon": "ggg:textures/gui/entries/comfort.png",
-      "effect2_text": "$(t:Regeneración natural, sin importar el hambre.)+ Comfort (2 min)$(/t)",
+      "effect2_text": "$(t:Regeneración natural, sin importar el hambre.)Comfort 2m$(/t)",
       "description": "$(l)Hongos carmesí y strider molido — un plato con clase, mirá vos, acá abajo. Te da Resistencia al Fuego y Comfort: comé esto antes de salir a laburar y dejá de joder.$()"
     },
     {

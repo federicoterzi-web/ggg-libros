@@ -1,12 +1,12 @@
 {
-  "name": "Strider con Hongos a la Parrilla",
+  "name": "Strider con Hongos",
   "icon": "mynethersdelight:strider_with_grilled_fungus",
   "category": "patchouli:sopas_y_guisos",
   "sortnum": 10,
   "pages": [
     {
       "type": "patchouli:dish_intro_1effect",
-      "title": "Strider con Hongos a la Parrilla",
+      "title": "Strider con Hongos",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
       "m2": "ggg:textures/gui/entries/food_full.png",
@@ -28,7 +28,7 @@
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
-      "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (1 min)$(/t)",
+      "effect_text": "$(t:No perdés hambre con el tiempo.)Nourishment 1m$(/t)",
       "description": "$(l)Los dos hongos, carmesí y distorsionado, con el strider. Simple y rendidor — de mis favoritos de la sección, te lo firmo.$()"
     },
     {

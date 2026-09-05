@@ -1,12 +1,12 @@
 {
-  "name": "Loncha y Molido de Strider",
+  "name": "Loncha y Molido",
   "icon": "mynethersdelight:minced_strider",
   "category": "patchouli:bases_y_preparados",
   "sortnum": 1,
   "pages": [
     {
       "type": "patchouli:text",
-      "title": "Loncha y Molido de Strider",
+      "title": "Loncha y Molido",
       "text": "$(l)La Loncha de Strider no se corta — la sacás matando Striders, 2 por bicho.$()$(br)$(br)Ya con la loncha en mano, ahí sí seguís cortando. $(4)Ojo con la cruda:$() 15% de que te dé Veneno. Cocinala, no seas animal."
     },
     {

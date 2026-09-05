@@ -9,7 +9,7 @@
     {
       "type": "patchouli:effect_only",
       "title": "Chocolate Caliente",
-      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
+      "effect_icon": "minecraft:textures/item/milk_bucket.png",
       "effect_text": "$(t:Te saca de encima un efecto malo al azar, según cuáles tengas.)Quita un efecto negativo$(/t)",
       "description": "$(l)Doble cacao, como me gusta a mí — no esas aguadas que tomás vos.$()$(br)$(br)No llena la panza, pero te saca un mal momento de encima. Tomalo y calladito, que falta te hace.$()"
     },

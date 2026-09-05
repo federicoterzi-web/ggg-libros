@@ -28,7 +28,7 @@
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "minecraft:textures/mob_effect/regeneration.png",
-      "effect_text": "$(t:Regeneración de vida temporal.)+ Regeneración (15 seg)$(/t)",
+      "effect_text": "$(t:Regeneración de vida temporal.)Regeneración 15s$(/t)",
       "description": "$(l)Carne de Ghast cruda con verdura. Conseguir la carne es un dolor de huevos, así que la Regeneración que te da te la ganaste.$()"
     },
     {

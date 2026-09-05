@@ -28,9 +28,9 @@
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "minecraft:textures/mob_effect/nausea.png",
-      "effect_text": "$(t:Te marea 15 segundos, no hay forma de esquivarla.)+ Náusea (15 seg)$(/t)",
+      "effect_text": "$(t:Te marea, sí o sí, no lo podés esquivar.)Náusea 15s$(/t)",
       "effect2_icon": "ggg:textures/gui/entries/nourishment.png",
-      "effect2_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (1 min)$(/t)",
+      "effect2_text": "$(t:No perdés hambre con el tiempo.)Nourishment 1m$(/t)",
       "description": "$(l)Lomo con hongos distorsionados en un bowl. Llena bien y no te da hambre un rato — pero te marea 15 segundos, sí o sí. Comelo sentado.$()"
     },
     {

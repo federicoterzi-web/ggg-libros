@@ -28,7 +28,7 @@
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/bpungent.png",
-      "effect_text": "$(t:Picante Malo: te hace daño cerca de lava/fuego sin Resistencia al Fuego.)+ Picante Malo (1 min)$(/t)",
+      "effect_text": "$(t:Pungente malo: cerca del fuego te hace daño si no tenés Resistencia al Fuego.)P. Malo 1m$(/t)",
       "description": "$(l)Pimiento bala y strider crudo en un palo. Está buena, pero te deja picando un rato — si te acercás a la lava sin la poción puesta, el que se cocina sos vos.$()"
     },
     {

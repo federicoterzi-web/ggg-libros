@@ -68,7 +68,7 @@
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/sat_100.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
-      "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (5 min)$(/t)",
+      "effect_text": "$(t:No perdés hambre con el tiempo.)Nourishment 5m$(/t)",
       "description": "$(l)La porción más grande y la que más llena de los dos libros — 14 de hambre.$()$(br)$(br)$(4)Va como bloque$(), $(bold)bowl vacío$(). Primera tanda con bowl, después de las orejas."
     },
     {
@@ -95,7 +95,7 @@
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
-      "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (3 min)$(/t)",
+      "effect_text": "$(t:No perdés hambre con el tiempo.)Nourishment 3m$(/t)",
       "description": "$(l)La del medio — todavía rinde bien.$() Segunda tanda, ya con bowl."
     },
     {
@@ -122,7 +122,7 @@
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/nourishment.png",
-      "effect_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (2 min)$(/t)",
+      "effect_text": "$(t:No perdés hambre con el tiempo.)Nourishment 2m$(/t)",
       "description": "$(l)Las últimas, raspando el fondo — igual siguen rindiendo.$() Última tanda antes de que no quede nada."
     },
     {

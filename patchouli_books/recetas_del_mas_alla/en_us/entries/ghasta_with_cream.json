@@ -38,9 +38,9 @@
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/bpungent.png",
-      "effect_text": "$(t:Te hace daño cerca de lava o fuego si no tenés Resistencia al Fuego.)+ Picante Malo (30 seg)$(/t)",
+      "effect_text": "$(t:Pungente malo: cerca del fuego te hace daño si no tenés Resistencia al Fuego.)P. Malo 30s$(/t)",
       "effect2_icon": "ggg:textures/gui/entries/nourishment.png",
-      "effect2_text": "$(t:No perdés hambre con el tiempo.)+ Nourishment (1 min)$(/t)",
+      "effect2_text": "$(t:No perdés hambre con el tiempo.)Nourishment 1m$(/t)",
       "description": "$(l)Cada porción te da Picante Malo (30 seg) y Nourishment juntos — comé con cuidado si no tenés la poción de Fuego puesta.$()$(br)$(br)$(4)Va como bloque$() y se sirve con $(bold)bowl vacío$() — $(bold)4 porciones$()."
     },
     {

@@ -28,7 +28,7 @@
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
       "effect_icon": "ggg:textures/gui/entries/bpungent.png",
-      "effect_text": "$(t:Picante Malo: te hace daño cerca de lava/fuego sin Resistencia al Fuego.)+ Picante Malo II (30 seg)$(/t)",
+      "effect_text": "$(t:Pungente malo: cerca del fuego te hace daño si no tenés Resistencia al Fuego.)P. Malo II 30s$(/t)",
       "description": "$(l)Se llama quemado y quema. Picante Malo del feo — sin Resistencia al Fuego encima ni te arrimes a la lava. Ya te lo avisé antes, no lo repito más.$()"
     },
     {
