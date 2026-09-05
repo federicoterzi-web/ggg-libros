@@ -1,6 +1,6 @@
 {
   "name": "Bloque de Queso",
-  "icon": "natures_spirit:cheese_block",
+  "icon": "natures_spirit:cheese_bucket",
   "category": "patchouli:quesos_y_masas",
   "priority": false,
   "secret": false,
@@ -35,7 +35,7 @@
     },
     {
       "type": "patchouli:spotlight",
-      "item": "natures_spirit:cheese_block",
+      "item": "natures_spirit:cheese_bucket",
       "text": "El bloque del que vas mordisqueando."
     }
   ]
