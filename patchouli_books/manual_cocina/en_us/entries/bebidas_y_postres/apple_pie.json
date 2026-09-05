@@ -7,7 +7,7 @@
   "sortnum": 10,
   "pages": [
     {
-      "type": "patchouli:dish_intro_simple",
+      "type": "patchouli:dish_intro",
       "title": "Tarta de Manzana",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "m2": "ggg:textures/gui/entries/food_half.png",
@@ -19,7 +19,7 @@
       "m8": "ggg:textures/gui/entries/blank_icon.png",
       "m9": "ggg:textures/gui/entries/blank_icon.png",
       "m10": "ggg:textures/gui/entries/blank_icon.png",
-      "o1": "ggg:textures/gui/entries/sat_100.png",
+      "o1": "ggg:textures/gui/entries/sat_75.png",
       "o2": "ggg:textures/gui/entries/blank_icon.png",
       "o3": "ggg:textures/gui/entries/blank_icon.png",
       "o4": "ggg:textures/gui/entries/blank_icon.png",
@@ -29,13 +29,15 @@
       "o8": "ggg:textures/gui/entries/blank_icon.png",
       "o9": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
-      "description": "$(l)Con la masa que ya aprendiste a hacer, si es que aprendiste algo de este libro.$()$(br)$(br)Esta la horneaba todos los domingos, y ni tu abuelo se animaba a tocarla antes de que se enfríe — vos seguro ni esperás, con la ansiedad que tenés."
+      "description": "$(l)Con la masa que ya sabés hacer.$()$(br)$(br)Esta la horneaba los domingos, y ni tu abuelo la tocaba antes de que se enfríe — vos ni esperás, con la ansiedad que tenés.",
+      "effect_icon": "minecraft:textures/mob_effect/speed.png",
+      "effect_text": "$(t:Un envión de velocidad al comer una porción.)+ Velocidad (30 seg)$(/t)"
     },
     {
       "type": "patchouli:spotlight",
       "item": "farmersdelight:apple_pie_slice",
       "title": "La porción",
-      "text": "$(4)Va como bloque$(): se come a mordiscos, o con cuchillo sale la porción como ítem — al bloque o a la tarta entera en la $(bold)tabla de picar$(). $(bold)4$() y se acaba."
+      "text": "$(4)Va como bloque$(): se come a mordiscos, o con cuchillo sale la porción como ítem — al bloque, o a la tarta entera en la $(bold)tabla de picar$(). $(bold)4$() y se acaba."
     },
     {
       "type": "patchouli:crafting",

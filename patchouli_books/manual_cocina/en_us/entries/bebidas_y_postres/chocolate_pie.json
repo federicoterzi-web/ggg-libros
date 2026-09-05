@@ -7,7 +7,7 @@
   "sortnum": 11,
   "pages": [
     {
-      "type": "patchouli:dish_intro_simple",
+      "type": "patchouli:dish_intro",
       "title": "Tarta de Chocolate",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "m2": "ggg:textures/gui/entries/food_half.png",
@@ -19,7 +19,7 @@
       "m8": "ggg:textures/gui/entries/blank_icon.png",
       "m9": "ggg:textures/gui/entries/blank_icon.png",
       "m10": "ggg:textures/gui/entries/blank_icon.png",
-      "o1": "ggg:textures/gui/entries/sat_100.png",
+      "o1": "ggg:textures/gui/entries/sat_75.png",
       "o2": "ggg:textures/gui/entries/blank_icon.png",
       "o3": "ggg:textures/gui/entries/blank_icon.png",
       "o4": "ggg:textures/gui/entries/blank_icon.png",
@@ -29,13 +29,15 @@
       "o8": "ggg:textures/gui/entries/blank_icon.png",
       "o9": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
-      "description": "$(l)Cacao, leche y azúcar sobre la masa. La que hacía para las visitas que quería impresionar — a vos ni te la ofrecía.$()$(br)$(br)$(4)Va como bloque$(): se come a mordiscos, o con cuchillo sale la porción (también en la tabla de picar). $(bold)4$() y se acaba."
+      "description": "$(l)Cacao, leche y azúcar sobre la masa. La que hacía para impresionar a las visitas — a vos ni te la ofrecía.$()",
+      "effect_icon": "minecraft:textures/mob_effect/speed.png",
+      "effect_text": "$(t:Un envión de velocidad al comer una porción.)+ Velocidad (30 seg)$(/t)"
     },
     {
       "type": "patchouli:spotlight",
       "item": "farmersdelight:chocolate_pie_slice",
       "title": "La porción",
-      "text": "$(o)Sale con cuchillo, no a mordiscos.$()"
+      "text": "$(4)Va como bloque$(): se come a mordiscos, o con cuchillo sale la porción — al bloque, o a la tarta entera en la $(bold)tabla de picar$(). $(bold)4$() y se acaba."
     },
     {
       "type": "patchouli:crafting",
