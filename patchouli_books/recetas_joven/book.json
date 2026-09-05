@@ -5,7 +5,7 @@
   "version": 0,
   "creative_tab": "minecraft:tools_and_utilities",
   "model": "ggg:recetas_joven",
-  "book_texture": "ggg:textures/gui/recetas_joven.png",
+  "book_texture": "ggg:textures/gui/manual_cocina.png",
   "filler_texture": "ggg:textures/gui/cocina_filler.png",
   "use_resource_pack": false,
   "show_progress": false,

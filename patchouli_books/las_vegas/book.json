@@ -5,7 +5,7 @@
   "version": 0,
   "creative_tab": "minecraft:tools_and_utilities",
   "model": "ggg:las_vegas",
-  "book_texture": "ggg:textures/gui/las_vegas.png",
+  "book_texture": "ggg:textures/gui/tourist_guide.png",
   "filler_texture": "ggg:textures/gui/filler_guia.png",
   "use_resource_pack": false,
   "show_progress": false,
