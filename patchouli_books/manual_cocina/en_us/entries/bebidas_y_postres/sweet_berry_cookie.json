@@ -7,7 +7,7 @@
   "sortnum": 15,
   "pages": [
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_simple",
       "title": "Galletitas de Bayas Dulces",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_25.png",
@@ -29,8 +29,6 @@
       "o9": "ggg:textures/gui/entries/blank_icon.png",
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
-      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect_text": "",
       "description": "$(l)La versión con bayas de las galletitas. Ninguna de las dos llena mucho, así que no las cuentes como comida de verdad — como no cuento tus excusas como trabajo.$()"
     },
     {

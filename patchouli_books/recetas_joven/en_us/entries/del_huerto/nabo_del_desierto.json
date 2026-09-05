@@ -7,7 +7,7 @@
   "sortnum": 2,
   "pages": [
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_simple",
       "title": "Nabo del Desierto",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "m2": "ggg:textures/gui/entries/blank_icon.png",
@@ -29,8 +29,6 @@
       "o8": "ggg:textures/gui/entries/blank_icon.png",
       "o9": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
-      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect_text": "",
       "description": "$(l)Este creció solo, en la parte más seca del huerto, donde ya me había resignado a no plantar nada.$()$(br)$(br)Se come crudo y rápido, casi de un bocado. Si juntás cuatro, se compactan en un bloque para guardar mejor."
     },
     {

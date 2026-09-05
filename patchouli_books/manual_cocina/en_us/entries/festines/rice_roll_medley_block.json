@@ -7,7 +7,7 @@
   "sortnum": 4,
   "pages": [
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_simple",
       "title": "Bandeja de Rollos de Arroz",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "m2": "ggg:textures/gui/entries/food_full.png",
@@ -29,8 +29,6 @@
       "o8": "ggg:textures/gui/entries/blank_icon.png",
       "o9": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
-      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect_text": "",
       "description": "$(l)Esta no la armé pensando en comerla — es más vidriera que otra cosa, como vos de adorno en esta cocina.$()$(br)$(br)Va en orden fijo, no al azar: las primeras 3 porciones son de alga (6 de hambre), las siguientes 3 de salmón (7 de hambre), y las últimas 2 de bacalao (7 de hambre). $(6)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)8 porciones$() antes de acabarse."
     },
     {

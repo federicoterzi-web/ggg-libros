@@ -7,7 +7,7 @@
   "sortnum": 404,
   "pages": [
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_simple",
       "title": "Empanaditas (Dumplings)",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
@@ -29,8 +29,6 @@
       "o9": "ggg:textures/gui/entries/blank_icon.png",
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
-      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect_text": "",
       "description": "$(l)Como las que hacía tu bisabuela, aunque con otro nombre. Ojo que si las dejás cerca tuyo no van a durar ni cinco minutos, igual que tu plata cada quincena.$()"
     },
     {

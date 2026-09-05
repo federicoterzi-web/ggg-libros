@@ -7,7 +7,7 @@
   "sortnum": 405,
   "pages": [
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_simple",
       "title": "Comida para Perro",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_75.png",
@@ -29,8 +29,6 @@
       "o9": "ggg:textures/gui/entries/blank_icon.png",
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
-      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect_text": "",
       "description": "$(l)$(6)Esto NO es para vos, así que ni se te ocurra.$() Es para el perro, no para el nieto — aunque a veces dudo cuál de los dos entiende menos, y la verdad, el perro va ganando.$()"
     },
     {

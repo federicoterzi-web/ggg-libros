@@ -7,7 +7,7 @@
   "sortnum": 403,
   "pages": [
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_simple",
       "title": "Repollitos Rellenos",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
@@ -29,8 +29,6 @@
       "o9": "ggg:textures/gui/entries/blank_icon.png",
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
-      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect_text": "",
       "description": "$(l)Solo repollo, pero rinde. No todo tiene que ser complicado para estar bueno — aprendé eso de una vez, que no todo necesita seis pasos como tus dramas de cada semana.$()"
     },
     {

@@ -7,7 +7,7 @@
   "sortnum": 2,
   "pages": [
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_simple",
       "title": "Pan de Coco",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "m2": "ggg:textures/gui/entries/food_full.png",
@@ -29,8 +29,6 @@
       "o8": "ggg:textures/gui/entries/blank_icon.png",
       "o9": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
-      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect_text": "",
       "description": "$(l)Inspirado en un budín indonesio-holandés que leí en un libro viejo, hecho con lo que tenía en la alacena.$()$(br)$(br)Coco, azúcar, huevo y un pan que ya tenía de un día anterior. Nunca se desperdicia nada acá."
     },
     {

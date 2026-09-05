@@ -9,7 +9,7 @@
     {
       "type": "patchouli:text",
       "title": "La Cocina",
-      "text": "$(l)Una parrilla, no un horno con más espacio — así que dejá de preguntarme si es lo mismo, porque no.$()$(br)$(br)Se coloca como bloque y necesita estar sobre fuego (igual que la Olla). Poné hasta $(bold)6 ítems directo sobre el bloque$() (no en una interfaz, en el mundo) y se cocinan todos a la vez, usando recetas de $(bold)ahumado$(). No tiene combustible propio — el fuego de abajo la mantiene encendida, así que no me vengas después preguntando por qué se apagó."
+      "text": "$(bold)Una parrilla, no un horno con más espacio — así que dejá de preguntarme si es lo mismo, porque no.$()$(br)$(br)Se coloca como bloque, se enciende con mechero y apaga con pala. Poné hasta $(bold)6 ítems directo sobre el bloque$() (no en una interfaz) y se cocinan todos a la vez, usando recetas de $(bold)ahumado$(). No necesita combustible — el fuego de abajo se mantiene encendido, así que no me vengas después preguntando por qué se apagó."
     },
     {
       "type": "patchouli:crafting",

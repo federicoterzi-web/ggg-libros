@@ -9,7 +9,7 @@
     {
       "type": "patchouli:text",
       "title": "Salsa de Tomate",
-      "text": "$(l)La base de medio recetario, así que aprendela bien o quedate con hambre toda la vida.$()$(br)$(br)No hay pasta, sándwich de albóndigas ni pizza que se salve de necesitar un frasco de esto. Cocinala una vez, guardala, y ahorrate el lío de hacerla cada vez que quieras comer decente — porque decente comés poco, y no es por la comida.$(br)$(br)Se hace en la $(bold)Olla de Cocina$()."
+      "text": "$(bold)La base de medio recetario, así que aprendela bien o quedate con hambre.$()$(br)$(br)No hay pasta, sándwich de albóndigas ni pizza que se salve de necesitar un frasco de esto. Cocinala una vez, guardala, y ahorrate el lío de hacerla cada vez que quieras comer decente — porque decente comés poco, y no es por la comida.$(br)$(br)Se hace en la $(bold)Olla de Cocina$()."
     },
     {
       "type": "patchouli:cooking_pot_recipe",

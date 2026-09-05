@@ -7,7 +7,7 @@
   "sortnum": 10,
   "pages": [
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_simple",
       "title": "Tarta de Manzana",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "m2": "ggg:textures/gui/entries/food_half.png",
@@ -29,14 +29,12 @@
       "o8": "ggg:textures/gui/entries/blank_icon.png",
       "o9": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
-      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect_text": "",
-      "description": "$(l)Con la masa que ya aprendiste a hacer, si es que aprendiste algo de este libro.$()$(br)$(br)Esta la horneaba todos los domingos, y ni tu abuelo se animaba a tocarla antes de que se enfríe — vos seguro ni esperás, con la ansiedad que tenés.$(br)$(br)$(6)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)4 porciones$() antes de acabarse."
+      "description": "$(l)Con la masa que ya aprendiste a hacer, si es que aprendiste algo de este libro.$()$(br)$(br)Esta la horneaba todos los domingos, y ni tu abuelo se animaba a tocarla antes de que se enfríe — vos seguro ni esperás, con la ansiedad que tenés."
     },
     {
       "type": "patchouli:spotlight",
       "item": "farmersdelight:apple_pie_slice",
-      "text": "La porción que te sirve el bloque."
+      "text": "$(4)Se coloca como bloque$() en el mundo — no se come de la mano. Para sacar porciones, necesitás un $(bold)bowl vacío$() en la mano (sin eso no te da nada), y rinde hasta $(bold)4 porciones$() antes de acabarse."
     },
     {
       "type": "patchouli:crafting",

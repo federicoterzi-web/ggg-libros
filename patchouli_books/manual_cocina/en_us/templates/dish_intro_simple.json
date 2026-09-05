@@ -1,0 +1,230 @@
+{
+  "components": [
+    {
+      "type": "patchouli:header",
+      "text": "#title",
+      "x": 0,
+      "y": 0,
+      "centered": false,
+      "scale": 0.7
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Hambre$()",
+      "x": 0,
+      "y": 16
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Saturación$()",
+      "x": 60,
+      "y": 16
+    },
+    {
+      "type": "patchouli:image",
+      "image": "#m1",
+      "x": 0,
+      "y": 27,
+      "width": 9,
+      "height": 9,
+      "texture_width": 9,
+      "texture_height": 9
+    },
+    {
+      "type": "patchouli:image",
+      "image": "#o1",
+      "x": 0,
+      "y": 27,
+      "width": 9,
+      "height": 9,
+      "texture_width": 9,
+      "texture_height": 9
+    },
+    {
+      "type": "patchouli:image",
+      "image": "#m2",
+      "x": 10,
+      "y": 27,
+      "width": 9,
+      "height": 9,
+      "texture_width": 9,
+      "texture_height": 9
+    },
+    {
+      "type": "patchouli:image",
+      "image": "#o2",
+      "x": 10,
+      "y": 27,
+      "width": 9,
+      "height": 9,
+      "texture_width": 9,
+      "texture_height": 9
+    },
+    {
+      "type": "patchouli:image",
+      "image": "#m3",
+      "x": 20,
+      "y": 27,
+      "width": 9,
+      "height": 9,
+      "texture_width": 9,
+      "texture_height": 9
+    },
+    {
+      "type": "patchouli:image",
+      "image": "#o3",
+      "x": 20,
+      "y": 27,
+      "width": 9,
+      "height": 9,
+      "texture_width": 9,
+      "texture_height": 9
+    },
+    {
+      "type": "patchouli:image",
+      "image": "#m4",
+      "x": 30,
+      "y": 27,
+      "width": 9,
+      "height": 9,
+      "texture_width": 9,
+      "texture_height": 9
+    },
+    {
+      "type": "patchouli:image",
+      "image": "#o4",
+      "x": 30,
+      "y": 27,
+      "width": 9,
+      "height": 9,
+      "texture_width": 9,
+      "texture_height": 9
+    },
+    {
+      "type": "patchouli:image",
+      "image": "#m5",
+      "x": 40,
+      "y": 27,
+      "width": 9,
+      "height": 9,
+      "texture_width": 9,
+      "texture_height": 9
+    },
+    {
+      "type": "patchouli:image",
+      "image": "#o5",
+      "x": 40,
+      "y": 27,
+      "width": 9,
+      "height": 9,
+      "texture_width": 9,
+      "texture_height": 9
+    },
+    {
+      "type": "patchouli:image",
+      "image": "#m6",
+      "x": 50,
+      "y": 27,
+      "width": 9,
+      "height": 9,
+      "texture_width": 9,
+      "texture_height": 9
+    },
+    {
+      "type": "patchouli:image",
+      "image": "#o6",
+      "x": 50,
+      "y": 27,
+      "width": 9,
+      "height": 9,
+      "texture_width": 9,
+      "texture_height": 9
+    },
+    {
+      "type": "patchouli:image",
+      "image": "#m7",
+      "x": 60,
+      "y": 27,
+      "width": 9,
+      "height": 9,
+      "texture_width": 9,
+      "texture_height": 9
+    },
+    {
+      "type": "patchouli:image",
+      "image": "#o7",
+      "x": 60,
+      "y": 27,
+      "width": 9,
+      "height": 9,
+      "texture_width": 9,
+      "texture_height": 9
+    },
+    {
+      "type": "patchouli:image",
+      "image": "#m8",
+      "x": 70,
+      "y": 27,
+      "width": 9,
+      "height": 9,
+      "texture_width": 9,
+      "texture_height": 9
+    },
+    {
+      "type": "patchouli:image",
+      "image": "#o8",
+      "x": 70,
+      "y": 27,
+      "width": 9,
+      "height": 9,
+      "texture_width": 9,
+      "texture_height": 9
+    },
+    {
+      "type": "patchouli:image",
+      "image": "#m9",
+      "x": 80,
+      "y": 27,
+      "width": 9,
+      "height": 9,
+      "texture_width": 9,
+      "texture_height": 9
+    },
+    {
+      "type": "patchouli:image",
+      "image": "#o9",
+      "x": 80,
+      "y": 27,
+      "width": 9,
+      "height": 9,
+      "texture_width": 9,
+      "texture_height": 9
+    },
+    {
+      "type": "patchouli:image",
+      "image": "#m10",
+      "x": 90,
+      "y": 27,
+      "width": 9,
+      "height": 9,
+      "texture_width": 9,
+      "texture_height": 9
+    },
+    {
+      "type": "patchouli:image",
+      "image": "#o10",
+      "x": 90,
+      "y": 27,
+      "width": 9,
+      "height": 9,
+      "texture_width": 9,
+      "texture_height": 9
+    },
+    {
+      "type": "patchouli:text",
+      "text": "#description",
+      "x": 0,
+      "y": 40
+    }
+  ]
+}

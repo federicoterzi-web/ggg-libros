@@ -7,7 +7,7 @@
   "sortnum": 0,
   "pages": [
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_simple",
       "title": "Sándwich de Huevo",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
@@ -29,8 +29,6 @@
       "o9": "ggg:textures/gui/entries/blank_icon.png",
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
-      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect_text": "",
       "description": "$(l)Pan y dos huevos fritos. Lo más simple que hay, así que si esto te sale mal ya no sé qué decirte, en serio, andate a vivir con otra abuela.$()"
     },
     {

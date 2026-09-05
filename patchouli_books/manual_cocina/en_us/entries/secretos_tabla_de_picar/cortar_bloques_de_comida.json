@@ -9,7 +9,7 @@
     {
       "type": "patchouli:text",
       "title": "Bloques de Comida",
-      "text": "$(l)Repartir sin ensuciar todo, algo que a vos te cuesta hasta con un sándwich.$()$(br)$(br)Los pasteles y tortas colocados como bloque se pueden cortar en $(bold)porciones individuales$() con un cuchillo. Ojo: no rinde más comida que morder el bloque directo — la diferencia real es que las porciones son $(bold)portátiles$() (las llevás en el inventario) y de yapa te dan $(6)Velocidad por 20 segundos$(), algo que morder el bloque no te da."
+      "text": "$(bold)Repartir sin ensuciar todo, algo que a vos te cuesta hasta con un sándwich.$()$(br)$(br)Los pasteles y tortas colocados como bloque se pueden cortar en $(bold)porciones individuales$() con un cuchillo. Ojo: no rinde más comida que morder el bloque directo — la diferencia real es que las porciones son $(bold)portátiles$() — y de yapa te dan $(4)Velocidad por 20 segundos, $()algo que morder el bloque no te da."
     },
     {
       "type": "patchouli:cutting_board_recipe",

@@ -17,8 +17,8 @@
     },
     {
       "type": "patchouli:text",
-      "title": "Método alternativo: con agua",
-      "text": "$(l)Sin mesa de crafteo, sin huevo, sin excusas.$()$(br)$(br)Poné $(bold)1 Trigo$() + $(bold)1 Balde de Agua$() juntos en cualquier grilla de crafteo (funciona hasta en la del inventario, 2x2) — te da $(bold)1 sola Masa de Trigo$(), pero $(6)el balde NO se gasta$(), te lo devuelve lleno. Ni con esto tenés perdón si te sale mal."
+      "title": "Método alternativo",
+      "text": "$(bold)Sin mesa de crafteo, sin huevo, sin excusas.$()$(br)$(br)Poné $(bold)1 Trigo$() + $(bold)1 Balde de Agua$() juntos en cualquier grilla de crafteo (funciona hasta en la del inventario, 2x2) — te da $(bold)1 sola Masa de Trigo$(), pero $(4)$(bold)el balde NO se gasta$(),$() te lo devuelve lleno. Ni con esto tenés perdón si te sale mal."
     },
     {
       "type": "patchouli:masa_trigo_agua"

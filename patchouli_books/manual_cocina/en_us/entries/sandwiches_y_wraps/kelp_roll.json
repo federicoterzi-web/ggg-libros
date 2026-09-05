@@ -7,7 +7,7 @@
   "sortnum": 8,
   "pages": [
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_simple",
       "title": "Roll de Kelp",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
@@ -29,8 +29,6 @@
       "o9": "ggg:textures/gui/entries/sat_100.png",
       "m10": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/sat_75.png",
-      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect_text": "",
       "description": "$(l)Este sí lleva alga de verdad — kelp seco, arroz y zanahoria. El más parecido a sushi real de todo el recetario, así que no me arruines este con tus manos de manteca.$()"
     },
     {

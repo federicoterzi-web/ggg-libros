@@ -19,7 +19,7 @@
       "output2": "minecraft:air"
     },
     {
-      "type": "patchouli:dish_intro",
+      "type": "patchouli:dish_intro_simple",
       "title": "Mitad de Coco",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "m2": "ggg:textures/gui/entries/food_full.png",
@@ -41,8 +41,6 @@
       "o8": "ggg:textures/gui/entries/blank_icon.png",
       "o9": "ggg:textures/gui/entries/blank_icon.png",
       "o10": "ggg:textures/gui/entries/blank_icon.png",
-      "effect_icon": "ggg:textures/gui/entries/blank_icon_18.png",
-      "effect_text": "",
       "description": "$(l)Ya partido, se come directo — queda la cáscara vacía de recuerdo.$()$(br)$(br)Con esas mismas mitades sale casi todo lo dulce de este cuaderno."
     },
     {
