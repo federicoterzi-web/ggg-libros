@@ -4,6 +4,8 @@
   "subtitle": "Recetario póstumo",
   "version": 0,
   "model": "ggg:recetas_del_mas_alla",
+  "book_texture": "ggg:textures/gui/recetas_del_mas_alla.png",
+  "filler_texture": "ggg:textures/gui/cocina_filler.png",
   "use_resource_pack": false,
   "show_progress": false,
   "header_color": "AA1E1E"
