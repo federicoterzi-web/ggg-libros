@@ -5,6 +5,7 @@
   "landing_text": "$(o)El mejor amigo del pescador no vive en el agua — vive sobre el musgo.$()$(br)$(br)Un folleto rápido con todo lo necesario para arrancar y automatizar tu criadero de tesoros.",
   "pamphlet": true,
   "book_texture": "ggg:textures/gui/sniffer.png",
+  "filler_texture": "ggg:textures/gui/filler_sniffer.png",
   "model": "ggg:sniffer",
   "show_progress": false,
   "use_resource_pack_fonts": true

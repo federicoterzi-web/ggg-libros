@@ -5,6 +5,7 @@
   "version": "0",
   "model": "ggg:bible",
   "book_texture": "ggg:textures/gui/bible.png",
+  "filler_texture": "ggg:textures/gui/filler_bible.png",
   "show_progress": false,
   "show_toasts": true,
   "use_blocky_font": false,

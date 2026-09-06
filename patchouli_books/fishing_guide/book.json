@@ -4,6 +4,7 @@
   "subtitle": "Escrito por H0p3san",
   "model": "ggg:fishing_guide",
   "book_texture": "ggg:textures/gui/fishing_guide.png",
+  "filler_texture": "ggg:textures/gui/filler_pescadex.png",
   "version": 0,
   "use_resource_pack": false,
   "show_progress": false
