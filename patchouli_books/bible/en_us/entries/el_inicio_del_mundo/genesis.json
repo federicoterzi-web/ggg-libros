@@ -6,12 +6,12 @@
     {
       "type": "patchouli:text",
       "title": "El Gran Extensible",
-      "text": "En el principio, el Primer Mundo se derrumbó. Los cimientos se partieron, los chunks se soltaron del cielo, y el pueblo vagó por el vacío sin suelo donde pararse ni norte al que rezar.$(br2)Y en la hora más negra se alzó el $(6)Gran Extensible$(). Cuarenta días y cuarenta noches ardió la transmisión sin apagarse — firme, erguida, sin intención alguna de bajar."
+      "text": "En el principio, el Primer Mundo se derrumbó. Los cimientos se partieron, los chunks se soltaron del cielo, y el pueblo vagó por el vacío sin suelo donde pararse ni norte al que rezar.$(br2)Y en la hora más negra se alzó el $(0)$(l)Gran Extensible$(). Cuarenta días y cuarenta noches ardió la transmisión sin apagarse — firme, erguida, sin intención alguna de bajar."
     },
     {
       "type": "patchouli:text",
       "title": "El Nuevo GGG",
-      "text": "Durante esos cuarenta días $(d)Rozsier$() nos dio de comer a la vista de todos, y la comunidad entera se aferró a esa luz.$(br2)Mientras Él la sostenía en lo alto, el pueblo se juntó, y del calor de esa espera $(l)nació el Nuevo GGG$(): tierra fértil para sembrar la fe y alzar torres que rasguen las nubes.$(br2)Y el pueblo vio que era bueno, y aguardó a la $(6)Santa Trinidad$()."
+      "text": "Durante esos cuarenta días $(1)Rozsier$() nos dio de comer a la vista de todos, y la comunidad entera se aferró a esa luz.$(br2)Mientras Él la sostenía en lo alto, el pueblo se juntó, y del calor de esa espera $(l)nació el Nuevo GGG$(): tierra fértil para sembrar la fe y alzar torres que rasguen las nubes.$(br2)Y el pueblo vio que era bueno, y aguardó a la $(0)$(l)Santa Trinidad$()."
     }
   ]
 }

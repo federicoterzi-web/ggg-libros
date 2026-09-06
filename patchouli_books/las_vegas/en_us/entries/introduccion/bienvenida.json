@@ -9,7 +9,7 @@
     {
       "type": "patchouli:text",
       "title": "Bienvenido a Las Vegas",
-      "text": "$(d)$(l)📖 Guía del GGG — Vol. II: Las Vegas$()$(br)$(br)Si tenés este libro en las manos es porque recorriste TODO el Volumen I, zona por zona, como el completista enfermo que sos. El GGG te premia con esto. Ahora agarrá el auto de Travis y llegá hasta acá, que la joda recién empieza."
+      "text": "$(5)$(l)📖 Guía del GGG — Vol. II: Las Vegas$()$(br)$(br)Si tenés este libro en las manos es porque recorriste TODO el Volumen I, zona por zona, como el completista enfermo que sos. El GGG te premia con esto. Ahora agarrá el auto de Travis y llegá hasta acá, que la joda recién empieza."
     },
     {
       "type": "patchouli:text",

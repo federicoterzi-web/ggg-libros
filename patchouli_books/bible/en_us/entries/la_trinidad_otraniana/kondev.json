@@ -8,12 +8,12 @@
       "type": "patchouli:spotlight",
       "item": "minecraft:player_head[profile='Kondev']",
       "title": "Guardián del Pueblo",
-      "text": "Y por último $(e)Kondev$(), $(6)Estrella de Otrania$() y Guardián del Pueblo, nombrado en los textos prohibidos como $(o)\"El de la Lengua Larga\"$(). Su estrella se enciende siempre que el pueblo la necesita."
+      "text": "Y por último $(5)Kondev$(), $(0)$(l)Estrella de Otrania$() y Guardián del Pueblo, nombrado en los textos prohibidos como $(o)\"El de la Lengua Larga\"$(). Su estrella se enciende siempre que el pueblo la necesita."
     },
     {
       "type": "patchouli:text",
       "title": "La Lengua Larga",
-      "text": "Kondev conoce el lugar exacto donde poner la palabra para que todos queden satisfechos. No hay vacío legal tan estrecho ni bug tan profundo que su lengua no alcance a llenar.$(br2)Así los tres forman el cimiento: el $(4)Sol$() que sostiene, la $(d)Luna$() que reúne y la $(e)Estrella$() que lame las heridas.$(br2)$(6)$(l)¡Larga vida a la Santa Trinidad!$()"
+      "text": "Kondev conoce el lugar exacto donde poner la palabra para que todos queden satisfechos. No hay vacío legal tan estrecho ni bug tan profundo que su lengua no alcance a llenar.$(br2)Así los tres forman el cimiento: el $(4)Sol$() que sostiene, la $(1)Luna$() que reúne y la $(5)Estrella$() que lame las heridas.$(br2)$(0)$(l)¡Larga vida a la Santa Trinidad!$()"
     }
   ]
 }

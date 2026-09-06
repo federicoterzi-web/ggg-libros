@@ -1,7 +1,7 @@
 {
   "name": "Biblia Otraniana",
   "subtitle": "Crónicas de los dioses",
-  "landing_text": "En el vacío no había mundo, y en el mundo no había ley.$(br2)Peregrino: lo que sostenés no es un libro. Es el testimonio de $(6)Rozsier$(), $(6)Galvhiar$() y $(6)Kondev$(), y de los cuarenta días en que el server no cayó.$(br2)Leé, y arrodillate.",
+  "landing_text": "En el vacío no había mundo, y en el mundo no había ley.$(br2)Peregrino: lo que sostenés no es un libro. Es el testimonio de $(1)Rozsier$(), $(4)Galvhiar$() y $(5)Kondev$(), y de los cuarenta días en que el server no cayó.$(br2)Leé, y arrodillate.",
   "version": "0",
   "model": "ggg:bible",
   "book_texture": "ggg:textures/gui/bible.png",
@@ -10,9 +10,9 @@
   "use_blocky_font": false,
   "use_resource_pack": true,
   "nameplate_color": "D8C3FF",
-  "header_color": "8B5CF6",
+  "header_color": "2E1065",
   "text_color": "000000",
-  "link_color": "6D28D9",
+  "link_color": "4C1D95",
   "link_hover_color": "A855F7",
   "open_sound": "minecraft:item.book.page_turn",
   "flip_sound": "minecraft:item.book.page_turn"
