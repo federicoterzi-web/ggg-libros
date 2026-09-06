@@ -5,7 +5,7 @@
   "version": 0,
   "model": "ggg:las_vegas",
   "book_texture": "ggg:textures/gui/las_vegas.png",
-  "filler_texture": "ggg:textures/gui/filler_guia.png",
+  "filler_texture": "ggg:textures/gui/filler_vegas.png",
   "use_resource_pack": false,
   "show_progress": false,
   "advancements_enabled": true,
