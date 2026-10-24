@@ -59,7 +59,8 @@ e.txt(
 e = entrada(c, "recetas_prendas", "Prendas", "modamod:remera", 1)
 e.craft("modamod:remera", "modamod:pantalon").craft("modamod:pollera", "modamod:capa") \
  .craft("modamod:socks_solid", "modamod:calientabrazos").craft("modamod:delantal", "modamod:sombrero_bruja") \
- .craft("modamod:borcegos", "modamod:cinto")
+ .craft("modamod:borcegos", "modamod:cinto") \
+ .craft("modamod:antifaz", "modamod:media_mascara").craft("modamod:mascara_completa", "modamod:barbijo")
 
 e = entrada(c, "recetas_maquinas", "Máquinas", "modamod:modelado", 2)
 e.craft("modamod:modelado", "modamod:tinturas").craft("modamod:sublimadora", "modamod:estilista") \
@@ -101,7 +102,7 @@ c = categoria("12_chuleta", "Chuleta de bolsillo", "minecraft:command_block", 11
 
 e = entrada(c, "teclas", "Teclas y comandos", "minecraft:command_block", 0)
 e.txt(
-    "**Las tres teclas.** **K** abre la pantalla de Ropa. **H** sube y baja la capucha. **R** hace girar la pollera. Se cambian en //Controles → ModaMod//.",
+    "**Las cuatro teclas.** **K** abre la pantalla de Ropa. **H** sube y baja la capucha. **J** abre y cierra la chaqueta (y el embozo). **R** hace girar la pollera. Se cambian en //Controles → ModaMod//.",
     "**Para todos los jugadores:** **/modamod elegir** reabre la pantalla de elegir cuerpo. Es el único comando sin permisos especiales.",
     "**Para operadores (nivel 2, o en un mundo propio con trucos activados):**\n- **/modamod cuerpo <tipo>:** cambia el cuerpo directo.\n- **/modamod interior arriba|abajo|color:** ropa interior.\n- **/modamod tono skin|<número>:** tono de piel.\n- **/modamod busto <0..7>:** talle de busto (0 vuelve al del cuerpo).",
     "- **/modamod definicion <0..200>:** cuánto se marcan los músculos.\n- **/modamod volumen redondeado|voxel|grueso:** volumen del cuerpo y la tela.\n- **/modamod ver:** muestra tu configuración.\n- **/modamod reset:** todo vuelve al valor por defecto.\n- **/modamod moldes:** tus moldes personalizados, y los de otros jugadores.",

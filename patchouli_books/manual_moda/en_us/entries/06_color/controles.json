@@ -19,11 +19,15 @@
     },
     {
       "type": "patchouli:text",
-      "text": "$(li)$(l)Forma:$() rayas (Alternado, Arriba, Abajo, Medio, Tres rayas) o repetición de motivos (Grilla, Ladrillo, Disperso, Único).$(li)$(l)Azar:$() nueva tirada al azar.$(li)$(l)Invertir:$() pinta el negativo del patrón.$(br2)$(l)Varios colores en una capa.$() Sobre la muestra grande hay tres muestras de color: clic en una elige cuál editan los sliders."
+      "text": "$(li)$(l)Forma:$() rayas (Alternado, Arriba, Abajo, Medio, Tres rayas) o repetición de motivos (Grilla, Ladrillo, Disperso, Único).$(li)$(l)Azar:$() nueva tirada al azar.$(li)$(l)Invertir:$() pinta el negativo del patrón.$(li)$(l)Fondo:$() con patrón, el último color activo pinta liso toda la zona de abajo y el patrón usa los otros."
     },
     {
       "type": "patchouli:text",
-      "text": "$(o)Colores 1/2/3$() dice cuántos usa la capa. $(o)Contorno$() dibuja una línea alrededor de cada motivo con el último color activo (hacen falta al menos dos).$(br2)$(l)Variación.$() $(o)Fijo:$() todo el relleno del Color 1. $(o)Alternar:$() cada motivo, raya o cuadro toma el color siguiente. $(o)Aleatorio:$() cada uno toma un color al azar ($(o)Azar$() vuelve a sortear). $(o)Degradé:$() pasa de un color al otro de arriba abajo, también en capas lisas."
+      "text": "Sirve donde hay un solo cuadradito por zona (capa, sombrero, cinto, maletín, calzado, máscaras).$(br2)$(l)Varios colores en una capa.$() Sobre la muestra grande hay tres muestras de color: clic en una elige cuál editan los sliders. $(o)Colores 1/2/3$() dice cuántos usa la capa. $(o)Contorno$() dibuja una línea alrededor de cada motivo con el último color activo (hacen falta al menos dos)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Variación.$() $(o)Fijo:$() todo el relleno del Color 1. $(o)Alternar:$() cada motivo, raya o cuadro toma el color siguiente. $(o)Aleatorio:$() cada uno toma un color al azar ($(o)Azar$() vuelve a sortear). $(o)Degradé:$() pasa de un color al otro de arriba abajo, también en capas lisas."
     }
   ]
 }

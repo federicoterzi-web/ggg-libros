@@ -25,11 +25,11 @@
     },
     {
       "type": "patchouli:text",
-      "text": "$(l)Qué se gasta.$() Cada cara estampada gasta una dosis de cada color de tinta, y cada prensado, una hoja de papel. Las fotos nunca se gastan: quedan cargadas para reimprimir.$(br2)$(l)Simetría lateral.$() En medias y calientabrazos, con $(o)Simetría: Sí$() el lado izquierdo lleva el espejo de la derecha: un logo corrido hacia afuera queda hacia afuera en las dos piernas."
+      "text": "$(l)Más cosas con foto.$() Los banners, las máscaras y el barbijo también llevan una foto en el frente (sin espalda ni capas con máscara).$(br2)$(l)Qué se gasta.$() Cada cara estampada gasta una dosis de cada color de tinta, y cada prensado, una hoja de papel. Las fotos nunca se gastan: quedan cargadas para reimprimir."
     },
     {
       "type": "patchouli:text",
-      "text": "$(4)Ojo:$() un texto dentro de la foto se lee al revés en el lado espejado."
+      "text": "$(l)Simetría lateral.$() En medias y calientabrazos, con $(o)Simetría: Sí$() el lado izquierdo lleva el espejo de la derecha: un logo corrido hacia afuera queda hacia afuera en las dos piernas. $(4)Ojo:$() un texto dentro de la foto se lee al revés en el lado espejado."
     }
   ]
 }

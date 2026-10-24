@@ -2,7 +2,7 @@
   "name": "Pantalla de Ropa y armadura cosmética",
   "icon": "minecraft:iron_chestplate",
   "category": "patchouli:03_prendas",
-  "sortnum": 7,
+  "sortnum": 8,
   "pages": [
     {
       "type": "patchouli:text",

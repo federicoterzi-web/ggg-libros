@@ -21,15 +21,15 @@
     },
     {
       "type": "patchouli:text",
-      "text": "Cualquier remera entra en los dos: así armás remera + saco sin comprar nada más.$(br2)$(l)Lo que se corta en la Modeladora.$() Capucha (con o sin, en estilo $(o)Cajas$() o $(o)Malla$(); $(l)H$() la sube y la baja), frente (cerrado, abierto, cruzado o abierto hasta el pecho), solapas (en pico, redondas o chal) y ruedo y puños ajustados. Las solapas y la apertura siguen el borde real del escote: pegadas a la tela, no flotando por su cuenta."
+      "text": "Cualquier remera entra en los dos: así armás remera + saco sin comprar nada más.$(br2)$(l)Lo que se corta en la Modeladora.$() Capucha (con o sin, en estilo $(o)Cajas$() o $(o)Malla$(); $(l)H$() la sube y la baja), frente (cerrado, abierto, cruzado o abierto hasta el pecho; $(l)J$() lo abre y lo cierra), solapas (en pico, redondas o chal) y ruedo y puños ajustados."
     },
     {
       "type": "patchouli:text",
-      "text": "$(l)El hoodie de fábrica no se craftea.$() Se arma desde una remera en la Modeladora: capucha, ruedo y puños ajustados, calce Oversize. Es la comodidad hecha prenda y no hace falta explicarla.$(br2)$(l)Un traje completo$() se arma con saco (frente abierto, sin capucha, remate recto y solapas), pantalón y remera de cuello camisa. La corbata es un aplique de la Estilista."
+      "text": "Las solapas y la apertura siguen el borde real del escote: pegadas a la tela, no flotando por su cuenta.$(br2)$(l)El hoodie de fábrica no se craftea.$() Se arma desde una remera en la Modeladora: capucha, ruedo y puños ajustados, calce Oversize. Es la comodidad hecha prenda y no hace falta explicarla."
     },
     {
       "type": "patchouli:text",
-      "text": "$(4)Fe de erratas:$() los hoodies y los moldes de chaqueta de versiones anteriores no se migraron. Si te quedó alguno viejo, rehacelo desde una remera."
+      "text": "$(l)Un traje completo$() se arma con saco (frente abierto, sin capucha, remate recto y solapas), pantalón y remera de cuello camisa. La corbata es un aplique de la Estilista.$(br2)$(4)Fe de erratas:$() los hoodies y los moldes de chaqueta de versiones anteriores no se migraron. Si te quedó alguno viejo, rehacelo desde una remera."
     }
   ]
 }

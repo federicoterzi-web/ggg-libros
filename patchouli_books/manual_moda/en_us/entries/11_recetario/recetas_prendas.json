@@ -33,6 +33,18 @@
       "recipe": "modamod:borcegos",
       "title": "Prendas",
       "recipe2": "modamod:cinto"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:antifaz",
+      "title": "Prendas",
+      "recipe2": "modamod:media_mascara"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:mascara_completa",
+      "title": "Prendas",
+      "recipe2": "modamod:barbijo"
     }
   ]
 }

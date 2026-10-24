@@ -15,7 +15,11 @@
     },
     {
       "type": "patchouli:text",
-      "text": "$(l)Tachas y parches:$() $(o)tacha$(), $(o)tira de tachas$() y parches bordados de corazón, estrella y rayo. También hay $(o)cordones$().$(br2)$(l)Retazos.$() El color de cada aplique sale de un retazo de tres zonas. Se craftea con lana e hilo (da cuatro blancos) y se tiñe en la Estación de Tintes, en la categoría $(o)Retazo de aplique$(): poné el retazo en la entrada, elegí los cuadraditos 1, 2 y 3 y teñí. Las zonas sin fijar conservan el color."
+      "text": "$(l)Tachas y parches:$() $(o)tacha$(), $(o)tira de tachas$() y parches bordados de corazón, estrella y rayo. También hay $(o)cordones$().$(br2)$(l)En la capucha.$() El clic también acierta sobre la capucha (de un Top o de una capa): el aplique queda en su tela y la sigue puesta o caída. El botón espejo no mueve los apliques de la capucha."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Retazos.$() El color de cada aplique sale de un retazo de tres zonas. Se craftea con lana e hilo (da cuatro blancos) y se tiñe en la Estación de Tintes, en la categoría $(o)Retazo de aplique$(): poné el retazo en la entrada, elegí los cuadraditos 1, 2 y 3 y teñí. Las zonas sin fijar conservan el color."
     },
     {
       "type": "patchouli:text",

@@ -1,0 +1,27 @@
+{
+  "name": "Tienda de Shulkers",
+  "icon": "minecraft:shulker_box",
+  "category": "patchouli:comercio",
+  "advancement": "ggg:tienda_de_shulkers",
+  "priority": false,
+  "secret": false,
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)¿Siempre te falta lugar y encima no sabés dónde meter lo que te sobra?$() Tranquilo, campeón, esto se arregla. Acá vendemos cajas shulker: se abren por arriba, guardan de todo y jamás se quejan de lo que les metés. Ideales para el que acumula mugre como si fuera a abrir una ferretería.$(br)$(br)Queda en el Spawn, medio escondida, como corresponde a un negocio que vende cosas para esconder cosas."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)¿Qué vendés acá para facturar?$()$(br)$(br)$(bold)• Cajas shulker:$() de todos los colores, para que tu desorden por lo menos combine.$(br)$(br)$(bold)• Conchas de shulker:$() si te animás a ir al End a sacárselas a sus dueños, acá te las pagan. Ojo: la caja que abre y cierra la boca con mala leche no es decoración, rey."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)• El dato que no te dijeron:$() una shulker no entra adentro de otra. Minecraft tiene límites, vos también, y no hay chiste que lo arregle. Eso sí: la rompés y se queda con todo lo que tenía, así que podés llevarte la casa a cuestas."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(6)💡 El Consejo de Rozsier$()$(br)Dejá de tirar cofres por todo el mapa como un ratón de ciudad. Comprate una caja, ordená tu vida y llevate el tesoro encima. Y no la dejes tirada por ahí: la shulker que no cuidás se la lleva el primero que pase, y después llorás en el chat."
+    }
+  ]
+}

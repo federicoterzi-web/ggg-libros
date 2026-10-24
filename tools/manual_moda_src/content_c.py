@@ -13,6 +13,7 @@ e.txt(
     "4. Fijá con la chincheta cada cara que quieras imprimir: solo se estampan las caras fijadas que tienen foto.\n5. Prenda en la Entrada y **Prensar**: la tapa baja y arranca. Cerrar la tapa a mano también arranca.",
     "**Escala.** A escala mínima la foto queda chica y centrada, tipo logo. A escala máxima cubre la prenda entera, recortada a la silueta: es el full print, para quienes no creen en los márgenes.",
     "**Escanear estampa.** Abre el explorador de archivos de tu compu (PNG, JPG, WebP, BMP o GIF), igual que //Cargar imagen// de la cámara, pero sin la cámara. La imagen se achica y se comprime con los mismos límites, se vuelve una foto de Camerapture firmada por vos y gasta una hoja del tanque de papel. Queda en //Frente// si está vacío; si no, en //Espalda//; si tampoco, en el almacén.",
+    "**Más cosas con foto.** Los banners, las máscaras y el barbijo también llevan una foto en el frente (sin espalda ni capas con máscara).",
     "**Qué se gasta.** Cada cara estampada gasta una dosis de cada color de tinta, y cada prensado, una hoja de papel. Las fotos nunca se gastan: quedan cargadas para reimprimir.",
     "**Simetría lateral.** En medias y calientabrazos, con //Simetría: Sí// el lado izquierdo lleva el espejo de la derecha: un logo corrido hacia afuera queda hacia afuera en las dos piernas. {{Ojo:}} un texto dentro de la foto se lee al revés en el lado espejado.",
 )
@@ -31,7 +32,7 @@ e = entrada(c, "banners", "Banners y escudos con foto", "minecraft:white_banner"
 e.txt(
     "**Para la gente que quiere flamear una foto.** Un banner puede llevar una foto de Camerapture, dibujada con dieciséis veces la resolución de vanilla. Un escudo hecho en la mesa de crafteo con ese banner hereda la foto.",
     "**Cómo.** En la Sublimadora, cargá el banner como si fuera una prenda y poné la foto en //Frente//: el banner no tiene espalda. Ajustás escala, posición y ángulo como siempre y la vista previa te muestra el banner terminado.",
-    "Al romper el banner, la foto se conserva. En la Estación de Tintes el banner tiene su propia categoría, así que también se tiñe. Lo que no existe es estamparlo sobre una prenda: son dos cosas distintas con la misma máquina.",
+    "Al romper el banner, la foto se conserva. En la Estación de Tintes el banner tiene su propia categoría, con tres cuadraditos apilados (un liso de fondo y patrones encima) sobre el color del banner, en las dos caras del paño. El orden es: primero el tinte, después los diseños del telar de vanilla y arriba de todo la foto. El tinte queda en el ítem, en el banner colocado y al romperlo, y el escudo lo hereda. Lo que no existe es estamparlo sobre una prenda: son dos cosas distintas con la misma máquina.",
 )
 
 # ───────────────────────── 08 DETALLES Y ACCESORIOS ─────────────────────────
@@ -55,6 +56,7 @@ e.txt(
     "**El aplique es el pequeño crimen del outfit.** Un modelo 3D que se pega sobre la tela, mira hacia afuera de la cara que tocaste y se mueve con vos. Cada uno nace de una plantilla (una por forma) y de un retazo de tres colores. Hasta doce por prenda.",
     "**Moños y compañía.** //Moño// (con dos cintas anchas de punta en V), //mariposa// (las alas baten solas), //flor// (pétalos, centro y hojas), //canguro// (el bolsillo del hoodie, en parche) y //corbata// (nudo y hoja que cuelga y se curva).",
     "**Botones y bolsillos.** //Botón//, //botonera// (cuatro botones en fila), //bolsillo parche//, //bolsillo con tapa// y //bolsillo trasero de jean//. **Tachas y parches:** //tacha//, //tira de tachas// y parches bordados de corazón, estrella y rayo. También hay //cordones//.",
+    "**En la capucha.** El clic también acierta sobre la capucha (de un Top o de una capa): el aplique queda en su tela y la sigue puesta o caída. El botón espejo no mueve los apliques de la capucha.",
     "**Retazos.** El color de cada aplique sale de un retazo de tres zonas. Se craftea con lana e hilo (da cuatro blancos) y se tiñe en la Estación de Tintes, en la categoría //Retazo de aplique//: poné el retazo en la entrada, elegí los cuadraditos 1, 2 y 3 y teñí. Las zonas sin fijar conservan el color.",
     "**Tela blanda.** Con //Blandura// mayor a cero, el aplique se mueve con la inercia de quien lo lleva: las colas del moño se curvan, las alas de la mariposa baten, los pétalos se inclinan y las hojas cuelgan. A cero, queda rígido. //Sacudir// alterna sacudones fuertes para ver cómo pendulea.",
     "**Giro, tamaño y fila.** Con un aplique elegido de la lista: //Giro// de a 15°, //Tamaño// de 50 a 250 %, //Quitar// (devuelve el retazo) y //Fila//, que repite el aplique hasta ocho veces hacia abajo con la separación que quieras.",

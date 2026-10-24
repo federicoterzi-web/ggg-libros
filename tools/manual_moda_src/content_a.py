@@ -66,7 +66,7 @@ e.spot("modamod:remera,modamod:pantalon,modamod:socks_solid,modamod:calientabraz
 e.txt(
     "**Quién va debajo de quién.** Las prendas se dibujan en orden fijo: cuerpo, medias, calientabrazos, pantalón, remera, pollera y, por último, lo que lleves en el lugar de chaqueta. Donde una prenda no tiene tela (una media corta, una remera sin mangas) se ve lo de abajo. Una prenda de arriba nunca queda por dentro de otra.",
     "**Dónde se ponen.** Apretá **K** o el botón //Ropa// del inventario, junto al libro de recetas. Hay tres lugares por prenda (un croptop sobre un remerón, medias de red bajo unas cortas) y un solo ítem por lugar. Hasta 16 prendas idénticas (mismo corte, color, estampa y apliques) se apilan en el inventario.",
-    "**Las teclas.** **K** abre la pantalla de Ropa. **H** sube y baja la capucha del hoodie y de la capa. **R** hace girar la pollera. Las tres se cambian en //Controles → ModaMod//.",
+    "**Las teclas.** **K** abre la pantalla de Ropa. **H** sube y baja la capucha del hoodie y de la capa. **J** abre y cierra el frente de la chaqueta y del embozo. **R** hace girar la pollera. Se cambian en //Controles → ModaMod//.",
     "{{Fe de erratas:}} las Medias 3/4, las Medias de red y el Traje de Maid de versiones viejas ya no se craftean (las que existían siguen andando). Hoy las medias salen con el largo que quieras y la trama de red va en la Modeladora.",
 )
 
@@ -76,7 +76,7 @@ e.txt(
     "**Una remera con aspiraciones.** La remera es la única prenda de torso. Hoodie, saco, campera y chaleco no son ítems aparte: son rasgos que cualquier remera puede tener. No hay prendas nuevas; hay remeras que crecieron.",
     "**Cómo se llama.** Cada prenda se nombra por su rasgo más fuerte. Por el corte: **musculosa**, **remerón**, **croptop**. Por el cuello: **polera**, **camisa**. Con capucha: **hoodie**. Con solapas y sin capucha: **saco**. Con el frente abierto: **campera**. Sin mangas: **chaleco**. Manga larga lisa: **buzo**. El resto de los rasgos va al tooltip.",
     "**Dónde la llevás cambia dónde se dibuja.** En el lugar //Remera// va debajo de la pollera. En el lugar //Chaqueta// (el de arriba, junto al muñeco) va por encima de todo. Cualquier remera entra en los dos: así armás remera + saco sin comprar nada más.",
-    "**Lo que se corta en la Modeladora.** Capucha (con o sin, en estilo //Cajas// o //Malla//; **H** la sube y la baja), frente (cerrado, abierto, cruzado o abierto hasta el pecho), solapas (en pico, redondas o chal) y ruedo y puños ajustados. Las solapas y la apertura siguen el borde real del escote: pegadas a la tela, no flotando por su cuenta.",
+    "**Lo que se corta en la Modeladora.** Capucha (con o sin, en estilo //Cajas// o //Malla//; **H** la sube y la baja), frente (cerrado, abierto, cruzado o abierto hasta el pecho; **J** lo abre y lo cierra), solapas (en pico, redondas o chal) y ruedo y puños ajustados. Las solapas y la apertura siguen el borde real del escote: pegadas a la tela, no flotando por su cuenta.",
     "**El hoodie de fábrica no se craftea.** Se arma desde una remera en la Modeladora: capucha, ruedo y puños ajustados, calce Oversize. Es la comodidad hecha prenda y no hace falta explicarla.",
     "**Un traje completo** se arma con saco (frente abierto, sin capucha, remate recto y solapas), pantalón y remera de cuello camisa. La corbata es un aplique de la Estilista.",
     "{{Fe de erratas:}} los hoodies y los moldes de chaqueta de versiones anteriores no se migraron. Si te quedó alguno viejo, rehacelo desde una remera.",
@@ -100,6 +100,8 @@ e.txt(
     "**Varias a la vez.** Podés llevar hasta tres polleras: se dibujan en el orden de los lugares y cada una sale un poquito más afuera que la de abajo. Los patrones se ven a resolución completa.",
     "**Twirl.** Apretá **R** con una pollera puesta: das una vuelta entera con los brazos abiertos, la pollera se abre casi horizontal y gira arrastrada. Los demás jugadores lo ven. Utilidad práctica: ninguna. Valor social: incalculable.",
     "**La capa.** Cuelga de los hombros y se mueve como tela: se levanta al correr, rebota con los saltos y se abre al agacharte. Siete largos (del capelet al tobillo), ruedo recto, redondeado o con cola (arrastra por el piso), capucha (**H**) y cuello alto. El forro se tiñe y se estampa aparte del exterior.",
+    "**El embozo** es una esclavina que cubre los hombros, con su propio molde en la Modeladora y siete largos (de 2 px hasta el piso). Choca con las piernas y los brazos como la pollera y, desde los 12 px, hace de capa: el paño de atrás deja de dibujarse y los apliques y correas pasan al embozo. Con **J** se abre en el cuello y cae en diagonal por los hombros. Un segundo molde le pone borde, que se tiñe con la zona //Detalles//.",
+    "**La capucha de la capa** puede ser de malla o de cajas, según su molde. Va abierta abajo, por fuera del paño o del embozo, y también lleva apliques.",
     "**Reglas de convivencia.** La capa del mod manda sobre la capa vanilla, incluidas las de Optifine y Minecon. Con élitros puestos pasa al revés: se ven los élitros y la capa se esconde. Con un hoodie, la capa cuelga por fuera y no dibuja su capucha ni su cuello alto.",
     "{{Fe de erratas:}} en la pollera, el patrón todavía puede mostrar un corte justo en el centro de la espalda, donde se juntan los extremos de la tela.",
 )
@@ -108,7 +110,7 @@ e = entrada(c, "delantal", "Delantal", "modamod:delantal", 4)
 e.spot('modamod:delantal', 'Delantal', '**Cinco lanas y a cocinar (o a fingir).**', receta=True)
 e.txt(
     "**La prenda que dice “estoy cocinando” aunque no sea verdad.** Se craftea con cinco lanas (la grilla está en el Recetario) y va en su propio lugar de la pantalla de Ropa, por encima de la remera, la chaqueta y la pollera, del pecho hacia abajo.",
-    "**En la Modeladora** tiene su propia pestaña con casilleros para la //forma// (recto, trapecio, peto, corazón o festón), //desde// y //hasta// (de dónde a dónde cubre), la //cobertura// (solo el frente o angosto), los //tirantes// (rectos o cruzados), las //esquinas//, los //volados// (de los costados y de arriba) y el //ruedo//. El ruedo Redondeado redondea las esquinas de abajo.",
+    "**En la Modeladora** tiene su propia pestaña con casilleros para la //forma// (recto, trapecio, peto, corazón o festón), //desde// y //hasta// (de dónde a dónde cubre), la //cobertura// (envolvente, solo el frente o angosto), los //tirantes// (rectos o cruzados), las //esquinas//, los //volados// (de los costados y de arriba) y el //ruedo//. El ruedo Redondeado redondea las esquinas de abajo.",
     "**Se tiñe en dos zonas,** //peto// y //falda//, en la Estación de Tintes.",
 )
 
@@ -132,7 +134,18 @@ e.txt(
     "**Banda.** Un aro que rodea la cintura (el //cinto//) o el pecho (el //collar//). Cada zona solo entra en su lugar. Se arma con tres moldes: //ancho// (fino, medio, ancho), //zona// y //herraje// (ninguno, placa, aro o colgantes como campana, hueso, corazón y medalla).",
 )
 
-e = entrada(c, "pantalla_ropa", "Pantalla de Ropa y armadura cosmética", "minecraft:iron_chestplate", 7)
+e = entrada(c, "mascaras_barbijo", "Máscaras y barbijo", "modamod:antifaz", 7)
+e.spot("modamod:antifaz,modamod:media_mascara,modamod:mascara_completa,modamod:barbijo", "Máscaras y barbijo",
+       "**Para esconder la cara con estilo.**",
+       "Tres máscaras y un barbijo que se usan juntos o por separado.", receta=True)
+e.txt(
+    "**Cuatro prendas.** El //antifaz// (una franja sobre los ojos con puntitas a los costados), la //media máscara// (de la frente a la nariz), la //máscara completa// (toda la cara, con ojos y una ranura en la boca) y el //barbijo// (de la nariz al mentón, con pliegues, alambre en la nariz y elásticos a las orejas).",
+    "**Dónde van.** Las tres máscaras comparten el lugar //Máscara// de la cabeza. El barbijo tiene su propio lugar, así que se puede llevar encima de una máscara.",
+    "**Se hacen con lana e hilo.** Antifaz: hilo, lana, hilo en una fila. Media máscara: tres lanas sobre hilo, lana, hilo. Máscara completa: esa misma grilla con otra fila de tres lanas abajo. Barbijo: hilo, vacío, hilo sobre tres lanas. Las grillas están en el Recetario.",
+    "**Salen blancas.** Se tiñen en la Estación de Tintes, en las categorías //Máscara// y //Barbijo//, con tres cuadraditos de prenda entera, y llevan una foto de la Sublimadora en el frente (sin espalda ni capas con máscara).",
+)
+
+e = entrada(c, "pantalla_ropa", "Pantalla de Ropa y armadura cosmética", "minecraft:iron_chestplate", 8)
 e.txt(
     "**Un solo lugar para todo lo que te ponés.** Los lugares de ropa del mod ya no están en el inventario de siempre: se abren con el botón //Ropa// del inventario o con **K** (también en creativo, y vuelve a cerrar).",
     "**Qué muestra.** Tu personaje, los lugares de ropa del mod, la **armadura real** (la que da las estadísticas), la **armadura cosmética** (solo se ve; casco, pechera, pantalón y botas) y tu inventario. La pechera cosmética acepta élitros y el casco acepta calabazas y cabezas.",

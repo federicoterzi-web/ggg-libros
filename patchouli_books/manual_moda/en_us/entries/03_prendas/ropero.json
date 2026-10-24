@@ -21,7 +21,11 @@
     },
     {
       "type": "patchouli:text",
-      "text": "$(l)Las teclas.$() $(l)K$() abre la pantalla de Ropa. $(l)H$() sube y baja la capucha del hoodie y de la capa. $(l)R$() hace girar la pollera. Las tres se cambian en $(o)Controles → ModaMod$().$(br2)$(4)Fe de erratas:$() las Medias 3/4, las Medias de red y el Traje de Maid de versiones viejas ya no se craftean (las que existían siguen andando). Hoy las medias salen con el largo que quieras y la trama de red va en la Modeladora."
+      "text": "$(l)Las teclas.$() $(l)K$() abre la pantalla de Ropa. $(l)H$() sube y baja la capucha del hoodie y de la capa. $(l)J$() abre y cierra el frente de la chaqueta y del embozo. $(l)R$() hace girar la pollera. Se cambian en $(o)Controles → ModaMod$().$(br2)$(4)Fe de erratas:$() las Medias 3/4, las Medias de red y el Traje de Maid de versiones viejas ya no se craftean (las que existían siguen andando)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Hoy las medias salen con el largo que quieras y la trama de red va en la Modeladora."
     }
   ]
 }

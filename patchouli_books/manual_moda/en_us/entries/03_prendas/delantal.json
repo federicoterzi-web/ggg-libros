@@ -17,7 +17,7 @@
     },
     {
       "type": "patchouli:text",
-      "text": "$(l)En la Modeladora$() tiene su propia pestaña con casilleros para la $(o)forma$() (recto, trapecio, peto, corazón o festón), $(o)desde$() y $(o)hasta$() (de dónde a dónde cubre), la $(o)cobertura$() (solo el frente o angosto), los $(o)tirantes$() (rectos o cruzados), las $(o)esquinas$(), los $(o)volados$() (de los costados y de arriba) y el $(o)ruedo$(). El ruedo Redondeado redondea las esquinas de abajo."
+      "text": "$(l)En la Modeladora$() tiene su propia pestaña con casilleros para la $(o)forma$() (recto, trapecio, peto, corazón o festón), $(o)desde$() y $(o)hasta$() (de dónde a dónde cubre), la $(o)cobertura$() (envolvente, solo el frente o angosto), los $(o)tirantes$() (rectos o cruzados), las $(o)esquinas$(), los $(o)volados$() (de los costados y de arriba) y el $(o)ruedo$(). El ruedo Redondeado redondea las esquinas de abajo."
     },
     {
       "type": "patchouli:text",

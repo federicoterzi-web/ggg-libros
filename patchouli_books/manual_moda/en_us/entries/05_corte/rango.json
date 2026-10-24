@@ -13,7 +13,7 @@
     },
     {
       "type": "patchouli:text",
-      "text": "$(l)Una regla, siete marcas.$() El molde de rango mide una línea desde arriba hacia abajo, en siete niveles: el nivel $(o)k$() está a $(o)2k$() filas desde el hombro o la cintura. Se llaman Más alto, Muy alto, Alto, Medio, Bajo, Muy bajo y Más bajo. Sirve para todo: mangas, piernas, largo de remera, tiro, largo de pollera y largo de capa."
+      "text": "$(l)Una regla, siete marcas.$() El molde de rango mide una línea desde arriba hacia abajo, en siete niveles: el nivel $(o)k$() está a $(o)2k$() filas desde el hombro o la cintura. Se llaman Más alto, Muy alto, Alto, Medio, Bajo, Muy bajo y Más bajo. Sirve para todo: mangas, piernas, largo de remera, tiro, largo de pollera, largo de capa y largo de embozo."
     },
     {
       "type": "patchouli:text",
@@ -21,7 +21,11 @@
     },
     {
       "type": "patchouli:text",
-      "text": "$(l)Tiro del pantalón:$() hombros, pecho, bajo el pecho, muy alto, alto, medio y cadera (el último, sin banda).$(br2)$(l)Pollera,$() px desde la cintura: ultramicro 3, micro 5, mini 7, a la rodilla 9, midi 11, larga 13 y hasta el tobillo 15. $(l)Capa,$() px desde los hombros: capelet 6, a la cintura 9, a la cadera 12, clásica 16, a la rodilla 18, larga 21 y hasta el tobillo 24."
+      "text": "$(l)Tiro del pantalón:$() hombros, pecho, bajo el pecho, muy alto, alto, medio y cadera (el último, sin banda)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Pollera,$() px desde la cintura: ultramicro 3, micro 5, mini 7, a la rodilla 9, midi 11, larga 13 y hasta el tobillo 15. $(l)Capa,$() px desde los hombros: capelet 6, a la cintura 9, a la cadera 12, clásica 16, a la rodilla 18, larga 21 y hasta el tobillo 24. $(l)Embozo,$() px desde los hombros: 2, 5, 8, 12, 16, 20 y hasta el piso."
     },
     {
       "type": "patchouli:text",
