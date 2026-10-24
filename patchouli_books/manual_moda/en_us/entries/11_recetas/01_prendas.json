@@ -1,0 +1,33 @@
+{
+  "name": "Prendas",
+  "icon": "minecraft:crafting_table",
+  "category": "patchouli:11_recetas",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:borcegos",
+      "recipe2": "modamod:calientabrazos"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:capa",
+      "recipe2": "modamod:cinto"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:delantal",
+      "recipe2": "modamod:pantalon"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:pollera",
+      "recipe2": "modamod:remera"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:socks_solid",
+      "recipe2": "modamod:sombrero_bruja"
+    }
+  ]
+}

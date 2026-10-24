@@ -1,0 +1,62 @@
+{
+  "name": "Motivos y patrones",
+  "icon": "minecraft:crafting_table",
+  "category": "patchouli:11_recetas",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:pattern_argyle",
+      "recipe2": "modamod:pattern_camuflaje"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:pattern_camuflaje_digital",
+      "recipe2": "modamod:pattern_cebra"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:pattern_corazones",
+      "recipe2": "modamod:pattern_dalmata"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:pattern_diplomaticas",
+      "recipe2": "modamod:pattern_estrellas"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:pattern_jirafa",
+      "recipe2": "modamod:pattern_lenador"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:pattern_leopardo",
+      "recipe2": "modamod:pattern_lunares"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:pattern_pata_de_gallo",
+      "recipe2": "modamod:pattern_rayas"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:pattern_serpiente",
+      "recipe2": "modamod:pattern_tartan"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:pattern_tigre",
+      "recipe2": "modamod:pattern_vaca"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:pattern_ventana",
+      "recipe2": "modamod:pattern_vichy"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:pattern_zigzag"
+    }
+  ]
+}

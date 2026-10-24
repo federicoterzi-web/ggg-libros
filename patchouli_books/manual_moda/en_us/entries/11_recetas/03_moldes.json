@@ -1,0 +1,358 @@
+{
+  "name": "Moldes",
+  "icon": "minecraft:crafting_table",
+  "category": "patchouli:11_recetas",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:diseno_en_blanco",
+      "recipe2": "modamod:mascara_en_blanco"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_banda_ancho_ancho",
+      "recipe2": "modamod:molde_banda_ancho_fino"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_banda_herraje_aro",
+      "recipe2": "modamod:molde_banda_herraje_campana"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_banda_herraje_corazon",
+      "recipe2": "modamod:molde_banda_herraje_hueso"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_banda_herraje_medalla",
+      "recipe2": "modamod:molde_banda_herraje_placa"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_banda_zona_cintura",
+      "recipe2": "modamod:molde_banda_zona_cuello"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_borcego_botamanga_afuera",
+      "recipe2": "modamod:molde_borcego_cana_alta"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_borcego_cana_bailarina",
+      "recipe2": "modamod:molde_borcego_cana_baja"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_borcego_cana_bota_alta",
+      "recipe2": "modamod:molde_borcego_cana_mocasin"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_borcego_cana_ninguna",
+      "recipe2": "modamod:molde_borcego_cana_pantufla"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_borcego_cana_taco",
+      "recipe2": "modamod:molde_borcego_cana_tenis_alta"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_borcego_cana_tenis_baja",
+      "recipe2": "modamod:molde_borcego_cana_zapato"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_borcego_cierre_costura_lateral",
+      "recipe2": "modamod:molde_borcego_cierre_gladiadora"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_borcego_cierre_sin",
+      "recipe2": "modamod:molde_borcego_cierre_tira_hebilla"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_borcego_cierre_tira_v",
+      "recipe2": "modamod:molde_borcego_cierre_tobillera"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_borcego_cierre_velcro",
+      "recipe2": "modamod:molde_borcego_detalle_costura_empeine"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_borcego_detalle_lengueta",
+      "recipe2": "modamod:molde_borcego_detalle_parche"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_borcego_punta_alargada",
+      "recipe2": "modamod:molde_borcego_punta_ancha"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_borcego_punta_cuadrada",
+      "recipe2": "modamod:molde_borcego_punta_descubierta"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_borcego_punta_fina",
+      "recipe2": "modamod:molde_borcego_punta_goma"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_borcego_punta_redonda",
+      "recipe2": "modamod:molde_borcego_suela_chancla"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_borcego_suela_cuna",
+      "recipe2": "modamod:molde_borcego_suela_fina"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_borcego_suela_goma_tenis",
+      "recipe2": "modamod:molde_borcego_suela_plataforma"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_borcego_suela_plataforma_tenis",
+      "recipe2": "modamod:molde_borcego_suela_sandalia"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_borcego_suela_taco_chico",
+      "recipe2": "modamod:molde_borcego_suela_tela"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_calce_ajustado",
+      "recipe2": "modamod:molde_calce_oversize"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_calce_pegado",
+      "recipe2": "modamod:molde_calce_suelto"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_capa_borde_embozo",
+      "recipe2": "modamod:molde_capa_con_capucha"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_capa_cuello_alto",
+      "recipe2": "modamod:molde_capucha_cajas"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_capucha_malla",
+      "recipe2": "modamod:molde_chaqueta_frente_abierta"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_chaqueta_frente_abierta_pecho",
+      "recipe2": "modamod:molde_chaqueta_frente_cruzada"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_chaqueta_solapa_chal",
+      "recipe2": "modamod:molde_chaqueta_solapa_pico"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_chaqueta_solapa_redonda",
+      "recipe2": "modamod:molde_cuello_camisa"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_cuello_corazon",
+      "recipe2": "modamod:molde_cuello_cuadrado"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_cuello_polera",
+      "recipe2": "modamod:molde_cuello_redondo"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_cuello_v",
+      "recipe2": "modamod:molde_delantal_cobertura_angosto"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_delantal_cobertura_frente",
+      "recipe2": "modamod:molde_delantal_corazon"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_delantal_feston",
+      "recipe2": "modamod:molde_delantal_peto"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_delantal_tirantes_cruzados",
+      "recipe2": "modamod:molde_delantal_tirantes_rectos"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_delantal_trapecio",
+      "recipe2": "modamod:molde_en_blanco"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_mascara_circulo",
+      "recipe2": "modamod:molde_mascara_cuadrado"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_mascara_estrella",
+      "recipe2": "modamod:molde_mascara_franja"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_mascara_triangulo",
+      "recipe2": "modamod:molde_pollera_circular"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_pollera_globo",
+      "recipe2": "modamod:molde_pollera_tableada"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_pollera_tubo",
+      "recipe2": "modamod:molde_rango_cero"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_rango_corto",
+      "recipe2": "modamod:molde_rango_largo"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_rango_maximo",
+      "recipe2": "modamod:molde_rango_medio"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_rango_mediolargo",
+      "recipe2": "modamod:molde_rango_minimo"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_ruedo_ajustado",
+      "recipe2": "modamod:molde_ruedo_campana"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_ruedo_cola",
+      "recipe2": "modamod:molde_ruedo_festoneado"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_ruedo_fruncido",
+      "recipe2": "modamod:molde_ruedo_ondulado"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_ruedo_pico",
+      "recipe2": "modamod:molde_ruedo_redondeado"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_sombrero_ala_ancha",
+      "recipe2": "modamod:molde_sombrero_ala_angosta"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_sombrero_ala_caida",
+      "recipe2": "modamod:molde_sombrero_ala_cofia"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_sombrero_ala_corta",
+      "recipe2": "modamod:molde_sombrero_ala_larga"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_sombrero_ala_media",
+      "recipe2": "modamod:molde_sombrero_ala_plana"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_sombrero_ala_sin_ala",
+      "recipe2": "modamod:molde_sombrero_ala_tricornio"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_sombrero_ala_vaquera",
+      "recipe2": "modamod:molde_sombrero_ala_vincha"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_sombrero_ala_visera_chata",
+      "recipe2": "modamod:molde_sombrero_ala_visera_corta"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_sombrero_ala_visera_curva",
+      "recipe2": "modamod:molde_sombrero_banda"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_sombrero_copa_charro",
+      "recipe2": "modamod:molde_sombrero_copa_cilindro_alto"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_sombrero_copa_cupula",
+      "recipe2": "modamod:molde_sombrero_copa_cupula_cuadrada"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_sombrero_copa_gorro_caido",
+      "recipe2": "modamod:molde_sombrero_copa_hendidura"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_sombrero_copa_marinero",
+      "recipe2": "modamod:molde_sombrero_copa_panadero"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_sombrero_copa_plato",
+      "recipe2": "modamod:molde_sombrero_copa_toque"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_sombrero_estilo_cajas",
+      "recipe2": "modamod:molde_sombrero_grosor_gruesa"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_sombrero_planta_cuadrada",
+      "recipe2": "modamod:molde_sombrero_planta_redonda"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_sombrero_punta_doblada",
+      "recipe2": "modamod:molde_sombrero_punta_recta"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_textura_acolchado",
+      "recipe2": "modamod:molde_textura_fruncido"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_volado_circular",
+      "recipe2": "modamod:molde_volado_recto"
+    }
+  ]
+}

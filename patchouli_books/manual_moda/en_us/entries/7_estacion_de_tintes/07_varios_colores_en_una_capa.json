@@ -1,0 +1,24 @@
+{
+  "name": "Varios colores",
+  "icon": "modamod:tinturas",
+  "category": "patchouli:7_estacion_de_tintes",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A la derecha, sobre la muestra grande, hay $(l)tres muestras de color$(): click en una elige cuál editan los sliders (si estaba apagada, se prende).$(br)$(li)$(l)$(l)Colores: 1 / 2 / 3$()$(): Cuántos colores usa la capa."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)$(l)Contorno$()$(): Una línea alrededor de cada motivo o raya, con el $(l)último$() color activo (necesita al menos 2 colores).$(br)$(li)$(l)$(l)Variación: Fijo$()$(): Todo el relleno del Color 1.$(br)$(li)$(l)$(l)Variación: Alternar$()$(): Cada motivo, raya o cuadro toma el color siguiente."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)$(l)Variación: Aleatorio$()$(): Cada uno toma un color al azar (Azar vuelve a sortear).$(br)$(li)$(l)$(l)Variación: Degradé$()$(): Pasa de un color al otro de arriba a abajo. Funciona también en capas lisas, sin molde."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Ejemplos: corazones rojos y rosas alternados con contorno negro (3 colores, Contorno sí, Alternar); una remera en degradé (cuadradito de prenda entera, sin molde, 2 colores, Degradé); rayas multicolor (Alternar con 3 colores)."
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "parent": "minecraft:block/block",
+  "ambientocclusion": false,
+  "texture_size": [
+    64,
+    64
+  ],
+  "textures": {
+    "portada": "ggg:item/manual_moda/portada",
+    "contratapa": "ggg:item/manual_moda/contratapa",
+    "lomo": "ggg:item/manual_moda/lomo",
+    "paginas": "ggg:item/manual_moda/paginas",
+    "particle": "ggg:item/manual_moda/portada"
+  },
+  "elements": [
+    {
+      "name": "Paginas",
+      "from": [
+        4.25,
+        1,
+        7.38
+      ],
+      "to": [
+        11.75,
+        11,
+        8.63
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#paginas"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#paginas"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#paginas"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#paginas"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#paginas"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#paginas"
+        }
+      }
+    },
+    {
+      "name": "Contratapa",
+      "from": [
+        3.75,
+        0.75,
+        6.88
+      ],
+      "to": [
+        12,
+        11.25,
+        7.38
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#contratapa"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#lomo"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#contratapa"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#lomo"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#lomo"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#lomo"
+        }
+      }
+    },
+    {
+      "name": "Portada",
+      "from": [
+        3.75,
+        0.75,
+        8.63
+      ],
+      "to": [
+        12,
+        11.25,
+        9.13
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#portada"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#lomo"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#portada"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#lomo"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#lomo"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#lomo"
+        }
+      }
+    },
+    {
+      "name": "Lomo",
+      "from": [
+        3.75,
+        0.75,
+        7.38
+      ],
+      "to": [
+        4.25,
+        11.25,
+        8.63
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#lomo"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#lomo"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#lomo"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#lomo"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#lomo"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#lomo"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        -13,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        4,
+        -1.25
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        7,
+        0
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        9,
+        0,
+        0
+      ],
+      "translation": [
+        0.25,
+        1.75,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0,
+        2.5,
+        0
+      ]
+    },
+    "ground": {
+      "rotation": [
+        -59,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ]
+    },
+    "gui": {
+      "rotation": [
+        18,
+        -22,
+        0
+      ],
+      "translation": [
+        0,
+        2.25,
+        0
+      ],
+      "scale": [
+        1.28,
+        1.28,
+        1.28
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        -180,
+        0
+      ],
+      "translation": [
+        0,
+        2.75,
+        -7.75
+      ],
+      "scale": [
+        1.63,
+        1.63,
+        1.63
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        -180,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        -1.75
+      ],
+      "scale": [
+        1.59,
+        1.59,
+        1.59
+      ]
+    },
+    "on_shelf": {
+      "rotation": [
+        0,
+        -27,
+        0
+      ],
+      "translation": [
+        1.25,
+        7.5,
+        0
+      ],
+      "scale": [
+        1.83,
+        1.83,
+        1.83
+      ]
+    }
+  }
+}

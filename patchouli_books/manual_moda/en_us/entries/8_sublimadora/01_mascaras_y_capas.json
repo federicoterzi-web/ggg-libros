@@ -1,0 +1,61 @@
+{
+  "name": "Máscaras y capas",
+  "icon": "modamod:molde_mascara_circulo",
+  "category": "patchouli:8_sublimadora",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "modamod:molde_mascara_circulo",
+      "link_recipe": true
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "modamod:molde_mascara_cuadrado",
+      "link_recipe": true
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "modamod:molde_mascara_estrella",
+      "link_recipe": true
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "modamod:molde_mascara_franja",
+      "link_recipe": true
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "modamod:molde_mascara_triangulo",
+      "link_recipe": true
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Con un $(l)molde de máscara$() en su slot (columna derecha, abajo) la foto se estampa $(l)solo adentro de una forma$(): $(l)Cuadrado, Franja, Círculo, Estrella o Triángulo$() (un molde por forma, no se gasta; por ahora"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "solo en la pestaña creativa).$(br2)1. Poné el molde en el slot $(l)Máscara$() y una foto en Frente o Espalda. La vista previa ya muestra la foto recortada con la forma. 2. El botón $(l)Editar: imagen / Editar: máscara$() decide qué mueven los controles $(l)Escala, X, Y y Ángulo$():"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "la $(l)imagen adentro de la máscara$() (escala 100 % = la foto cubre la máscara; el ángulo de la foto se suma al de la máscara) o la $(l)máscara sobre la prenda$() (escala = alto de la máscara respecto del cuerpo, de 10 % a 150 %). Cada cara tiene su propio ajuste de máscara. 3."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Con máscara, la $(l)chincheta$() de una cara ya no fija la cara entera: $(l)agrega una capa$() con esa foto, esa forma y esos ajustes. La foto queda en su slot, así podés moverla y fijar otra capa con la misma foto, o cambiar de foto o de molde. 4."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Hasta $(l)12 capas$() entre frente y espalda. La lista $(l)Capas (n/12)$() las muestra en orden (\"3F\" = capa 3, frente; \"5E\" = capa 5, espalda); la de más arriba en la lista (número más alto) se pinta encima. Click elige una capa; $(l)▲ ▼$() la suben o la bajan y $(l)✕$() la borra. 5."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Prensar$() pone la lista de capas en la prenda, además de las caras fijadas sin máscara. Las capas cuentan como $(l)una pasada$() de tinta, sin importar cuántas sean. Si la prenda ya traía capas, la lista arranca desde ellas al fijar la primera capa nueva, así no se pierden."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Con máscara, una prenda que ya tiene las dos caras estampadas puede volver a entrar para sumarle capas."
+    }
+  ]
+}

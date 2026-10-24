@@ -1,0 +1,37 @@
+{
+  "name": "Estación de Tintes",
+  "icon": "modamod:tinturas",
+  "category": "patchouli:7_estacion_de_tintes",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "modamod:tinturas",
+      "link_recipe": true
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La Estación de Tintes pinta la prenda. En el bloque, la pantallita del frente muestra la prenda cargada, con el mismo marco y tamaño que en la Modeladora y la Sublimadora. Funciona por $(l)cuadraditos$():"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "el dibujo de la prenda (el mismo de la Modeladora) tiene un cuadradito por zona, y $(l)cada cuadradito es una capa de color$() con su propia configuración."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Sombrero, banda y calzado$(): también se tiñen y se estampan con patrones en la Estación de Tintes, como las demás prendas. Hay dos categorías nuevas, $(l)Calzado$() y $(l)Banda$() (cinto o choker); el $(l)Sombrero$() ya estaba. Cada zona (ala, copa y cinta; banda, borde y herraje;"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "las tres del calzado) tiene su cuadradito con capas, color, patrón, motivo, modo de mezcla y opacidad. El calzado tiene $(l)dos pies$(): con la $(l)Simetría$() prendida (de fábrica) el pie izquierdo copia lo del derecho y solo se ve una zona;"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "apagándola aparece $(l)Pie izquierdo$() y se pintan por separado. La vista previa muestra la pieza puesta. Los patrones siguen la textura de cada pieza del modelo (en el ala las rayas pueden verse distinto que en la copa)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "El $(l)ícono$() del sombrero, el calzado y la banda ahora es la pieza armada de verdad, con sus moldes y colores.$(br2)> $(o)Captura pendiente: la interfaz de Tintes cambió después de las últimas capturas.$()"
+    }
+  ]
+}
