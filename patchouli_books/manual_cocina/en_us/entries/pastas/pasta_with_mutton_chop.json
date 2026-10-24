@@ -1,5 +1,5 @@
 {
-  "name": "Fideos con Chuleta de Cordero",
+  "name": "Fideos con Cordero",
   "icon": "farmersdelight:pasta_with_mutton_chop",
   "category": "patchouli:pastas",
   "priority": false,
@@ -8,7 +8,7 @@
   "pages": [
     {
       "type": "patchouli:dish_intro",
-      "title": "Fideos con Chuleta de Cordero",
+      "title": "Fideos con Cordero",
       "m1": "ggg:textures/gui/entries/food_full.png",
       "o1": "ggg:textures/gui/entries/sat_100.png",
       "m2": "ggg:textures/gui/entries/food_full.png",
