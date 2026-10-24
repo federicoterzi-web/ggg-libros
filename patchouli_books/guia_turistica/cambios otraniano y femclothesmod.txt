@@ -1,0 +1,4 @@
+Hoodie capucha no cierra, que hacemos cuando tenga capucha y pollera. capa se solapa. slots de ropa les falta el fondo del slot creo y por ahí una organización mas unificada y clara en vez de estar desparramados por toda la gui. pollera ahora tiene un tajo, sacar la pollera rigida.
+el maniquí ahora se dibuja chiquito y la ropa sigue del mismo tamaño. Extender apliques para toda armadura o wearable
+
+otraniano: shining light. No se ve la animación de las patas al caminar, generar nueva animación de volar y permitir al espectral volar con doble barra.
