@@ -7,16 +7,19 @@
     {
       "type": "patchouli:crafting",
       "recipe": "modamod:cinta",
+      "title": "Cintas y tubos",
       "recipe2": "modamod:empalme"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "modamod:tubo",
+      "title": "Cintas y tubos",
       "recipe2": "modamod:empalme_tubo"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "modamod:extractor",
+      "title": "Cintas y tubos",
       "recipe2": "modamod:valvula"
     }
   ]

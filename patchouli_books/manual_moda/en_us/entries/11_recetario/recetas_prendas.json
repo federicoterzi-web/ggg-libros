@@ -7,26 +7,31 @@
     {
       "type": "patchouli:crafting",
       "recipe": "modamod:remera",
+      "title": "Prendas",
       "recipe2": "modamod:pantalon"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "modamod:pollera",
+      "title": "Prendas",
       "recipe2": "modamod:capa"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "modamod:socks_solid",
+      "title": "Prendas",
       "recipe2": "modamod:calientabrazos"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "modamod:delantal",
+      "title": "Prendas",
       "recipe2": "modamod:sombrero_bruja"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "modamod:borcegos",
+      "title": "Prendas",
       "recipe2": "modamod:cinto"
     }
   ]

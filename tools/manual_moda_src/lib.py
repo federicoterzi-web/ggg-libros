@@ -192,7 +192,7 @@ class Entrada:
 
     def craft(self, r1, r2=None):
         self.vaciar()
-        pag = {"type": "patchouli:crafting", "recipe": r1}
+        pag = {"type": "patchouli:crafting", "recipe": r1, "title": self.nombre}
         if r2:
             pag["recipe2"] = r2
         self.paginas.append(pag)
