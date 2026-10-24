@@ -17,7 +17,7 @@
       "rotate": true,
       "default_rotation": 0.0,
       "name": "Condiciones de pesca",
-      "text": "$(li)Biomas: Lagos y Ríos$(li)Horario: 06:00-07:00, 18:00-06:00$(li)Temperatura ideal: 2.4°C (rango: -6.2°C a 9.5°C)$(li)Altitud: por encima de Y=40"
+      "text": "$(li)Biomas: Lagos y Ríos$(li)Horario: 06:00-07:00, 18:00-06:00$(li)Temp.: 2.4°C (-6.2 a 9.5°C)$(li)Altitud: sobre Y=40"
     }
   ]
 }

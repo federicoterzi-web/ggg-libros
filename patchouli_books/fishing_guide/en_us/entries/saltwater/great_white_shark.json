@@ -17,7 +17,7 @@
       "rotate": true,
       "default_rotation": 0.0,
       "name": "Condiciones de pesca",
-      "text": "$(li)Biomas: Océanos$(li)Horario: 04:00-06:00, 06:00-09:00, 17:00-23:00$(li)Temperatura ideal: 8.8°C (rango: 1.5°C a 15.2°C)$(li)Altitud: por encima de Y=40"
+      "text": "$(li)Biomas: Océanos$(li)Horario: 04:00-09:00, 17:00-23:00$(li)Temp.: 8.8°C (1.5 a 15.2°C)$(li)Altitud: sobre Y=40"
     }
   ]
 }

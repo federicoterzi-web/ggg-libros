@@ -17,7 +17,7 @@
       "rotate": true,
       "default_rotation": 0.0,
       "name": "Condiciones de pesca",
-      "text": "$(li)Biomas: Océano Profundo$(li)Horario: 19:00-05:00$(li)Temperatura ideal: 24.0°C (rango: 18.3°C a 29.9°C)$(li)Clima: Lluvia, Tormenta$(li)Altitud: por encima de Y=40"
+      "text": "$(li)Biomas: Océano Profundo$(li)Horario: 19:00-05:00$(li)Temp.: 24.0°C (18.3 a 29.9°C)$(li)Clima: Lluvia, Tormenta$(li)Altitud: sobre Y=40"
     }
   ]
 }
