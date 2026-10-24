@@ -23,7 +23,11 @@
     },
     {
       "type": "patchouli:text",
-      "text": "$(l)Dónde funciona.$() Remeras, pantalones, medias y calientabrazos. Todo se calcula a la resolución de la propia tela y se anima a diez cuadros por segundo.$(br2)$(l)Texturas de tela.$() Los moldes de textura ($(o)fruncido$() y $(o)acolchado$()) se ponen igual, en el casillero del molde: el botón $(o)Textura$() le da relieve a la prenda, o se lo saca. El molde no se gasta."
+      "text": "$(l)Dónde funciona.$() En cualquier prenda del mod, en el sombrero, en las bandas y en los borcegos. Todo se calcula a la resolución de la propia tela y se anima a diez cuadros por segundo. Cada efecto suelta además sus propias partículas alrededor de quien lo lleva, y también del Maniquí."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Texturas de tela.$() Los moldes de textura ($(o)fruncido$() y $(o)acolchado$()) se ponen igual, en el casillero del molde: el botón $(o)Textura$() le da relieve a la prenda, o se lo saca. El molde no se gasta."
     },
     {
       "type": "patchouli:spotlight",

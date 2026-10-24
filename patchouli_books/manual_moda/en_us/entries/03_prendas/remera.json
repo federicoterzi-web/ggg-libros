@@ -21,7 +21,7 @@
     },
     {
       "type": "patchouli:text",
-      "text": "Cualquier remera entra en los dos: así armás remera + saco sin comprar nada más.$(br2)$(l)Lo que se corta en la Modeladora.$() Capucha (con o sin; $(l)H$() la sube y la baja), frente (cerrado, abierto, cruzado o abierto hasta el pecho), solapas (en pico, redondas o chal) y ruedo y puños ajustados. Las solapas y la apertura siguen el borde real del escote: pegadas a la tela, no flotando por su cuenta."
+      "text": "Cualquier remera entra en los dos: así armás remera + saco sin comprar nada más.$(br2)$(l)Lo que se corta en la Modeladora.$() Capucha (con o sin, en estilo $(o)Cajas$() o $(o)Malla$(); $(l)H$() la sube y la baja), frente (cerrado, abierto, cruzado o abierto hasta el pecho), solapas (en pico, redondas o chal) y ruedo y puños ajustados. Las solapas y la apertura siguen el borde real del escote: pegadas a la tela, no flotando por su cuenta."
     },
     {
       "type": "patchouli:text",

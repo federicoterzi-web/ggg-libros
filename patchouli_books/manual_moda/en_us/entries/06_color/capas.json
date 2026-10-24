@@ -11,19 +11,19 @@
     },
     {
       "type": "patchouli:text",
-      "text": "En pantalón: cintura y una botamanga por lado. En medias y calientabrazos: arriba y abajo de cada lado. En la pollera, tres de fila fija. En la capa: exterior, forro, capucha y cuello. Sombrero, banda y calzado tienen sus tres zonas cada uno, y el maletín también.$(br2)$(l)Paso a paso.$()$(br)1. Elegí la prenda con $(o)Categoría$().$(br)2. Clic en un cuadradito: queda con marco dorado."
+      "text": "En pantalón: cintura y una botamanga por lado. En medias y calientabrazos: arriba y abajo de cada lado. En la pollera, tres de fila fija. En la capa: exterior, forro, capucha y cuello. En el delantal: peto y falda. El sombrero (ala, copa y cinta), la banda (banda, borde y herraje), el calzado (cuero, suela y cordones, por pie), el maletín y el banner tienen sus propias zonas."
     },
     {
       "type": "patchouli:text",
-      "text": "3. Para un patrón, poné un molde de patrón en el cuadradito; sin molde, es un color liso.$(br)4. Armá el color con los sliders.$(br2)5. Apretá la chincheta para fijarlo. Con molde, el molde vuelve al almacén; si ya estaba fijado y no tiene molde, se desfija.$(br)6. Prenda en la Entrada y $(l)Teñir$()."
+      "text": "$(l)Paso a paso.$()$(br)1. Elegí la prenda con $(o)Categoría$().$(br)2. Clic en un cuadradito: queda con marco dorado.$(br)3. Para un patrón, poné un molde de patrón en el cuadradito; sin molde, es un color liso.$(br)4. Armá el color con los sliders."
     },
     {
       "type": "patchouli:text",
-      "text": "$(l)Mirar antes de teñir.$() La vista previa muestra lo fijado más el cuadradito que estás editando; si ese no está fijado, la línea $(o)Editando$() dice $(o)sin fijar$() y no va a salir en la prenda. Con el mouse sobre un cuadradito, la vista apaga todo lo que no es su zona."
+      "text": "5. Apretá la chincheta para fijarlo. Con molde, el molde vuelve al almacén; si ya estaba fijado y no tiene molde, se desfija.$(br)6. Prenda en la Entrada y $(l)Teñir$().$(br2)$(l)Mirar antes de teñir.$() La vista previa muestra lo fijado más el cuadradito que estás editando; si ese no está fijado, la línea $(o)Editando$() dice $(o)sin fijar$() y no va a salir en la prenda."
     },
     {
       "type": "patchouli:text",
-      "text": "$(l)Panel de capas.$() Abajo a la derecha, la lista de capas: la de arriba tapa a las de abajo. Cada fila tiene un $(o)ojo$() (oculta la capa sin borrarla: no se aplica ni gasta tinta), la muestra de colores, el nombre y las flechas ▲▼ para reordenar."
+      "text": "Con el mouse sobre un cuadradito, la vista apaga todo lo que no es su zona.$(br2)$(l)Panel de capas.$() Abajo a la derecha, la lista de capas: la de arriba tapa a las de abajo. Cada fila tiene un $(o)ojo$() (oculta la capa sin borrarla: no se aplica ni gasta tinta), la muestra de colores, el nombre y las flechas ▲▼ para reordenar."
     }
   ]
 }

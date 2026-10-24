@@ -31,7 +31,7 @@ e = entrada(c, "banners", "Banners y escudos con foto", "minecraft:white_banner"
 e.txt(
     "**Para la gente que quiere flamear una foto.** Un banner puede llevar una foto de Camerapture, dibujada con dieciséis veces la resolución de vanilla. Un escudo hecho en la mesa de crafteo con ese banner hereda la foto.",
     "**Cómo.** En la Sublimadora, cargá el banner como si fuera una prenda y poné la foto en //Frente//: el banner no tiene espalda. Ajustás escala, posición y ángulo como siempre y la vista previa te muestra el banner terminado.",
-    "Al romper el banner, la foto se conserva. La Estación de Tintes todavía no los acepta, y los banners no se estampan en prendas: son dos cosas distintas con la misma máquina.",
+    "Al romper el banner, la foto se conserva. En la Estación de Tintes el banner tiene su propia categoría, así que también se tiñe. Lo que no existe es estamparlo sobre una prenda: son dos cosas distintas con la misma máquina.",
 )
 
 # ───────────────────────── 08 DETALLES Y ACCESORIOS ─────────────────────────
@@ -75,7 +75,7 @@ e.txt(
     "**Los dieciocho efectos.** //Sentry// acero con barrido de luz; //Dune// arena que centellea; //Coast// espuma de olas; //Wild// venas de hoja; //Ward// latido de sculk; //Eye// ojos del End que parpadean; //Vex// niebla espectral; //Tide// cáusticas profundas; //Snout// magma; //Rib// brasas.",
     "//Spire// iridiscencia del End; //Wayfinder// haz de brújula que gira; //Shaper// líneas de cantera con pulso; //Silence// oscuridad con puntitos pálidos; //Raiser// calor que asciende; //Host// runas que se encienden de a una; //Flow// remolinos de viento; //Bolt// arcos de cobre. Los patrones de otros mods dan brillo metálico.",
     "**Material (opcional).** Un material de trim en su casillero (hierro, cobre, oro, netherita, cuarzo, redstone, lapislázuli, esmeralda, diamante o amatista) cambia los colores del efecto. Gasta una unidad. Sin material, cada patrón usa su paleta de fábrica. Con molde y sin material nuevo, el botón cambia solo el material.",
-    "**Dónde funciona.** Remeras, pantalones, medias y calientabrazos. Todo se calcula a la resolución de la propia tela y se anima a diez cuadros por segundo.",
+    "**Dónde funciona.** En cualquier prenda del mod, en el sombrero, en las bandas y en los borcegos. Todo se calcula a la resolución de la propia tela y se anima a diez cuadros por segundo. Cada efecto suelta además sus propias partículas alrededor de quien lo lleva, y también del Maniquí.",
     "**Texturas de tela.** Los moldes de textura (//fruncido// y //acolchado//) se ponen igual, en el casillero del molde: el botón //Textura// le da relieve a la prenda, o se lo saca. El molde no se gasta.",
 )
 

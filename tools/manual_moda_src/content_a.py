@@ -76,7 +76,7 @@ e.txt(
     "**Una remera con aspiraciones.** La remera es la única prenda de torso. Hoodie, saco, campera y chaleco no son ítems aparte: son rasgos que cualquier remera puede tener. No hay prendas nuevas; hay remeras que crecieron.",
     "**Cómo se llama.** Cada prenda se nombra por su rasgo más fuerte. Por el corte: **musculosa**, **remerón**, **croptop**. Por el cuello: **polera**, **camisa**. Con capucha: **hoodie**. Con solapas y sin capucha: **saco**. Con el frente abierto: **campera**. Sin mangas: **chaleco**. Manga larga lisa: **buzo**. El resto de los rasgos va al tooltip.",
     "**Dónde la llevás cambia dónde se dibuja.** En el lugar //Remera// va debajo de la pollera. En el lugar //Chaqueta// (el de arriba, junto al muñeco) va por encima de todo. Cualquier remera entra en los dos: así armás remera + saco sin comprar nada más.",
-    "**Lo que se corta en la Modeladora.** Capucha (con o sin; **H** la sube y la baja), frente (cerrado, abierto, cruzado o abierto hasta el pecho), solapas (en pico, redondas o chal) y ruedo y puños ajustados. Las solapas y la apertura siguen el borde real del escote: pegadas a la tela, no flotando por su cuenta.",
+    "**Lo que se corta en la Modeladora.** Capucha (con o sin, en estilo //Cajas// o //Malla//; **H** la sube y la baja), frente (cerrado, abierto, cruzado o abierto hasta el pecho), solapas (en pico, redondas o chal) y ruedo y puños ajustados. Las solapas y la apertura siguen el borde real del escote: pegadas a la tela, no flotando por su cuenta.",
     "**El hoodie de fábrica no se craftea.** Se arma desde una remera en la Modeladora: capucha, ruedo y puños ajustados, calce Oversize. Es la comodidad hecha prenda y no hace falta explicarla.",
     "**Un traje completo** se arma con saco (frente abierto, sin capucha, remate recto y solapas), pantalón y remera de cuello camisa. La corbata es un aplique de la Estilista.",
     "{{Fe de erratas:}} los hoodies y los moldes de chaqueta de versiones anteriores no se migraron. Si te quedó alguno viejo, rehacelo desde una remera.",
@@ -107,8 +107,9 @@ e.txt(
 e = entrada(c, "delantal", "Delantal", "modamod:delantal", 4)
 e.spot('modamod:delantal', 'Delantal', '**Cinco lanas y a cocinar (o a fingir).**', receta=True)
 e.txt(
-    "**La prenda que dice “estoy cocinando” aunque no sea verdad.** Se craftea con cinco lanas (la grilla está en el Recetario) y tiene su propia pestaña en la Modeladora.",
-    "Los moldes del delantal definen cuánto cubre (angosto o de frente), la forma de arriba (peto, corazón o trapecio), los tirantes (rectos o cruzados) y el festón del borde. El ruedo //Redondeado// redondea las esquinas de abajo.",
+    "**La prenda que dice “estoy cocinando” aunque no sea verdad.** Se craftea con cinco lanas (la grilla está en el Recetario) y va en su propio lugar de la pantalla de Ropa, por encima de la remera, la chaqueta y la pollera, del pecho hacia abajo.",
+    "**En la Modeladora** tiene su propia pestaña con casilleros para la //forma// (recto, trapecio, peto, corazón o festón), //desde// y //hasta// (de dónde a dónde cubre), la //cobertura// (solo el frente o angosto), los //tirantes// (rectos o cruzados), las //esquinas//, los //volados// (de los costados y de arriba) y el //ruedo//. El ruedo Redondeado redondea las esquinas de abajo.",
+    "**Se tiñe en dos zonas,** //peto// y //falda//, en la Estación de Tintes.",
 )
 
 e = entrada(c, "calzado", "Borcegos y calzado", "modamod:borcegos", 5)

@@ -104,7 +104,7 @@ e.txt(
 e = entrada(c, "capas", "Cuadraditos, chinchetas y capas", "modamod:tinturas", 1)
 e.txt(
     "**Cada cuadradito es una capa.** El dibujo de la prenda tiene un cuadradito por zona, y cada uno es una capa de color con su propia configuración. En la remera: dos de prenda entera, pecho, cuello (solo el borde del escote), manga izquierda, manga derecha, borde de abajo y solapas.",
-    "En pantalón: cintura y una botamanga por lado. En medias y calientabrazos: arriba y abajo de cada lado. En la pollera, tres de fila fija. En la capa: exterior, forro, capucha y cuello. Sombrero, banda y calzado tienen sus tres zonas cada uno, y el maletín también.",
+    "En pantalón: cintura y una botamanga por lado. En medias y calientabrazos: arriba y abajo de cada lado. En la pollera, tres de fila fija. En la capa: exterior, forro, capucha y cuello. En el delantal: peto y falda. El sombrero (ala, copa y cinta), la banda (banda, borde y herraje), el calzado (cuero, suela y cordones, por pie), el maletín y el banner tienen sus propias zonas.",
     "**Paso a paso.**\n1. Elegí la prenda con //Categoría//.\n2. Clic en un cuadradito: queda con marco dorado.\n3. Para un patrón, poné un molde de patrón en el cuadradito; sin molde, es un color liso.\n4. Armá el color con los sliders.",
     "5. Apretá la chincheta para fijarlo. Con molde, el molde vuelve al almacén; si ya estaba fijado y no tiene molde, se desfija.\n6. Prenda en la Entrada y **Teñir**.",
     "**Mirar antes de teñir.** La vista previa muestra lo fijado más el cuadradito que estás editando; si ese no está fijado, la línea //Editando// dice //sin fijar// y no va a salir en la prenda. Con el mouse sobre un cuadradito, la vista apaga todo lo que no es su zona.",

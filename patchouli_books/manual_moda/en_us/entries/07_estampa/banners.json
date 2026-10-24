@@ -11,7 +11,11 @@
     },
     {
       "type": "patchouli:text",
-      "text": "$(l)Cómo.$() En la Sublimadora, cargá el banner como si fuera una prenda y poné la foto en $(o)Frente$(): el banner no tiene espalda. Ajustás escala, posición y ángulo como siempre y la vista previa te muestra el banner terminado.$(br2)Al romper el banner, la foto se conserva. La Estación de Tintes todavía no los acepta, y los banners no se estampan en prendas: son dos cosas distintas con la misma máquina."
+      "text": "$(l)Cómo.$() En la Sublimadora, cargá el banner como si fuera una prenda y poné la foto en $(o)Frente$(): el banner no tiene espalda. Ajustás escala, posición y ángulo como siempre y la vista previa te muestra el banner terminado.$(br2)Al romper el banner, la foto se conserva. En la Estación de Tintes el banner tiene su propia categoría, así que también se tiñe."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Lo que no existe es estamparlo sobre una prenda: son dos cosas distintas con la misma máquina."
     }
   ]
 }
