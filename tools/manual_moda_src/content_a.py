@@ -59,7 +59,7 @@ c = categoria("03_prendas", "Fondo de armario", "modamod:pantalon", 2,
               "Qué hay para ponerse, quién va debajo de quién y por qué tu capa y tu hoodie no se pelean.")
 
 e = entrada(c, "ropero", "El ropero completo", "modamod:remera", 0)
-e.spot("modamod:remera,modamod:pantalon,modamod:socks_solid,modamod:calientabrazos,modamod:pollera,modamod:capa,modamod:delantal,modamod:borcegos,modamod:sombrero_bruja,modamod:cinto",
+e.spot("modamod:remera,modamod:pantalon,modamod:socks_solid,modamod:calientabrazos,modamod:pollera,modamod:capa,modamod:delantal,modamod:borcegos,modamod:sombrero_bruja,modamod:banda",
        "El ropero completo",
        "**Diez prendas y un orden de llegada.**",
        "Remera, pantalón, medias, calientabrazos, pollera, capa, delantal, borcegos, sombrero y cinto. Cada una tiene su lugar en la pantalla de Ropa.")
@@ -124,7 +124,7 @@ e.txt(
 )
 
 e = entrada(c, "accesorios", "Sombreros, cintos y collares", "modamod:sombrero_bruja", 6)
-e.spot("modamod:sombrero_bruja,modamod:cinto", "Sombreros y bandas",
+e.spot("modamod:sombrero_bruja,modamod:banda", "Sombreros y bandas",
        "**Lo que te ponés cuando ya te pusiste todo.**",
        "El sombrero tiene su lugar propio (aparte del casco, así que se lleva con casco, con capucha y con apliques). El cinto y el collar son la misma prenda, la //banda//, en dos lugares distintos.")
 e.txt(
