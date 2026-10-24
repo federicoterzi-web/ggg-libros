@@ -227,6 +227,18 @@ def render(words, scale, width, page_y, book_tex, info, path=None):
     return arte
 
 
+def titulos(book):
+    """Nombres de entrada (boton del indice: ~104 px) y titulos de pagina (116 px): Patchouli no los achica ni los recorta."""
+    ancho = lambda t: sum(advance(c, 0) for c in t)
+    for f in sorted((BOOKS / book).glob("*/entries/**/*.json")):
+        d = json.loads(f.read_text(encoding="utf8"))
+        if ancho(d["name"]) > 104:
+            yield f"entrada '{d['name']}' ({ancho(d['name'])} px > 104 del boton del indice)"
+        for i, p in enumerate(d.get("pages", [])):
+            if p.get("title") and ancho(p["title"]) > PAGE_W:
+                yield f"{d['name']} p{i + 1}: titulo '{p['title']}' ({ancho(p['title'])} px > {PAGE_W})"
+
+
 def text_pages(book):
     """(entrada, nro de pagina, tipo, titulo, texto, y de inicio) de cada pagina con texto."""
     for f in sorted((BOOKS / book).glob("*/entries/**/*.json")):
@@ -273,6 +285,9 @@ def main():
             if arte > a.max_arte:
                 low += 1
                 print(f"  FAIL: {book}/{entry} p{num}: {arte:.0%} de la letra sobre el dibujo/borde (> {a.max_arte:.0%})")
+        for msg in titulos(book):
+            low += 1
+            print(f"  FAIL: {book}: {msg}")
         print(f"== {book}: {n} paginas con texto, {low} con problemas")
         bad += low
     print(f"PNG en {OUT}")

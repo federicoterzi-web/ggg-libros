@@ -1,5 +1,5 @@
 {
-  "name": "Tu primera línea de producción",
+  "name": "Tu primera línea",
   "icon": "modamod:cinta",
   "category": "patchouli:09_serie",
   "sortnum": 3,
@@ -7,7 +7,7 @@
     {
       "type": "patchouli:text",
       "text": "$(l)De lana a outfit sin tocar nada.$() Un esquema posible, de izquierda a derecha, para armar con las cinco máquinas y unas cintas:$(br2)$(l)1. Telar.$() Teje la prenda básica con lana e hilo que le llegan por tolva.$(br)$(l)2. Modeladora.$() Recibe la prenda por su cara izquierda y aplica el corte guardado. Necesita tijeras.",
-      "title": "Tu primera línea de producción"
+      "title": "Tu primera línea"
     },
     {
       "type": "patchouli:text",

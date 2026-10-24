@@ -19,7 +19,7 @@ e.txt(
     "**Línea: sí / no.** Cada máquina tiene un botón de línea de producción, apagado de fábrica, en la pantalla y en el frente (un botoncito con un LED verde). Apagada, la máquina se usa sola: no empuja la prenda terminada a la siguiente ni saltea las que le llegan por cinta o tolva. Prendida, trabaja en cadena. {{Truco:}} apagarla es el freno para poder abrir la pantalla.",
 )
 
-e = entrada(c, "papeleria", "La papelería: moldes en blanco", "modamod:molde_en_blanco", 1)
+e = entrada(c, "papeleria", "Moldes en blanco", "modamod:molde_en_blanco", 1)
 e.spot('modamod:molde_en_blanco,modamod:patron_en_blanco,modamod:mascara_en_blanco,modamod:trama_en_blanco,modamod:plantilla_en_blanco,modamod:diseno_en_blanco', 'Los seis en blanco', '**El papel antes de ser molde.**', 'Cada receta rinde cuatro. Después de esto, todo molde es una variación.', receta=True)
 e.txt(
     "**Todo molde nace en blanco.** Cinco papeles en blanco, y cada receta rinde cuatro:\n- **Molde:** papel y carbón alrededor de unas tijeras.\n- **Patrón:** hilo y tinta entre dos filas de papel.\n- **Máscara:** papel y tinta alrededor de unas tijeras.\n- **Trama:** hilo alrededor de un papel.\n- **Plantilla:** papel y cuero alrededor de unas tijeras.",
@@ -47,7 +47,7 @@ e.txt(
     "{{Fe de erratas:}} los patrones de color (rayas, corazones, estrellas, lunares...) no van acá: viven en la Estación de Tintes.",
 )
 
-e = entrada(c, "rango", "Moldes de rango: la regla de siete", "modamod:molde_rango_cero", 1)
+e = entrada(c, "rango", "Rango: la regla de siete", "modamod:molde_rango_cero", 1)
 e.spot('modamod:molde_rango_cero,modamod:molde_rango_minimo,modamod:molde_rango_corto,modamod:molde_rango_medio,modamod:molde_rango_mediolargo,modamod:molde_rango_largo,modamod:molde_rango_maximo', 'Los siete rangos', '**Siete marcas para medirlo todo.**', 'De la línea más alta a la más baja.', receta=True)
 e.txt(
     "**Una regla, siete marcas.** El molde de rango mide una línea desde arriba hacia abajo, en siete niveles: el nivel //k// está a //2k// filas desde el hombro o la cintura. Se llaman Más alto, Muy alto, Alto, Medio, Bajo, Muy bajo y Más bajo. Sirve para todo: mangas, piernas, largo de remera, tiro, largo de pollera, largo de capa y largo de embozo.",
@@ -101,7 +101,7 @@ e.txt(
     "**Muestras de color.** //Envasar// gasta un frasco de vidrio y te da una Muestra de color con la mezcla que estás editando; el tooltip dice el código y los porcentajes. //Usar muestra// copia esa mezcla al color que estás editando. La muestra es solo la receta: no trae tinta ni se gasta. Es el único regalo que no se rompe.",
 )
 
-e = entrada(c, "capas", "Cuadraditos, chinchetas y capas", "modamod:tinturas", 1)
+e = entrada(c, "capas", "Cuadraditos y capas", "modamod:tinturas", 1)
 e.txt(
     "**Cada cuadradito es una capa.** El dibujo de la prenda tiene un cuadradito por zona, y cada uno es una capa de color con su propia configuración. En la remera: dos de prenda entera, pecho, cuello (solo el borde del escote), manga izquierda, manga derecha, borde de abajo y solapas.",
     "En pantalón: cintura y una botamanga por lado. En medias y calientabrazos: arriba y abajo de cada lado. En la pollera, tres de fila fija. En la capa: exterior, forro, capucha y cuello. En el delantal: peto y falda. El sombrero (ala, copa y cinta), la banda (banda, borde y herraje), el calzado (cuero, suela y cordones, por pie), el maletín tiene las suyas. Las máscaras y el barbijo tienen tres cuadraditos de prenda entera, y el banner tres cuadraditos apilados (un liso de fondo y patrones encima).",
@@ -122,14 +122,14 @@ e.txt(
 )
 
 e = entrada(c, "patrones", "Patrones y motivos", "modamod:pattern_vichy", 3)
-e.img("modamod:textures/gui/libro/motivos.png", titulo="Corazones: grilla, ladrillo, disperso y único")
+e.img("modamod:textures/gui/libro/motivos.png", titulo="Corazones, de cuatro formas")
 e.txt(
     "**Los moldes de patrón son la despensa.** Los rayados (rayas superiores, alternadas, tres rayas), los motivos repetidos (corazones, estrellas, lunares) y el vichy, que hace cuadros de tres tonos con un solo color.",
     "**Animales y clásicos.** Leopardo, cebra, tigre, vaca, jirafa, serpiente y dálmata; tartán, leñador, pata de gallo, argyle, camuflaje, camuflaje digital, zigzag y ventana. Las recetas están en el Recetario. Solo se usan en la Estación de Tintes.",
     "**Repetición de motivos.** //Grilla// (filas parejas), //Ladrillo// (cada fila corrida media posición), //Disperso// (al azar, con huecos) y //Único// (un motivo grande en el frente de cada pieza, tipo logo). Los motivos se reparten para entrar justo alrededor de la pieza: el que cae en la costura sigue del otro lado sin cortarse.",
 )
 
-e = entrada(c, "recetas_color", "Look del día: cuatro recetas de color", "modamod:pattern_corazones", 4)
+e = entrada(c, "recetas_color", "Cuatro recetas de color", "modamod:pattern_corazones", 4)
 e.txt(
     "**Recetas que no necesitan horno.** Cuatro combinaciones para copiar sin vergüenza. Se editan en la Estación de Tintes, cuadradito por cuadradito.",
     "**1. Remera en degradé.** Un cuadradito de prenda entera, sin molde. Dos colores. //Variación: Degradé//. El color pasa de arriba a abajo sin que nadie se lo pida.",

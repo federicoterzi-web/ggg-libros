@@ -122,7 +122,7 @@ e.txt(
     "{{Fe de erratas:}} los tubos todavía no se pausan con redstone, y el hielo no los afecta: eso vale solo para las cintas.",
 )
 
-e = entrada(c, "linea", "Tu primera línea de producción", "modamod:cinta", 3)
+e = entrada(c, "linea", "Tu primera línea", "modamod:cinta", 3)
 e.txt(
     "**De lana a outfit sin tocar nada.** Un esquema posible, de izquierda a derecha, para armar con las cinco máquinas y unas cintas:",
     "**1. Telar.** Teje la prenda básica con lana e hilo que le llegan por tolva.\n**2. Modeladora.** Recibe la prenda por su cara izquierda y aplica el corte guardado. Necesita tijeras.\n**3. Tintes.** La pinta con el diseño fijado.\n**4. Sublimadora.** Le imprime la foto.\n**5. Estilista.** Le pega los detalles. La prenda sale por la derecha, a un cofre.",

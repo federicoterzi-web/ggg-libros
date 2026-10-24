@@ -1,5 +1,5 @@
 {
-  "name": "Cuadraditos, chinchetas y capas",
+  "name": "Cuadraditos y capas",
   "icon": "modamod:tinturas",
   "category": "patchouli:06_color",
   "sortnum": 1,
@@ -7,7 +7,7 @@
     {
       "type": "patchouli:text",
       "text": "$(l)Cada cuadradito es una capa.$() El dibujo de la prenda tiene un cuadradito por zona, y cada uno es una capa de color con su propia configuración. En la remera: dos de prenda entera, pecho, cuello (solo el borde del escote), manga izquierda, manga derecha, borde de abajo y solapas.",
-      "title": "Cuadraditos, chinchetas y capas"
+      "title": "Cuadraditos y capas"
     },
     {
       "type": "patchouli:text",

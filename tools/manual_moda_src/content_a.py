@@ -16,7 +16,7 @@ e.txt(
     "{{Fe de erratas:}} el manual sabe más de lo que el servidor te deja hacer. Algunas cosas existen solo en creativo o para operadores; las marcamos para que no las busques en vano.",
 )
 
-e = entrada(c, "primer_look", "Tu primer look en seis pasos", "modamod:remera", 1)
+e = entrada(c, "primer_look", "Tu primer look", "modamod:remera", 1)
 e.spot('modamod:remera,modamod:modelado,modamod:tinturas,modamod:sublimadora,modamod:estilista,modamod:guardarropas', 'El kit de arranque', '**Seis ítems, seis pasos.**', 'Una remera y cinco máquinas de las que vas a hablar bien.', receta=False)
 e.txt(
     "**Seis pasos, sin drama.** Es el camino más corto de la lana al outfit. Cada paso tiene su capítulo; esto es la versión de ascensor.",
@@ -70,7 +70,7 @@ e.txt(
     "{{Fe de erratas:}} las Medias 3/4, las Medias de red y el Traje de Maid de versiones viejas ya no se craftean (las que existían siguen andando). Hoy las medias salen con el largo que quieras y la trama de red va en la Modeladora.",
 )
 
-e = entrada(c, "remera", "Remera, hoodie y toda la familia", "modamod:remera", 1)
+e = entrada(c, "remera", "Remera, hoodie y saco", "modamod:remera", 1)
 e.spot('modamod:remera', 'Remera', '**Ocho lanas, mil versiones.**', 'Hoodie, saco, campera y chaleco empiezan todos acá.', receta=True)
 e.txt(
     "**Una remera con aspiraciones.** La remera es la única prenda de torso. Hoodie, saco, campera y chaleco no son ítems aparte: son rasgos que cualquier remera puede tener. No hay prendas nuevas; hay remeras que crecieron.",
@@ -82,7 +82,7 @@ e.txt(
     "{{Fe de erratas:}} los hoodies y los moldes de chaqueta de versiones anteriores no se migraron. Si te quedó alguno viejo, rehacelo desde una remera.",
 )
 
-e = entrada(c, "piernas_brazos", "Pantalón, medias y calientabrazos", "modamod:pantalon", 2)
+e = entrada(c, "piernas_brazos", "Piernas y brazos", "modamod:pantalon", 2)
 e.spot('modamod:pantalon,modamod:socks_solid,modamod:calientabrazos', 'Piernas y brazos', '**Tres prendas, cuatro extremidades y varias opiniones.**', 'Cada lado se corta por su cuenta.', receta=True)
 e.txt(
     "**Por cada pierna y cada brazo, una decisión.** Pantalón, medias y calientabrazos se cortan por lado: el izquierdo y el derecho pueden ser distintos. Sí, se puede un pantalón con una botamanga larga y otra corta. Se llama asimetría y en la pasarela le dicen “propuesta”.",
@@ -125,7 +125,7 @@ e.txt(
     "**La botamanga.** Un casillero define cómo se lleva el pantalón: por dentro de la caña (el pantalón se corta donde empieza la caña y se ven el cuero y los cordones) o por fuera (baja entero y se ensancha sobre la caña).",
 )
 
-e = entrada(c, "accesorios", "Sombreros, cintos y collares", "modamod:sombrero_bruja", 6)
+e = entrada(c, "accesorios", "Sombreros y bandas", "modamod:sombrero_bruja", 6)
 e.spot("modamod:sombrero_bruja,modamod:banda", "Sombreros y bandas",
        "**Lo que te ponés cuando ya te pusiste todo.**",
        "El sombrero tiene su lugar propio (aparte del casco, así que se lleva con casco, con capucha y con apliques). El cinto y el collar son la misma prenda, la //banda//, en dos lugares distintos.")
@@ -145,7 +145,7 @@ e.txt(
     "**Salen blancas.** Se tiñen en la Estación de Tintes, en las categorías //Máscara// y //Barbijo//, con tres cuadraditos de prenda entera, y llevan una foto de la Sublimadora en el frente (sin espalda ni capas con máscara).",
 )
 
-e = entrada(c, "pantalla_ropa", "Pantalla de Ropa y armadura cosmética", "minecraft:iron_chestplate", 8)
+e = entrada(c, "pantalla_ropa", "Pantalla de Ropa", "minecraft:iron_chestplate", 8)
 e.txt(
     "**Un solo lugar para todo lo que te ponés.** Los lugares de ropa del mod ya no están en el inventario de siempre: se abren con el botón //Ropa// del inventario o con **K** (también en creativo, y vuelve a cerrar).",
     "**Qué muestra.** Tu personaje, los lugares de ropa del mod, la **armadura real** (la que da las estadísticas), la **armadura cosmética** (solo se ve; casco, pechera, pantalón y botas) y tu inventario. La pechera cosmética acepta élitros y el casco acepta calabazas y cabezas.",

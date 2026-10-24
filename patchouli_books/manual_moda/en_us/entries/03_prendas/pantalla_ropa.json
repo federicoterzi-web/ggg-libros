@@ -1,5 +1,5 @@
 {
-  "name": "Pantalla de Ropa y armadura cosmética",
+  "name": "Pantalla de Ropa",
   "icon": "minecraft:iron_chestplate",
   "category": "patchouli:03_prendas",
   "sortnum": 8,
@@ -7,7 +7,7 @@
     {
       "type": "patchouli:text",
       "text": "$(l)Un solo lugar para todo lo que te ponés.$() Los lugares de ropa del mod ya no están en el inventario de siempre: se abren con el botón $(o)Ropa$() del inventario o con $(l)K$() (también en creativo, y vuelve a cerrar).",
-      "title": "Pantalla de Ropa y armadura cosmética"
+      "title": "Pantalla de Ropa"
     },
     {
       "type": "patchouli:text",
