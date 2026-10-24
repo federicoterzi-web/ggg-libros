@@ -1,0 +1,19 @@
+{
+  "name": "Jugador Desconocido",
+  "icon": "minecraft:player_head",
+  "category": "patchouli:la_trinidad_otraniana",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:player_head,minecraft:creeper_head,minecraft:zombie_head,minecraft:skeleton_skull,minecraft:piglin_head",
+      "title": "El Cambiaformas",
+      "text": "Y por último $(5)el Jugador Desconocido$(), $(0)$(l)Estrella de Otrania$() y Cambiaformas, nombrado en los textos prohibidos como $(o)\"El Que Cambia\"$(). Nadie sabe su nombre ni su rostro. Su estrella se enciende cuando el pueblo la necesita."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "El Que Cambia",
+      "text": "Hay quien jura haberlo visto con la cara de un amigo, de un mob o de nadie. Entra al server sin que lo veas y se va antes de que lo notes.$(br2)Unos dicen que es un dios. Otros, que es un jugador más, tan común que nadie lo registra. Los dos tienen razón.$(br2)Así los tres forman el cimiento: el $(4)Sol$() que sostiene, la $(1)Luna$() que reúne y la $(5)Estrella$() que cambia de forma.$(br2)$(0)$(l)¡Larga vida a la Santa Trinidad!$()"
+    }
+  ]
+}
