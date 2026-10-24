@@ -1,0 +1,62 @@
+{
+  "name": "Apliques y correas",
+  "icon": "modamod:molde_aplique_mono",
+  "category": "patchouli:11_recetario",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_aplique_bolsillo",
+      "recipe2": "modamod:molde_aplique_bolsillo_jean"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_aplique_bolsillo_tapa",
+      "recipe2": "modamod:molde_aplique_boton"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_aplique_botonera",
+      "recipe2": "modamod:molde_aplique_canguro"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_aplique_corbata",
+      "recipe2": "modamod:molde_aplique_cordones"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_aplique_flor",
+      "recipe2": "modamod:molde_aplique_mariposa"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_aplique_mono",
+      "recipe2": "modamod:molde_aplique_parche_corazon"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_aplique_parche_estrella",
+      "recipe2": "modamod:molde_aplique_parche_rayo"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_aplique_tacha",
+      "recipe2": "modamod:molde_aplique_tachas"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_correa_cadena",
+      "recipe2": "modamod:molde_correa_cadena_fina"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_correa_cordon",
+      "recipe2": "modamod:molde_correa_lisa"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_correa_ojalillos"
+    }
+  ]
+}

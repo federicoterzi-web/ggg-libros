@@ -1,0 +1,23 @@
+{
+  "name": "Delantal",
+  "icon": "modamod:delantal",
+  "category": "patchouli:03_prendas",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "modamod:delantal",
+      "title": "Delantal",
+      "link_recipe": true,
+      "text": "$(l)Cinco lanas y a cocinar (o a fingir).$()"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)La prenda que dice “estoy cocinando” aunque no sea verdad.$() Se craftea con cinco lanas (la grilla está en el Recetario) y tiene su propia pestaña en la Modeladora.$(br2)Los moldes del delantal definen cuánto cubre (angosto o de frente), la forma de arriba (peto, corazón o trapecio), los tirantes (rectos o cruzados) y el festón del borde."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "El ruedo $(o)Redondeado$() redondea las esquinas de abajo."
+    }
+  ]
+}

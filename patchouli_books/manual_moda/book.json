@@ -1,8 +1,8 @@
 {
   "name": "Manual de Moda",
-  "landing_text": "Todo lo de $(l)ModaMod$(): la ropa, el cuerpo, las máquinas y las recetas.$(br2)Elegí un capítulo.",
-  "subtitle": "ModaMod",
-  "version": 1,
+  "landing_text": "$(l)ModaMod$(): manual de moda y otros delitos textiles.$(br2)Acá aprendés a cortar, teñir, estampar y presumir, en ese orden y sin que nadie te juzgue (salvo el espejo).$(br2)Empezá por $(l)Portada$(). Después, a la máquina que más curiosidad te dé.",
+  "subtitle": "Del hilo al outfit",
+  "version": 2,
   "creative_tab": "minecraft:tools_and_utilities",
   "model": "ggg:manual_moda",
   "book_texture": "ggg:textures/gui/manual_moda.png",

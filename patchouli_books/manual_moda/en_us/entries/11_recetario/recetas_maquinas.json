@@ -1,0 +1,28 @@
+{
+  "name": "Máquinas",
+  "icon": "modamod:modelado",
+  "category": "patchouli:11_recetario",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:modelado",
+      "recipe2": "modamod:tinturas"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:sublimadora",
+      "recipe2": "modamod:estilista"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:telar",
+      "recipe2": "modamod:guardarropas"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:maniqui",
+      "recipe2": "modamod:maletin"
+    }
+  ]
+}
