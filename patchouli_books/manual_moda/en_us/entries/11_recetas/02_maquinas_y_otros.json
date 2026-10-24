@@ -1,0 +1,53 @@
+{
+  "name": "Máquinas y otros",
+  "icon": "minecraft:crafting_table",
+  "category": "patchouli:11_recetas",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:cinta",
+      "recipe2": "modamod:empalme"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:empalme_tubo",
+      "recipe2": "modamod:estilista"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:extractor",
+      "recipe2": "modamod:guardarropas"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:maletin",
+      "recipe2": "modamod:maniqui"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:modelado",
+      "recipe2": "modamod:patron_en_blanco"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:plantilla_en_blanco",
+      "recipe2": "modamod:retazo_aplique"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:sublimadora",
+      "recipe2": "modamod:telar"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:tinturas",
+      "recipe2": "modamod:trama_en_blanco"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:tubo",
+      "recipe2": "modamod:valvula"
+    }
+  ]
+}

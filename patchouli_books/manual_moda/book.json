@@ -1,0 +1,16 @@
+{
+  "name": "Manual de Moda",
+  "landing_text": "Todo lo de $(l)ModaMod$(): la ropa, el cuerpo, las máquinas y las recetas.$(br2)Elegí un capítulo.",
+  "subtitle": "ModaMod",
+  "version": 1,
+  "creative_tab": "minecraft:tools_and_utilities",
+  "model": "ggg:manual_moda",
+  "book_texture": "ggg:textures/gui/manual_moda.png",
+  "use_resource_pack": false,
+  "show_progress": false,
+  "filler_texture": "ggg:textures/gui/moda_filler.png",
+  "header_color": "63345e",
+  "link_color": "963e86",
+  "advancements_enabled": false,
+  "dont_generate_book": false
+}

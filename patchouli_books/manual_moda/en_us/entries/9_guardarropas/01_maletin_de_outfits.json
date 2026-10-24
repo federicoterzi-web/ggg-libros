@@ -1,0 +1,57 @@
+{
+  "name": "Maletín de outfits",
+  "icon": "modamod:maletin",
+  "category": "patchouli:9_guardarropas",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "modamod:maletin",
+      "link_recipe": true
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Un $(l)maletín de cuero modelado en 3D$() (asa, cierres dorados, esquineros y patas) para $(l)vestirte con los outfits de un Guardarropas desde cualquier lado$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Vincular:$() $(l)Shift + clic$() sobre un Guardarropas. Desde ahí el maletín usa $(l)el mismo almacenamiento$() que ese mueble:$(br2)lo que guardás en el Guardarropas aparece en el maletín y al revés (lo que te sacás con el maletín queda guardado en el mueble)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Funciona aunque el mueble esté lejos o descargado, porque los outfits viven en el mundo y no dentro del bloque."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Clic derecho:$() abre una lista $(l)solo con los nombres$() de los outfits (sin muñeco, sin slots, sin vista previa): tocás uno y te lo pone entero. $(l)Shift + clic derecho:$() te pone el $(l)siguiente$() al instante, con humo, destellos y una campanita."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)Lo que llevabas puesto vuelve al Guardarropas: con su nombre, al final de la lista, si era un outfit guardado; si no, como el outfit $(l)Anterior$() (el primero de la lista). Así el Shift + clic derecho repetido hace la ronda por todos los outfits."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)No sirve para guardar ni combinar ni desarmar$(): eso se hace en el Guardarropas (tampoco tiene candado propio; si el Guardarropas está cerrado, el maletín igual viste con sus outfits)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Apoyarlo$(): $(l)clic derecho sobre un bloque$() (con algo firme abajo) lo deja parado, con la manija arriba, mirando hacia vos. Apoyado, el $(l)clic derecho$() abre la lista de outfits igual que en la mano y $(l)Shift + clic derecho$() lo levanta."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Al romperlo cae con todo (vínculo, colores, patrones y apliques). La lista desde la mano ahora se abre apuntando al aire."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Teñirlo y decorarlo:$() tiene $(l)3 zonas$() como el sombrero o la banda: $(l)cuero$(), $(l)costuras y manija$() y $(l)herrajes$(). En la $(l)Estación de Tintes$() (categoría Maletín) lleva colores y patrones por zona, y en la $(l)Estilista$() colores por zona y $(l)apliques$() sobre cualquier cara."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "En las dos máquinas se ve colgando de la mano del muñeco; en el inventario, en la mano y apoyado se ve con sus colores y apliques.$(br2)Es un mueble con puerta: se pone de frente a quien lo coloca y la puerta se abre hacia afuera mientras alguien tiene la pantalla abierta."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(o)El sistema de estilos guardados todavía está en construcción.$()"
+    }
+  ]
+}

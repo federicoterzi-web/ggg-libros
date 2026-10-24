@@ -1,0 +1,24 @@
+{
+  "name": "Panel de capas",
+  "icon": "modamod:tinturas",
+  "category": "patchouli:7_estacion_de_tintes",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Abajo a la derecha hay una $(l)lista de las capas$() que participan (las fijadas más la que estás editando), ordenadas como se pintan: $(l)la de arriba de la lista tapa a las de abajo$(). Cada fila muestra:"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)$(l)Ojo$()$(): Click para ocultar o mostrar la capa. Una capa oculta $(l)sigue fijada$() y se guarda en los diseños, pero $(l)no se aplica al teñir, no gasta tinta y no sale en la vista previa$().$(br2)Si todas las fijadas están ocultas, Teñir avisa que no hay nada para aplicar."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)$(l)Muestra$()$(): Los colores de la capa (una franja por color).$(br)$(li)$(l)$(l)Nombre$()$(): Zona y patrón (o \"liso\"). En cursiva si todavía no está fijada. Click selecciona la capa, igual que tocar su cuadradito.$(br)$(li)$(l)$(l)▲ ▼$()$(): Sube o baja esa capa en el orden de pintado (y la selecciona)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La fila de la capa seleccionada tiene marco dorado. Pasar el mouse por una fila resalta su zona en la vista previa."
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "name": "Tolvas",
+  "icon": "minecraft:hopper",
+  "category": "patchouli:5_las_maquinas",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:hopper",
+      "link_recipe": true
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Las máquinas se pueden encadenar con tolvas (hoppers):$(br)$(li)$(l)$(l)Arriba$()$(): La prenda a procesar (entra sola y arranca sola).$(br)$(li)$(l)$(l)Izquierda$()$(): También entra la prenda (es la cara donde empalma la máquina de al lado)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)$(l)Atrás$()$(): Los insumos: tintes (C, M, Y, K) y papel.$(br)$(li)$(l)$(l)Derecha$()$(): La prenda terminada sale sola hacia un cofre o tolva de ese lado."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Con tolva, la prenda $(l)arranca sola$() si hay un diseño fijado. Desde la interfaz, las tres tienen un botón sobre la flecha Entrada → Salida: $(l)Modelar$(), $(l)Teñir$() y $(l)Prensar$(). $(l)Cerrar la interfaz no arranca nada$():"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "las máquinas (Modeladora, Estación de Tintes, Sublimadora y Mesa de estilado) solo arrancan con su botón o cuando entra la prenda por arriba con un diseño fijado."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Línea de producción$(): si ponés dos máquinas una al lado de la otra (la salida de la primera mira a la entrada izquierda de la segunda, mismo sentido), la prenda terminada pasa directo a la siguiente sin tolvas, y la última la deja en un cofre/tolva a su derecha."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Si una máquina de la cadena no tiene nada fijado para esa prenda (sin corte, sin cuadraditos de tinte o sin fotos/máscaras), la $(l)saltea$() y la prenda sigue de largo. Una prenda que cargás a mano o con tolva por arriba se comporta como siempre (espera en la entrada)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La Sublimadora con fotos fijadas deja la prenda esperando a que cierres la tapa. $(l)Patrones y tramas de color$() (rayas, corazones, estrellas, lunares, vichy...) se usan solo en la Estación de Tintes; la Modeladora ya no los acepta."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Al almacén general de la Modeladora van los moldes de corte, rango, calce, red y manga (25 de 27 casilleros)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)La GUI sigue a la prenda$(): cuando entra una prenda a una máquina (a mano, por tolva, por cinta o cadena), la pantalla pasa sola a la categoría de esa prenda. $(l)Sublimadora:$() al abrir su pantalla la tapa se abre;"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "al salir se cierra y, si hay algo fijado, arranca el prensado (como las otras máquinas; con una prenda lista esperando, la tapa queda abierta para retirarla). Si una prenda llega por tolva o cadena con un diseño fijado, la Sublimadora arranca sola."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Las $(l)capas con máscara$() que fijás ahora son el diseño de la máquina: se quedan entre prenda y prenda y se suman a las capas que la prenda ya traía (hasta 12), así no hay que volver a fijar."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Cinta transportadora$(): un bloque que lleva una prenda por bloque hacia adelante (el lado en que mirabas al ponerla) y la entrega al inventario de enfrente: otra cinta, una máquina por su cara izquierda, un cofre o una tolva."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Recibe por atrás, por los costados y por arriba (tolvas). Se encadenan las que quieras, así las máquinas pueden quedar separadas. $(l)Curvas:$() se arman solas como un riel:"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "si por atrás no le llega nada y desde un costado sí (otra cinta que mira hacia ella, o una máquina que empuja hacia ella), se curva hacia ese lado. $(l)Rampas$():"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "si adelante, a la misma altura, no hay nada que reciba pero sí una cinta o máquina un nivel más ARRIBA, la cinta se vuelve $(l)rampa de subida$(); si está un nivel más ABAJO, $(l)rampa de bajada$(). La rampa ocupa su bloque como una escalera (45°)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La de subida va a la altura de quien la alimenta y entrega un nivel más arriba. La de bajada se coloca en el nivel de abajo:"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "la cinta de arriba le entrega por atrás y la rampa baja hasta la banda del bloque de adelante, sin meterse en el bloque de abajo, y si es una máquina, por su cara izquierda. La rampa no se curva a la vez (para subir y girar: rampa y después curva)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La prenda se ve viajando acostada sobre la banda animada (16 ticks por bloque recto, 13 por curva). Si adelante no hay lugar, espera al final. Cada máquina muestra la prenda terminada sobre su bandeja de salida (la que se desliza hacia afuera) hasta que sale."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Si rompés una cinta con una prenda encima, la prenda cae. $(l)Cualquier ítem, click y redstone$(): la cinta lleva cualquier ítem (de a uno por bloque; los que no son prendas se ven apoyados en la banda). $(l)Click derecho con la mano vacía$() saca lo que lleva;"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)con un ítem en la mano$() lo pone si la cinta está libre (con un bloque en la mano hay que agacharse, si no se coloca el bloque). La forma (curva, rampa) se $(l)recalcula sola$() al cambiar los bloques de alrededor y cada segundo, ya no hace falta el click."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Con señal de redstone$() la cinta se ve parada (banda quieta) y el ítem se congela donde está; las $(l)tres máquinas$() también se detienen del todo (no trabajan ni reciben ni empujan) hasta que se corta la señal. $(l)Empalme de cintas$():"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "bloque que junta hasta $(l)tres entradas$() (atrás y los dos costados, cintas o lo que empuje) y una $(l)tolva por arriba$(), y las saca por $(l)una salida$() (el frente). Es $(l)rotativo$(): alterna entre las entradas que tienen algo esperando."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "También se saca/pone con click derecho y se frena con redstone. Arreglo: las rampas tenían planos transparentes por encima (las cajas salían de 0..16 y las UV automáticas quedaban fuera de la textura): ahora llevan UV explícitas. $(l)Deslizamiento$():"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "quien se sube a la cinta y no toca las teclas se $(l)desliza$() con las piernas quietas y sin bamboleo de cámara, como sobre hielo; si camina o corre sobre la banda, se anima por su propio paso."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Cinta parada sobre hielo:$() con la cinta parada por redstone caminás normal aunque tenga hielo abajo (no te deslizás); en marcha, el hielo de abajo sigue acelerándola. $(o)(La cadena completa todavía no se probó a fondo; la Mesa de estilado queda afuera hasta que se rehaga.)$()"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Tubos de transporte$(): para llevar ítems en vertical y en cualquier dirección. $(l)Tubo de transporte:$() un caño liso de vidrio sin sentido propio que $(l)se conecta solo$() con los tubos y empalmes de tubo que tiene al lado: donde conecta, el vidrio sigue de largo sin borde;"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "en las puntas libres lleva una tapa de cobre. Con un solo vecino queda como tramo recto, con dos es recto o $(l)codo$(), con más es un nudo. Cada punta muestra qué hace: $(l)sin borde$() donde sigue en otro tubo; $(l)boca$() (aro de cobre con agujero) donde larga o toma cosas:"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "hacia un $(l)contenedor$() (cofre, tolva, cinta, máquina) en la punta de un tramo, o hacia un $(l)extractor$() que empuja hacia el tubo (este abre brazo aunque esté al costado); y $(l)tapa$() cerrada donde no da a nada. Un contenedor al costado de un tramo que sigue de largo no se conecta."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Los $(l)codos y nudos$() llevan las aristas del centro recubiertas del cobre de las tapas. El empalme de tubo usa las mismas puntas. El ítem viaja $(l)flotando en el centro$() del caño y girando despacio, como uno tirado. Se pone a lo largo de la cara apuntada."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "El ítem entra por una cara y sale por la $(l)opuesta$() (o por el codo); si hay varias salidas, por turnos. Se entrega a otro tubo, un empalme de tubo, una $(l)cinta$() (y la cinta a un tubo), un cofre o una máquina. $(l)Agua:$() en los tramos verticales el sentido lo manda el agua:"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "con un $(l)balde de agua$() el tubo (y toda la columna de tubos conectada en vertical) se llena, se ven burbujitas y los ítems $(l)suben$() (más despacio: 24 ticks por bloque; el resto 16); con un $(l)balde vacío$() se vacía y los ítems $(l)bajan$(). Es un estado del bloque, sin agua real:"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "no se derrama. Los ítems que entran por un costado de un tramo vertical siguen el sentido del agua, y un tubo no recibe lo que iría contra el agua (de arriba con agua, de abajo sin ella). $(l)Empalme de tubo:$() un nudo de 6 caras con un casillero de filtro por cara:"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)ítem en la mano apuntando a esa cara$() lo pone de filtro (agachado con el ítem no filtra, apoya el bloque), mano vacía lo borra y $(l)Shift + mano vacía$() pasa a filtrar por tag (se ve repetido, como una pila). Las reglas son las del empalme de cintas:"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "un ítem registrado sale por las caras cuyo filtro lo deja pasar (si están llenas, sigue por las caras sin filtro); uno no registrado se reparte por turnos entre las caras sin filtro; nunca sale por donde entró. Receta:"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "2 lingotes de cobre con un vidrio en el medio dan 4 tubos; el empalme de tubo = tubo + bloque de redstone + tolva. $(l)Cerrar una cara$():"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Shift + clic derecho con la mano vacía$() sobre un brazo del tubo cierra esa cara (lleva tapa de cobre y no se conecta, no recibe ni entrega nada); otra vez la abre. Sirve para separar dos tramos pegados en paralelo, que si no se conectan entre sí. $(l)Con cintas$():"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "una cinta que entrega hacia un tubo le abre brazo con boca, aunque el tubo sea un tramo que sigue de largo. Al pasar de tubo a cinta el ítem deja de girar, se achica a la escala de la cinta, se acuesta y se orienta como ella antes de llegar;"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "al entrar desde una cinta hace lo contrario. Sobre una cinta el manguito de cobre frena un poco arriba de la banda, así se ve caer el ítem."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Lo que cae desde arriba a una cinta (tubo o tolva) o entra por el costado de una cinta recta arranca en el medio de la banda (y tarda medio bloque), donde lo deja el tubo. $(l)Todavía no:$() redstone (no se pausan), hielo ni ítems tirados al piso (solo valen para las cintas)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Extractor$(): se pega a la cara del contenedor que apuntás y empuja hacia afuera (agachado, al revés), así saca $(l)de costado o hacia arriba$(), cosa que la tolva no hace. Cada 8 ticks (como la tolva) saca un ítem del contenedor de atrás y lo empuja al de adelante:"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "un tubo, una cinta, un cofre o una máquina; si adelante no entra, no saca. Del cofre doble saca de las dos mitades. De las máquinas del mod saca solo lo que ellas dejan sacar (su bandeja de salida)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Filtro:$() ítem en la mano lo pone (se ve sobre el extractor), mano vacía lo borra, $(l)Shift + mano vacía$() filtra por tag. $(l)Redstone:$() con señal se pausa."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Válvula antirretorno$(): un tramo de tubo con $(l)sentido fijo$(), en forma de embudo: recibe solo por atrás (la boca ancha) y entrega solo por el pico, al ritmo de un tubo (16 ticks). El pico apunta hacia donde mirás al ponerla (agachado, al revés)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Se conecta con tubos y empalmes solo a lo largo de su eje; un tubo nunca le manda nada por el pico. El agua no la cambia de sentido, pero el tubo que recibe sigue rechazando lo que va contra su agua (una válvula hacia arriba necesita la columna de arriba con agua)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Una válvula vertical no corta la columna: el balde llena o vacía también los tubos del otro lado.$(br2)$(l)Cómo se ven los ítems en la cinta$(): todos los ítems planos van acostados sobre la banda (el hilo, las semillas y la redstone también) y los bloques van apoyados."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Pantalla de Ropa y armadura cosmética$(): los slots de ropa del mod (sombrero, collar/choker, capa, hoodie, prenda del torso, cinto, calentadores, pantalón/pollera y medias) $(l)ya no aparecen en el inventario de siempre$(); los de otros mods de Trinkets se quedan donde estaban."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Se abren desde el botón $(l)Ropa$() del inventario (junto al libro de recetas) o con la tecla $(l)K$() (configurable en Controles: \"Abrir ropa\"; también sirve en creativo y vuelve a cerrar la pantalla)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La pantalla muestra al personaje, los slots de ropa del mod, la $(l)armadura real$() (la que da las estadísticas), la $(l)armadura cosmética$() (solo se ve; casco, pechera, pantalón y botas; la pechera acepta también élitros y el casco calabazas y cabezas) y el inventario."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Por cada pieza hay dos interruptores: $(l)Cosm.$() (se ve el ítem cosmético en vez de la armadura real) y $(l)Ocultar$() (no se dibuja nada). Si \"Cosm.\" está prendido y el slot cosmético está vacío, la pieza se ve oculta. Con los dos apagados se ve la armadura real, como siempre."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Los demás jugadores ven lo mismo que vos, y se guarda con el personaje (también al morir). Las estadísticas siempre salen de la armadura real."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estilista automática, etapa 1$(): la máquina nueva que va a reemplazar a la Mesa de estilado. Es un bloque de la línea textil igual que la Modeladora:"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "la prenda entra por $(l)arriba$() o por la $(l)izquierda$() (cinta, tolva o la salida de la máquina de al lado), sale por la $(l)derecha$(), se frena con redstone, tiene luz y LED, y se rompe con todo adentro."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "El modelo es el cuerpo de la Modeladora (pantalla, LED, barra de progreso, ventilador, bandeja de salida) con la tapa del auto_styler (el pórtico que va y viene) arriba. $(l)Hoy todavía no aplica ningún diseño$():"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "una prenda que llega por la cadena pasa de largo, y a mano el botón $(l)Probar$() de su pantalla provisoria corre los 13 segundos de animación del pórtico con la prenda cargada. Lo que falta (etapas 2 y 3):"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "migrar apliques, correas, colores y dibujos de sombrero y bandas, y textura de la Mesa; diseño guardado en la máquina y por tipo de prenda; almacén propio con $(l)hilo$() (apliques) y $(l)cuero$() (correas) como insumos;"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "y la pantalla definitiva en estilo pergamino con la vista grande. La Mesa de estilado sigue funcionando hasta que la nueva ande.$(br2)$(l)Nombres y tooltips de los ítems$():"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "cada molde, trama, máscara, plantilla y motivo muestra, bajo el nombre, su $(l)tipo$() (Molde de corte de cuello, Molde de calce, Trama, Máscara de sublimado, Plantilla de aplique / de correa, Motivo, Patrón...), las $(l)prendas$() a las que aplica (con más de tres se abrevia y $(l)Shift$()"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "muestra la lista completa) y $(l)dónde se usa$() (Mesa de Modelado, Estación de Tintes, Sublimadora o Mesa de estilado, cada una con el color de su tema)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Cambios de nombre: las redes son $(l)Trama: …$(), los moldes de máscara son $(l)Máscara de sublimado: …$(), los de aplique y correa son $(l)Plantilla de aplique / de correa: …$(), y los patrones con dibujo (corazones, estrellas, lunares, vichy) son $(l)Motivo:"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "…$() (las rayas siguen siendo Patrón). El $(l)Molde de mangas$() cíclico se jubiló (ya no está en la pestaña creativa ni tiene receta; los mundos viejos lo conservan). El $(l)Empalme$() de cintas ahora tiene los postes de las esquinas más bajos para que las cintas empalmen al ras."
+    }
+  ]
+}

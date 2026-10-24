@@ -1,0 +1,40 @@
+{
+  "name": "Cómo se usa",
+  "icon": "modamod:tinturas",
+  "category": "patchouli:7_estacion_de_tintes",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "1. Elegí la prenda con $(l)Categoría$(). 2. $(l)Click en un cuadradito$() para seleccionarlo (queda con marco dorado). Los sliders y botones editan ese cuadradito. 3."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Poné un $(l)molde de patrón$() en el cuadradito si querés patrón. $(l)Sin molde, la capa es un color liso$() en esa zona. 4. Elegí el color con los $(l)sliders CMYK$() (a la derecha, con la muestra del color). 5.$(br2)Apretá la $(l)chincheta$() del cuadradito para $(l)fijarlo$():"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li2)con molde: queda fijado con ese patrón y el molde vuelve al $(l)almacén$() (30 lugares, en la columna izquierda debajo de Guardar diseño);$(br)$(li2)sin molde: queda fijado como color liso;$(br)$(li2)si ya estaba fijado y no tiene molde: se desfija."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "6. Poné la prenda en la $(l)Entrada$() y apretá $(l)Teñir$() (el botón sobre la flecha)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Debajo de cada cuadradito que participa aparece una tira con su color. La vista previa muestra $(l)exactamente lo fijado$() más el cuadradito que estás editando (si ese no está fijado, la línea \"Editando\" dice $(o)sin fijar$(): no va a salir en la prenda)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Si ponés un molde nuevo en un cuadradito que ya estaba fijado, se usa ese molde sin tener que volver a clavar la chincheta."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Resaltado en 3D.$() Con el mouse encima de un cuadradito del dibujo (o de su chincheta, o de su fila en el panel de capas), la vista previa $(l)apaga todo lo que no es su zona$(): lo demás de la prenda se oscurece y la zona queda con su color real."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "En los cuadraditos de prenda entera no se apaga nada.$(br2)Al teñir, el $(l)ícono$() del ítem toma el color de la capa lisa de prenda entera que quede más arriba (el ícono no muestra patrones)."
+    }
+  ]
+}

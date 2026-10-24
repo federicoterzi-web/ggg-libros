@@ -1,0 +1,22 @@
+{
+  "name": "Correas",
+  "icon": "minecraft:crafting_table",
+  "category": "patchouli:11_recetas",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_correa_cadena",
+      "recipe2": "modamod:molde_correa_cadena_fina"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_correa_cordon",
+      "recipe2": "modamod:molde_correa_lisa"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modamod:molde_correa_ojalillos"
+    }
+  ]
+}
