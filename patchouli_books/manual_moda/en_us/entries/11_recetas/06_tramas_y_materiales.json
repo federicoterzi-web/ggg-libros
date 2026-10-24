@@ -7,36 +7,43 @@
     {
       "type": "patchouli:crafting",
       "recipe": "modamod:molde_material_cuero",
-      "recipe2": "modamod:molde_material_denim"
+      "recipe2": "modamod:molde_material_denim",
+      "title": "Moldes: Material"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "modamod:molde_material_pana",
-      "recipe2": "modamod:molde_red_arnes_bandas"
+      "recipe2": "modamod:molde_red_arnes_bandas",
+      "title": "Moldes"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "modamod:molde_red_arnes_tirantes",
-      "recipe2": "modamod:molde_red_arnes_x"
+      "recipe2": "modamod:molde_red_arnes_x",
+      "title": "Moldes: Red"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "modamod:molde_red_encaje",
-      "recipe2": "modamod:molde_red_escocesa"
+      "recipe2": "modamod:molde_red_escocesa",
+      "title": "Moldes: Red"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "modamod:molde_red_fina",
-      "recipe2": "modamod:molde_red_gruesa"
+      "recipe2": "modamod:molde_red_gruesa",
+      "title": "Moldes: Red"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "modamod:molde_red_hexagonal",
-      "recipe2": "modamod:molde_red_perforada"
+      "recipe2": "modamod:molde_red_perforada",
+      "title": "Moldes: Red"
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "modamod:molde_red_rayas"
+      "recipe": "modamod:molde_red_rayas",
+      "title": "Moldes: Red"
     }
   ]
 }
