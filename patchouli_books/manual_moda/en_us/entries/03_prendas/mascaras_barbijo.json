@@ -22,6 +22,10 @@
     {
       "type": "patchouli:text",
       "text": "Barbijo: hilo, vacío, hilo sobre tres lanas. Las grillas están en el Recetario.$(br2)$(l)Salen blancas.$() Se tiñen en la Estación de Tintes, en las categorías $(o)Máscara$() y $(o)Barbijo$(), con tres cuadraditos de prenda entera, y llevan una foto de la Sublimadora en el frente (sin espalda ni capas con máscara)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Y el 3D Skin Layers?$() Si lo usás, la máscara y el barbijo le apagan el volumen justo donde tapan, como hace el sombrero. Nada de pelos de la skin atravesando el antifaz como si fuera una puerta giratoria."
     }
   ]
 }

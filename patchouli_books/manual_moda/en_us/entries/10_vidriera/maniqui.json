@@ -38,6 +38,14 @@
     {
       "type": "patchouli:text",
       "text": "$(l)Armadura.$() Se ve como en un jugador, con el teñido del cuero, los trims y el brillo del encantamiento. La calabaza, las cabezas y los bloques van en la cabeza. Los élitros todavía no se dibujan. Al romperlo, todo cae al piso."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Mismo orden en todos lados.$() La pantalla de Ropa, el Guardarropas y el Maniquí ponen todo igual: arriba sombrero, máscara y barbijo; después collar y capa; una fila por prenda y, abajo, delantal, cinto y calzado."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Pasá el mouse por un lugar vacío y te dice qué va ahí, para que no termines poniéndole el barbijo al maniquí en los pies. El Maniquí también se pone máscara y barbijo, y los intercambia con vos."
     }
   ]
 }

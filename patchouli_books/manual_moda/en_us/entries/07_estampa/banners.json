@@ -20,6 +20,10 @@
     {
       "type": "patchouli:text",
       "text": "Lo que no existe es estamparlo sobre una prenda: son dos cosas distintas con la misma máquina."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Gorras con foto.$() Las gorras con visera (curva, chata o corta) también pasan por la prensa: la foto va al $(l)frente de la copa$(), a 16 veces la resolución y encima del tinte. Categoría $(o)Sombrero$(). Por fin la gorra del club con tu cara, como corresponde."
     }
   ]
 }
