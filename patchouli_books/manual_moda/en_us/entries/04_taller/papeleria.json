@@ -17,7 +17,7 @@
     },
     {
       "type": "patchouli:text",
-      "text": "Se suma el $(o)Diseño en blanco$() (ocho papeles alrededor de un carbón) para guardar diseños de corte. Las grillas exactas están en el Recetario.$(br2)$(l)Del blanco al molde de corte.$() Se combina el molde en blanco con tijeras y un ingrediente que decide cuál sale. $(l)Rango:$() de 1 a 7 hilos, del Más alto al Más bajo. $(l)Calce:$() lana (1 pegado, 2 ajustado, 4 suelto, 5 oversize; el normal es el blanco)."
+      "text": "Se suma el $(o)Diseño en blanco$() (ocho papeles alrededor de un carbón): se gasta al exportar un diseño de la máquina. Las grillas exactas están en el Recetario.$(br2)$(l)Del blanco al molde de corte.$() Se combina el molde en blanco con tijeras y un ingrediente que decide cuál sale. $(l)Rango:$() de 1 a 7 hilos, del Más alto al Más bajo. $(l)Calce:$() lana (1 pegado, 2 ajustado, 4 suelto, 5 oversize; el normal es el blanco)."
     },
     {
       "type": "patchouli:text",
