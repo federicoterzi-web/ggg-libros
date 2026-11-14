@@ -5,7 +5,7 @@ c = categoria("01_portada", "Portada", "modamod:remera", 0,
               "Qué es todo esto y cómo llegar de lana cruda a outfit en seis pasos. Empezá acá.")
 
 e = entrada(c, "bienvenida", "Bienvenida", "modamod:remera", 0)
-e.spot("modamod:remera,modamod:pantalon,modamod:pollera,modamod:capa,modamod:borcegos", "ModaMod",
+e.spot("modamod:remera,modamod:pantalon,modamod:pollera,modamod:capa,modamod:calzado", "ModaMod",
        "**La ropa se viste sobre vos, no a tu lado.**",
        "Remeras, pantalones, polleras, capas, borcegos y hasta sombreros: todo se dibuja en capas sobre tu cuerpo, se superpone con criterio y se rehace cuantas veces quieras.",
        "Este manual es el camino de “lana cruda” a “eso lo hice yo”.")
@@ -59,7 +59,7 @@ c = categoria("03_prendas", "Fondo de armario", "modamod:pantalon", 2,
               "Qué hay para ponerse, quién va debajo de quién y por qué tu capa y tu hoodie no se pelean.")
 
 e = entrada(c, "ropero", "El ropero completo", "modamod:remera", 0)
-e.spot("modamod:remera,modamod:pantalon,modamod:socks_solid,modamod:calientabrazos,modamod:pollera,modamod:capa,modamod:delantal,modamod:borcegos,modamod:sombrero_bruja,modamod:banda",
+e.spot("modamod:remera,modamod:pantalon,modamod:medias,modamod:calientabrazos,modamod:pollera,modamod:capa,modamod:delantal,modamod:calzado,modamod:sombrero,modamod:banda",
        "El ropero completo",
        "**Diez prendas y un orden de llegada.**",
        "Remera, pantalón, medias, calientabrazos, pollera, capa, delantal, borcegos, sombrero y cinto. Cada una tiene su lugar en la pantalla de Ropa.")
@@ -83,7 +83,7 @@ e.txt(
 )
 
 e = entrada(c, "piernas_brazos", "Piernas y brazos", "modamod:pantalon", 2)
-e.spot('modamod:pantalon,modamod:socks_solid,modamod:calientabrazos', 'Piernas y brazos', '**Tres prendas, cuatro extremidades y varias opiniones.**', 'Cada lado se corta por su cuenta.', receta=True)
+e.spot('modamod:pantalon,modamod:medias,modamod:calientabrazos', 'Piernas y brazos', '**Tres prendas, cuatro extremidades y varias opiniones.**', 'Cada lado se corta por su cuenta.', receta=True)
 e.txt(
     "**Por cada pierna y cada brazo, una decisión.** Pantalón, medias y calientabrazos se cortan por lado: el izquierdo y el derecho pueden ser distintos. Sí, se puede un pantalón con una botamanga larga y otra corta. Se llama asimetría y en la pasarela le dicen “propuesta”.",
     "**El nombre depende del largo.** Pantalón: shorts, bermudas, 3/4, 7/8 o pantalón (si las dos piernas no coinciden, queda el genérico). Medias con pie: soquetes, medias, medias 3/4 o bucaneras. Sin pie: calzas (cortas si no pasan la rodilla) o calientapiernas. Calientabrazos: guantes si llegan a la mano, guantes largos si pasan el antebrazo, brazalete si es una tira angosta.",
@@ -114,8 +114,8 @@ e.txt(
     "**Se tiñe en dos zonas,** //peto// y //falda//, en la Estación de Tintes.",
 )
 
-e = entrada(c, "calzado", "Borcegos y calzado", "modamod:borcegos", 5)
-e.spot("modamod:borcegos", "Borcegos",
+e = entrada(c, "calzado", "Borcegos y calzado", "modamod:calzado", 5)
+e.spot("modamod:calzado", "Borcegos",
        "**Zapatos con carácter, y con cajas.**",
        "Un par de botas de cuero con caña, puntera, suela gruesa y cordones, armadas con cajas: se ven los dos pies. Van en un lugar de calzado propio, junto al cinto en la pantalla de Ropa.")
 e.txt(
@@ -125,8 +125,8 @@ e.txt(
     "**La botamanga.** Un casillero define cómo se lleva el pantalón: por dentro de la caña (el pantalón se corta donde empieza la caña y se ven el cuero y los cordones) o por fuera (baja entero y se ensancha sobre la caña).",
 )
 
-e = entrada(c, "accesorios", "Sombreros y bandas", "modamod:sombrero_bruja", 6)
-e.spot("modamod:sombrero_bruja,modamod:banda", "Sombreros y bandas",
+e = entrada(c, "accesorios", "Sombreros y bandas", "modamod:sombrero", 6)
+e.spot("modamod:sombrero,modamod:banda", "Sombreros y bandas",
        "**Lo que te ponés cuando ya te pusiste todo.**",
        "El sombrero tiene su lugar propio (aparte del casco, así que se lleva con casco, con capucha y con apliques). El cinto y el collar son la misma prenda, la //banda//, en dos lugares distintos.")
 e.txt(

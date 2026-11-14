@@ -58,8 +58,8 @@ e.txt(
 
 e = entrada(c, "recetas_prendas", "Prendas", "modamod:remera", 1)
 e.craft("modamod:remera", "modamod:pantalon").craft("modamod:pollera", "modamod:capa") \
- .craft("modamod:socks_solid", "modamod:calientabrazos").craft("modamod:delantal", "modamod:sombrero_bruja") \
- .craft("modamod:borcegos", "modamod:cinto") \
+ .craft("modamod:medias", "modamod:calientabrazos").craft("modamod:delantal", "modamod:sombrero") \
+ .craft("modamod:calzado", "modamod:cinto") \
  .craft("modamod:antifaz", "modamod:media_mascara").craft("modamod:mascara_completa", "modamod:barbijo")
 
 e = entrada(c, "recetas_maquinas", "Máquinas", "modamod:modelado", 2)
